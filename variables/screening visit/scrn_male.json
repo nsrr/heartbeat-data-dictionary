@@ -1,0 +1,6 @@
+{
+	"id":"scrn_male",
+	"display_name":"Screening: Male gender (0:Female, 1:Male)",
+	"description":"",
+	"type":"sex"
+}

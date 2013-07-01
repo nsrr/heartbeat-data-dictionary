@@ -1,0 +1,7 @@
+{
+	"id": "scrn_nodoften",
+	"display_name": "Screening: How often does this occur",
+	"description": "",
+	"type": "choices",
+	"domain": "VD01767F"
+}

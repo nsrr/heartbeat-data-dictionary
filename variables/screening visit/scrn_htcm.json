@@ -1,0 +1,6 @@
+{
+	"id":"scrn_htcm",
+	"display_name":"Screening: Height (cm)",
+	"description":"",
+	"type":"numeric"
+}

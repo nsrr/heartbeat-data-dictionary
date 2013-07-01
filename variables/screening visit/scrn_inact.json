@@ -1,0 +1,7 @@
+{
+	"id": "scrn_inact",
+	"display_name": "Screening: Sitting, inactive, in a public place",
+	"description":"",
+	"type": "choices",
+	"domain": "ess"
+}

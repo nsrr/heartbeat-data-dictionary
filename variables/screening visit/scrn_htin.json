@@ -1,0 +1,6 @@
+{
+	"id":"scrn_htin",
+	"display_name":"Screening: Height (inches)",
+	"description":"",
+	"type":"numeric"
+}

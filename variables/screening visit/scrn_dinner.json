@@ -1,0 +1,7 @@
+{
+	"id":"scrn_dinner",
+	"display_name":"Screening: At the dinner table",
+	"description":"",
+	"type":"choices",
+	"domain":"ess"
+}

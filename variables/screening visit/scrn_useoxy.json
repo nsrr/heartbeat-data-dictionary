@@ -1,0 +1,7 @@
+{
+	"id":"scrn_useoxy",
+	"display_name":"Screening: Use oxygen or CPAP or BiLevel",
+	"description":"",
+	"type":"choices",
+	"domain":"yesno"
+}

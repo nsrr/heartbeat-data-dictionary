@@ -1,0 +1,7 @@
+{
+	"id":"scrn_smoke",
+	"display_name":"Screening: Smoke in bedroom",
+	"description":"",
+	"type":"choices",
+	"domain":"yesno"
+}

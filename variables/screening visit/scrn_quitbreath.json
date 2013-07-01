@@ -1,0 +1,7 @@
+{
+	"id": "scrn_quitbreath",
+	"display_name": "Screening: Quit breathing during sleep",
+	"description": "",
+	"type": "choices",
+	"domain": "VD01767F"
+}
