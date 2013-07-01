@@ -7,4 +7,10 @@ class DictionaryTest < Test::Unit::TestCase
   # def test_truth
   #   assert true
   # end
+
+  def test_variable_uniqueness
+    files = Dir.glob("variables/**/*.json").collect{|file| file.split('/').last }
+    assert_equal [], files.select{ |f| files.count(f) > 1 }.uniq
+  end
+
 end

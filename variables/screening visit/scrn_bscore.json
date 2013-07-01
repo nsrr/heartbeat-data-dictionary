@@ -1,6 +1,6 @@
 {
 	"id":"scrn_bscore",
-	"displayname":"Screening: Berlin Score",
+	"display_name":"Screening: Berlin Score",
 	"description":"",
 	"type":"numeric"
 }
