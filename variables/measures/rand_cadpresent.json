@@ -1,0 +1,7 @@
+{
+  "id": "cadpresent",
+  "display_name": "Randomization: Presence of Established CAD",
+  "description": "",
+  "type": "choices",
+  "domain": "noyes"
+}
