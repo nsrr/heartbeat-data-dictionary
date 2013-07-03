@@ -1,22 +1,22 @@
 [
   {
     "value": "1",
-    "display_name": "1: CMC",
+    "display_name": "CMC",
     "description": ""
   },
   {
     "value": "2",
-    "display_name": "2: BWH",
+    "display_name": "BWH",
     "description": ""
   },
   {
     "value": "3",
-    "display_name": "3: JHU",
+    "display_name": "JHU",
     "description": ""
   },
   {
     "value": "4",
-    "display_name": "4: VAB",
+    "display_name": "VAB",
     "description": ""
   }
 ]

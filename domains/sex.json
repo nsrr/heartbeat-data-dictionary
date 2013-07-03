@@ -1,12 +1,12 @@
 [
   {
     "value": "1",
-    "display_name": "1: Male",
+    "display_name": "Male",
     "description": ""
   },
   {
     "value": "0",
-    "display_name": "0: Female",
+    "display_name": "Female",
     "description": ""
   }
 ]

@@ -1,22 +1,22 @@
 [
   {
     "value": "0",
-    "display_name": "0: None",
+    "display_name": "None",
     "description": ""
   },
   {
     "value": "1",
-    "display_name": "1: 1* AVB",
+    "display_name": "1* AVB",
     "description": ""
   },
   {
     "value": "2",
-    "display_name": "2: 2* AVB",
+    "display_name": "2* AVB",
     "description": ""
   },
   {
     "value": "3",
-    "display_name": "3: 3* AVB",
+    "display_name": "3* AVB",
     "description": ""
   }
 ]

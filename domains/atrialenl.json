@@ -1,22 +1,22 @@
 [
   {
     "value": "0",
-    "display_name": "0: None",
+    "display_name": "None",
     "description": ""
   },
   {
     "value": "1",
-    "display_name": "1: RAE (R Atrial Enlargement)",
+    "display_name": "RAE (R Atrial Enlargement)",
     "description": ""
   },
   {
     "value": "2",
-    "display_name": "2: LAE (L Atrial Enlargement)",
+    "display_name": "LAE (L Atrial Enlargement)",
     "description": ""
   },
   {
     "value": "3",
-    "display_name": "3: RAE & LAE",
+    "display_name": "RAE & LAE",
     "description": ""
   }
 ]

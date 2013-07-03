@@ -1,22 +1,22 @@
 [
   {
     "value": "0",
-    "display_name": "0: None",
+    "display_name": "None",
     "description": ""
   },
   {
     "value": "1",
-    "display_name": "1: PACs (Premature Atrial Contractions)",
+    "display_name": "PACs (Premature Atrial Contractions)",
     "description": ""
   },
   {
     "value": "2",
-    "display_name": "2: PVCs (Premature Ventricular Contractions)",
+    "display_name": "PVCs (Premature Ventricular Contractions)",
     "description": ""
   },
   {
     "value": "3",
-    "display_name": "3: PACs & PVCs",
+    "display_name": "PACs & PVCs",
     "description": ""
   }
 ]

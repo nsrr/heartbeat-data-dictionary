@@ -1,27 +1,27 @@
 [
   {
     "value": "0",
-    "display_name": "0: None",
+    "display_name": "None",
     "description": ""
   },
   {
     "value": "1",
-    "display_name": "1: Anterior Wall",
+    "display_name": "Anterior Wall",
     "description": ""
   },
   {
     "value": "2",
-    "display_name": "2: Lateral Wall",
+    "display_name": "Lateral Wall",
     "description": ""
   },
   {
     "value": "3",
-    "display_name": "3: Inferior Wall",
+    "display_name": "Inferior Wall",
     "description": ""
   },
   {
     "value": "4",
-    "display_name": "4: More than 1",
+    "display_name": "More than 1",
     "description": ""
   }
 ]

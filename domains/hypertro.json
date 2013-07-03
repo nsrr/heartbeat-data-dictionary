@@ -1,42 +1,42 @@
 [
   {
     "value": "0",
-    "display_name": "0: None",
+    "display_name": "None",
     "description": ""
   },
   {
     "value": "1",
-    "display_name": "1: RVH (R Ventricular Hypertrophy)",
+    "display_name": "RVH (R Ventricular Hypertrophy)",
     "description": ""
   },
   {
     "value": "2",
-    "display_name": "2: LVH (L Ventricular Hypertrophy)",
+    "display_name": "LVH (L Ventricular Hypertrophy)",
     "description": ""
   },
   {
     "value": "3",
-    "display_name": "3: RVH & LVH",
+    "display_name": "RVH & LVH",
     "description": ""
   },
   {
     "value": "4",
-    "display_name": "4: Other",
+    "display_name": "Other",
     "description": ""
   },
   {
     "value": "5",
-    "display_name": "5: Left Axis Deviation",
+    "display_name": "Left Axis Deviation",
     "description": ""
   },
   {
     "value": "6",
-    "display_name": "6: Right Axis Deviation",
+    "display_name": "Right Axis Deviation",
     "description": ""
   },
   {
     "value": "7",
-    "display_name": "7: RBH & Left Axis Deviation",
+    "display_name": "RBH & Left Axis Deviation",
     "description": ""
   }
 ]

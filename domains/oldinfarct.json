@@ -1,27 +1,27 @@
 [
   {
     "value": "0",
-    "display_name": "0: No",
+    "display_name": "No",
     "description": ""
   },
   {
     "value": "1",
-    "display_name": "1: Yes - Subendoccidial",
+    "display_name": "Yes - Subendoccidial",
     "description": ""
   },
   {
     "value": "2",
-    "display_name": "2: Yes - Transmural",
+    "display_name": "Yes - Transmural",
     "description": ""
   },
   {
     "value": "3",
-    "display_name": "3: Both Subendoccidial & Transmural",
+    "display_name": "Both Subendoccidial & Transmural",
     "description": ""
   },
   {
     "value": "4",
-    "display_name": "4: Septal",
+    "display_name": "Septal",
     "description": ""
   }
 ]
