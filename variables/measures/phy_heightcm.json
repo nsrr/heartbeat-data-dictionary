@@ -1,0 +1,6 @@
+{
+  "id": "heightcm",
+  "display_name": "Physical Measurements: Height (cm)",
+  "description": "",
+  "type": "numeric"
+}

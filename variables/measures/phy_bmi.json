@@ -1,0 +1,6 @@
+{
+  "id": "bmi",
+  "display_name": "Physical Measurements: BMI (at Baseline Visit)",
+  "description": "weightkg/((heightcm/100)**2)",
+  "type": "numeric"
+}

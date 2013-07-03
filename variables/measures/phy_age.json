@@ -1,0 +1,6 @@
+{
+  "id": "agedob",
+  "display_name": "Physical Measurements: Age (at Baselien Visit)",
+  "description": "(meas_date - dob)/365.25",
+  "type": "numeric"
+}

@@ -1,0 +1,6 @@
+{
+  "id": "weightkg",
+  "display_name": "Physical Measurements: Weight (kg)",
+  "description": "",
+  "type": "numeric"
+}
