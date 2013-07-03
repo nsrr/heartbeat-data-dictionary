@@ -1,0 +1,6 @@
+{
+  "id": "phq_total",
+  "display_name": "PHQ-9: Sum of Items 1-9",
+  "description": "",
+  "type": "numeric"
+}
