@@ -1,0 +1,6 @@
+{
+  "id": "ecg_commentstext",
+  "display_name": "ECG: Comments (text)",
+  "description": "",
+  "type": "string",
+}

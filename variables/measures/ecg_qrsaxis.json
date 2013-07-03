@@ -1,0 +1,6 @@
+{
+  "id": "ecg_qrsaxis",
+  "display_name": "ECG: QRS Axis",
+  "description": "",
+  "type": "numeric",
+}

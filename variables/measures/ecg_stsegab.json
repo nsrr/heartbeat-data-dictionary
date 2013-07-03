@@ -1,0 +1,7 @@
+{
+  "id": "ecg_stsegab",
+  "display_name": "ECG: ST Segment Abnormality",
+  "description": "",
+  "type": "choices",
+  "domain": "stsegab"
+}
