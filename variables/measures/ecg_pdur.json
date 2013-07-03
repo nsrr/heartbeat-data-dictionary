@@ -2,5 +2,5 @@
   "id": "ecg_pdur",
   "display_name": "ECG: P (ms)",
   "description": "",
-  "type": "numeric",
+  "type": "numeric"
 }

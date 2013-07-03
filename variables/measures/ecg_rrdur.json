@@ -2,5 +2,5 @@
   "id": "ecg_rrdur",
   "display_name": "ECG: RR (ms)",
   "description": "",
-  "type": "numeric",
+  "type": "numeric"
 }

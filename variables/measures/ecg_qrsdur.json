@@ -2,5 +2,5 @@
   "id": "ecg_qrsdur",
   "display_name": "ECG: QRS (ms)",
   "description": "",
-  "type": "numeric",
+  "type": "numeric"
 }
