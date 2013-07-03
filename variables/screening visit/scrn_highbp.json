@@ -3,5 +3,5 @@
 	"display_name": "Screening: Have high blood pressure",
 	"description": "",
 	"type": "choices",
-	"domain": "yesno"
+	"domain": "noyes"
 }

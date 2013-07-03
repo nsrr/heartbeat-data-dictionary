@@ -3,5 +3,5 @@
 	"display_name":"Screening: Smoke in bedroom",
 	"description":"",
 	"type":"choices",
-	"domain":"yesno"
+	"domain":"noyes"
 }

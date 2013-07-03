@@ -3,5 +3,5 @@
 	"display_name": "Screening: Waking time feeling tired of fatigued",
 	"description": "",
 	"type": "choices",
-	"domain": "VD01767F"
+	"domain": "howoften"
 }
