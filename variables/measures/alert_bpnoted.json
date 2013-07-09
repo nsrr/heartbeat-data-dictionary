@@ -1,0 +1,7 @@
+{
+  "id": "bpnoted",
+  "display_name": "Medical Alerts: Blood Pressure (noted)",
+  "description": "",
+  "type": "choices",
+  "domain": "noyes"
+}
