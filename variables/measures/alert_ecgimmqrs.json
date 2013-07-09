@@ -1,0 +1,7 @@
+{
+  "id": "ecgimmqrs",
+  "display_name": "Medical Alerts: ECG: Immediate: QRS > 120 ms and HR > 120(with symptoms)",
+  "description": "",
+  "type": "choices",
+  "domain": "check"
+}

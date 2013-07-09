@@ -1,0 +1,7 @@
+{
+  "id": "ecgimmblock",
+  "display_name": "Medical Alerts: ECG: Immediate: 3rd degree or complete AV block",
+  "description": "",
+  "type": "choices",
+  "domain": "check"
+}

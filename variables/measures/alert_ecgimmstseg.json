@@ -1,0 +1,7 @@
+{
+  "id": "ecgimmstseg",
+  "display_name": "Medical Alerts: ECG: Immediate: ST segment evaluation > 1 mm (acute infarction pattern)",
+  "description": "",
+  "type": "choices",
+  "domain": "check"
+}

@@ -1,0 +1,7 @@
+{
+  "id": "bpimmdia",
+  "display_name": "Medical Alerts: Blood Pressure: Immediate (diastolic >=120 mmHg)",
+  "description": "",
+  "type": "choices",
+  "domain": "check"
+}

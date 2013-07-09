@@ -1,0 +1,7 @@
+{
+  "id": "bpurgdia",
+  "display_name": "Medical Alerts: Blood Pressure: Urgent (diastolic >=110, <120 mmHg)",
+  "description": "",
+  "type": "choices",
+  "domain": "check"
+}

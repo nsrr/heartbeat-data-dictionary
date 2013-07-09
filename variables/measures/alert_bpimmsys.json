@@ -1,0 +1,7 @@
+{
+  "id": "bpimmsys",
+  "display_name": "Medical Alerts: Blood Pressure: Immediate (systolic >=210 mmHg)",
+  "description": "",
+  "type": "choices",
+  "domain": "check"
+}

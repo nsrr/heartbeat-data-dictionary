@@ -1,0 +1,7 @@
+{
+  "id": "ecgimmheart",
+  "display_name": "Medical Alerts: ECG: Immediate: HR > 140 or < 40 beats/min",
+  "description": "",
+  "type": "choices",
+  "domain": "check"
+}
