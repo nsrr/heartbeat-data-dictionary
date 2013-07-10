@@ -1,0 +1,7 @@
+{
+  "id": "bp24immdia",
+  "display_name": "Medical Alerts: 24 hr BP: Immediate: Avg diastolic >= 120",
+  "description": "",
+  "type": "choices",
+  "domain": "check"
+}

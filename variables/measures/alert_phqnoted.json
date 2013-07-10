@@ -1,0 +1,7 @@
+{
+  "id": "phqnoted",
+  "display_name": "Medical Alerts: PHQ-9 (noted)",
+  "description": "",
+  "type": "choices",
+  "domain": "noyes"
+}

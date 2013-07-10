@@ -1,0 +1,7 @@
+{
+  "id": "bp24urgdia",
+  "display_name": "Medical Alerts: 24 hr BP: Urgent: Avg diastolic >= 110 but < 120",
+  "description": "",
+  "type": "choices",
+  "domain": "check"
+}
