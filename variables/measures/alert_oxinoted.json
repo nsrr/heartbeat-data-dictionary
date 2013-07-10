@@ -1,0 +1,7 @@
+{
+  "id": "oxinoted",
+  "display_name": "Medical Alerts: Oximetry (noted)",
+  "description": "",
+  "type": "choices",
+  "domain": "noyes"
+}

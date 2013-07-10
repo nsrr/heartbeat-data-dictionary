@@ -1,0 +1,7 @@
+{
+  "id": "ecgurganyflut",
+  "display_name": "Medical Alerts: ECG: Urgent: Any a-fib/flutter not previously diagnosed",
+  "description": "",
+  "type": "choices",
+  "domain": "check"
+}

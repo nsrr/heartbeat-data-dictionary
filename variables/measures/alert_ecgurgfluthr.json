@@ -1,0 +1,7 @@
+{
+  "id": "ecgurgfluthr",
+  "display_name": "Medical Alerts: ECG: Urgent: A-fib/flutter not previously diagnoses but HR > 120 or < 50",
+  "description": "",
+  "type": "choices",
+  "domain": "check"
+}

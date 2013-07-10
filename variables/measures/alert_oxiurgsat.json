@@ -1,0 +1,7 @@
+{
+  "id": "oxiurgsat",
+  "display_name": "Medical Alerts: Oximetry: Urgent: 02 saturation <90% but >=85%",
+  "description": "",
+  "type": "choices",
+  "domain": "check"
+}

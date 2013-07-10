@@ -1,0 +1,7 @@
+{
+  "id": "ecgurgqt",
+  "display_name": "Medical Alerts: ECG: Urgent: cQT interval > 470 msec",
+  "description": "",
+  "type": "choices",
+  "domain": "check"
+}
