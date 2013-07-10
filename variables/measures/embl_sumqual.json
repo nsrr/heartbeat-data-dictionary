@@ -1,0 +1,7 @@
+{
+  "id": "sumqual",
+  "display_name": "Embletta QS: Sum Quality",
+  "description": "",
+  "type": "choices",
+  "domain": "qualdata"
+}

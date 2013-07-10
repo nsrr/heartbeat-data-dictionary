@@ -1,0 +1,7 @@
+{
+  "id": "exclsat",
+  "display_name": "Embletta QS: Exclusion Saturation",
+  "description": "",
+  "type": "choices",
+  "domain": "check"
+}

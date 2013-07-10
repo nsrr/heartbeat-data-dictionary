@@ -1,0 +1,7 @@
+{
+  "id": "abdoqual",
+  "display_name": "Embletta QS: Abdomen Quality",
+  "description": "",
+  "type": "choices",
+  "domain": "qualdata"
+}

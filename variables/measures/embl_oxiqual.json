@@ -1,0 +1,7 @@
+{
+  "id": "oxiqual",
+  "display_name": "Embletta QS: Oximeter Quality",
+  "description": "",
+  "type": "choices",
+  "domain": "qualdata"
+}

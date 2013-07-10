@@ -1,0 +1,7 @@
+{
+  "id": "alertahi",
+  "display_name": "Embletta QS: Alert AHI",
+  "description": "",
+  "type": "choices",
+  "domain": "check"
+}

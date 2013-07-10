@@ -1,0 +1,7 @@
+{
+  "id": "alertvtach",
+  "display_name": "Embletta QS: Alert Ventricular Tachycardia",
+  "description": "",
+  "type": "choices",
+  "domain": "check"
+}

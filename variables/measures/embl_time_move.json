@@ -1,0 +1,6 @@
+{
+  "id": "time_move",
+  "display_name": "Embletta: Movement Time (min)",
+  "description": "",
+  "type": "integer"
+}

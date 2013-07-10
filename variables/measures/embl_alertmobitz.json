@@ -1,0 +1,7 @@
+{
+  "id": "alertmobitz",
+  "display_name": "Embletta QS: Alert Mobitz",
+  "description": "",
+  "type": "choices",
+  "domain": "check"
+}

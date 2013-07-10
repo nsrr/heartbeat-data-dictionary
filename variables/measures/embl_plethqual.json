@@ -1,0 +1,7 @@
+{
+  "id": "plethqual",
+  "display_name": "Embletta QS: Plethysmography Quality",
+  "description": "",
+  "type": "choices",
+  "domain": "qualdata"
+}

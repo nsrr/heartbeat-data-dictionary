@@ -1,0 +1,7 @@
+{
+  "id": "alertafib",
+  "display_name": "Embletta QS: Alert A-fib",
+  "description": "",
+  "type": "choices",
+  "domain": "check"
+}
