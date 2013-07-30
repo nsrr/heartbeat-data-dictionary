@@ -1,7 +1,0 @@
-{
-	"id": "scrn_lying",
-	"display_name": "Screening: Lying down to rest",
-	"description": "",
-	"type":"choices",
-	"domain":"ess"
-}

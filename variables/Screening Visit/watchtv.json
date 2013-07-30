@@ -1,0 +1,7 @@
+{
+	"id": "watchtv",
+	"display_name": "Screening: Watching TV",
+	"description": "",
+	"type": "choices",
+	"domain": "ess"
+}

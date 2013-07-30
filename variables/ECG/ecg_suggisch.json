@@ -1,7 +1,0 @@
-{
-  "id": "ecg_suggisch",
-  "display_name": "ECG: Suggesting Ischemia",
-  "description": "",
-  "type": "choices",
-  "domain": "suggisch"
-}

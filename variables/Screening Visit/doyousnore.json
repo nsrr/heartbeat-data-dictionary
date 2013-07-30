@@ -1,0 +1,7 @@
+{
+	"id": "doyousnore",
+	"display_name": "Screening: Do you snore?",
+	"description": "",
+	"type": "choices",
+	"domain": "noyes"
+}

@@ -1,0 +1,7 @@
+{
+	"id": "rhythm",
+	"display_name": "ECG: Rhythm",
+	"description": "",
+	"type": "choices",
+	"domain": "rhythmcat"
+}

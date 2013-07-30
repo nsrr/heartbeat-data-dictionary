@@ -1,7 +1,0 @@
-{
-  "id": "wd_lastvisit",
-  "display_name": "Withdrawal: Last visit completed",
-  "description": "",
-  "type": "choices",
-  "domain": "lastvisit"
-}

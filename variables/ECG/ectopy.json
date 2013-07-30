@@ -1,0 +1,7 @@
+{
+	"id": "ectopy",
+	"display_name": "ECG: Ectopy",
+	"description": "",
+	"type": "choices",
+	"domain": "ectopy"
+}

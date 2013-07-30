@@ -1,0 +1,6 @@
+{
+	"id": "bscore",
+	"display_name": "Screening: Berlin Score",
+	"description": "",
+	"type": "numeric"
+}

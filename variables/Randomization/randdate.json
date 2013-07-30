@@ -1,0 +1,6 @@
+{
+  "id": "randdate",
+  "display_name": "Randomization: Randomization Date",
+  "description": "",
+  "type": "date"
+}

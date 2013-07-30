@@ -1,0 +1,6 @@
+{
+  "id": "printerval",
+  "display_name": "ECG: PR Interval (ms)",
+  "description": "",
+  "type": "numeric"
+}

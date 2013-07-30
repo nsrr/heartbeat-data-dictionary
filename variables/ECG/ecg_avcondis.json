@@ -1,7 +1,0 @@
-{
-	"id": "ecg_avcondis",
-	"display_name": "ECG: AV Conduction Disturbance",
-	"description": "",
-	"type": "choices",
-	"domain": "condiscat"
-}

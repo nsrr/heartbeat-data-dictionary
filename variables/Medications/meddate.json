@@ -1,0 +1,6 @@
+{
+  "id": "meddate",
+  "display_name": "Medications: Date Completed",
+  "description": "",
+  "type": "date"
+}

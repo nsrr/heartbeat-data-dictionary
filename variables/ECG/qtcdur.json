@@ -1,0 +1,6 @@
+{
+  "id": "qtcdur",
+  "display_name": "ECG: QTC (ms)",
+  "description": "",
+  "type": "numeric"
+}

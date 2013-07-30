@@ -1,7 +1,0 @@
-{
-	"id":"scrn_sitquiet",
-	"display_name": "Screening: Sitting quietly after lunch",
-	"description":"",
-	"type":"choices",
-	"domain": "ess"
-}

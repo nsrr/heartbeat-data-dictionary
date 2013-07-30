@@ -1,0 +1,6 @@
+{
+  "id": "measdate",
+  "display_name": "Physical Measurements: Date Completed",
+  "description": "",
+  "type": "date"
+}

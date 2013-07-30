@@ -1,0 +1,7 @@
+{
+  "id": "txarm",
+  "display_name": "Randomization: Treatment Arm (1: HLSE, 2: HSLE-O, 3: HSLE-P)",
+  "description": "",
+  "type": "choices",
+  "domain": "txarm"
+}

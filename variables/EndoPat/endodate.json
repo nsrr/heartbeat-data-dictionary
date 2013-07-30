@@ -1,0 +1,6 @@
+{
+  "id": "endodate",
+  "display_name": "EndoPat: Test Date",
+  "description": "",
+  "type": "date"
+}

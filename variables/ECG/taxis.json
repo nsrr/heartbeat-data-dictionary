@@ -1,0 +1,6 @@
+{
+  "id": "taxis",
+  "display_name": "ECG: T Axis",
+  "description": "",
+  "type": "numeric"
+}

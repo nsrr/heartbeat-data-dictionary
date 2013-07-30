@@ -1,0 +1,7 @@
+{
+	"id": "oftensnore",
+	"display_name": "Screening: How often do you snore",
+	"description": "",
+	"type": "choices",
+	"domain": "howoften"
+}
