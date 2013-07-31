@@ -1,0 +1,7 @@
+{
+	"id": "incl4htn",
+	"display_name": "Eligibility: Inclusion 4 (risk factors: hypertension)",
+	"description": "",
+	"type": "choices",
+	"domain":"check"
+}

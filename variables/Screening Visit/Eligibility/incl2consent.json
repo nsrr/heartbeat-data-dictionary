@@ -1,0 +1,7 @@
+{
+	"id": "incl2consent",
+	"display_name": "Eligibility: Inclusion 2 (ability to provide informed consent)",
+	"description": "",
+	"type": "choices",
+	"domain": "noyes"
+}

@@ -1,0 +1,17 @@
+[
+  {
+    "value": "-8",
+    "display_name": "Not Applicable: Ineligible",
+    "description": ""
+  },
+  {
+    "value": "1",
+    "display_name": "Agrees to Participate",
+    "description": ""
+  },
+  {
+    "value": "2",
+    "display_name": "Does Not Agree to Participate",
+    "description": ""
+  }
+]

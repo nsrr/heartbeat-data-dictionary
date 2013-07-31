@@ -1,0 +1,32 @@
+[
+  {
+    "value": "1",
+    "display_name": "Cardiology Clinic",
+    "description": ""
+  },
+  {
+    "value": "2",
+    "display_name": "Prevention Program",
+    "description": ""
+  },
+  {
+    "value": "3",
+    "display_name": "General Medicine",
+    "description": ""
+  },
+  {
+    "value": "4",
+    "display_name": "Research Database",
+    "description": ""
+  },
+  {
+    "value": "5",
+    "display_name": "Sleep Clinic",
+    "description": ""
+  },
+  {
+    "value": "6",
+    "display_name": "Other",
+    "description": ""
+  }
+]

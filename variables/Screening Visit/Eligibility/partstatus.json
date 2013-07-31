@@ -1,0 +1,7 @@
+{
+	"id": "partstatus",
+	"display_name": "Eligibility: Final participation status",
+	"description": "",
+	"type": "choices",
+	"domain":"partstatus"
+}

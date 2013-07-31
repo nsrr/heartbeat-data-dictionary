@@ -1,0 +1,7 @@
+{
+	"id": "eligsiteid",
+	"display_name": "Eligibility: Site ID",
+	"description": "",
+	"type": "choices",
+	"domain":"siteid"
+}

@@ -1,0 +1,7 @@
+{
+	"id": "excl10htn",
+	"display_name": "Eligibility: Exclusion 10 (poorly controlled htn)",
+	"description": "",
+	"type": "choices",
+	"domain":"noyes"
+}

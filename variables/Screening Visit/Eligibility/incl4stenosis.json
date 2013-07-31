@@ -1,0 +1,7 @@
+{
+	"id": "incl4stenosis",
+	"display_name": "Eligibility: Inclusion 4 (established CAD: stenosis)",
+	"description": "",
+	"type": "choices",
+	"domain":"check"
+}

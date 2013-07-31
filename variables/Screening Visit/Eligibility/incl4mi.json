@@ -1,0 +1,7 @@
+{
+	"id": "incl4mi",
+	"display_name": "Eligibility: Inclusion 4 (established CAD: prior MI)",
+	"description": "",
+	"type": "choices",
+	"domain":"check"
+}

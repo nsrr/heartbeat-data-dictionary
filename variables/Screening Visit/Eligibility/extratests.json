@@ -1,0 +1,7 @@
+{
+	"id": "extratests",
+	"display_name": "Eligibility: Does not agree: Too man extra tests",
+	"description": "",
+	"type": "choices",
+	"domain":"check"
+}

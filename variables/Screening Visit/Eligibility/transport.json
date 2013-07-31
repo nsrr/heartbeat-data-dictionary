@@ -1,0 +1,7 @@
+{
+	"id": "transport",
+	"display_name": "Eligibility: Does not agree: Hard to find transportation",
+	"description": "",
+	"type": "choices",
+	"domain":"check"
+}
