@@ -1,0 +1,7 @@
+{
+  "id": "basesnore",
+  "display_name": "HHQB: Snored in last month",
+  "description": "",
+  "type": "choices",
+  "domain":"noyes"
+}

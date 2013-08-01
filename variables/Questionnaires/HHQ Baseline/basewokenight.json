@@ -1,0 +1,7 @@
+{
+  "id": "basewokenight",
+  "display_name": "HHQB: Woke up during night",
+  "description": "",
+  "type": "choices",
+  "domain":"hhqalways"
+}
