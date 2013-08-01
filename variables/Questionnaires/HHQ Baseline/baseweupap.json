@@ -1,0 +1,7 @@
+{
+  "id": "baseweupap",
+  "display_name": "HHQB: Wake Up Weekends (am/pm)",
+  "description": "",
+  "type": "choices",
+  "domain":"ampm"
+}
