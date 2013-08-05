@@ -1,0 +1,7 @@
+{
+  "id": "dxhighchol",
+  "display_name": "HHQB: Diagnosed: High Blood Cholesterol",
+  "description": "",
+  "type": "choices",
+  "domain":"noyes"
+}
