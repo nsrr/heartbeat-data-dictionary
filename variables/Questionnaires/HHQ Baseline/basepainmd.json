@@ -1,0 +1,7 @@
+{
+  "id": "basepainmd",
+  "display_name": "HHQB: In the last month, did you see a doctor because of this pain",
+  "description": "",
+  "type": "choices",
+  "domain":"noyes"
+}

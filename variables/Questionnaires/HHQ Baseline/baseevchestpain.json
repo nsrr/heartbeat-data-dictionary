@@ -1,0 +1,7 @@
+{
+  "id": "baseevchestpain",
+  "display_name": "HHQB: Ever had pain or discomfort in chest",
+  "description": "",
+  "type": "choices",
+  "domain":"noyes"
+}

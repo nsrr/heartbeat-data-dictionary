@@ -1,0 +1,7 @@
+{
+  "id": "basetwopillows",
+  "display_name": "HHQB: Slept on two pillows to help breathe in the last month",
+  "description": "",
+  "type": "choices",
+  "domain":"noyes"
+}

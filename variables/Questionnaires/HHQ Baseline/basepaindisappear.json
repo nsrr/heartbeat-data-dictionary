@@ -1,0 +1,7 @@
+{
+  "id": "basepaindisappear",
+  "display_name": "HHQB: Pain disappears while walking",
+  "description": "",
+  "type": "choices",
+  "domain":"noyes"
+}

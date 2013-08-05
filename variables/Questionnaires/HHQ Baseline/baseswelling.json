@@ -1,0 +1,7 @@
+{
+  "id": "baseswelling",
+  "display_name": "HHQB: Swlling in feet in last month",
+  "description": "",
+  "type": "choices",
+  "domain":"noyes"
+}

@@ -1,0 +1,7 @@
+{
+  "id": "basepainhill",
+  "display_name": "HHQB: Get pain if walk uphill",
+  "description": "",
+  "type": "choices",
+  "domain":"yesno128"
+}
