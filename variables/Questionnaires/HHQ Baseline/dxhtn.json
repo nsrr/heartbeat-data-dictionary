@@ -1,0 +1,7 @@
+{
+  "id": "dxhtn",
+  "display_name": "HHQB: Diagnosed: High Blood Pressure or Hypertension",
+  "description": "",
+  "type": "choices",
+  "domain":"noyes"
+}

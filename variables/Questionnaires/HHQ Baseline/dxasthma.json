@@ -1,0 +1,7 @@
+{
+  "id": "dxasthma",
+  "display_name": "HHQB: Diagnosed: Asthma",
+  "description": "",
+  "type": "choices",
+  "domain":"noyes"
+}
