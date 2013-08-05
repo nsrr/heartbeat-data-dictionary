@@ -1,0 +1,7 @@
+{
+  "id": "dxrheumatic",
+  "display_name": "HHQB: Diagnosed: Rheumatic heart disease or heart valve problems",
+  "description": "",
+  "type": "chocies",
+  "domain":"noyes"
+}
