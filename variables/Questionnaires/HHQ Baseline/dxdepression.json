@@ -1,0 +1,7 @@
+{
+  "id": "dxdepression",
+  "display_name": "HHQB: Diagnosed: Depression",
+  "description": "",
+  "type": "choices",
+  "domain":"yesno"
+}

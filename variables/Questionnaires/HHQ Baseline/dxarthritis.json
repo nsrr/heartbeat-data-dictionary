@@ -1,0 +1,7 @@
+{
+  "id": "dxarthritis",
+  "display_name": "HHQB: Diagnosed: Rheumatoid Arthritis, Lupus, or other Collagen Vascular Disease",
+  "description": "",
+  "type": "choices",
+  "domain":"yesno"
+}

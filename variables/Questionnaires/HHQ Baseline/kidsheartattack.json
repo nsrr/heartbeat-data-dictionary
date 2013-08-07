@@ -1,0 +1,7 @@
+{
+  "id": "kidsheartattack",
+  "display_name": "HHQB: Family: Heart Attack (children)",
+  "description": "",
+  "type": "choices",
+  "domain":"yesno"
+}

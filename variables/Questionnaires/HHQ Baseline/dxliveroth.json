@@ -1,0 +1,7 @@
+{
+  "id": "dxliveroth",
+  "display_name": "HHQB: Diagnosed: Liver Disease, If yes: Other",
+  "description": "",
+  "type": "choices",
+  "domain":"yesno"
+}

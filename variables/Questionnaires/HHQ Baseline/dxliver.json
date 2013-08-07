@@ -1,0 +1,7 @@
+{
+  "id": "dxliver",
+  "display_name": "HHQB: Diagnosed: Liver Disease",
+  "description": "",
+  "type": "choices",
+  "domain":"yesno"
+}

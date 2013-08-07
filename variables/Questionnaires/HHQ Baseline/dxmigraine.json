@@ -1,0 +1,7 @@
+{
+  "id": "dxmigraine",
+  "display_name": "HHQB: Diagnosed: Migraine Headaches",
+  "description": "",
+  "type": "choices",
+  "domain":"yesno"
+}
