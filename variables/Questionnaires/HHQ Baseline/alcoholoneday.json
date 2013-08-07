@@ -1,0 +1,7 @@
+{
+  "id": "alcoholoneday",
+  "display_name": "HHQB: Largest number of alcoholic drinks in a day over last year",
+  "description": "",
+  "type": "choices",
+  "domain":"daysinyear"
+}
