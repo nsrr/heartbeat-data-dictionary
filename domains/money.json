@@ -1,0 +1,53 @@
+[
+  {
+    "value": "1",
+    "display_name": "Under $5,000",
+    "description": ""
+  },
+  {
+    "value": "2",
+    "display_name": "$5,000 to $9,999",
+    "description": ""
+  },
+  {
+    "value": "3",
+    "display_name": "$10,000 to $19,999",
+    "description": ""
+  },
+  {
+    "value": "4",
+    "display_name": "$20,000 to $29,999",
+    "description": ""
+  },
+  {
+    "value": "5",
+    "display_name": "$30,000 to $39,999",
+    "description": ""
+  }
+  {
+    "value": "6",
+    "display_name": "$40,000 to $49,999",
+    "description": ""
+  } 
+  {
+    "value": "7",
+    "display_name": "$50,000 to $59,999",
+    "description": ""
+  } {
+    "value": "8",
+    "display_name": "$60,000 to $74,999",
+    "description": ""
+  } {
+    "value": "9",
+    "display_name": "$75,000 to $99,999",
+    "description": ""
+  } {
+    "value": "10",
+    "display_name": "$100,000 to $149,999",
+    "description": ""
+  } {
+    "value": "11",
+    "display_name": "$150,000 or more",
+    "description": ""
+  }
+]

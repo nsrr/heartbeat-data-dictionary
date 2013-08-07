@@ -1,0 +1,7 @@
+{
+  "id": "hormonetype",
+  "display_name": "HHQB: Hormone therapy type",
+  "description": "",
+  "type": "choices",
+  "domain":"htherapy"
+}

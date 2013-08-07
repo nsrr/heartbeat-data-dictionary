@@ -1,0 +1,7 @@
+{
+  "id": "hhincome",
+  "display_name": "HHQB: Annual household income before taxes",
+  "description": "",
+  "type": "choices",
+  "domain":"money"
+}

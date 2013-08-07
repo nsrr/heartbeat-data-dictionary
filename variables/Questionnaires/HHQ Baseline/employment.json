@@ -1,0 +1,7 @@
+{
+  "id": "employment",
+  "display_name": "HHQB: Current employment status",
+  "description": "",
+  "type": "choices",
+  "domain":"employstat"
+}

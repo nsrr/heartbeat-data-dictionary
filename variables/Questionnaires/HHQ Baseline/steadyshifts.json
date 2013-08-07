@@ -1,0 +1,7 @@
+{
+  "id": "steadyshifts",
+  "display_name": "HHQB: Work steady night shifts",
+  "description": "",
+  "type": "choices",
+  "domain":"yesno"
+}

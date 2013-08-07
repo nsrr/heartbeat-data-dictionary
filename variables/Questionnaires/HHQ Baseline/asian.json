@@ -1,0 +1,7 @@
+{
+  "id": "asian",
+  "display_name": "HHQB: Race: Asian",
+  "description": "",
+  "type": "choices",
+  "domain":"check"
+}

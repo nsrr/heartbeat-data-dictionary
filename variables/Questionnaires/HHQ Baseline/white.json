@@ -1,0 +1,7 @@
+{
+  "id": "white",
+  "display_name": "HHQB: Race: White",
+  "description": "",
+  "type": "choices",
+  "domain":"check"
+}

@@ -1,0 +1,7 @@
+{
+  "id": "race_black",
+  "display_name": "HHQB: Black Race (0/1)",
+  "description": "",
+  "type": "choices",
+  "domain":"yesno"
+}
