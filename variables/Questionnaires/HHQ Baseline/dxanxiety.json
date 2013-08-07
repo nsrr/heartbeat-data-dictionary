@@ -1,0 +1,7 @@
+{
+  "id": "dxanxiety",
+  "display_name": "HHQB: Diagnosed: Anxiety Disorder",
+  "description": "",
+  "type": "choices",
+  "domain":"yesno"
+}

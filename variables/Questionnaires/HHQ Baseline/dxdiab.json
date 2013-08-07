@@ -1,0 +1,7 @@
+{
+  "id": "dxdiab",
+  "display_name": "HHQB: Diagnosed: Diabetes",
+  "description": "",
+  "type": "choices",
+  "domain":"noyes"
+}

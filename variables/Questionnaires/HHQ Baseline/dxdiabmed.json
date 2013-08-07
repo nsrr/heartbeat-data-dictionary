@@ -1,0 +1,7 @@
+{
+  "id": "dxdiabmed",
+  "display_name": "HHQB: Diagnosed: Diabetes, taking medication",
+  "description": "",
+  "type": "choices",
+  "domain":"noyes"
+}

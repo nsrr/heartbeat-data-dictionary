@@ -1,0 +1,7 @@
+{
+  "id": "dxinsomnia",
+  "display_name": "HHQB: Diagnosed: Insomnia",
+  "description": "",
+  "type": "choices",
+  "domain":"yesno"
+}

@@ -1,0 +1,7 @@
+{
+  "id": "dxcancoth",
+  "display_name": "HHQB: Diagnosed: Cancer, if yes: Other",
+  "description": "",
+  "type": "choices",
+  "domain":"yesno"
+}

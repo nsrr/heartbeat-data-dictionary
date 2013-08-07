@@ -1,0 +1,7 @@
+{
+  "id": "dxcanclung",
+  "display_name": "HHQB: Diagnosed: Cancer, if yes: Lung",
+  "description": "",
+  "type": "choices",
+  "domain":"yesno"
+}

@@ -1,0 +1,7 @@
+{
+  "id": "dxcanccolon",
+  "display_name": "HHQB: Diagnosed: Cancer, if yes: Colon",
+  "description": "",
+  "type": "choices",
+  "domain":"yesno"
+}

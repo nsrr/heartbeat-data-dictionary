@@ -1,0 +1,7 @@
+{
+  "id": "dxdiabinsulin",
+  "display_name": "HHQB: Diagnosed: Diabetes, was insulin first medicine",
+  "description": "",
+  "type": "choices",
+  "domain":"yesno"
+}
