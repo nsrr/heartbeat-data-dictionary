@@ -1,0 +1,7 @@
+{
+  "id": "fstandstill",
+  "display_name": "HHQF: In last month, what happens to chest discomfort if standing still",
+  "description": "",
+  "type": "choices",
+  "domain":"pressrelieved"
+}

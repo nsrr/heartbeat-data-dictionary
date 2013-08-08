@@ -1,0 +1,7 @@
+{
+  "id": "fpainwalk",
+  "display_name": "HHQF: Pain while walking in last month",
+  "description": "",
+  "type": "choices",
+  "domain":"noyes"
+}

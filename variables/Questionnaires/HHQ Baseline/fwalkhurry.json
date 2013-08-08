@@ -1,0 +1,7 @@
+{
+  "id": "fwalkhurry",
+  "display_name": "HHQF: Get pain if walk uphill",
+  "description": "",
+  "type": "choices",
+  "domain":"noyes"
+}

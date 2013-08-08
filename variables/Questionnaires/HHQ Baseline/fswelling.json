@@ -1,0 +1,7 @@
+{
+  "id": "fswelling",
+  "display_name": "HHQF: Swelling in feet in last month",
+  "description": "",
+  "type": "choices",
+  "domain":"noyes"
+}

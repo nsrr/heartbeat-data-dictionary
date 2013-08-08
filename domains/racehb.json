@@ -1,0 +1,37 @@
+[
+  {
+    "value": "1",
+    "display_name": "Amerindian",
+    "description": ""
+  },
+  {
+    "value": "2",
+    "display_name": "Asian",
+    "description": ""
+  },
+  {
+    "value": "3",
+    "display_name": "Hawaii",
+    "description": ""
+  },
+  {
+    "value": "4",
+    "display_name": "Black",
+    "description": ""
+  },
+  {
+    "value": "5",
+    "display_name": "White",
+    "description": ""
+  },
+  {
+    "value": "6",
+    "display_name": "Amerindian and other",
+    "description": ""
+  },
+  {
+    "value": "7",
+    "display_name": "Other",
+    "description": ""
+  }
+]

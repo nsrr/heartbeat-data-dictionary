@@ -1,0 +1,7 @@
+{
+  "id": "race",
+  "display_name": "HHQB: Race categorical",
+  "description": "",
+  "type": "choices",
+  "domain":"racehb"
+}

@@ -1,0 +1,7 @@
+{
+  "id": "fpressordinary",
+  "display_name": "HHQF: In last month, get chest discomfort when walk at ordinary pace",
+  "description": "",
+  "type": "choices",
+  "domain":"noyes"
+}
