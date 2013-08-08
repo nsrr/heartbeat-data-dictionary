@@ -3,22 +3,22 @@
     "value": "1",
     "display_name": "Working full-time",
     "description": ""
-  },
+  }
   {
     "value": "2",
     "display_name": "Working part-time",
     "description": ""
-  },
+  }
   {
     "value": "3",
     "display_name": "Home keeper",
     "description": ""
-  },
+  }
   {
     "value": "4",
     "display_name": "Unemployed, looking for work",
     "description": ""
-  },
+  }
   {
     "value": "5",
     "display_name": "Unemployed, not looking for work",

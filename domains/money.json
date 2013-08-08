@@ -33,19 +33,23 @@
     "value": "7",
     "display_name": "$50,000 to $59,999",
     "description": ""
-  } {
+  } 
+  {
     "value": "8",
     "display_name": "$60,000 to $74,999",
     "description": ""
-  } {
+  } 
+  {
     "value": "9",
     "display_name": "$75,000 to $99,999",
     "description": ""
-  } {
+  } 
+  {
     "value": "10",
     "display_name": "$100,000 to $149,999",
     "description": ""
-  } {
+  } 
+  {
     "value": "11",
     "display_name": "$150,000 or more",
     "description": ""
