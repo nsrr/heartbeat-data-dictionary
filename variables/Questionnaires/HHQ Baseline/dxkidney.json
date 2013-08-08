@@ -3,5 +3,5 @@
   "display_name": "HHQB: Diagnosed: Kidney Disease",
   "description": "",
   "type": "choices",
-  "domain":"yesno"
+  "domain":"noyes"
 }

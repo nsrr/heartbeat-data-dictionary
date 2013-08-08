@@ -3,5 +3,5 @@
   "display_name": "HHQB: Diagnosed: Multiple Sclerosis",
   "description": "",
   "type": "choices",
-  "domain":"yesno"
+  "domain":"noyes"
 }

@@ -3,5 +3,5 @@
   "display_name": "HHQB: Currently using hormone replacement therapy",
   "description": "",
   "type": "choices",
-  "domain":"yesno"
+  "domain":"noyes"
 }

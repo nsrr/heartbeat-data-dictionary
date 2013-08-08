@@ -3,5 +3,5 @@
   "display_name": "HHQB: Had menstrual period in past 12 months",
   "description": "",
   "type": "choices",
-  "domain":"yesno"
+  "domain":"noyes"
 }

@@ -3,5 +3,5 @@
   "display_name": "HHQB: Family: Stroke (siblings)",
   "description": "",
   "type": "choices",
-  "domain":"yesno"
+  "domain":"noyes"
 }

@@ -3,5 +3,5 @@
   "display_name": "HHQB: Diagnosed: Inflammatory Bowel Disease (Ulcerative Colitis or Crohns Disease)",
   "description": "",
   "type": "choices",
-  "domain":"yesno"
+  "domain":"noyes"
 }

@@ -3,5 +3,5 @@
   "display_name": "HHQB: Had surgery to remove ovaries",
   "description": "",
   "type": "choices",
-  "domain":"yesno"
+  "domain":"noyes"
 }

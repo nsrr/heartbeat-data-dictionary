@@ -3,5 +3,5 @@
   "display_name": "HHQB: Diagnosed: Attention Deficit Hyperactivity Disorder (ADD/ADHD)",
   "description": "",
   "type": "choices",
-  "domain":"yesno"
+  "domain":"noyes"
 }

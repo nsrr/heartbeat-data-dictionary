@@ -3,5 +3,5 @@
   "display_name": "HHQB: Diagnosed: Restless Legs or Periodic Leg Movements",
   "description": "",
   "type": "choices",
-  "domain":"yesno"
+  "domain":"noyes"
 }

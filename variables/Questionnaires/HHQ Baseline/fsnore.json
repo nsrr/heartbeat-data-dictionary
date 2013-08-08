@@ -3,5 +3,5 @@
   "display_name": "HHQF: Snored in last month",
   "description": "",
   "type": "choices",
-  "domain":"yesno"
+  "domain":"noyes"
 }

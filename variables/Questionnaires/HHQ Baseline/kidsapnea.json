@@ -3,5 +3,5 @@
   "display_name": "HHQB: Family: Sleep Apnea (children)",
   "description": "",
   "type": "choices",
-  "domain":"yesno"
+  "domain":"noyes"
 }

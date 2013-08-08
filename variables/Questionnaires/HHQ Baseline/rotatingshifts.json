@@ -3,5 +3,5 @@
   "display_name": "HHQB: Work rotating night shifts",
   "description": "",
   "type": "choices",
-  "domain":"yesno"
+  "domain":"noyes"
 }
