@@ -1,7 +1,0 @@
-{
-  "id": "otherrace",
-  "display_name": "HHQB: Race: Other",
-  "description": "",
-  "type": "choices",
-  "domain":"check"
-}
