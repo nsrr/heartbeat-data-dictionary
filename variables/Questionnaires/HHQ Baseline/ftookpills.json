@@ -1,0 +1,7 @@
+{
+  "id": "ftookpills",
+  "display_name": "HHQF: Took sleeping pills",
+  "description": "",
+  "type": "choices",
+  "domain":"hhqalways"
+}
