@@ -2,5 +2,6 @@
   "id": "nsleep",
   "display_name": "24BP: Number of Sleep Readings",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": "readings"
 }

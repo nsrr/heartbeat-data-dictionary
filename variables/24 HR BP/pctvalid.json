@@ -2,5 +2,6 @@
   "id": "pctvalid",
   "display_name": "24BP: Percent Valid Readings",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": "%"
 }
