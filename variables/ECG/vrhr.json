@@ -1,6 +1,7 @@
 {
   "id": "vrhr",
-  "display_name": "ECG: VR/HR (bpm)",
+  "display_name": "ECG: VR/HR",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": "bpm"
 }

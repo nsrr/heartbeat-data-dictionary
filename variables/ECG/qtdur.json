@@ -1,6 +1,7 @@
 {
   "id": "qtdur",
-  "display_name": "ECG: QT (ms)",
+  "display_name": "ECG: QT",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": "milliseconds"
 }

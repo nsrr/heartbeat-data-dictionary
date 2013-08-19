@@ -1,6 +1,7 @@
 {
   "id": "pdur",
-  "display_name": "ECG: P (ms)",
+  "display_name": "ECG: P",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": "milliseconds"
 }

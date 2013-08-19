@@ -1,6 +1,7 @@
 {
   "id": "qtcdur",
-  "display_name": "ECG: QTC (ms)",
+  "display_name": "ECG: QTC",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": "milliseconds"
 }

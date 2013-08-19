@@ -1,6 +1,7 @@
 {
   "id": "rrdur",
-  "display_name": "ECG: RR (ms)",
+  "display_name": "ECG: RR",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": "milliseconds"
 }

@@ -1,6 +1,7 @@
 {
   "id": "printerval",
-  "display_name": "ECG: PR Interval (ms)",
+  "display_name": "ECG: PR Interval",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": "milliseconds"
 }
