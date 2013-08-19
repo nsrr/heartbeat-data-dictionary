@@ -2,5 +2,6 @@
   "id": "measage",
   "display_name": "Physical Measurements: Age (at Baseline Visit)",
   "description": "(meas_date - dob)/365.25",
-  "type": "numeric"
+  "type": "numeric",
+  "units": "years old"
 }

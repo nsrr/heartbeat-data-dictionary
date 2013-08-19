@@ -2,5 +2,6 @@
   "id": "pulsemean",
   "display_name": "Physical Measurements: Pulse Mean (3 Measurements)",
   "description": "mean(pulse1,pulse2,pulse3)",
-  "type": "numeric"
+  "type": "numeric",
+  "units": "bpm"
 }
