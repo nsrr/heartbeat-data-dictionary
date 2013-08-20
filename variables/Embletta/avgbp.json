@@ -2,5 +2,6 @@
   "id": "avgbp",
   "display_name": "Embletta: Pulse: Total Mean (bpm)",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": "mmHG"
 }

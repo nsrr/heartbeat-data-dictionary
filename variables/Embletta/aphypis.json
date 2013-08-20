@@ -2,5 +2,6 @@
   "id": "aphypis",
   "display_name": "Embletta: Supine A + H (n/hr)",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": ""
 }

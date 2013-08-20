@@ -2,5 +2,6 @@
   "id": "apnea60s",
   "display_name": "Embletta: Apnea-Desat Relation: 61-70% Apnea",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": "events"
 }

@@ -2,5 +2,6 @@
   "id": "aphypins",
   "display_name": "Embletta: Non-Supine A + H (n/hr)",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": ""
 }

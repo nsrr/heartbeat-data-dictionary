@@ -1,6 +1,7 @@
 {
   "id": "des90uc",
-  "display_name": "Embletta: Sp02 Range/Position: 90-94% Cumul. Upright (min)",
+  "display_name": "Embletta: Sp02 Range/Position: 90-94% Cumul. Upright",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": "minutes"
 }

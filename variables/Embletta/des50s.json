@@ -1,6 +1,7 @@
 {
   "id": "des50s",
-  "display_name": "Embletta: Sp02 Range/Position: 50-59% Supine (min)",
+  "display_name": "Embletta: Sp02 Range/Position: 50-59% Supine",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": "minutes"
 }

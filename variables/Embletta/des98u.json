@@ -1,6 +1,7 @@
 {
   "id": "des98u",
-  "display_name": "Embletta: Sp02 Range/Position: 98-100% Upright (min)",
+  "display_name": "Embletta: Sp02 Range/Position: 98-100% Upright",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": "minutes"
 }

@@ -2,5 +2,6 @@
   "id": "aphyps",
   "display_name": "Embletta: Supine A + H (n)",
   "description": "",
-  "type": "integer"
+  "type": "integer",
+  "units": ""
 }

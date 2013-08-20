@@ -2,5 +2,6 @@
   "id": "avgbps",
   "display_name": "Embletta: Pulse: Supine Mean (bpm)",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": "mmHG"
 }

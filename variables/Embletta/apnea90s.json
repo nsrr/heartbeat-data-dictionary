@@ -2,5 +2,6 @@
   "id": "apnea90s",
   "display_name": "Embletta: Apnea-Desat Relation: >90% Apnea",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": "events"
 }

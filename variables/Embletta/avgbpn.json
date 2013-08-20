@@ -2,5 +2,6 @@
   "id": "avgbpn",
   "display_name": "Embletta: Pulse: Non-Supine Mean (bpm)",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": "mmHG"
 }

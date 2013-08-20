@@ -2,5 +2,6 @@
   "id": "aphypns",
   "display_name": "Embletta: Non-Supine A + H (n)",
   "description": "",
-  "type": "integer"
+  "type": "integer",
+  "units": ""
 }

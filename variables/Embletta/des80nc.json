@@ -1,6 +1,7 @@
 {
   "id": "des80nc",
-  "display_name": "Embletta: Sp02 Range/Position: 80-89% Cumul. Non-Supine (min)",
+  "display_name": "Embletta: Sp02 Range/Position: 80-89% Cumul. Non-Supine",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": "minutes"
 }
