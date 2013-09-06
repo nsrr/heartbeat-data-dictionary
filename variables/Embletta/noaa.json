@@ -2,5 +2,6 @@
   "id": "noaa",
   "display_name": "Embletta: Apnea/Hypopnea: Obstructive A or H/h",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": ""
 }

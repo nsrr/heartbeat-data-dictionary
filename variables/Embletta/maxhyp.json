@@ -2,5 +2,6 @@
   "id": "maxhyp",
   "display_name": "Embletta: Apnea/Hypopnea: Hypopnea Longest (sec)",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": "seconds"
 }

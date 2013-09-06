@@ -2,5 +2,6 @@
   "id": "napnean",
   "display_name": "Embletta: Apnea/Hypopnea: Apnea Non-Supine",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": ""
 }

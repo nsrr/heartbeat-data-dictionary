@@ -2,5 +2,6 @@
   "id": "satlt90m",
   "display_name": "Embletta: Sp02: Saturation <90% (min)",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": "minutes"
 }

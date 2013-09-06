@@ -2,5 +2,6 @@
   "id": "ndesath",
   "display_name": "Embletta: Desaturation Fall: Total OD/h",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": ""
 }

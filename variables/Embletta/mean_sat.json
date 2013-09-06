@@ -2,5 +2,6 @@
   "id": "mean_sat",
   "display_name": "Embletta: Average Oxygen Saturation",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": "%"
 }

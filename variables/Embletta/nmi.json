@@ -2,5 +2,6 @@
   "id": "nmi",
   "display_name": "Embletta: Apnea/Hypopnea: Mixed Number",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": ""
 }

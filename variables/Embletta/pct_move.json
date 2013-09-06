@@ -2,5 +2,6 @@
   "id": "pct_move",
   "display_name": "Embletta: Movement Time (pct)",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": "%"
 }

@@ -2,5 +2,6 @@
   "id": "ndesatc10h",
   "display_name": "Embletta: Desaturation Fall: 5-9% Cumulative OD/h",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": ""
 }

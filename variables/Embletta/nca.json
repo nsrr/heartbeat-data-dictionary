@@ -2,5 +2,6 @@
   "id": "nca",
   "display_name": "Embletta: Apnea/Hypopnea: Central Number",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": ""
 }

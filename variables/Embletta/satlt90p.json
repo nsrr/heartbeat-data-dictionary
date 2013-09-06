@@ -2,5 +2,6 @@
   "id": "satlt90p",
   "display_name": "Embletta: Sp02: Saturation <90% (pct)",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": "%"
 }

@@ -2,5 +2,6 @@
   "id": "ncas",
   "display_name": "Embletta: Apnea/Hypopnea: Central Supine",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": ""
 }

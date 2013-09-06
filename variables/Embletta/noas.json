@@ -2,5 +2,6 @@
   "id": "noas",
   "display_name": "Embletta: Apnea/Hypopnea: Obstructive Supine",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": ""
 }

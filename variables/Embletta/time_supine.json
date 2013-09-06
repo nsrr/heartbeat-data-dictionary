@@ -2,5 +2,6 @@
   "id": "time_supine",
   "display_name": "Embletta: Supine Time (min)",
   "description": "",
-  "type": "integer"
+  "type": "integer",
+  "units": "minutes"
 }

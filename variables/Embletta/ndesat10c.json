@@ -2,5 +2,6 @@
   "id": "ndesat10c",
   "display_name": "Embletta: Desaturation Fall: 5-9% Cumulative Number",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": ""
 }

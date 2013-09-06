@@ -2,5 +2,6 @@
   "id": "slppctmovement",
   "display_name": "Embletta: Position: Movement (%)",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": "%"
 }

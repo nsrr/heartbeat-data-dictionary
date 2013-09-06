@@ -2,5 +2,6 @@
   "id": "papnea",
   "display_name": "Embletta: Apnea/Hypopnea:Apnea %",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": "%"
 }

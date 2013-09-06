@@ -2,5 +2,6 @@
   "id": "ndesat85h",
   "display_name": "Embletta: Desaturation Low Point: OD/h <85%",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": ""
 }

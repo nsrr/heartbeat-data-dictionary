@@ -2,5 +2,6 @@
   "id": "stdbps",
   "display_name": "Embletta: Pulse: Supine StdDev (bpm)",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": "bpm"
 }

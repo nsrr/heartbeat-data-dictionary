@@ -2,5 +2,6 @@
   "id": "event70s",
   "display_name": "Embletta: Apnea-Desat Relation: 71-80% Total",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": ""
 }

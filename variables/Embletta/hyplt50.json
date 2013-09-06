@@ -2,5 +2,6 @@
   "id": "hyplt50",
   "display_name": "Embletta: Apnea-Desat Relation: <=50% Hypopnea",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": ""
 }

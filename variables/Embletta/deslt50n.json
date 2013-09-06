@@ -2,5 +2,6 @@
   "id": "deslt50n",
   "display_name": "Embletta: Sp02 Range/Position: <50% Non-Supine (min)",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": "minutes"
 }

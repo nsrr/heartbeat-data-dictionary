@@ -2,5 +2,6 @@
   "id": "pca",
   "display_name": "Embletta: Apnea/Hypopnea: Central %",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": "%"
 }

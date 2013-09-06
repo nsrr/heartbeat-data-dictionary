@@ -2,5 +2,6 @@
   "id": "slptimeunknown",
   "display_name": "Embletta: Position: Unknown (min)",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": "minutes"
 }

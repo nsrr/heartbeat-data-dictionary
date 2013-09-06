@@ -2,5 +2,6 @@
   "id": "thorhrs",
   "display_name": "Embletta QS: Thoracic hrs",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": "hours"
 }

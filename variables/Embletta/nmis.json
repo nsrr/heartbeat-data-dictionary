@@ -2,5 +2,6 @@
   "id": "nmis",
   "display_name": "Embletta: Apnea/Hypopnea: Mixed Supine",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": ""
 }

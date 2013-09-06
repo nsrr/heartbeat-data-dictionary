@@ -2,8 +2,5 @@
   "id": "scored_date",
   "display_name": "Embletta QS: Scored Date",
   "description": "",
-  "type": "date",
-  "other": {
-    "date_format": "MMDDYY"
-  }
+  "type": "date"
 }

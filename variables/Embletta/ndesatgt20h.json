@@ -2,5 +2,6 @@
   "id": "ndesatgt20h",
   "display_name": "Embletta: Desaturation Fall: >20% OD/h",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": ""
 }

@@ -2,5 +2,6 @@
   "id": "durmi",
   "display_name": "Embletta: Apnea/Hypopnea: Mixed Mean (sec)",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": "seconds"
 }

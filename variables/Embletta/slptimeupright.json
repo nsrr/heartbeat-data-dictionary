@@ -2,5 +2,6 @@
   "id": "slptimeupright",
   "display_name": "Embletta: Position: Upright (min)",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": "minutes"
 }

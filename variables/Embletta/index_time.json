@@ -2,5 +2,6 @@
   "id": "index_time",
   "display_name": "Embletta: Index Time (min)",
   "description": "",
-  "type": "integer"
+  "type": "integer",
+  "units": "minutes"
 }

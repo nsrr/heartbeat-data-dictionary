@@ -2,5 +2,6 @@
   "id": "hyp80s",
   "display_name": "Embletta: Apnea-Desat Relation: 81-90% Hypopnea",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": ""
 }

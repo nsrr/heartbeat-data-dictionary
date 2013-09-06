@@ -2,5 +2,6 @@
   "id": "oalt50",
   "display_name": "Embletta: Apnea-Desat Relation: <=50% Obstructive",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": ""
 }

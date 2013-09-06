@@ -2,5 +2,6 @@
   "id": "totalhrs",
   "display_name": "Embletta QS: Total hrs",
   "description": "",
-  "type": "integer"
+  "type": "integer",
+  "units": "hours"
 }

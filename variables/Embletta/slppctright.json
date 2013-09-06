@@ -2,5 +2,6 @@
   "id": "slppctright",
   "display_name": "Embletta: Position: Right (%)",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": "%"
 }

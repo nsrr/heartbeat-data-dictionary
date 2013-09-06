@@ -2,5 +2,6 @@
   "id": "noan",
   "display_name": "Embletta: Apnea/Hypopnea: Obstructive Non-Supine",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": ""
 }
