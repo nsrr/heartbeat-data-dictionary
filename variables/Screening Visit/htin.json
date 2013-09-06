@@ -1,6 +1,7 @@
 {
-	"id": "htin",
-	"display_name": "Screening: Height (inches)",
-	"description": "",
-	"type": "numeric"
+  "id": "htin",
+  "display_name": "Screening: Height (inches)",
+  "description": "",
+  "type": "numeric",
+  "units": "in"
 }

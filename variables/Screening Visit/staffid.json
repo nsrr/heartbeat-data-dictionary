@@ -1,6 +1,7 @@
 {
-	"id": "staffid",
-	"display_name": "Screening: Staff ID",
-	"description": "",
-	"type": "numeric"
+  "id": "staffid",
+  "display_name": "Screening: Staff ID",
+  "description": "",
+  "type": "numeric",
+  "units": ""
 }
