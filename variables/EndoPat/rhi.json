@@ -2,5 +2,6 @@
   "id": "rhi",
   "display_name": "EndoPat: RHI",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": ""
 }
