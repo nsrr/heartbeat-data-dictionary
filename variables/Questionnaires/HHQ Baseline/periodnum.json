@@ -2,5 +2,6 @@
   "id": "periodnum",
   "display_name": "HHQB: Number of periods in last 12 months",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": "periods"
 }

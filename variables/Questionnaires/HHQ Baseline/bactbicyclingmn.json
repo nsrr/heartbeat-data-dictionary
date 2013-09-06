@@ -2,5 +2,6 @@
   "id": "bactbicyclingmn",
   "display_name": "HHQB: Bicycling (minutes)",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": "minutes"
 }

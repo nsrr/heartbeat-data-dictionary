@@ -2,5 +2,6 @@
   "id": "bactswimmingdays",
   "display_name": "HHQB: Swimming (days per week)",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": "days per week"
 }

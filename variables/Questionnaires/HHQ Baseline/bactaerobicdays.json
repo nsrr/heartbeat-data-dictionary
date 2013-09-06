@@ -2,5 +2,6 @@
   "id": "bactaerobicdays",
   "display_name": "HHQB: Other aerobic exercise (days per week)",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": "days per week"
 }

@@ -2,5 +2,6 @@
   "id": "bactweightarmmn",
   "display_name": "HHQB: Weight training-arms (minutes)",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": "minutes"
 }

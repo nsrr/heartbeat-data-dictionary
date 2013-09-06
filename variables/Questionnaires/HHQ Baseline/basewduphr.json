@@ -2,5 +2,6 @@
   "id": "basewduphr",
   "display_name": "HHQB: Wake Up Weekdays (hour)",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": ""
 }

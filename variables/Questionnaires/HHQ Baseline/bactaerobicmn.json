@@ -2,5 +2,6 @@
   "id": "bactaerobicmn",
   "display_name": "HHQB: Other aerobic exercise (minutes)",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": "minutes"
 }

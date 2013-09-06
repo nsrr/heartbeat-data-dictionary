@@ -2,5 +2,6 @@
   "id": "smokedmonthstop",
   "display_name": "HHQB: Age stopped smoking",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": "years old"
 }

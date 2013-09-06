@@ -2,5 +2,6 @@
   "id": "ovariesnum",
   "display_name": "HHQB: Number of ovaries removed",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": "ovaries"
 }

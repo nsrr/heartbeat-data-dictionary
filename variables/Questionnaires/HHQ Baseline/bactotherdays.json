@@ -2,5 +2,6 @@
   "id": "bactotherdays",
   "display_name": "HHQB: Other exercise (days per week)",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": "days per week"
 }

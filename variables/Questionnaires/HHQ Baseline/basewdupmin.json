@@ -2,5 +2,6 @@
   "id": "basewdupmin",
   "display_name": "HHQB: Wake Up Weekdays (minute)",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": ""
 }

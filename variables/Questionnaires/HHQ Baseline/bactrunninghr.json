@@ -2,5 +2,6 @@
   "id": "bactrunninghr",
   "display_name": "HHQB: Running (hours)",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": "hours"
 }

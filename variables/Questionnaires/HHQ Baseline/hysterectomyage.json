@@ -2,5 +2,6 @@
   "id": "hysterectomyage",
   "display_name": "HHQB: Age of hysterectomy",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": "years old"
 }

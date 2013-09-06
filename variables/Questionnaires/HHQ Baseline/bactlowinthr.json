@@ -2,5 +2,6 @@
   "id": "bactlowinthr",
   "display_name": "HHQB: Lower intensity exercise (hours)",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": "hours"
 }

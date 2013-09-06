@@ -2,5 +2,6 @@
   "id": "bactbicyclingdays",
   "display_name": "HHQB: Bicycling (days per week)",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": "days per week"
 }

@@ -2,5 +2,6 @@
   "id": "bacttennishr",
   "display_name": "HHQB: Tennis, squash, racquetball (hours)",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": "hours"
 }

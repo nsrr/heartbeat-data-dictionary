@@ -2,5 +2,6 @@
   "id": "bactotherhr",
   "display_name": "HHQB: Other exercise (hours)",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": "hours"
 }

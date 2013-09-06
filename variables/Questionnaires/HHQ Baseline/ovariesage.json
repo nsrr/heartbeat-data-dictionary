@@ -2,5 +2,6 @@
   "id": "ovariesage",
   "display_name": "HHQB: Age ovaries were removed",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": "years old"
 }
