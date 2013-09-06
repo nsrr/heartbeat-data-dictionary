@@ -2,5 +2,6 @@
   "id": "pcs",
   "display_name": "SF-36: Standardized Physical Component Scale-00",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": ""
 }

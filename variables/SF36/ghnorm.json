@@ -2,5 +2,6 @@
   "id": "ghnorm",
   "display_name": "SF-36: General Health Perception Norm Score",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": ""
 }

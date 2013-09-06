@@ -2,5 +2,6 @@
   "id": "aggphys",
   "display_name": "SF-36: Aggregate Physical Norm Score",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": ""
 }

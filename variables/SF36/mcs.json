@@ -2,5 +2,6 @@
   "id": "mcs",
   "display_name": "SF-36: Standardized Mental Component Scale-00",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": ""
 }
