@@ -1,6 +1,7 @@
 {
-	"id": "incl5bscore",
-	"display_name": "Eligibility: Inclusion 5 (berlin > 2, specify score)",
-	"description": "",
-	"type": "numeric"
+  "id": "incl5bscore",
+  "display_name": "Eligibility: Inclusion 5 (berlin > 2, specify score)",
+  "description": "",
+  "type": "numeric",
+  "units": ""
 }
