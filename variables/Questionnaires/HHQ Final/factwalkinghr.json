@@ -2,5 +2,6 @@
   "id": "factwalkinghr",
   "display_name": "HHQF: Walking for exercise (hours)",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": "hours"
 }

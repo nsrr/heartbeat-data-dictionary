@@ -2,5 +2,6 @@
   "id": "factbicyclingdays",
   "display_name": "HHQF: Bicycling (days per week)",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": "days per week"
 }

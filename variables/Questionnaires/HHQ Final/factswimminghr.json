@@ -2,5 +2,6 @@
   "id": "factswimminghr",
   "display_name": "HHQF: Swimming (hours)",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": "hours"
 }

@@ -2,5 +2,6 @@
   "id": "factjoggingmn",
   "display_name": "HHQF: Jogging (minutes)",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": "minutes"
 }

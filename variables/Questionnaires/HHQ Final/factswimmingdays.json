@@ -2,5 +2,6 @@
   "id": "factswimmingdays",
   "display_name": "HHQF: Swimming (days per week)",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": "days per week"
 }

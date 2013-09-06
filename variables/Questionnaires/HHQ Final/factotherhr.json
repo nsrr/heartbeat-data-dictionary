@@ -2,5 +2,6 @@
   "id": "factotherhr",
   "display_name": "HHQF: Other exercise (hours)",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": "hours"
 }

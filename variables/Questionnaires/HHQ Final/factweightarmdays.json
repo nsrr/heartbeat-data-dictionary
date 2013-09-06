@@ -2,5 +2,6 @@
   "id": "factweightarmdays",
   "display_name": "HHQF: Weight training-arms (days per week)",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": "days per week"
 }

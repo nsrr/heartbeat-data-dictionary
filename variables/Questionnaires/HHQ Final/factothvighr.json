@@ -2,5 +2,6 @@
   "id": "factothvighr",
   "display_name": "HHQF: Other vigorous activities (hours)",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": "hours"
 }

@@ -2,5 +2,6 @@
   "id": "factbicyclinghr",
   "display_name": "HHQF: Bicycling (hours)",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": "hours"
 }

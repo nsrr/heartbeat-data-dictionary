@@ -2,5 +2,6 @@
   "id": "facttennismn",
   "display_name": "HHQF: Tennis, squash, racquetball (minutes)",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": "minutes"
 }

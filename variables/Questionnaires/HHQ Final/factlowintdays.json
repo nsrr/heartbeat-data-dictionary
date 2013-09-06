@@ -2,5 +2,6 @@
   "id": "factlowintdays",
   "display_name": "HHQF: Lower intensity exercise (days per week)",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": "days per week"
 }

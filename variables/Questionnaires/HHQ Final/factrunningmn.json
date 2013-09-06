@@ -2,5 +2,6 @@
   "id": "factrunningmn",
   "display_name": "HHQF: Running (minutes)",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": "minutes"
 }

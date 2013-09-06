@@ -2,5 +2,6 @@
   "id": "factrunningdays",
   "display_name": "HHQF: Running (days per week)",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": "days per week"
 }
