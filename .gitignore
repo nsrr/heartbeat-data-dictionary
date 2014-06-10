@@ -6,3 +6,7 @@
 
 # Data Dictionary folders
 /dd
+/coverage
+/csvs
+/graphs
+/images
