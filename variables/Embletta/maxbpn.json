@@ -1,7 +1,7 @@
 {
   "id": "maxbpn",
-  "display_name": "Embletta: Pulse: Non-Supine Max (bpm)",
+  "display_name": "Embletta: Pulse: Non-Supine Maximum",
   "description": "",
   "type": "numeric",
-  "units": "bpm"
+  "units": "beats per minute"
 }

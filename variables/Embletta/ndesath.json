@@ -1,7 +1,7 @@
 {
   "id": "ndesath",
-  "display_name": "Embletta: Desaturation Fall: Total OD/h",
+  "display_name": "Embletta: Desaturation Fall: Total oximetry desaturations per hour",
   "description": "",
   "type": "numeric",
-  "units": ""
+  "units": "desaturations per hour"
 }

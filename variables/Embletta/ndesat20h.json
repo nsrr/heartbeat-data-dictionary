@@ -1,7 +1,7 @@
 {
   "id": "ndesat20h",
-  "display_name": "Embletta: Desaturation Fall: 10-20% OD/h",
+  "display_name": "Embletta: Desaturation Fall: 10-20% oximetry desaturations per hour",
   "description": "",
   "type": "numeric",
-  "units": ""
+  "units": "desaturations per hour"
 }

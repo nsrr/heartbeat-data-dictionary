@@ -3,5 +3,5 @@
   "display_name": "Embletta: Sp02: Average Oxygen Saturation",
   "description": "",
   "type": "numeric",
-  "units": "%"
+  "units": "percent"
 }

@@ -3,5 +3,5 @@
   "display_name": "Physical Measurements: Waist Circumference Mean (2 Measurements)",
   "description": "",
   "type": "numeric",
-  "units": "cm"
+  "units": "centimeters"
 }

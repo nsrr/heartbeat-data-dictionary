@@ -1,7 +1,7 @@
 {
   "id": "stdbpn",
-  "display_name": "Embletta: Pulse: Non-Supine StdDev (bpm)",
+  "display_name": "Embletta: Pulse: Non-Supine Standard Deviation",
   "description": "",
   "type": "numeric",
-  "units": "bpm"
+  "units": "beats per minute"
 }

@@ -3,5 +3,5 @@
   "display_name": "Physical Measurements: Height (cm)",
   "description": "",
   "type": "numeric",
-  "units": "cm"
+  "units": "centimeters"
 }

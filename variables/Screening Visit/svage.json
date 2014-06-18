@@ -3,5 +3,5 @@
   "display_name":"Screening: Age",
   "description":"",
   "type":"numeric",
-  "units": "years old"
+  "units": "years"
 }

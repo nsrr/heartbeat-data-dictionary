@@ -1,6 +1,6 @@
 {
   "id": "ndesat",
-  "display_name": "Embletta: Oxygen Desaturation Events (n)",
+  "display_name": "Embletta: Oxygen Desaturation Events",
   "description": "",
   "type": "integer",
   "units": "events"

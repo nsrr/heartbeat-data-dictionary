@@ -1,7 +1,7 @@
 {
   "id": "ndesatc20h",
-  "display_name": "Embletta: Desaturation Fall: 10-20% Cumulative OD/h",
+  "display_name": "Embletta: Desaturation Fall: 10-20% Cumulative oximetry desaturations per hour",
   "description": "",
   "type": "numeric",
-  "units": ""
+  "units": "desaturations per hour"
 }

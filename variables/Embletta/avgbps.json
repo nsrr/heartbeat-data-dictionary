@@ -3,5 +3,5 @@
   "display_name": "Embletta: Pulse: Supine Mean (bpm)",
   "description": "",
   "type": "numeric",
-  "units": "mmHG"
+  "units": "millimeters of mercury"
 }

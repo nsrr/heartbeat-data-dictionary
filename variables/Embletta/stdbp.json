@@ -1,7 +1,7 @@
 {
   "id": "stdbp",
-  "display_name": "Embletta: Pulse: Total StdDev (bpm)",
+  "display_name": "Embletta: Pulse: Total Standard Deviation",
   "description": "",
   "type": "numeric",
-  "units": "bpm"
+  "units": "beats per minute"
 }

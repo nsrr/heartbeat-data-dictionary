@@ -3,5 +3,5 @@
   "display_name": "Embletta: Apnea/Hypopnea: Obstructive Number",
   "description": "",
   "type": "numeric",
-  "units": ""
+  "units": "events"
 }

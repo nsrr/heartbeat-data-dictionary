@@ -1,7 +1,7 @@
 {
   "id": "ndesat5h",
-  "display_name": "Embletta: Desaturation Fall: <5% OD/h",
+  "display_name": "Embletta: Desaturation Fall: less than 5% oximetry desaturations per hour",
   "description": "",
   "type": "numeric",
-  "units": ""
+  "units": "desaturations per hour"
 }

@@ -1,7 +1,7 @@
 {
   "id": "ndesat80h",
-  "display_name": "Embletta: Desaturation Low Point: OD/h <80%",
+  "display_name": "Embletta: Desaturation Low Point: oximetry desaturations per hour less than 80%",
   "description": "",
   "type": "numeric",
-  "units": ""
+  "units": "desaturations per hour"
 }

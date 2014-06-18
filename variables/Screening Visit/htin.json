@@ -3,5 +3,5 @@
   "display_name": "Screening: Height (inches)",
   "description": "",
   "type": "numeric",
-  "units": "in"
+  "units": "inches"
 }

@@ -3,5 +3,5 @@
   "display_name": "Embletta: Position: Movement (%)",
   "description": "",
   "type": "numeric",
-  "units": "%"
+  "units": "percent"
 }

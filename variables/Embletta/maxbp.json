@@ -1,7 +1,7 @@
 {
   "id": "maxbp",
-  "display_name": "Embletta: Pulse: Total Max (bpm)",
+  "display_name": "Embletta: Pulse: Total Maximum",
   "description": "",
   "type": "numeric",
-  "units": "bpm"
+  "units": "beats per minute"
 }

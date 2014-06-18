@@ -1,7 +1,7 @@
 {
   "id": "minbpn",
-  "display_name": "Embletta: Pulse: Non-Supine Min (bpm)",
+  "display_name": "Embletta: Pulse: Non-Supine Minimum",
   "description": "",
   "type": "numeric",
-  "units": "bpm"
+  "units": "beats per minute"
 }

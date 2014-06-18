@@ -3,5 +3,5 @@
   "display_name": "Physical Measurements: Diastolic BP Mean (3 Measurements)",
   "description": "mean(diasbp1,diasbp2,diasbp3)",
   "type": "numeric",
-  "units": "mmHG"
+  "units": "millimeters of mercury"
 }
