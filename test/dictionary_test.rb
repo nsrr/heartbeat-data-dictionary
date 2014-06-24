@@ -20,4 +20,18 @@ class DictionaryTest < Minitest::Test
     end
   end
 
+  @variables.each do |variable|
+    define_method("test_dnames: "+variable.path) do
+      message = "Display name should not be blank"
+      assert variable.display_name.to_s.strip != "", message
+    end
+  end
+
+  # @variables.each do |variable|
+  #   define_method("test_check_calc_description: "+variable.path) do
+  #     message = "Calculations should not be in descriptions"
+  #     assert variable.description.to_s.scan(variable.calculation.to_s.strip).count == 0, message
+  #   end
+  # end
+
 end
