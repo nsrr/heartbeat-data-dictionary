@@ -27,11 +27,18 @@ class DictionaryTest < Minitest::Test
     end
   end
 
-  # @variables.each do |variable|
-  #   define_method("test_check_calc_description: "+variable.path) do
-  #     message = "Calculations should not be in descriptions"
-  #     assert variable.description.to_s.scan(variable.calculation.to_s.strip).count == 0, message
-  #   end
-  # end
+  @variables.each do |variable|
+    define_method("test_check_calc_description: "+variable.path) do
+      message = "Calculations should not be in descriptions"
+      assert variable.description.to_s.scan(variable.calculation.to_s.strip).count == 0 || variable.calculation.to_s.strip == "", message
+    end
+  end
+
+  @variables.each do |variable|
+    define_method("test_check_calculation_display_name: "+variable.path) do
+      message = "Calculations should not be in display names"
+      assert variable.display_name.to_s.scan(variable.calculation.to_s.strip).count == 0 || variable.calculation.to_s.strip == "", message
+    end
+  end
 
 end
