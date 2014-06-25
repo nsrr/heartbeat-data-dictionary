@@ -54,7 +54,7 @@ data hbeat_baseline;
 run;
 
 data heartbeat_final;
-  merge hbeat.heartbeatbloods hbeat.heartbeatbp24hr embletta hbeat.heartbeatecg  hbeat.heartbeatendopat heartbeathhqfinal (in=a) hbeat.heartbeatmeasurements  hbeat.heartbeatphq9 (in=b) hbeat.heartbeatsf36;
+  merge hbeat.heartbeatbloods hbeat.heartbeatbp24hr embletta hbeat.heartbeatecg  hbeat.heartbeatendopat(keep=studyid timepoint en_date en_rhi en_lo_c90_120 rename=(en_date=endodate en_rhi=rhi en_lo_c90_120=framingham)) heartbeathhqfinal (in=a) hbeat.heartbeatmeasurements  hbeat.heartbeatphq9 (in=b) hbeat.heartbeatsf36;
   by studyid timepoint;
 
   if timepoint = 7;
