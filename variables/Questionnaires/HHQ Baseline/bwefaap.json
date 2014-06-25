@@ -1,0 +1,7 @@
+{
+  "id": "bwefaap",
+  "display_name": "HHQB: Fall Asleep Weekends (am/pm)",
+  "description": "",
+  "type": "choices",
+  "domain":"ampm"
+}

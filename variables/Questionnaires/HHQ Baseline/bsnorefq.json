@@ -1,0 +1,7 @@
+{
+  "id": "bsnorefq",
+  "display_name": "HHQB: Frequency of snoring in the last month",
+  "description": "",
+  "type": "choices",
+  "domain":"hhqnightsperweeksnore"
+}

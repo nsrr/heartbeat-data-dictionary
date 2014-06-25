@@ -1,0 +1,7 @@
+{
+  "id": "bwalkordinary",
+  "display_name": "HHQB: Get pain if walking at ordinary pace",
+  "description": "",
+  "type": "choices",
+  "domain":"noyes"
+}

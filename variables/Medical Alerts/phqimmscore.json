@@ -1,7 +1,0 @@
-{
-  "id": "phqimmscore",
-  "display_name": "Medical Alerts: PHQ-9: Immediate: Score >= 15",
-  "description": "",
-  "type": "choices",
-  "domain": "check"
-}

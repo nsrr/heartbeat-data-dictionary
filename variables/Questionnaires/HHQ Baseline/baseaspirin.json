@@ -1,7 +1,0 @@
-{
-  "id": "baseaspirin",
-  "display_name": "HHQB: Ever used aspirin on a regular basis",
-  "description": "",
-  "type": "choices",
-  "domain":"noyes"
-}

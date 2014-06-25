@@ -1,0 +1,6 @@
+{
+  "id": "dateofwithdrawal",
+  "display_name": "Withdrawal: Date of Withdrawal/Removal",
+  "description": "",
+  "type": "date"
+}

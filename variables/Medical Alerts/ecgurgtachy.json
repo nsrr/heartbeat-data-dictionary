@@ -1,7 +1,0 @@
-{
-  "id": "ecgurgtachy",
-  "display_name": "Medical Alerts: ECG: Urgent: HR >= 120 (tachycardia)",
-  "description": "",
-  "type": "choices",
-  "domain": "check"
-}

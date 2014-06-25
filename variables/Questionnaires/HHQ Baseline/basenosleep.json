@@ -1,7 +1,0 @@
-{
-  "id": "basenosleep",
-  "display_name": "HHQB: Did not get enough sleep",
-  "description": "",
-  "type": "choices",
-  "domain":"hhqalways"
-}

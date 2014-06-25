@@ -1,7 +1,0 @@
-{
-	"id": "incl4carp",
-	"display_name": "Eligibility: Inclusion 4 (established CAD: carp)",
-	"description": "",
-	"type": "choices",
-	"domain":"check"
-}

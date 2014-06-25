@@ -1,0 +1,7 @@
+{
+  "id": "bpresshurry",
+  "display_name": "HHQB: In last month, get chest discomfort when walking uphill or hurrying",
+  "description": "",
+  "type": "choices",
+  "domain":"yesno128"
+}

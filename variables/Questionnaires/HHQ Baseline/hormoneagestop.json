@@ -1,0 +1,7 @@
+{
+  "id": "hormoneagestop",
+  "display_name": "HHQB: Age stopped taking hormones",
+  "description": "",
+  "type": "numeric",
+  "units": "years"
+}

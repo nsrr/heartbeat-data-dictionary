@@ -1,7 +1,0 @@
-{
-  "id": "basesymprest",
-  "display_name": "HHQB: Symptoms worse when at rest",
-  "description": "",
-  "type": "choices",
-  "domain":"noyes"
-}

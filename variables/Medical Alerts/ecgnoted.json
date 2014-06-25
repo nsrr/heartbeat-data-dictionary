@@ -1,7 +1,0 @@
-{
-  "id": "ecgnoted",
-  "display_name": "Medical Alerts: ECG (noted)",
-  "description": "",
-  "type": "choices",
-  "domain": "noyes"
-}

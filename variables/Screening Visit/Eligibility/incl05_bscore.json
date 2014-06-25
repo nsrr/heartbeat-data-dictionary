@@ -1,0 +1,7 @@
+{
+  "id": "incl05_bscore",
+  "display_name": "Eligibility: Inclusion 5 (berlin > 2, specify score)",
+  "description": "",
+  "type": "numeric",
+  "units": ""
+}

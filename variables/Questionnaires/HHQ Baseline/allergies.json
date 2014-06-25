@@ -1,0 +1,7 @@
+{
+  "id": "allergies",
+  "display_name": "HHQB: Ever had allergies to dust",
+  "description": "",
+  "type": "choices",
+  "domain":"noyes"
+}

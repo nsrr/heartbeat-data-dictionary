@@ -1,0 +1,7 @@
+{
+  "id": "bwheezing",
+  "display_name": "HHQB: Awakened in the last month by coughing or wheezing",
+  "description": "",
+  "type": "choices",
+  "domain":"hhqalways"
+}

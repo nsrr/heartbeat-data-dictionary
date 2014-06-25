@@ -1,7 +1,0 @@
-{
-	"id": "incl5berlin",
-	"display_name": "Eligibility: Inclusion 5 (berlin > 2)",
-	"description": "",
-	"type": "choices",
-	"domain":"noyes"
-}

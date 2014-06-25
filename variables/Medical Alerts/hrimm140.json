@@ -1,7 +1,0 @@
-{
-  "id": "hrimm140",
-  "display_name": "Medical Alerts: Heart Rate: Immediate: >140 beats/min at rest",
-  "description": "",
-  "type": "choices",
-  "domain": "check"
-}

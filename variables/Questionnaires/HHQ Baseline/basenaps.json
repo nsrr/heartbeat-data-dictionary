@@ -1,7 +1,0 @@
-{
-  "id": "basenaps",
-  "display_name": "HHQB: How many naps in a usual week",
-  "description": "",
-  "type": "numeric",
-  "units":"naps"
-}

@@ -1,7 +1,0 @@
-{
-  "id": "baseallergytest",
-  "display_name": "HHQB: If yes, was this confirmed with a skin test",
-  "description": "",
-  "type": "choices",
-  "domain":"noyes"
-}

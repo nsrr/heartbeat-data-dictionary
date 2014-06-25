@@ -1,7 +1,0 @@
-{
-  "id": "oximmsat",
-  "display_name": "Medical Alerts: Oximetry: Immediate: O2 saturation <85% while at rest",
-  "description": "",
-  "type": "choices",
-  "domain": "check"
-}

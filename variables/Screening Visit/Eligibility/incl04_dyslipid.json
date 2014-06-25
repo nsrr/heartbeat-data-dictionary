@@ -1,0 +1,7 @@
+{
+	"id": "incl04_dyslipid",
+	"display_name": "Eligibility: Inclusion 4 (risk factors: dyslipidemia)",
+	"description": "",
+	"type": "choices",
+	"domain":"check"
+}

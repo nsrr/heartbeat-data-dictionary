@@ -1,7 +1,0 @@
-{
-  "id": "basepressordinary",
-  "display_name": "HHQB: In the last month, get chest discomfort when walk at ordinary pace",
-  "description": "",
-  "type": "choices",
-  "domain":"noyes"
-}

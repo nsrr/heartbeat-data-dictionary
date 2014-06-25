@@ -1,0 +1,7 @@
+{
+  "id": "bsnorted",
+  "display_name": "HHQB: Snorted or gasped in the last month",
+  "description": "",
+  "type": "choices",
+  "domain":"noyes"
+}

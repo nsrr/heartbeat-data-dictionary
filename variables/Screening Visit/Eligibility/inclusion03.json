@@ -1,0 +1,7 @@
+{
+	"id": "inclusion03",
+	"display_name": "Eligibility: Inclusion 3 (relationship with physician)",
+	"description": "",
+	"type": "choices",
+	"domain": "noyes"
+}

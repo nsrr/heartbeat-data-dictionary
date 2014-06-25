@@ -1,7 +1,0 @@
-{
-  "id": "bp24noted",
-  "display_name": "Medical Alerts: 24 hr BP (noted)",
-  "description": "",
-  "type": "choices",
-  "domain": "noyes"
-}

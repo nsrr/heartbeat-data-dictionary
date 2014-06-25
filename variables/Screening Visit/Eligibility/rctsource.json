@@ -1,0 +1,7 @@
+{
+	"id": "rctsource",
+	"display_name": "Eligibility: Recruitment source",
+	"description": "",
+	"type": "choices",
+	"domain": "source"
+}

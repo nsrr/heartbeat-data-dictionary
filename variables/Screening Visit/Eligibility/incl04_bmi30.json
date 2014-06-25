@@ -1,0 +1,7 @@
+{
+	"id": "incl04_bmi30",
+	"display_name": "Eligibility: Inclusion 4 (risk factors: BMI > 30)",
+	"description": "",
+	"type": "choices",
+	"domain":"check"
+}

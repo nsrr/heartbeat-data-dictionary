@@ -1,7 +1,0 @@
-{
-  "id": "basemoverelieve",
-  "display_name": "HHQB: Move to relieve pain",
-  "description": "",
-  "type": "choices",
-  "domain":"hhqalways"
-}

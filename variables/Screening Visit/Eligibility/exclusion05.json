@@ -1,0 +1,7 @@
+{
+	"id": "exclusion05",
+	"display_name": "Eligibility: Exclusion 5 (epworth >= 16)",
+	"description": "",
+	"type": "choices",
+	"domain":"noyes"
+}

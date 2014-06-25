@@ -1,7 +1,0 @@
-{
-  "id": "basestopbreathfreq",
-  "display_name": "HHQB: Frequency of stopped breathing in the last month",
-  "description": "",
-  "type": "choices",
-  "domain":"hhqnightsperweek"
-}

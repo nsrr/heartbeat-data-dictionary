@@ -1,0 +1,7 @@
+{
+  "id": "incl01_age",
+  "display_name": "Eligibility: Inclusion 1 (age 45-75, specify age)",
+  "description": "",
+  "type": "numeric",
+  "units": "years"
+}

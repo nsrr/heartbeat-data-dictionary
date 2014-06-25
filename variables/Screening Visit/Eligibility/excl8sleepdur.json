@@ -1,7 +1,0 @@
-{
-	"id": "excl8sleepdur",
-	"display_name": "Eligibility: Exclusion 8 (sleep duration < 4 hrs per night)",
-	"description": "",
-	"type": "choices",
-	"domain":"noyes"
-}

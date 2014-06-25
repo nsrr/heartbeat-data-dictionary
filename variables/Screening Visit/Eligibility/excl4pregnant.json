@@ -1,7 +1,0 @@
-{
-	"id": "excl4pregnant",
-	"display_name": "Eligibility: Exclusion 4 (pregnant or planning on becoming pregnant)",
-	"description": "",
-	"type": "choices",
-	"domain":"noyes"
-}

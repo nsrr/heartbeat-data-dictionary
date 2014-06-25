@@ -1,7 +1,0 @@
-{
-	"id": "excl1mi",
-	"display_name": "Eligibility: Exclusion 1 (< 3 months since MI, stroke, revasc)",
-	"description": "",
-	"type": "choices",
-	"domain":"noyes"
-}

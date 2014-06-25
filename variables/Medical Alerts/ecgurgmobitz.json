@@ -1,7 +1,0 @@
-{
-  "id": "ecgurgmobitz",
-  "display_name": "Medical Alerts: ECG: Urgent: Mobitz type II AV block",
-  "description": "",
-  "type": "choices",
-  "domain": "check"
-}

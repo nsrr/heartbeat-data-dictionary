@@ -1,7 +1,0 @@
-{
-  "id": "bp24immsys",
-  "display_name": "Medical Alerts: 24 hr BP: Immediate: Avg systolic >= 210",
-  "description": "",
-  "type": "choices",
-  "domain": "check"
-}

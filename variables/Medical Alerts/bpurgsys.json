@@ -1,7 +1,0 @@
-{
-  "id": "bpurgsys",
-  "display_name": "Medical Alerts: Blood Pressure: Urgent (systolic >=180, <210 mmHg)",
-  "description": "",
-  "type": "choices",
-  "domain": "check"
-}

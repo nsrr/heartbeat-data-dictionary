@@ -1,7 +1,0 @@
-{
-  "id": "ecgurgnonsus",
-  "display_name": "Medical Alerts: ECG: Urgent: Non-sustained v-tach",
-  "description": "",
-  "type": "choices",
-  "domain": "check"
-}

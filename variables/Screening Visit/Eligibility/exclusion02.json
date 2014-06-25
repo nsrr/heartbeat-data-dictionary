@@ -1,0 +1,7 @@
+{
+	"id": "exclusion02",
+	"display_name": "Eligibility: Exclusion 2 (known CHF)",
+	"description": "",
+	"type": "choices",
+	"domain":"noyes"
+}

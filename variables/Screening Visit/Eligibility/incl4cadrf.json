@@ -1,7 +1,0 @@
-{
-	"id": "incl4cadrf",
-	"display_name": "Eligibility: Inclusion 4 (established CAD or risk factors)",
-	"description": "",
-	"type": "choices",
-	"domain": "noyes"
-}

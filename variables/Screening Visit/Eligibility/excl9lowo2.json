@@ -1,7 +1,0 @@
-{
-	"id": "excl9lowo2",
-	"display_name": "Eligibility: Exclusion 9 (resting O2 < 90%)",
-	"description": "",
-	"type": "choices",
-	"domain":"noyes"
-}

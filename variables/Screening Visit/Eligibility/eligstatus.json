@@ -1,7 +1,0 @@
-{
-	"id": "eligstatus",
-	"display_name": "Eligibility: Final eligibility status",
-	"description": "",
-	"type": "choices",
-	"domain":"eligstatus"
-}

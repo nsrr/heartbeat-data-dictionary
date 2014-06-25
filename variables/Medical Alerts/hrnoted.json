@@ -1,7 +1,0 @@
-{
-  "id": "hrnoted",
-  "display_name": "Medical Alerts: Heart Rate (noted)",
-  "description": "",
-  "type": "choices",
-  "domain": "noyes"
-}

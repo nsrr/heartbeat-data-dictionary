@@ -1,7 +1,0 @@
-{
-	"id": "incl4diabetes",
-	"display_name": "Eligibility: Inclusion 4 (risk factors: diabetes)",
-	"description": "",
-	"type": "choices",
-	"domain":"check"
-}
