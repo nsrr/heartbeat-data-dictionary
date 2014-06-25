@@ -69,6 +69,20 @@ data hbeat_final;
   if a;
 run;
 
-proc export data=hbeat_baseline outfile="\\rfa01\bwh-sleepepi-heartbeat\nsrr-prep\_releases\0.1.0.beta1\heartbeat-baseline-dataset-0.1.0.beta1.csv" dbms=csv replace; run;
+data baseline_csv;
+  set hbeat_baseline;
 
-proc export data=hbeat_final outfile="\\rfa01\bwh-sleepepi-heartbeat\nsrr-prep\_releases\0.1.0.beta1\heartbeat-final-dataset-0.1.0.beta1.csv" dbms=csv replace; run;
+  attrib _all_label = "";
+  format _all_;
+run;
+
+data final_csv;
+  set hbeat_final;
+
+  attrib _all_label = "";
+  format _all_;
+run;
+
+proc export data=baseline_csv outfile="\\rfa01\bwh-sleepepi-heartbeat\nsrr-prep\_releases\0.1.0.beta1\heartbeat-baseline-dataset-0.1.0.beta1.csv" dbms=csv replace; run;
+
+proc export data=final_csv outfile="\\rfa01\bwh-sleepepi-heartbeat\nsrr-prep\_releases\0.1.0.beta1\heartbeat-final-dataset-0.1.0.beta1.csv" dbms=csv replace; run;
