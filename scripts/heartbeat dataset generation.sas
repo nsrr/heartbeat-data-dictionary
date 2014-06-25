@@ -72,14 +72,14 @@ run;
 data baseline_csv;
   set hbeat_baseline;
 
-  attrib _all_label = "";
+  attrib _all_ label = "";
   format _all_;
 run;
 
 data final_csv;
   set hbeat_final;
 
-  attrib _all_label = "";
+  attrib _all_ label = "";
   format _all_;
 run;
 
