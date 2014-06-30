@@ -1,0 +1,7 @@
+{
+  "id": "fbetablocker",
+  "display_name": "Medications Baseline: Beta Blockers?",
+  "description": "",
+  "type": "choices",
+  "domain": "check01"
+}

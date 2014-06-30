@@ -1,0 +1,7 @@
+{
+  "id": "balphablocker",
+  "display_name": "Medications Baseline: Alpha Blocker?",
+  "description": "",
+  "type": "choices",
+  "domain": "check01"
+}

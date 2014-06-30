@@ -1,0 +1,7 @@
+{
+  "id": "fbetablocker_n",
+  "display_name": "Medications Baseline: Beta Blockers?",
+  "description": "",
+  "type": "numeric",
+  "units": "number of medications"
+}

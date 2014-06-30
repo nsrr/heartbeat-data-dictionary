@@ -1,0 +1,7 @@
+{
+  "id": "fotherah",
+  "display_name": "Medications Baseline: Other anti-hypertensives?",
+  "description": "",
+  "type": "choices",
+  "domain": "check01"
+}

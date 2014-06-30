@@ -1,0 +1,7 @@
+{
+  "id": "bstatin",
+  "display_name": "Medications Baseline: Statin usage?",
+  "description": "",
+  "type": "choices",
+  "domain": "check01"
+}

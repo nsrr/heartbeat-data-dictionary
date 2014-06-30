@@ -1,0 +1,7 @@
+{
+  "id": "faceinhibitor_n",
+  "display_name": "Medications Baseline: Ace Inhibitors?",
+  "description": "",
+  "type": "numeric",
+  "units": "number of medications"
+}

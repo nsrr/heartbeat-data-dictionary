@@ -1,0 +1,7 @@
+{
+  "id": "fantihypertensive",
+  "display_name": "Medications Baseline: Anti-hypertensives?",
+  "description": "",
+  "type": "choices",
+  "domain": "check01"
+}

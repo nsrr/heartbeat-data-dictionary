@@ -1,0 +1,7 @@
+{
+  "id": "bnitrate_n",
+  "display_name": "Medications Baseline: Nitrates?",
+  "description": "",
+  "type": "numeric",
+  "units": "number of medications"
+}

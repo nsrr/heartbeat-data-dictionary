@@ -1,0 +1,7 @@
+{
+  "id": "fcalciumblocker",
+  "display_name": "Medications Baseline: Calcium Blocker?",
+  "description": "",
+  "type": "choices",
+  "domain": "check01"
+}
