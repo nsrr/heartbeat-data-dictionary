@@ -1,0 +1,8 @@
+{
+  "id": "bactwalking",
+  "display_name": "HHQB: Total walking exercise per week",
+  "description": "",
+  "type": "numeric",
+  "units": "minutes",
+  "calculation": "( ( bactwalkinghr * 60 ) + bactwalkingmn ) * bactwalkingdays"
+}

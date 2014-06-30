@@ -1,0 +1,8 @@
+{
+  "id": "bactswimming",
+  "display_name": "HHQB: Total swimming per week",
+  "description": "",
+  "type": "numeric",
+  "units": "minutes",
+  "calculation": "( ( bactswimminghr * 60 ) + bactswimmingmn ) * bactswimmingdays"
+}

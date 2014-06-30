@@ -1,0 +1,8 @@
+{
+  "id": "bactweightleg",
+  "display_name": "HHQB: Total leg exercise per week",
+  "description": "",
+  "type": "numeric",
+  "units": "minutes",
+  "calculation": "( ( bactweightleghr * 60 ) + bactweightlegmn ) * bactweightlegdays"
+}

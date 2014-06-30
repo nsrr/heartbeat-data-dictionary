@@ -1,0 +1,8 @@
+{
+  "id": "factothvig",
+  "display_name": "HHQB: Total other vigorous exercises per week",
+  "description": "",
+  "type": "numeric",
+  "units": "minutes",
+  "calculation": "( ( bactothvighr * 60 ) + bactothvigmn ) * bactothvigdays"
+}

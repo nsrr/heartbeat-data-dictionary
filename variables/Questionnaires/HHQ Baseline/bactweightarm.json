@@ -1,0 +1,8 @@
+{
+  "id": "bactweightarm",
+  "display_name": "HHQB: Total arm exercise per week",
+  "description": "",
+  "type": "numeric",
+  "units": "minutes",
+  "calculation": "( ( bactweightarmhr * 60 ) + bactweightarmmn ) * bactweightarmdays"
+}

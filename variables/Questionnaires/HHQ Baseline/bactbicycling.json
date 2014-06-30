@@ -1,0 +1,8 @@
+{
+  "id": "bactbicycling",
+  "display_name": "HHQB: Total bicycling per week",
+  "description": "",
+  "type": "numeric",
+  "units": "minutes",
+  "calculation": "( ( bactbicyclinghr * 60 ) + bactbicyclingmn ) * bactbicyclingdays"
+}
