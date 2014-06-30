@@ -12,6 +12,7 @@ run;
 data heartbeathhqbaseline;
   set hbeat.heartbeathhqbaseline;
 
+  if bwalkhurry = 3 then bwalkhurry = .;
   timepoint = 2;
 run;
 
