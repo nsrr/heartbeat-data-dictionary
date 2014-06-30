@@ -1,0 +1,7 @@
+{
+  "id": "hipcm2",
+  "display_name": "Physical Measurements: Hip measurement 2",
+  "description": "",
+  "type": "numeric",
+  "units": "centimeters"
+}

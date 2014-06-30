@@ -1,0 +1,7 @@
+{
+  "id": "waistcm2",
+  "display_name": "Physical Measurements: Waist measurement 2",
+  "description": "",
+  "type": "numeric",
+  "units": "centimeters"
+}
