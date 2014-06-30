@@ -1,0 +1,8 @@
+{
+  "id": "minday",
+  "display_name": "Oxygen Log: Minutes per day",
+  "description": "",
+  "type": "integer",
+  "units": "minutes per day",
+  "calculation": "60 * ( totaluse / daysuse )"
+}

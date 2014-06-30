@@ -1,0 +1,6 @@
+{
+  "id": "outconc_date",
+  "display_name": "Oxygen Log: Concentrator out date",
+  "description": "",
+  "type": "date"
+}
