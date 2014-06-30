@@ -1,0 +1,7 @@
+{
+  "id": "illness",
+  "display_name": "Withdrawal Reason: Significant concurrent illness",
+  "description": "",
+  "type": "choices",
+  "domain": "check01"
+}

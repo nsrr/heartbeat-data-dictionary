@@ -1,0 +1,7 @@
+{
+  "id": "centap",
+  "display_name": "Withdrawal: Central sleep apnea index > 5",
+  "description": "",
+  "type": "choices",
+  "domain": "check01"
+}

@@ -1,0 +1,7 @@
+{
+  "id": "adverseevent",
+  "display_name": "Withdrawal Reason: Adverse Event/SAE",
+  "description": "",
+  "type": "choices",
+  "domain": "check01"
+}

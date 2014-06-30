@@ -1,0 +1,7 @@
+{
+  "id": "withother",
+  "display_name": "Withdrawal Reason: Other reason",
+  "description": "",
+  "type": "choices",
+  "domain": "check01"
+}

@@ -1,0 +1,6 @@
+{
+  "id": "with_date",
+  "display_name": "Date withdrawal completed",
+  "description": "",
+  "type": "date"
+}

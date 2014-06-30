@@ -1,0 +1,7 @@
+{
+  "id": "withdrawnconsent",
+  "display_name": "Withdrawal Reason: Withdrawn consent",
+  "description": "",
+  "type": "choices",
+  "domain": "check01"
+}

@@ -1,0 +1,7 @@
+{
+  "id": "nopm",
+  "display_name": "Withdrawal: Did not wear portable monitor",
+  "description": "",
+  "type": "choices",
+  "domain": "check01"
+}

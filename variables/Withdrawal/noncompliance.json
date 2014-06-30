@@ -1,0 +1,7 @@
+{
+  "id": "noncompliance",
+  "display_name": "Withdrawal Reason: Protocol non-compliance",
+  "description": "",
+  "type": "choices",
+  "domain": "check01"
+}
