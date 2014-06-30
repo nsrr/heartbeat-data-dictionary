@@ -3,5 +3,5 @@
 	"display_name": "Eligibility: Does not agree: May miss work",
 	"description": "",
 	"type": "choices",
-	"domain":"check"
+	"domain":"check01"
 }

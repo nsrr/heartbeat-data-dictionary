@@ -1,0 +1,7 @@
+{
+  "id": "vitmean",
+  "display_name": "Mean score of answered questions in the Vitality subscale",
+  "description": "",
+  "type": "numeric",
+  "units": ""
+}
