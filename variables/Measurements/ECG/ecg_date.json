@@ -1,0 +1,6 @@
+{
+  "id": "ecg_date",
+  "display_name": "ECG: Date ECG performed",
+  "description": "",
+  "type": "date"
+}

@@ -1,5 +1,5 @@
 {
-  "id": "randdate",
+  "id": "random_date",
   "display_name": "Randomization: Randomization Date",
   "description": "",
   "type": "date"
