@@ -1,0 +1,7 @@
+{
+  "id": "sysbp3",
+  "display_name": "Physical Measurements: Third Systolic Blood Pressure Measurement",
+  "description": "",
+  "type": "numeric",
+  "units": "millimeters of mercury"
+}

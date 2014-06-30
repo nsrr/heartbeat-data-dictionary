@@ -1,0 +1,7 @@
+{
+  "id": "pulse2",
+  "display_name": "Physical Measurements: Second Pulse Measurement",
+  "description": "",
+  "type": "numeric",
+  "units": "beats per minute"
+}
