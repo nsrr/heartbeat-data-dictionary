@@ -1,7 +1,8 @@
 {
   "id": "sysmean",
   "display_name": "Physical Measurements: Systolic BP Mean (3 Measurements)",
-  "description": "mean(sysbp1,sysbp2,sysbp3)",
+  "description": "",
   "type": "numeric",
-  "units": "millimeters of mercury"
+  "units": "millimeters of mercury",
+  "calculation": "mean(sysbp1,sysbp2,sysbp3)"
 }
