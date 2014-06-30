@@ -44,6 +44,7 @@ data embletta;
   rename totalmin = totalmin_emb;
   rename totalhrs = totalhrs_emb;
 
+  drop inembletta inembqs;
 run;
 
 data hbeat_sf36;
