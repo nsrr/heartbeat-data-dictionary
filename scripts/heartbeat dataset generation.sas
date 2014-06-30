@@ -1,4 +1,9 @@
 %include "\\rfa01\bwh-sleepepi-heartbeat\sas\heartbeat options and libnames.sas";
+%let a=%sysget(SAS_EXECFILEPATH);
+%let b=%sysget(SAS_EXECFILENAME);
+%let path= %sysfunc(tranwrd(&a,&b,heartbeat dataset macros.sas));
+%include "&path";
+%let release = beta2;
 
 data hbeatelig;
   set hbeat.heartbeateligibility;
@@ -69,20 +74,66 @@ data hbeat_final;
   if a;
 run;
 
-data baseline_csv;
+proc contents data=hbeat_baseline out=hbeat_base_contents noprint;
+run;
+
+proc sql noprint;
+  select NAME into :sf36_varnames separated by ' '
+  from hbeat_base_contents
+  where substr(NAME,1,5) = "sf36_";
+
+  select substr(NAME,6) into :sf36_newnames separated by ' '
+  from hbeat_base_contents
+  where substr(NAME,1,5) = "sf36_";
+quit;
+
+data heartbeat_renamed_base;
   set hbeat_baseline;
+
+  rename %parallel_join(&sf36_varnames, &sf36_newnames, =);
+  drop sf36_date sf36_sfht;
+run;
+
+data heartbeat_renamed_final;
+  set hbeat_final;
+
+  rename %parallel_join(&sf36_varnames, &sf36_newnames, =);
+  drop sf36_date sf36_sfht;
+run;
+
+data baseline_csv;
+  set heartbeat_renamed_base;
 
   attrib _all_ label = "";
   format _all_;
+
+  array rcd(*) _numeric_;
+  do i=1 to dim(rcd);
+    if rcd(i) < 0 then do;
+      if rcd(i) in (-1,-2,-8,-9,-10) then rcd(i) = .;
+      else rcd(i) = .;
+    end;
+  end;
+  drop i;
+
 run;
 
 data final_csv;
-  set hbeat_final;
+  set heartbeat_renamed_final;
 
   attrib _all_ label = "";
   format _all_;
+
+  array rcd(*) _numeric_;
+  do i=1 to dim(rcd);
+    if rcd(i) < 0 then do;
+      if rcd(i) in (-1,-2,-8,-9,-10) then rcd(i) = .;
+      else rcd(i) = .;
+    end;
+  end;
+  drop i;
 run;
 
-proc export data=baseline_csv outfile="\\rfa01\bwh-sleepepi-heartbeat\nsrr-prep\_releases\0.1.0.beta1\heartbeat-baseline-dataset-0.1.0.beta1.csv" dbms=csv replace; run;
+proc export data=baseline_csv outfile="\\rfa01\bwh-sleepepi-heartbeat\nsrr-prep\_releases\0.1.0.&release\heartbeat-baseline-dataset-0.1.0.&release..csv" dbms=csv replace; run;
 
-proc export data=final_csv outfile="\\rfa01\bwh-sleepepi-heartbeat\nsrr-prep\_releases\0.1.0.beta1\heartbeat-final-dataset-0.1.0.beta1.csv" dbms=csv replace; run;
+proc export data=final_csv outfile="\\rfa01\bwh-sleepepi-heartbeat\nsrr-prep\_releases\0.1.0.&release\heartbeat-final-dataset-0.1.0.&release..csv" dbms=csv replace; run;
