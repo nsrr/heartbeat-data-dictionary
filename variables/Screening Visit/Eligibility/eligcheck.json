@@ -1,0 +1,7 @@
+{
+  "id": "eligcheck",
+  "display_name": "Eligibility: Automatic database eligibility check",
+  "description": "",
+  "type": "choices",
+  "domain":"eligstatus"
+}
