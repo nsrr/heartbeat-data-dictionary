@@ -86,7 +86,7 @@ data heartbeat_final;
 run;
 
 data hbeat_final;
-  merge heartbeat_final (in=a) hbeat.heartbeatmedicationscat hbeat.heartbeatoxycompliance hbeat.heartbeatpapcompliance hbeat.heartbeatwithdrawal;
+  merge heartbeat_final (in=a) hbeat.heartbeatmedicationscat hbeat.heartbeatoxycompliance(drop=instaffid outstaffid) hbeat.heartbeatpapcompliance hbeat.heartbeatwithdrawal;
   by studyid;
 
   if a;
