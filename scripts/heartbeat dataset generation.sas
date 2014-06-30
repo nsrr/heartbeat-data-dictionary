@@ -42,8 +42,21 @@ data embletta;
 
 run;
 
+data hbeat_sf36;
+  set hbeat.heartbeatsf36;
+
+  array rcd(*) gh01--gh05;
+  do i=1 to dim(rcd);
+    if rcd(i) not in (.,1,2,3,4,5) then do;
+      rcd(i) = round(rcd(i));
+    end;
+  end;
+  drop i;
+
+run;
+
 data heartbeat_baseline;
-  merge hbeat.heartbeatbloods hbeat.heartbeatbp24hr embletta hbeat.heartbeatecg  hbeat.heartbeatendopat(keep=studyid timepoint en_date en_rhi en_lo_c90_120 rename=(en_date=endodate en_rhi=rhi en_lo_c90_120=framingham)) heartbeathhqbaseline (in=a) hbeat.heartbeatmeasurements  hbeat.heartbeatphq9 hbeat.heartbeatsf36;
+  merge hbeat.heartbeatbloods hbeat.heartbeatbp24hr embletta hbeat.heartbeatecg  hbeat.heartbeatendopat(keep=studyid timepoint en_date en_rhi en_lo_c90_120 rename=(en_date=endodate en_rhi=rhi en_lo_c90_120=framingham)) heartbeathhqbaseline (in=a) hbeat.heartbeatmeasurements  hbeat.heartbeatphq9 hbeat_sf36;
   by studyid timepoint;
 
   if timepoint = 2;
@@ -59,7 +72,7 @@ data hbeat_baseline;
 run;
 
 data heartbeat_final;
-  merge hbeat.heartbeatbloods hbeat.heartbeatbp24hr embletta hbeat.heartbeatecg  hbeat.heartbeatendopat(keep=studyid timepoint en_date en_rhi en_lo_c90_120 rename=(en_date=endodate en_rhi=rhi en_lo_c90_120=framingham)) heartbeathhqfinal (in=a) hbeat.heartbeatmeasurements  hbeat.heartbeatphq9 (in=b) hbeat.heartbeatsf36;
+  merge hbeat.heartbeatbloods hbeat.heartbeatbp24hr embletta hbeat.heartbeatecg  hbeat.heartbeatendopat(keep=studyid timepoint en_date en_rhi en_lo_c90_120 rename=(en_date=endodate en_rhi=rhi en_lo_c90_120=framingham)) heartbeathhqfinal (in=a) hbeat.heartbeatmeasurements  hbeat.heartbeatphq9 (in=b) hbeat_sf36;
   by studyid timepoint;
 
   if timepoint = 7;
