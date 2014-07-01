@@ -43,7 +43,7 @@ data embletta;
 
   rename totalmin = totalmin_emb;
   rename totalhrs = totalhrs_emb;
-  rename endtime = embq_endtime
+  rename endtime = embq_endtime;
   rename starttime = embq_starttime;
 
   drop folder inembletta inembqs;
