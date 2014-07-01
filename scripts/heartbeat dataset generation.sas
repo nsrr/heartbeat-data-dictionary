@@ -72,7 +72,7 @@ data heartbeat_baseline;
 run;
 
 data hbeat_baseline;
-  merge hbeatelig (in=a) hbeat.heartbeatrandomization (in=b) heartbeat_baseline (in=c) hbeat.heartbeatmedicationscat;
+  merge hbeat.heartbeatscreening hbeatelig (in=a) hbeat.heartbeatrandomization (in=b) heartbeat_baseline (in=c) hbeat.heartbeatmedicationscat;
   by studyid;
 
   if b;
@@ -91,7 +91,7 @@ data heartbeat_final;
 run;
 
 data hbeat_final;
-  merge heartbeat_final (in=a) hbeat.heartbeatmedicationscat hbeat.heartbeatoxycompliance(drop=instaffid outstaffid) hbeat.heartbeatpapcompliance hbeat.heartbeatwithdrawal;
+  merge hbeat.heartbeatscreening(keep=studyid male) heartbeat_final (in=a) hbeat.heartbeatmedicationscat hbeat.heartbeatoxycompliance(drop=instaffid outstaffid) hbeat.heartbeatpapcompliance hbeat.heartbeatwithdrawal;
   by studyid;
 
   if a;
