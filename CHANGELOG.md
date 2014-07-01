@@ -2,9 +2,9 @@
 
 ### Changes
 - The CSV datasets generated from a SAS export is located here:
-  - `\\rfa01\bwh-sleepepi-heartbeat\nsrr-prep\_releases\0.1.0.beta1\`
-    - `heartbeat-baseline-dataset-0.1.0.beta1.csv`
-    - `heartbeat-final-dataset-0.1.0.beta1.csv`
+  - `\\rfa01\bwh-sleepepi-heartbeat\nsrr-prep\_releases\0.1.0.rc\`
+    - `heartbeat-baseline-dataset-0.1.0.rc.csv`
+    - `heartbeat-final-dataset-0.1.0.rc.csv`
 - **Script Changes**
   - Missing codes are stripped out en masse, using an array method
   - An additional SAS script, `heartbeat dataset macros.sas`, is bundled with the dataset to facilitate easy renaming of variables
