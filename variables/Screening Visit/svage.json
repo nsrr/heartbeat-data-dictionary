@@ -1,7 +1,0 @@
-{
-  "id": "svage",
-  "display_name":"Screening: Age",
-  "description":"",
-  "type":"numeric",
-  "units": "years"
-}

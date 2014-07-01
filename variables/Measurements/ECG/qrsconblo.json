@@ -1,7 +1,0 @@
-{
-	"id": "qrsconblo",
-	"display_name": "ECG: QRS Conduction Block",
-	"description": "",
-	"type": "choices",
-	"domain": "conblo"
-}

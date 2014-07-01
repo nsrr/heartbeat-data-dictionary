@@ -1,7 +1,0 @@
-{
-	"id": "wakingtime",
-	"display_name": "Screening: Waking time feeling tired of fatigued",
-	"description": "",
-	"type": "choices",
-	"domain": "howoften"
-}

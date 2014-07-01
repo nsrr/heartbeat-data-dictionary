@@ -1,7 +1,0 @@
-{
-	"id": "highbp",
-	"display_name": "Screening: Have high blood pressure",
-	"description": "",
-	"type": "choices",
-	"domain": "noyes"
-}

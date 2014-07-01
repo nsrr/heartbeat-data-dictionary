@@ -1,7 +1,0 @@
-{
-	"id": "passeng",
-	"display_name": "Screening: Passenger in a car for more than an hour without break",
-	"description": "",
-	"type": "choices",
-	"domain": "ess"
-}

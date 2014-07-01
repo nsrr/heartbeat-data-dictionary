@@ -1,7 +1,0 @@
-{
-	"id": "nodded",
-	"display_name": "Screening: Fallen asleep while driving",
-	"description": "",
-	"type": "choices",
-	"domain": "noyes"
-}
