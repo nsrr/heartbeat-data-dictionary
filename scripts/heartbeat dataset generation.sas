@@ -137,6 +137,11 @@ data baseline_csv;
       else rcd(i) = .;
     end;
   end;
+
+  if 45 =< agedob =< 54 then agecat = 6;
+  else if 55 =< agedob =< 64 then agecat = 7;
+  else if 65 =< agedob =< 74 then agecat = 8;
+  else if 75 =< agedob =< 84 then agecat = 9;
   drop i visit staffid;
 
 run;
@@ -154,6 +159,11 @@ data final_csv;
       else rcd(i) = .;
     end;
   end;
+
+  if 45 =< agedob =< 54 then agecat = 6;
+  else if 55 =< agedob =< 64 then agecat = 7;
+  else if 65 =< agedob =< 74 then agecat = 8;
+  else if 75 =< agedob =< 84 then agecat = 9;
   drop i visit staffid;
 run;
 
