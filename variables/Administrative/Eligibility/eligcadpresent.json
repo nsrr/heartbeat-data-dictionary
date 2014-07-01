@@ -1,7 +1,0 @@
-{
-	"id": "eligcadpresent",
-	"display_name": "Eligibility: Presence of diagnosed CAD (for randomization)",
-	"description": "",
-	"type": "choices",
-	"domain":"noyes"
-}

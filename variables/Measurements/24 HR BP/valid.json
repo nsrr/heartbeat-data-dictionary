@@ -1,7 +1,0 @@
-{
-  "id": "valid",
-  "display_name": "24BP: Passes Valid Criteria",
-  "description": ">= 10 wake readings and >= 4 sleep readings",
-  "type": "choices",
-  "domain": "yesno"
-}
