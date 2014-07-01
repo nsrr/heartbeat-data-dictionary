@@ -1,0 +1,7 @@
+{
+	"id": "bothered",
+	"display_name": "Screening: Snoring bothered other people",
+	"description": "",
+	"type": "choices",
+	"domain": "noyes"
+}

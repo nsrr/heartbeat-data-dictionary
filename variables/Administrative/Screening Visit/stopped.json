@@ -1,0 +1,7 @@
+{
+	"id": "stopped",
+	"display_name": "Screening: In a car while stopped",
+	"description": "",
+	"type": "choices",
+	"domain": "ess"
+}

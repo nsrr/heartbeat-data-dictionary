@@ -1,0 +1,7 @@
+{
+  "id": "bmi_scrn",
+  "display_name": "Screening: BMI (self-report height/weight)",
+  "description": "",
+  "type": "numeric",
+  "units": ""
+}

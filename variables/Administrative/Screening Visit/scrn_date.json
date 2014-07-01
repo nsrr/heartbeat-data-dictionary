@@ -1,0 +1,6 @@
+{
+	"id": "scrn_date",
+	"display_name": "Screening: Date Completed",
+	"description": "",
+	"type": "date"
+}

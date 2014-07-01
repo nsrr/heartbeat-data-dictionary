@@ -1,0 +1,7 @@
+{
+  "id": "wtkg",
+  "display_name": "Screening: Weight(kg)",
+  "description": "",
+  "type": "numeric",
+  "units": "kilograms"
+}
