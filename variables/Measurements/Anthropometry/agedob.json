@@ -1,7 +1,0 @@
-{
-  "id": "agedob",
-  "display_name": "Physical Measurements: Age (at Baseline Visit)",
-  "description": "",
-  "type": "numeric",
-  "units": "years"
-}
