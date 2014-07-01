@@ -1,0 +1,6 @@
+{
+  "id": "starttime",
+  "display_name": "Start time",
+  "description": "",
+  "type": "time"
+}
