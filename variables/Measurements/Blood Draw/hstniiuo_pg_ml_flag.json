@@ -1,0 +1,7 @@
+{
+  "id": "hstniiuo_pg_ml_flag",
+  "display_name": "High sensitivity Troponin-I test: undetectably low levels",
+  "description": "",
+  "type": "choices",
+  "domain": "yesno"
+}

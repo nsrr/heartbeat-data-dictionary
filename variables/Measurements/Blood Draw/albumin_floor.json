@@ -1,0 +1,7 @@
+{
+  "id": "albumin_floor",
+  "display_name": "Albumin test: undetectably low levels",
+  "description": "",
+  "type": "choices",
+  "domain": "yesno"
+}
