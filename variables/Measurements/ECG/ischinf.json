@@ -1,0 +1,7 @@
+{
+  "id": "ischinf",
+  "display_name": "ECG: Ischemia Pattern: Inferior wall",
+  "description": "",
+  "type": "choices",
+  "domain": "check01"
+}

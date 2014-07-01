@@ -1,0 +1,7 @@
+{
+  "id": "ischant",
+  "display_name": "ECG: Ischemia Pattern: Anterior wall",
+  "description": "",
+  "type": "choices",
+  "domain": "check01"
+}

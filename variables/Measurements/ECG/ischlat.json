@@ -1,0 +1,7 @@
+{
+  "id": "ischlat",
+  "display_name": "ECG: Ischemia Pattern: Lateral wall",
+  "description": "",
+  "type": "choices",
+  "domain": "check01"
+}

@@ -1,0 +1,7 @@
+{
+  "id": "sinarr",
+  "display_name": "ECG: Sinus arrhythmia",
+  "description": "",
+  "type": "choices",
+  "domain": "check01"
+}

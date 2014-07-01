@@ -1,0 +1,7 @@
+{
+  "id": "atrflu",
+  "display_name": "ECG: Atrial flutter",
+  "description": "",
+  "type": "choices",
+  "domain": "check01"
+}

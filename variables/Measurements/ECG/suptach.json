@@ -1,0 +1,7 @@
+{
+  "id": "suptach",
+  "display_name": "ECG: Supraventricular tachycardia",
+  "description": "",
+  "type": "choices",
+  "domain": "check01"
+}

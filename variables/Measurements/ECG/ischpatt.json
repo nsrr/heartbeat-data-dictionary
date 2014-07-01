@@ -1,7 +1,0 @@
-{
-  "id": "ischpatt",
-  "display_name": "ECG: Ischemia Pattern",
-  "description": "",
-  "type": "choices",
-  "domain": "ischpatt"
-}

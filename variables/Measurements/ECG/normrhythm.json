@@ -1,0 +1,7 @@
+{
+  "id": "normrhythm",
+  "display_name": "ECG: Normal sinus rhythm",
+  "description": "",
+  "type": "choices",
+  "domain": "check01"
+}
