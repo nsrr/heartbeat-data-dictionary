@@ -1,7 +1,7 @@
 [
   {
     "value": "1",
-    "display_name": "Amerindian",
+    "display_name": "American Indian/Alaskan Native",
     "description": ""
   },
   {
@@ -11,12 +11,12 @@
   },
   {
     "value": "3",
-    "display_name": "Hawaii",
+    "display_name": "Native Hawaiian or Pacific Islander",
     "description": ""
   },
   {
     "value": "4",
-    "display_name": "Black",
+    "display_name": "Black or African American",
     "description": ""
   },
   {
@@ -26,12 +26,12 @@
   },
   {
     "value": "6",
-    "display_name": "Amerindian and other",
+    "display_name": "More than one race",
     "description": ""
   },
   {
     "value": "7",
-    "display_name": "Other",
+    "display_name": "Unknown or not reported",
     "description": ""
   }
 ]
