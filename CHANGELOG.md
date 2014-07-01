@@ -5,6 +5,9 @@
   - `\\rfa01\bwh-sleepepi-heartbeat\nsrr-prep\_releases\0.1.0.beta1\`
     - `heartbeat-baseline-dataset-0.1.0.beta1.csv`
     - `heartbeat-final-dataset-0.1.0.beta1.csv`
+- **Script Changes**
+  - Missing codes are stripped out en masse, using an array method
+  - An additional SAS script, `heartbeat dataset macros.sas`, is bundled with the dataset to facilitate easy renaming of variables
 - **Gem Changes**
   - Use of Ruby 2.1.2 is now recommended
   - Updated to spout 0.8.0.rc4
