@@ -1,8 +1,8 @@
-visit: visit
-charts: []
-# - chart: age
-#   title: Age
-# - chart: gender
-#   title: Gender
-# - chart: race
-#   title: Race
+visit: timepoint
+charts:
+ - chart: agecat
+   title: Age
+ - chart: male
+   title: Gender
+ - chart: race
+   title: Race
