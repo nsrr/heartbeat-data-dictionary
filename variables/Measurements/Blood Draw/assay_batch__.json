@@ -1,0 +1,7 @@
+{
+  "id": "assay_batch__",
+  "display_name": "Assay batch number",
+  "description": "",
+  "type": "choices",
+  "domain": "batchno"
+}

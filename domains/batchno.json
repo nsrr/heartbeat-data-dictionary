@@ -1,0 +1,27 @@
+[
+  {
+    "value": "1",
+    "display_name": "Batch 1",
+    "description": ""
+  },
+  {
+    "value": "2",
+    "display_name": "Batch 2",
+    "description": ""
+  },
+  {
+    "value": "3",
+    "display_name": "Batch 3",
+    "description": ""
+  },
+  {
+    "value": "4",
+    "display_name": "Batch 4",
+    "description": ""
+  },
+  {
+    "value": "5",
+    "display_name": "Batch 5",
+    "description": ""
+  }
+]
