@@ -156,10 +156,10 @@ data baseline_csv;
     end;
   end;
 
-  if 45 =< (calc_age) =< 54 then agecat = 6;
-  else if 55 =< (calc_age) =< 64 then agecat = 7;
-  else if 65 =< (calc_age) =< 74 then agecat = 8;
-  else if 75 =< (calc_age) =< 84 then agecat = 9;
+  if 45 =< floor(calc_age) =< 54 then agecat = 6;
+  else if 55 =< floor(calc_age) =< 64 then agecat = 7;
+  else if 65 =< floor(calc_age) =< 74 then agecat = 8;
+  else if 75 =< floor(calc_age) =< 84 then agecat = 9;
   drop i visit staffid;
 
 run;
@@ -178,10 +178,10 @@ data final_csv;
     end;
   end;
 
-  if 45 =< (calc_age) =< 54 then agecat = 6;
-  else if 55 =< (calc_age) =< 64 then agecat = 7;
-  else if 65 =< (calc_age) =< 74 then agecat = 8;
-  else if 75 =< (calc_age) =< 84 then agecat = 9;
+  if 45 =< floor(calc_age) =< 54 then agecat = 6;
+  else if 55 =< floor(calc_age) =< 64 then agecat = 7;
+  else if 65 =< floor(calc_age) =< 74 then agecat = 8;
+  else if 75 =< floor(calc_age) =< 84 then agecat = 9;
   drop i visit staffid;
 run;
 
