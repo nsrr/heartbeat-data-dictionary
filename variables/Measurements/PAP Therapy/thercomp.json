@@ -1,0 +1,7 @@
+{
+  "id": "thercomp",
+  "display_name": "PAP Compliance: Compliance on therapy",
+  "description": "",
+  "type": "numeric",
+  "units": "percent"
+}

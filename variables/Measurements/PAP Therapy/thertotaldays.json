@@ -1,0 +1,7 @@
+{
+  "id": "thertotaldays",
+  "display_name": "PAP Compliance: Total days of therapy",
+  "description": "",
+  "type": "numeric",
+  "units": "days"
+}

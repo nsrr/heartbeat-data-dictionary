@@ -1,0 +1,6 @@
+{
+  "id": "enddate",
+  "display_name": "PAP Compliance: End date of compliance period",
+  "description": "",
+  "type": "date"
+}

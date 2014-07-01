@@ -1,0 +1,7 @@
+{
+  "id": "theravgusageall",
+  "display_name": "PAP Compliance: Average usage on all therapy days of therapy period",
+  "description": "",
+  "type": "numeric",
+  "units": "minutes"
+}

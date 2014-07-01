@@ -1,0 +1,7 @@
+{
+  "id": "ndays_ranther",
+  "display_name": "PAP Compliance: Number of days from the randomization date to the beginning of therapy",
+  "description": "",
+  "type": "numeric",
+  "units": "days"
+}

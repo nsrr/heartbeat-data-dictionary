@@ -1,0 +1,7 @@
+{
+  "id": "totalrows",
+  "display_name": "PAP Compliance: Total rows",
+  "description": "Total number of days with PAP usage",
+  "type": "numeric",
+  "units": "days"
+}

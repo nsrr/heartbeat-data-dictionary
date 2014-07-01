@@ -1,0 +1,7 @@
+{
+  "id": "hasther",
+  "display_name": "PAP Compliance: Has any therapy data?",
+  "description": "",
+  "type": "choices",
+  "domain": "yesno"
+}

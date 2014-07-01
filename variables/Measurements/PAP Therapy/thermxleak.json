@@ -1,0 +1,7 @@
+{
+  "id": "thermxleak",
+  "display_name": "PAP Compliance: Maximum leak during therapy period",
+  "description": "",
+  "type": "numeric",
+  "units": ""
+}

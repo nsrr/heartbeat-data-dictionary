@@ -1,0 +1,7 @@
+{
+  "id": "totaldays",
+  "display_name": "PAP Compliance: Total days in the compliance period",
+  "description": "",
+  "type": "numeric",
+  "units": "days"
+}

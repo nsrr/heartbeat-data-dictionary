@@ -1,0 +1,7 @@
+{
+  "id": "thergooddays",
+  "display_name": "PAP Compliance: Number of days on therapy with more than 4 hours use",
+  "description": "",
+  "type": "numeric",
+  "units": "days"
+}

@@ -1,0 +1,8 @@
+{
+  "id": "newcompliance",
+  "display_name": "PAP Compliance: New compliance value",
+  "description": "",
+  "type": "numeric",
+  "units": "percent",
+  "calculation": "( theravgusage * therdays ) / ndays_titrend"
+}
