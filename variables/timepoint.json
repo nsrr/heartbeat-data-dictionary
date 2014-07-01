@@ -1,0 +1,7 @@
+{
+  "id": "timepoint",
+  "display_name": "Visit",
+  "description": "",
+  "type": "choices",
+  "domain": "timepoint"
+}
