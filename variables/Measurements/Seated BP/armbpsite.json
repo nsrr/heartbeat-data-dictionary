@@ -1,0 +1,7 @@
+{
+  "id": "armbpsite",
+  "display_name": "Arm that blood pressure was taken on",
+  "description": "",
+  "type": "choices",
+  "domain": "bparm"
+}
