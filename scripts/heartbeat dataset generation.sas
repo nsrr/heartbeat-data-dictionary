@@ -43,6 +43,8 @@ data embletta;
 
   rename totalmin = totalmin_emb;
   rename totalhrs = totalhrs_emb;
+  rename endtime = embq_endtime
+  rename starttime = embq_starttime;
 
   drop folder inembletta inembqs;
 run;
@@ -77,7 +79,7 @@ data hbeat_baseline;
 run;
 
 data heartbeat_final;
-  merge hbeat.heartbeatbloods hbeat.heartbeatbp24hr(rename=(totalmin = totalmin_bp)) embletta(drop=pass scorerid) hbeat.heartbeatecg(drop=scorerid)  hbeat.heartbeatendopat(keep=studyid timepoint en_date en_rhi en_lo_c90_120 rename=(en_date=endodate en_rhi=rhi en_lo_c90_120=framingham)) heartbeathhqfinal (in=a) hbeat.heartbeatmeasurements(drop=dob)  hbeat.heartbeatphq9 (in=b) hbeat_sf36;
+  merge hbeat.heartbeatbloods hbeat.heartbeatbp24hr(rename=(totalmin = totalmin_bp starttime=bp24starttime endtime=bp24endtime)) embletta(drop=pass scorerid) hbeat.heartbeatecg(drop=scorerid)  hbeat.heartbeatendopat(keep=studyid timepoint en_date en_rhi en_lo_c90_120 rename=(en_date=endodate en_rhi=rhi en_lo_c90_120=framingham)) heartbeathhqfinal (in=a) hbeat.heartbeatmeasurements(drop=dob)  hbeat.heartbeatphq9 (in=b) hbeat_sf36;
   by studyid timepoint;
 
   if timepoint = 7;
