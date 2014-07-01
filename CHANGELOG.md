@@ -9,6 +9,7 @@
   - Missing codes are stripped out en masse, using an array method
   - An additional SAS script, `heartbeat dataset macros.sas`, is bundled with the dataset to facilitate easy renaming of variables
   - Ages are calculated using exact dates, rather than staff-entered values, and then used to formulate a categorical age
+  -All date values are exported as 'days from index date', with the index date being the date of randomization
 - **Gem Changes**
   - Use of Ruby 2.1.2 is now recommended
   - Updated to spout 0.8.0.rc4
