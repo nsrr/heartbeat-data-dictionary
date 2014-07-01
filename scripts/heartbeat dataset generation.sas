@@ -3,7 +3,7 @@
 %let b=%sysget(SAS_EXECFILENAME);
 %let path= %sysfunc(tranwrd(&a,&b,heartbeat dataset macros.sas));
 %include "&path";
-%let release = rc;
+%let release = rc3;
 
 data dob;
   set hbeat.heartbeatmeasurements;
@@ -90,7 +90,7 @@ data heartbeat_baseline;
 run;
 
 data hbeat_baseline;
-  merge hbeat.heartbeatscreening hbeatelig (in=a) hbeat.heartbeatrandomization (in=b) heartbeat_baseline (in=c) hbeat.heartbeatmedicationscat;
+  merge hbeat.heartbeatscreening hbeatelig (in=a) hbeat.heartbeatrandomization (in=b) heartbeat_baseline (in=c) hbeat.heartbeatmedicationscat hbeat.heartbeatwithdrawal;
   by studyid;
 
   if b;
@@ -109,7 +109,7 @@ data heartbeat_final;
 run;
 
 data hbeat_final;
-  merge hbeat.heartbeatscreening(keep=studyid male) heartbeat_final (in=a) hbeat.heartbeatmedicationscat hbeat.heartbeatoxycompliance(drop=instaffid outstaffid) hbeat.heartbeatpapcompliance hbeat.heartbeatwithdrawal;
+  merge hbeat.heartbeatscreening(keep=studyid male) heartbeat_final (in=a) hbeat.heartbeatmedicationscat hbeat.heartbeatoxycompliance(drop=instaffid outstaffid) hbeat.heartbeatpapcompliance;
   by studyid;
 
   if a;
