@@ -2,6 +2,5 @@
   "id": "labelid",
   "display_name": "HeartBEAT Participant Lab ID",
   "description": "",
-  "type": "numeric",
-  "units": ""
+  "type": "identifier"
 }
