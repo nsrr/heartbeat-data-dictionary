@@ -3,7 +3,7 @@
 %let b=%sysget(SAS_EXECFILENAME);
 %let path= %sysfunc(tranwrd(&a,&b,heartbeat dataset macros.sas));
 %include "&path";
-%let release = beta2;
+%let release = rc;
 
 data hbeatelig;
   set hbeat.heartbeateligibility;
