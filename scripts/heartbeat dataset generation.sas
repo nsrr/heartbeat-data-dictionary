@@ -76,6 +76,8 @@ data hbeat_baseline;
   by studyid;
 
   if b;
+
+  if hypertro = 8 then hypertro = .;
 run;
 
 data heartbeat_final;
@@ -83,6 +85,7 @@ data heartbeat_final;
   by studyid timepoint;
 
   if timepoint = 7;
+  if hypertro = 8 then hypertro = .;
 
   if b;
 run;
