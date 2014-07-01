@@ -5,6 +5,24 @@
 %include "&path";
 %let release = rc;
 
+data dob;
+  set hbeat.heartbeatmeasurements;
+
+  keep studyid dob;
+run;
+
+proc sort data=dob nodupkey;
+  by studyid;
+run;
+
+data hbeatages;
+  merge dob(in=a) hbeat.heartbeatmeasurements(drop=dob);
+  by studyid;
+  if a;
+  calc_age = (meas_date - dob)/365.25;
+  keep studyid timepoint calc_age;
+run;
+
 data hbeatelig;
   set hbeat.heartbeateligibility;
 run;
@@ -138,10 +156,10 @@ data baseline_csv;
     end;
   end;
 
-  if 45 =< agedob =< 54 then agecat = 6;
-  else if 55 =< agedob =< 64 then agecat = 7;
-  else if 65 =< agedob =< 74 then agecat = 8;
-  else if 75 =< agedob =< 84 then agecat = 9;
+  if 45 =< (calc_age) =< 54 then agecat = 6;
+  else if 55 =< (calc_age) =< 64 then agecat = 7;
+  else if 65 =< (calc_age) =< 74 then agecat = 8;
+  else if 75 =< (calc_age) =< 84 then agecat = 9;
   drop i visit staffid;
 
 run;
@@ -160,10 +178,10 @@ data final_csv;
     end;
   end;
 
-  if 45 =< agedob =< 54 then agecat = 6;
-  else if 55 =< agedob =< 64 then agecat = 7;
-  else if 65 =< agedob =< 74 then agecat = 8;
-  else if 75 =< agedob =< 84 then agecat = 9;
+  if 45 =< (calc_age) =< 54 then agecat = 6;
+  else if 55 =< (calc_age) =< 64 then agecat = 7;
+  else if 65 =< (calc_age) =< 74 then agecat = 8;
+  else if 75 =< (calc_age) =< 84 then agecat = 9;
   drop i visit staffid;
 run;
 
