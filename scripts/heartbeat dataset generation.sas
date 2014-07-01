@@ -109,7 +109,7 @@ data heartbeat_final;
 run;
 
 data hbeat_final;
-  merge hbeatages hbeat.heartbeatscreening(keep=studyid male) heartbeat_final (in=a) hbeat.heartbeatmedicationscat hbeat.heartbeatoxycompliance(drop=instaffid outstaffid) hbeat.heartbeatpapcompliance;
+  merge hbeatages hbeat.heartbeatscreening(keep=studyid male) heartbeat_final (in=a) hbeat.heartbeatmedicationscat hbeat.heartbeatoxycompliance(drop=instaffid outstaffid) hbeat.heartbeatpapcompliance hbeat.heartbeatrandomization(keep=studyid random_date);
   by studyid;
 
   if a;
