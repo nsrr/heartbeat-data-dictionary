@@ -160,6 +160,26 @@ data baseline_csv;
   else if 55 =< floor(calc_age) =< 64 then agecat = 7;
   else if 65 =< floor(calc_age) =< 74 then agecat = 8;
   else if 75 =< floor(calc_age) =< 84 then agecat = 9;
+
+  /*recode dates to be days from index date*/
+  visit_date = (visit_date-random_date)/365.25;
+  elig_date = (elig_date-random_date)/365.25;
+  enroll_date = (enroll_date-random_date)/365.25;
+  scrn_date = (scrn_date-random_date)/365.25;
+  dateofwithdrawal = (dateofwithdrawal-random_date)/365.25;
+  with_date = (with_date-random_date)/365.25;
+  bp24date = (bp24date-random_date)/365.25;
+  meas_date = (meas_date-random_date)/365.25;
+  ecg_date = (ecg_date-random_date)/365.25;
+  embq_date = (embq_date-random_date)/365.25;
+  receive_date = (receive_date-random_date)/365.25;
+  review_date = (review_date-random_date)/365.25;
+  scored_date = (scored_date-random_date)/365.25;
+  endodate = (endodate-random_date)/365.25;
+  hhqb_date = (hhqb_date-random_date)/365.25;
+  phq_date = (phq_date-random_date)/365.25;
+  random_date = 0;
+
   drop i visit staffid;
 
 run;
@@ -182,6 +202,26 @@ data final_csv;
   else if 55 =< floor(calc_age) =< 64 then agecat = 7;
   else if 65 =< floor(calc_age) =< 74 then agecat = 8;
   else if 75 =< floor(calc_age) =< 84 then agecat = 9;
+
+  /*recode dates to be days from index date*/
+  visit_date = (visit_date-random_date)/365.25;
+  bp24date = (bp24date-random_date)/365.25;
+  meas_date = (meas_date-random_date)/365.25;
+  ecg_date = (ecg_date-random_date)/365.25;
+  embq_date = (embq_date-random_date)/365.25;
+  receive_date = (receive_date-random_date)/365.25;
+  review_date = (review_date-random_date)/365.25;
+  scored_date = (scored_date-random_date)/365.25;
+  endodate = (endodate-random_date)/365.25;
+  inconc_date = (inconc_date-random_date)/365.25;
+  outconc_date = (outconc_date-random_date)/365.25;
+  enddate = (enddate-random_date)/365.25;
+  mintherdate = (mintherdate-random_date)/365.25;
+  startdate = (startdate-random_date)/365.25;
+  hhqf_date = (hhqf_date-random_date)/365.25;
+  phq_date = (phq_date-random_date)/365.25;
+  random_date = 0;
+
   drop i visit staffid;
 run;
 
