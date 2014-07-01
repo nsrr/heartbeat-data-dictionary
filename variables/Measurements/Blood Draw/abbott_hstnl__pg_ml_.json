@@ -1,0 +1,7 @@
+{
+  "id": "abbott_hstnl__pg_ml_",
+  "display_name": "Abbott High-Sensitivity Troponin-l test",
+  "description": "",
+  "type": "numeric",
+  "units": "picograms per milliliter"
+}

@@ -1,0 +1,7 @@
+{
+  "id": "ldl",
+  "display_name": "Low density lipoprotein levels",
+  "description": "",
+  "type": "numeric",
+  "units": "milligrams per deciliter"
+}

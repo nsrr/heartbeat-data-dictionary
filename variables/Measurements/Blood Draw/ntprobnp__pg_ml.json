@@ -1,0 +1,7 @@
+{
+  "id": "ntprobnp__pg_ml",
+  "display_name": "N-terminal pro B-type natriuretic peptide levels",
+  "description": "",
+  "type": "numeric",
+  "units": "picograms per milliliter"
+}

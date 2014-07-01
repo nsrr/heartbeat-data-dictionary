@@ -1,0 +1,7 @@
+{
+  "id": "u_creat_mg_dl",
+  "display_name": "Urinary creatinine levels",
+  "description": "",
+  "type": "numeric",
+  "units": "milligrams per deciliter"
+}

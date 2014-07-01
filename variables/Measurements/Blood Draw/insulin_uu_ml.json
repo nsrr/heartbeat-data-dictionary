@@ -1,0 +1,7 @@
+{
+  "id": "insulin_uu_ml",
+  "display_name": "Insulin levels",
+  "description": "",
+  "type": "numeric",
+  "units": "micro-international units per milliliter"
+}
