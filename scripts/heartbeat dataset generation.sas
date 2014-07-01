@@ -132,7 +132,7 @@ data baseline_csv;
       else rcd(i) = .;
     end;
   end;
-  drop i;
+  drop i visit;
 
 run;
 
@@ -149,7 +149,7 @@ data final_csv;
       else rcd(i) = .;
     end;
   end;
-  drop i;
+  drop i visit;
 run;
 
 proc export data=baseline_csv outfile="\\rfa01\bwh-sleepepi-heartbeat\nsrr-prep\_releases\0.1.0.&release\heartbeat-baseline-dataset-0.1.0.&release..csv" dbms=csv replace; run;
