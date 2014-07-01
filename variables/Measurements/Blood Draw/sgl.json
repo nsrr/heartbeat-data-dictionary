@@ -1,0 +1,7 @@
+{
+  "id": "sgl",
+  "display_name": "Serum glucose levels",
+  "description": "",
+  "type": "numeric",
+  "units": "milligrams per deciliter"
+}
