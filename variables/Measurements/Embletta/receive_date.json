@@ -2,5 +2,6 @@
   "id": "receive_date",
   "display_name": "Embletta QS: Date study received",
   "description": "",
-  "type": "date"
+  "type": "numeric",
+  "units": "days from index date"
 }

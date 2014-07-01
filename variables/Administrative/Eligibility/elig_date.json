@@ -2,5 +2,6 @@
   "id": "elig_date",
   "display_name": "Eligibility: Date eligibility completed",
   "description": "",
-  "type": "date"
+  "type": "numeric",
+  "units": "days from index date"
 }

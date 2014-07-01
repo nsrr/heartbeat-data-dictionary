@@ -2,5 +2,6 @@
   "id": "ecg_date",
   "display_name": "ECG: Date ECG performed",
   "description": "",
-  "type": "date"
+  "type": "numeric",
+  "units": "days from index date"
 }

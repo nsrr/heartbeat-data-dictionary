@@ -2,5 +2,6 @@
   "id": "endodate",
   "display_name": "EndoPat: Test Date",
   "description": "",
-  "type": "date"
+  "type": "numeric",
+  "units": "days from index date"
 }

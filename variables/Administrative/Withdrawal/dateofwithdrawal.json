@@ -2,5 +2,6 @@
   "id": "dateofwithdrawal",
   "display_name": "Withdrawal: Date of Withdrawal/Removal",
   "description": "",
-  "type": "date"
+  "type": "numeric",
+  "units": "days from index date"
 }

@@ -2,5 +2,6 @@
   "id": "phq_date",
   "display_name": "PHQ-9: Date Completed",
   "description": "",
-  "type": "date"
+  "type": "numeric",
+  "units": "days from index date"
 }

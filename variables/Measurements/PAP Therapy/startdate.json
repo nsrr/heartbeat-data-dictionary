@@ -2,5 +2,6 @@
   "id": "startdate",
   "display_name": "PAP Compliance: Start date of compliance period",
   "description": "",
-  "type": "date"
+  "type": "numeric",
+  "units": "days from index date"
 }

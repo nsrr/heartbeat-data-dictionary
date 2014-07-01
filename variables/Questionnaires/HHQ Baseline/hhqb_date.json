@@ -2,5 +2,6 @@
   "id": "hhqb_date",
   "display_name": "HHQB: Date Completed",
   "description": "",
-  "type": "date"
+  "type": "numeric",
+  "units": "days from index date"
 }

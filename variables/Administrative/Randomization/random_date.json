@@ -2,5 +2,6 @@
   "id": "random_date",
   "display_name": "Randomization: Randomization Date",
   "description": "",
-  "type": "date"
+  "type": "numeric",
+  "units": "days from index date"
 }
