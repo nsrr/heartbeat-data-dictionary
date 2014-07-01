@@ -1,0 +1,7 @@
+{
+  "id": "cannqual",
+  "display_name": "Embletta QS: Cannula Quality",
+  "description": "",
+  "type": "choices",
+  "domain": "qualdata"
+}

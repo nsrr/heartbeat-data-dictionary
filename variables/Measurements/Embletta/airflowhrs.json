@@ -1,0 +1,7 @@
+{
+  "id": "airflowhrs",
+  "display_name": "Embletta QS: Airflow hours",
+  "description": "",
+  "type": "numeric",
+  "units": "hours"
+}
