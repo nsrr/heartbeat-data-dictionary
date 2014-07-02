@@ -1,7 +1,7 @@
 {
   "id": "bactweightlegmn",
-  "display_name": "HHQB: Weight training-legs (hours)",
+  "display_name": "HHQB: Weight training-legs",
   "description": "",
   "type": "numeric",
-  "units": "hours"
+  "units": "minutes"
 }
