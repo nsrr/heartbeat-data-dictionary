@@ -1,6 +1,6 @@
 {
   "id": "falphablocker",
-  "display_name": "Medications Baseline: Alpha Blocker?",
+  "display_name": "Medications Final: Alpha Blocker?",
   "description": "",
   "type": "choices",
   "domain": "check01"

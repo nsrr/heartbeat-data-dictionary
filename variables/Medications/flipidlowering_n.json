@@ -1,7 +1,7 @@
 {
   "id": "flipidlowering_n",
-  "display_name": "Medications Baseline: Lipid lowering medications?",
+  "display_name": "Medications Final: Number of Lipid lowering medications?",
   "description": "",
   "type": "numeric",
-  "units": "number of medications"
+  "units": "medications"
 }

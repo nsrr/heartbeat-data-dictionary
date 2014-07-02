@@ -1,7 +1,7 @@
 {
   "id": "fantihypertensive_n",
-  "display_name": "Medications Baseline: Anti-hypertensives?",
+  "display_name": "Medications Final: Number of Anti-hypertensives?",
   "description": "",
   "type": "numeric",
-  "units": "number of medications"
+  "units": "medications"
 }

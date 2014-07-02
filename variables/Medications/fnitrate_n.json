@@ -1,7 +1,7 @@
 {
   "id": "fnitrate_n",
-  "display_name": "Medications Baseline: Nitrates?",
+  "display_name": "Medications Final: Number of Nitrates?",
   "description": "",
   "type": "numeric",
-  "units": "number of medications"
+  "units": "medications"
 }

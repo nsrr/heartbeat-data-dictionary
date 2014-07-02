@@ -1,6 +1,6 @@
 {
   "id": "faldosteroneblocker",
-  "display_name": "Medications Baseline: Aldosterone Blocker?",
+  "display_name": "Medications Final: Aldosterone Blocker?",
   "description": "",
   "type": "choices",
   "domain": "check01"

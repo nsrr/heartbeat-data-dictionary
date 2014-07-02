@@ -1,6 +1,6 @@
 {
   "id": "fbetablocker",
-  "display_name": "Medications Baseline: Beta Blockers?",
+  "display_name": "Medications Final: Beta Blockers?",
   "description": "",
   "type": "choices",
   "domain": "check01"

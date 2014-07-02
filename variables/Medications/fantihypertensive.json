@@ -1,6 +1,6 @@
 {
   "id": "fantihypertensive",
-  "display_name": "Medications Baseline: Anti-hypertensives?",
+  "display_name": "Medications Final: Anti-hypertensives?",
   "description": "",
   "type": "choices",
   "domain": "check01"

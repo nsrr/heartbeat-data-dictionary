@@ -1,7 +1,7 @@
 {
   "id": "fdiabetes_n",
-  "display_name": "Medications Baseline: Diabetes medications?",
+  "display_name": "Medications Final: Number of Diabetes medications?",
   "description": "",
   "type": "numeric",
-  "units": "number of medications"
+  "units": "medications"
 }

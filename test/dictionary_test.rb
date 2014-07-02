@@ -9,7 +9,7 @@ class DictionaryTest < Minitest::Test
   # iterators that can be used to write custom tests
   include Spout::Helpers::Iterators
 
-  VALID_UNITS = ["", "beats per minute", "centimeters", "cigarettes", "days", "days from index date", "days per week", "desaturations per hour", "events", "events per hour", "feet", "hours", "inches", "kilograms", "micro-international units per milliliter", "micrograms per milliliter", "milligrams per deciliter", "millimeters of mercury", "milliseconds", "minutes", "minutes per day", "missing items", "nanograms per milliliter", "naps", "number of medications", "ovaries", "percent", "periods", "picograms per milliliter", "pounds", "readings", "seconds", "units per liter", "years"]
+  VALID_UNITS = ["", "beats per minute", "centimeters", "cigarettes", "days", "days from index date", "days per week", "desaturations per hour", "events", "events per hour", "feet", "hours", "inches", "kilograms", "medications", "micro-international units per milliliter", "micrograms per milliliter", "milligrams per deciliter", "millimeters of mercury", "milliseconds", "minutes", "minutes per day", "missing items", "nanograms per milliliter", "naps", "ovaries", "percent", "periods", "picograms per milliliter", "pounds", "readings", "seconds", "units per liter", "years"]
 
   @variables.select{|v| ['numeric','integer'].include?(v.type)}.each do |variable|
     define_method("test_units: "+variable.path) do

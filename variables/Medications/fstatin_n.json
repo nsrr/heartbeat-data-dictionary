@@ -1,7 +1,7 @@
 {
   "id": "fstatin_n",
-  "display_name": "Medications Baseline: Statin usage?",
+  "display_name": "Medications Final: Number of Statins?",
   "description": "",
   "type": "numeric",
-  "units": "number of medications"
+  "units": "medications"
 }
