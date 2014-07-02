@@ -254,6 +254,14 @@ data hbeat_total_final;
   drop studyid namecode;
 run;
 
+proc sort data = hbeat_total_base;
+  by obf_pptid;
+run;
+
+proc sort data = hbeat_total_final;
+  by obf_pptid;
+run;
+
 proc export data=hbeat_total_base outfile="\\rfa01\bwh-sleepepi-heartbeat\nsrr-prep\_releases\0.1.0.&release\heartbeat-baseline-dataset-0.1.0.&release..csv" dbms=csv replace; run;
 
 proc export data=hbeat_total_final outfile="\\rfa01\bwh-sleepepi-heartbeat\nsrr-prep\_releases\0.1.0.&release\heartbeat-final-dataset-0.1.0.&release..csv" dbms=csv replace; run;
