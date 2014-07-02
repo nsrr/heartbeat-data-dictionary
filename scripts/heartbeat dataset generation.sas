@@ -1,4 +1,5 @@
 %include "\\rfa01\bwh-sleepepi-heartbeat\sas\heartbeat options and libnames.sas";
+libname obf "\\rfa01\bwh-sleepepi-heartbeat\nsrr-prep\_ids";
 %let a=%sysget(SAS_EXECFILEPATH);
 %let b=%sysget(SAS_EXECFILENAME);
 %let path= %sysfunc(tranwrd(&a,&b,heartbeat dataset macros.sas));
@@ -197,8 +198,11 @@ data baseline_csv;
 run;
 
 data hbeat_total_base;
-  merge baseline_csv zscore_b;
+  length obf_pptid 8.;
+  merge baseline_csv zscore_b obf.obfid;
   by studyid;
+
+  drop studyid;
 run;
 
 data final_csv;
@@ -243,8 +247,11 @@ data final_csv;
 run;
 
 data hbeat_total_final;
-  merge final_csv zscore_f;
+  length obf_pptid 8.;
+  merge final_csv zscore_f obf.obfid;
   by studyid;
+
+  drop studyid;
 run;
 
 proc export data=hbeat_total_base outfile="\\rfa01\bwh-sleepepi-heartbeat\nsrr-prep\_releases\0.1.0.&release\heartbeat-baseline-dataset-0.1.0.&release..csv" dbms=csv replace; run;
