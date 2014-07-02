@@ -1,6 +1,6 @@
 {
   "id": "factbicycling",
-  "display_name": "HHQB: Total bicycling per week",
+  "display_name": "HHQF: Total bicycling per week",
   "description": "",
   "type": "numeric",
   "units": "minutes",

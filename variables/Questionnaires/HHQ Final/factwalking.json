@@ -1,6 +1,6 @@
 {
   "id": "factwalking",
-  "display_name": "HHQB: Total walking exercise per week",
+  "display_name": "HHQF: Total walking exercise per week",
   "description": "",
   "type": "numeric",
   "units": "minutes",

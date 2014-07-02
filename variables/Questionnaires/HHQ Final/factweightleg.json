@@ -1,6 +1,6 @@
 {
   "id": "factweightleg",
-  "display_name": "HHQB: Total leg exercise per week",
+  "display_name": "HHQF: Total leg exercise per week",
   "description": "",
   "type": "numeric",
   "units": "minutes",

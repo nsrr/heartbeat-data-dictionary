@@ -1,6 +1,6 @@
 {
   "id": "factjogging",
-  "display_name": "HHQB: Total jogging per week",
+  "display_name": "HHQF: Total jogging per week",
   "description": "",
   "type": "numeric",
   "units": "minutes",

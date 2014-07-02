@@ -1,6 +1,6 @@
 {
   "id": "factrunning",
-  "display_name": "HHQB: Total running per week",
+  "display_name": "HHQF: Total running per week",
   "description": "",
   "type": "numeric",
   "units": "minutes",

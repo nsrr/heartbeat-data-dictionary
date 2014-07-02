@@ -1,6 +1,6 @@
 {
   "id": "factaerobic",
-  "display_name": "HHQB: Total other aerobic exercise per week",
+  "display_name": "HHQF: Total other aerobic exercise per week",
   "description": "",
   "type": "numeric",
   "units": "minutes",

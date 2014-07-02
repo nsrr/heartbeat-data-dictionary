@@ -1,6 +1,6 @@
 {
   "id": "factother",
-  "display_name": "HHQB: Total other exercise per week",
+  "display_name": "HHQF: Total other exercise per week",
   "description": "",
   "type": "numeric",
   "units": "minutes",

@@ -1,6 +1,6 @@
 {
   "id": "factweightarm",
-  "display_name": "HHQB: Total arm exercise per week",
+  "display_name": "HHQF: Total arm exercise per week",
   "description": "",
   "type": "numeric",
   "units": "minutes",

@@ -1,6 +1,6 @@
 {
   "id": "factlowint",
-  "display_name": "HHQB: Total low intensity exercises per week",
+  "display_name": "HHQF: Total low intensity exercises per week",
   "description": "",
   "type": "numeric",
   "units": "minutes",
