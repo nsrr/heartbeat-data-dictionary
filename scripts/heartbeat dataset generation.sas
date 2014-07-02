@@ -202,7 +202,7 @@ data hbeat_total_base;
   merge baseline_csv zscore_b obf.obfid;
   by studyid;
 
-  drop studyid namecode;
+  drop studyid namecode labelid;
 run;
 
 data final_csv;
@@ -251,7 +251,7 @@ data hbeat_total_final;
   merge final_csv zscore_f obf.obfid;
   by studyid;
 
-  drop studyid namecode;
+  drop studyid namecode labelid;
 run;
 
 proc sort data = hbeat_total_base;
