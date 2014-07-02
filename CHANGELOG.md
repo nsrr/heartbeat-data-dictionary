@@ -1,6 +1,7 @@
 ## 0.1.0
 
 ### Changes
+- All participants have been assigned an obfuscated ID number as `obf_pptid` and all other potentially identifiable variables have been removed from the dataset
 - The CSV datasets generated from a SAS export is located here:
   - `\\rfa01\bwh-sleepepi-heartbeat\nsrr-prep\_releases\0.1.0.rc5\`
     - `heartbeat-baseline-dataset-0.1.0.rc5.csv`
@@ -12,4 +13,4 @@
   - All date values are exported as 'days from index date', with the index date being the date of randomization
 - **Gem Changes**
   - Use of Ruby 2.1.2 is now recommended
-  - Updated to spout 0.8.0.rc4
+  - Updated to spout 0.8.0
