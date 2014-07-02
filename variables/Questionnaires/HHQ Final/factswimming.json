@@ -4,5 +4,5 @@
   "description": "",
   "type": "numeric",
   "units": "minutes",
-  "calculation": "( ( bactswimminghr * 60 ) + bactswimmingmn ) * bactswimmingdays"
+  "calculation": "( ( factswimminghr * 60 ) + factswimmingmn ) * factswimmingdays"
 }

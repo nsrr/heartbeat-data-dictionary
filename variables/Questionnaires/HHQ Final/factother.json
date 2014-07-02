@@ -4,5 +4,5 @@
   "description": "",
   "type": "numeric",
   "units": "minutes",
-  "calculation": "( ( bactotherhr * 60 ) + bactothermn ) * bactotherdays"
+  "calculation": "( ( factotherhr * 60 ) + factothermn ) * factotherdays"
 }

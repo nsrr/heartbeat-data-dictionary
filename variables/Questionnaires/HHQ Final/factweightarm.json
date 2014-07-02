@@ -4,5 +4,5 @@
   "description": "",
   "type": "numeric",
   "units": "minutes",
-  "calculation": "( ( bactweightarmhr * 60 ) + bactweightarmmn ) * bactweightarmdays"
+  "calculation": "( ( factweightarmhr * 60 ) + factweightarmmn ) * factweightarmdays"
 }

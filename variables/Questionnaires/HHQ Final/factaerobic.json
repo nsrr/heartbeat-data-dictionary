@@ -4,5 +4,5 @@
   "description": "",
   "type": "numeric",
   "units": "minutes",
-  "calculation": "( ( bactaerobichr * 60 ) + bactaerobicmn ) * bactaerobicdays"
+  "calculation": "( ( factaerobichr * 60 ) + factaerobicmn ) * factaerobicdays"
 }

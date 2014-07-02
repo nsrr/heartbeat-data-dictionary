@@ -4,5 +4,5 @@
   "description": "",
   "type": "numeric",
   "units": "minutes",
-  "calculation": "( ( bactwalkinghr * 60 ) + bactwalkingmn ) * bactwalkingdays"
+  "calculation": "( ( factwalkinghr * 60 ) + factwalkingmn ) * factwalkingdays"
 }

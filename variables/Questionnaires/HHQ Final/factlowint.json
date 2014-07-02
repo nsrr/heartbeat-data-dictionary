@@ -4,5 +4,5 @@
   "description": "",
   "type": "numeric",
   "units": "minutes",
-  "calculation": "( ( bactlowinthr * 60 ) + bactlowintmn ) * bactlowintdays"
+  "calculation": "( ( factlowinthr * 60 ) + factlowintmn ) * factlowintdays"
 }

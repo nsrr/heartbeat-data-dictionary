@@ -4,5 +4,5 @@
   "description": "",
   "type": "numeric",
   "units": "minutes",
-  "calculation": "( ( bacttennishr * 60 ) + bacttennismn ) * bacttennisdays"
+  "calculation": "( ( facttennishr * 60 ) + facttennismn ) * facttennisdays"
 }

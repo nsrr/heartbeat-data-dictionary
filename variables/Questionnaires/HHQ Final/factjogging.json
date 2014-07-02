@@ -4,5 +4,5 @@
   "description": "",
   "type": "numeric",
   "units": "minutes",
-  "calculation": "( ( bactjogginghr * 60 ) + bactjoggingmn ) * bactjoggingdays"
+  "calculation": "( ( factjogginghr * 60 ) + factjoggingmn ) * factjoggingdays"
 }
