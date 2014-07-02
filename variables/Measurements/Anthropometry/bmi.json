@@ -1,6 +1,6 @@
 {
   "id": "bmi",
-  "display_name": "Physical Measurements: BMI (at Baseline Visit)",
+  "display_name": "Physical Measurements: BMI",
   "description": "",
   "type": "numeric",
   "units": "",

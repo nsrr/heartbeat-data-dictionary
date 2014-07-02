@@ -1,6 +1,6 @@
 {
   "id": "agecat",
-  "display_name": "Categorical Age (at Baseline Visit)",
+  "display_name": "Categorical Age",
   "description": "",
   "type": "choices",
   "domain": "agecat"
