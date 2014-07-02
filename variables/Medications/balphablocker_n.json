@@ -1,6 +1,6 @@
 {
   "id": "balphablocker_n",
-  "display_name": "Medications Baseline: Alpha Blocker?",
+  "display_name": "Medications Baseline: Number of Alpha Blocker?",
   "description": "",
   "type": "numeric",
   "units": "medications"

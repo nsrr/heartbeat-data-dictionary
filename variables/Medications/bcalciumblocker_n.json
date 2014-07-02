@@ -1,6 +1,6 @@
 {
   "id": "bcalciumblocker_n",
-  "display_name": "Medications Baseline: Calcium Blocker?",
+  "display_name": "Medications Baseline: Number of Calcium Blocker?",
   "description": "",
   "type": "numeric",
   "units": "medications"
