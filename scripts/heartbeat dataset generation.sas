@@ -145,13 +145,13 @@ run;
 data zscore_b;
   set heartbeat_renamed_base;
 
-  keep studyid bp_z gh_z mh_z pf_z re_z rp_z sf_z vt_z;
+  keep studyid bp_z gh_z mh_z pf_z re_z rp_z sf_z vt_z mcs pcs agg_ment agg_phys;
 run;
 
 data zscore_f;
   set heartbeat_renamed_final;
 
-  keep studyid bp_z gh_z mh_z pf_z re_z rp_z sf_z vt_z;
+  keep studyid bp_z gh_z mh_z pf_z re_z rp_z sf_z vt_z mcs pcs agg_ment agg_phys;
 run;
 
 data baseline_csv;
@@ -192,7 +192,7 @@ data baseline_csv;
   phq_date = (phq_date-random_date);
   random_date = 0;
 
-  drop i visit staffid bp_z gh_z mh_z pf_z re_z rp_z sf_z vt_z;
+  drop i visit staffid bp_z gh_z mh_z pf_z re_z rp_z sf_z vt_z mcs pcs agg_ment agg_phys;
 
 run;
 
@@ -239,7 +239,7 @@ data final_csv;
   phq_date = (phq_date-random_date);
   random_date = 0;
 
-  drop i visit staffid bp_z gh_z mh_z pf_z re_z rp_z sf_z vt_z;
+  drop i visit staffid bp_z gh_z mh_z pf_z re_z rp_z sf_z vt_z mcs pcs agg_ment agg_phys;
 run;
 
 data hbeat_total_final;
