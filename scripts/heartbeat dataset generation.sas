@@ -202,7 +202,7 @@ data hbeat_total_base;
   merge baseline_csv zscore_b obf.obfid;
   by studyid;
 
-  drop studyid;
+  drop studyid namecode;
 run;
 
 data final_csv;
@@ -251,7 +251,7 @@ data hbeat_total_final;
   merge final_csv zscore_f obf.obfid;
   by studyid;
 
-  drop studyid;
+  drop studyid namecode;
 run;
 
 proc export data=hbeat_total_base outfile="\\rfa01\bwh-sleepepi-heartbeat\nsrr-prep\_releases\0.1.0.&release\heartbeat-baseline-dataset-0.1.0.&release..csv" dbms=csv replace; run;
