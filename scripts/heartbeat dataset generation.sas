@@ -3,7 +3,7 @@
 %let b=%sysget(SAS_EXECFILENAME);
 %let path= %sysfunc(tranwrd(&a,&b,heartbeat dataset macros.sas));
 %include "&path";
-%let release = rc3;
+%let release = rc4;
 
 data dob;
   set hbeat.heartbeatmeasurements;
@@ -142,6 +142,18 @@ data heartbeat_renamed_final;
   drop sf36_date sf36_sfht;
 run;
 
+data zscore_b;
+  set heartbeat_renamed_base;
+
+  keep studyid bp_z gh_z mh_z pf_z re_z rp_z sf_z vt_z;
+run;
+
+data zscore_f;
+  set heartbeat_renamed_final;
+
+  keep studyid bp_z gh_z mh_z pf_z re_z rp_z sf_z vt_z;
+run;
+
 data baseline_csv;
   set heartbeat_renamed_base;
 
@@ -180,8 +192,13 @@ data baseline_csv;
   phq_date = (phq_date-random_date);
   random_date = 0;
 
-  drop i visit staffid;
+  drop i visit staffid bp_z gh_z mh_z pf_z re_z rp_z sf_z vt_z;
 
+run;
+
+data hbeat_total_base;
+  merge baseline_csv zscore_b;
+  by studyid;
 run;
 
 data final_csv;
@@ -222,9 +239,14 @@ data final_csv;
   phq_date = (phq_date-random_date);
   random_date = 0;
 
-  drop i visit staffid;
+  drop i visit staffid bp_z gh_z mh_z pf_z re_z rp_z sf_z vt_z;
 run;
 
-proc export data=baseline_csv outfile="\\rfa01\bwh-sleepepi-heartbeat\nsrr-prep\_releases\0.1.0.&release\heartbeat-baseline-dataset-0.1.0.&release..csv" dbms=csv replace; run;
+data hbeat_total_final;
+  merge final_csv zscore_f;
+  by studyid;
+run;
 
-proc export data=final_csv outfile="\\rfa01\bwh-sleepepi-heartbeat\nsrr-prep\_releases\0.1.0.&release\heartbeat-final-dataset-0.1.0.&release..csv" dbms=csv replace; run;
+proc export data=hbeat_total_base outfile="\\rfa01\bwh-sleepepi-heartbeat\nsrr-prep\_releases\0.1.0.&release\heartbeat-baseline-dataset-0.1.0.&release..csv" dbms=csv replace; run;
+
+proc export data=hbeat_total_final outfile="\\rfa01\bwh-sleepepi-heartbeat\nsrr-prep\_releases\0.1.0.&release\heartbeat-final-dataset-0.1.0.&release..csv" dbms=csv replace; run;
