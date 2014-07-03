@@ -1,4 +1,4 @@
-## 0.1.0
+## 0.1.0 (July 3, 2014)
 
 ### Changes
 - All participants have been assigned an obfuscated ID number as `obf_pptid` and all other potentially identifiable variables have been removed from the dataset
