@@ -248,8 +248,10 @@ run;
 
 data hbeat_total_final;
   length obf_pptid 8.;
-  merge final_csv zscore_f obf.obfid;
+  merge final_csv(in=a) zscore_f obf.obfid;
   by studyid;
+
+  if a;
 
   drop studyid namecode labelid;
 run;
