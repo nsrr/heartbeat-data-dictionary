@@ -1,6 +1,6 @@
 {
   "id": "airflowqual",
-  "display_name": "Embletta QS: Airflow Quality",
+  "display_name": "Airflow Quality",
   "description": "",
   "type": "choices",
   "domain": "qualdata"

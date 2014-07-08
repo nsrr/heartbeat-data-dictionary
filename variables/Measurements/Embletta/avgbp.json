@@ -1,6 +1,6 @@
 {
   "id": "avgbp",
-  "display_name": "Embletta: Pulse: Total Mean (bpm)",
+  "display_name": "Pulse: Total Mean",
   "description": "",
   "type": "numeric",
   "units": "millimeters of mercury"

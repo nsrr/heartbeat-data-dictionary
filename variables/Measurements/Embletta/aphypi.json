@@ -1,6 +1,6 @@
 {
   "id": "aphypi",
-  "display_name": "Embletta: Apnea + Hypopnea (n/hr, AHI)",
+  "display_name": "Apnea + Hypopnea",
   "description": "",
   "type": "numeric",
   "units": ""

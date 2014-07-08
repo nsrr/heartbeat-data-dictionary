@@ -1,7 +1,7 @@
 {
   "id": "time_move",
-  "display_name": "Embletta: Movement Time (min)",
+  "display_name": "Movement Time",
   "description": "",
-  "type": "integer",
+  "type": "numeric",
   "units": "minutes"
 }

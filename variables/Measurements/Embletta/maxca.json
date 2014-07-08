@@ -1,6 +1,6 @@
 {
   "id": "maxca",
-  "display_name": "Embletta: Apnea/Hypopnea: Central Longest (sec)",
+  "display_name": "Apnea/Hypopnea: Central Longest duration",
   "description": "",
   "type": "numeric",
   "units": "seconds"

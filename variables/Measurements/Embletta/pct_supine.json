@@ -1,6 +1,6 @@
 {
   "id": "pct_supine",
-  "display_name": "Embletta: Supine Time (pct)",
+  "display_name": "Supine Time",
   "description": "",
   "type": "numeric",
   "units": "percent"

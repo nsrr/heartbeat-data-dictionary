@@ -1,7 +1,7 @@
 {
   "id": "aphyps",
-  "display_name": "Embletta: Supine A + H (n)",
+  "display_name": "Supine Apnea + Hypopnea",
   "description": "",
-  "type": "integer",
+  "type": "numeric",
   "units": ""
 }

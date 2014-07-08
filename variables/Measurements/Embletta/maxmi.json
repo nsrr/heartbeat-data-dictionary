@@ -1,6 +1,6 @@
 {
   "id": "maxmi",
-  "display_name": "Embletta: Apnea/Hypopnea: Mixed Longest (sec)",
+  "display_name": "Apnea/Hypopnea: Mixed Longest duration",
   "description": "",
   "type": "numeric",
   "units": "seconds"

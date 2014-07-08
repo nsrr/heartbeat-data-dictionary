@@ -1,6 +1,6 @@
 {
   "id": "ecghrs",
-  "display_name": "Embletta QS: ECG hrs",
+  "display_name": "ECG hrs",
   "description": "",
   "type": "numeric",
   "units": "hours"

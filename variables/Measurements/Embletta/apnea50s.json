@@ -1,6 +1,6 @@
 {
   "id": "apnea50s",
-  "display_name": "Embletta: Apnea-Desat Relation: 51-60% Apnea",
+  "display_name": "Apnea-Desat Relation: 51-60% Apnea",
   "description": "",
   "type": "numeric",
   "units": "events"

@@ -1,6 +1,6 @@
 {
   "id": "ndesatgt20",
-  "display_name": "Embletta: Desaturation Fall: >20% Number",
+  "display_name": "Desaturation Fall: Greater than 20% Number",
   "description": "",
   "type": "numeric",
   "units": ""

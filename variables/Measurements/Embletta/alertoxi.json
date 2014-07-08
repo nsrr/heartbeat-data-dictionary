@@ -1,6 +1,6 @@
 {
   "id": "alertoxi",
-  "display_name": "Embletta QS: Alert Oximeter",
+  "display_name": "Alert Oximeter",
   "description": "",
   "type": "choices",
   "domain": "check01"

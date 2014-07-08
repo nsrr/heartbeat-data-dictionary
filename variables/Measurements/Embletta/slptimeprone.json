@@ -1,6 +1,6 @@
 {
   "id": "slptimeprone",
-  "display_name": "Embletta: Position: Prone (min)",
+  "display_name": "Position: Prone",
   "description": "",
   "type": "numeric",
   "units": "minutes"

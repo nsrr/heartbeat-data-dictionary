@@ -1,6 +1,6 @@
 {
   "id": "avgdesat",
-  "display_name": "Embletta: Sp02: Average Desaturation",
+  "display_name": "Sp02: Average Desaturation",
   "description": "",
   "type": "numeric",
   "units": "percent"

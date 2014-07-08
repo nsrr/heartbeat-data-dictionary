@@ -1,6 +1,6 @@
 {
   "id": "alerthr",
-  "display_name": "Embletta QS: Alert hr",
+  "display_name": "Alert hr",
   "description": "",
   "type": "choices",
   "domain": "check01"

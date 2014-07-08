@@ -1,6 +1,6 @@
 {
   "id": "slppctmovement",
-  "display_name": "Embletta: Position: Movement (%)",
+  "display_name": "Position: Movement",
   "description": "",
   "type": "numeric",
   "units": "percent"
