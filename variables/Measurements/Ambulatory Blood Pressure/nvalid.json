@@ -1,6 +1,6 @@
 {
   "id": "nvalid",
-  "display_name": "24BP: Number of Valid Readings",
+  "display_name": "Number of Valid Readings",
   "description": "",
   "type": "numeric",
   "units": "readings"
