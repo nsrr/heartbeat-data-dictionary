@@ -1,7 +1,7 @@
 {
   "id": "qtcdur",
-  "display_name": "ECG: QTC",
-  "description": "",
+  "display_name": "QTc duration",
+  "description": "Duration of the corrected Q-T interval",
   "type": "numeric",
   "units": "milliseconds"
 }

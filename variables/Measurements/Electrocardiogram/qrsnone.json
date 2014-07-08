@@ -1,6 +1,6 @@
 {
   "id": "qrsnone",
-  "display_name": "ECG: QRS Conduction Block: None",
+  "display_name": "QRS Conduction Block: None",
   "description": "",
   "type": "choices",
   "domain": "check01"

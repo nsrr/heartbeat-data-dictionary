@@ -1,6 +1,6 @@
 {
   "id": "ischinf",
-  "display_name": "ECG: Ischemia Pattern: Inferior wall",
+  "display_name": "Ischemia Pattern: Inferior wall",
   "description": "",
   "type": "choices",
   "domain": "check01"

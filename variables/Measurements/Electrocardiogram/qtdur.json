@@ -1,6 +1,6 @@
 {
   "id": "qtdur",
-  "display_name": "ECG: QT",
+  "display_name": "Duration of the Q-T interval",
   "description": "",
   "type": "numeric",
   "units": "milliseconds"
