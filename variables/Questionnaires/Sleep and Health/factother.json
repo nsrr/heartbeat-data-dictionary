@@ -1,8 +1,0 @@
-{
-  "id": "factother",
-  "display_name": "HHQF: Total other exercise per week",
-  "description": "",
-  "type": "numeric",
-  "units": "minutes",
-  "calculation": "( ( factotherhr * 60 ) + factothermn ) * factotherdays"
-}

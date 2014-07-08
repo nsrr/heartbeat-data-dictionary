@@ -1,6 +1,6 @@
 {
   "id": "dxpacemaker",
-  "display_name": "HHQB: Diagnosed: Implant of Pacemaker or Defibrillator",
+  "display_name": "Diagnosed: Implant of Pacemaker or Defibrillator",
   "description": "",
   "type": "choices",
   "domain":"noyes"

@@ -1,8 +1,0 @@
-{
-  "id": "factaerobic",
-  "display_name": "HHQF: Total other aerobic exercise per week",
-  "description": "",
-  "type": "numeric",
-  "units": "minutes",
-  "calculation": "( ( factaerobichr * 60 ) + factaerobicmn ) * factaerobicdays"
-}

@@ -1,6 +1,6 @@
 {
   "id": "sibsstroke",
-  "display_name": "HHQB: Family: Stroke (siblings)",
+  "display_name": "Family: Stroke (siblings)",
   "description": "",
   "type": "choices",
   "domain":"noyes"

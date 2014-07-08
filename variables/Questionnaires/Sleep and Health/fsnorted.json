@@ -1,7 +1,0 @@
-{
-  "id": "fsnorted",
-  "display_name": "HHQF: Snorted or gasped in last month",
-  "description": "",
-  "type": "choices",
-  "domain":"noyes"
-}

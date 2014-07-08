@@ -1,0 +1,7 @@
+{
+  "id": "actbicyclingdays",
+  "display_name": "Bicycling (days per week)",
+  "description": "",
+  "type": "numeric",
+  "units": "days per week"
+}

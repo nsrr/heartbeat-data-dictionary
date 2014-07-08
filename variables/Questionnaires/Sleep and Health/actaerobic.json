@@ -1,0 +1,8 @@
+{
+  "id": "actaerobic",
+  "display_name": "Total other aerobic exercise per week",
+  "description": "",
+  "type": "numeric",
+  "units": "minutes",
+  "calculation": "( ( actaerobichr * 60 ) + actaerobicmn ) * actaerobicdays"
+}

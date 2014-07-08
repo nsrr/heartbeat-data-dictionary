@@ -1,7 +1,0 @@
-{
-  "id": "fwalkordinary",
-  "display_name": "HHQF: Get pain if walk at ordinary pace",
-  "description": "",
-  "type": "choices",
-  "domain":"noyes"
-}

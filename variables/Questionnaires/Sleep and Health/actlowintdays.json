@@ -1,0 +1,7 @@
+{
+  "id": "actlowintdays",
+  "display_name": "Lower intensity exercise (days per week)",
+  "description": "",
+  "type": "numeric",
+  "units": "days per week"
+}

@@ -1,6 +1,6 @@
 {
   "id": "ovaries",
-  "display_name": "HHQB: Had surgery to remove ovaries",
+  "display_name": "Had surgery to remove ovaries",
   "description": "",
   "type": "choices",
   "domain":"noyes"

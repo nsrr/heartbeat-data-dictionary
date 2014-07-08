@@ -1,0 +1,7 @@
+{
+  "id": "actrunningmn",
+  "display_name": "Running (minutes)",
+  "description": "",
+  "type": "numeric",
+  "units": "minutes"
+}

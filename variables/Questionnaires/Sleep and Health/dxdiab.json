@@ -1,6 +1,6 @@
 {
   "id": "dxdiab",
-  "display_name": "HHQB: Diagnosed: Diabetes",
+  "display_name": "Diagnosed: Diabetes",
   "description": "",
   "type": "choices",
   "domain":"noyes"

@@ -1,0 +1,7 @@
+{
+  "id": "worserest",
+  "display_name": "Symptoms worse when at rest",
+  "description": "",
+  "type": "choices",
+  "domain":"noyes"
+}

@@ -1,6 +1,6 @@
 {
   "id": "dxbloodclots",
-  "display_name": "HHQB: Diagnosed: Blood clots in the lung or in the leg veins",
+  "display_name": "Diagnosed: Blood clots in the lung or in the leg veins",
   "description": "",
   "type": "choices",
   "domain":"noyes"

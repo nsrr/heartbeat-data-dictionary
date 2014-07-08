@@ -1,0 +1,7 @@
+{
+  "id": "actweightarmhr",
+  "display_name": "Weight training-arms (hours)",
+  "description": "",
+  "type": "numeric",
+  "units": "hours"
+}

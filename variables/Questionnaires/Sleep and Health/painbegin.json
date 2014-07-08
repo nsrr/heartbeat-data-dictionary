@@ -1,0 +1,7 @@
+{
+  "id": "painbegin",
+  "display_name": "Pain begin while standing still or sitting",
+  "description": "",
+  "type": "choices",
+  "domain":"noyes"
+}

@@ -1,8 +1,0 @@
-{
-  "id": "factweightleg",
-  "display_name": "HHQF: Total leg exercise per week",
-  "description": "",
-  "type": "numeric",
-  "units": "minutes",
-  "calculation": "( ( factweightleghr * 60 ) + factweightlegmn ) * factweightlegdays"
-}

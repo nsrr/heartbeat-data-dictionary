@@ -1,7 +1,0 @@
-{
-  "id": "fwewuap",
-  "display_name": "HHQF: Wake Up Weekends (am/pm)",
-  "description": "",
-  "type": "choices",
-  "domain":"ampm"
-}

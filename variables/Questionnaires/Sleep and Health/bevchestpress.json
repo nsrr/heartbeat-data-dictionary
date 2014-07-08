@@ -1,7 +1,0 @@
-{
-  "id": "bevchestpress",
-  "display_name": "HHQB: Ever had pressure or heaviness in chest",
-  "description": "",
-  "type": "choices",
-  "domain":"noyes"
-}

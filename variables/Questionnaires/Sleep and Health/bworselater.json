@@ -1,7 +1,0 @@
-{
-  "id": "bworselater",
-  "display_name": "HHQB: Symptoms worse later in the day or at night",
-  "description": "",
-  "type": "choices",
-  "domain":"noyes"
-}

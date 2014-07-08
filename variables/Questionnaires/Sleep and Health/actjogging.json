@@ -1,0 +1,8 @@
+{
+  "id": "actjogging",
+  "display_name": "Total jogging per week",
+  "description": "",
+  "type": "numeric",
+  "units": "minutes",
+  "calculation": "( ( actjogginghr * 60 ) + actjoggingmn ) * actjoggingdays"
+}

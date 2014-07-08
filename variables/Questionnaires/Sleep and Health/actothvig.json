@@ -1,0 +1,8 @@
+{
+  "id": "actothvig",
+  "display_name": "Total other vigorous exercises per week",
+  "description": "",
+  "type": "numeric",
+  "units": "minutes",
+  "calculation": "( ( actothvighr * 60 ) + actothvigmn ) * actothvigdays"
+}

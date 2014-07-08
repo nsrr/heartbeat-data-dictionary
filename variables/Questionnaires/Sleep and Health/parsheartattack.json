@@ -1,6 +1,6 @@
 {
   "id": "parsheartattack",
-  "display_name": "HHQB: Family: Heart Attack (parents)",
+  "display_name": "Family: Heart Attack (parents)",
   "description": "",
   "type": "choices",
   "domain":"noyes"

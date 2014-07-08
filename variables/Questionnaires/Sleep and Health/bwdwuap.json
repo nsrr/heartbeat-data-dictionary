@@ -1,7 +1,0 @@
-{
-  "id": "bwdwuap",
-  "display_name": "HHQB: Wake Up Weekdays (am/pm)",
-  "description": "",
-  "type": "choices",
-  "domain":"ampm"
-}

@@ -1,6 +1,6 @@
 {
   "id": "dxcanclung",
-  "display_name": "HHQB: Diagnosed: Cancer, if yes: Lung",
+  "display_name": "Diagnosed: Cancer, if yes: Lung",
   "description": "",
   "type": "choices",
   "domain":"noyes"

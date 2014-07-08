@@ -1,0 +1,7 @@
+{
+  "id": "actrunninghr",
+  "display_name": "Running (hours)",
+  "description": "",
+  "type": "numeric",
+  "units": "hours"
+}

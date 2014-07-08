@@ -1,0 +1,7 @@
+{
+  "id": "notenough",
+  "display_name": "Did not get enough sleep",
+  "description": "",
+  "type": "choices",
+  "domain":"hhqalways"
+}

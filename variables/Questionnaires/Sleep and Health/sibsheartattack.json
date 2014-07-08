@@ -1,6 +1,6 @@
 {
   "id": "sibsheartattack",
-  "display_name": "HHQB: Family: Heart Attack (siblings)",
+  "display_name": "Family: Heart Attack (siblings)",
   "description": "",
   "type": "choices",
   "domain":"noyes"

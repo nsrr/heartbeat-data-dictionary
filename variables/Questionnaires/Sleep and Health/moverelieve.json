@@ -1,0 +1,7 @@
+{
+  "id": "moverelieve",
+  "display_name": "Move to relieve pain",
+  "description": "",
+  "type": "choices",
+  "domain":"hhqalways"
+}

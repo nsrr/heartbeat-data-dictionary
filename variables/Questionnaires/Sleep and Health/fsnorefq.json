@@ -1,6 +1,6 @@
 {
   "id": "fsnorefq",
-  "display_name": "HHQF: Frequency of snoring in last month",
+  "display_name": "Frequency of snoring in last month",
   "description": "",
   "type": "choices",
   "domain":"hhqnightsperweeksnore"

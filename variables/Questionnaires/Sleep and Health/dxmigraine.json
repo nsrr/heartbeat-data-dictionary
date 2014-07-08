@@ -1,6 +1,6 @@
 {
   "id": "dxmigraine",
-  "display_name": "HHQB: Diagnosed: Migraine Headaches",
+  "display_name": "Diagnosed: Migraine Headaches",
   "description": "",
   "type": "choices",
   "domain":"noyes"

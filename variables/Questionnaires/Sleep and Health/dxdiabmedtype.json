@@ -1,6 +1,6 @@
 {
   "id": "dxdiabmedtype",
-  "display_name": "HHQB: Diagnosed: Diabetes, medication type",
+  "display_name": "Diagnosed: Diabetes, medication type",
   "description": "",
   "type": "choices",
   "domain":"insulinmed"

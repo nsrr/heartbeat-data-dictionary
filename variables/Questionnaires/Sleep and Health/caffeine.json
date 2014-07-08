@@ -1,6 +1,6 @@
 {
   "id": "caffeine",
-  "display_name": "HHQB: Caffeine consumption in last month",
+  "display_name": "Caffeine consumption in last month",
   "description": "",
   "type": "choices",
   "domain":"caffeineintakeamount"

@@ -1,6 +1,6 @@
 {
   "id": "hormonenever",
-  "display_name": "HHQB: Never took hormones",
+  "display_name": "Never took hormones",
   "description": "",
   "type": "choices",
   "domain":"check01"

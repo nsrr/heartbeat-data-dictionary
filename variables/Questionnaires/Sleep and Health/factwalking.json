@@ -1,8 +1,0 @@
-{
-  "id": "factwalking",
-  "display_name": "HHQF: Total walking exercise per week",
-  "description": "",
-  "type": "numeric",
-  "units": "minutes",
-  "calculation": "( ( factwalkinghr * 60 ) + factwalkingmn ) * factwalkingdays"
-}

@@ -1,6 +1,6 @@
 {
   "id": "hawaii",
-  "display_name": "HHQB: Race: Native Hawaiian or Other Pacific Islander",
+  "display_name": "Race: Native Hawaiian or Other Pacific Islander",
   "description": "",
   "type": "choices",
   "domain":"check01"

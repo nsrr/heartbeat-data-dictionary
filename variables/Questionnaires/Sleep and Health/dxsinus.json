@@ -1,6 +1,6 @@
 {
   "id": "dxsinus",
-  "display_name": "HHQB: Diagnosed: Sinus Problems",
+  "display_name": "Diagnosed: Sinus Problems",
   "description": "",
   "type": "choices",
   "domain":"noyes"

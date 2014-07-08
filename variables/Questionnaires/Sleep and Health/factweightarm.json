@@ -1,8 +1,0 @@
-{
-  "id": "factweightarm",
-  "display_name": "HHQF: Total arm exercise per week",
-  "description": "",
-  "type": "numeric",
-  "units": "minutes",
-  "calculation": "( ( factweightarmhr * 60 ) + factweightarmmn ) * factweightarmdays"
-}

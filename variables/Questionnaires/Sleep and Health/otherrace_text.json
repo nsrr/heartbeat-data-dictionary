@@ -1,6 +1,6 @@
 {
   "id": "otherrace_text",
-  "display_name": "HHQB: Race: Other (specify)",
+  "display_name": "Race: Other (specify)",
   "description": "",
   "type": "string"
 }

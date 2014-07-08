@@ -1,6 +1,6 @@
 {
   "id": "amerindian",
-  "display_name": "HHQB: Race: American Indian or Alaska Native",
+  "display_name": "Race: American Indian or Alaska Native",
   "description": "",
   "type": "choices",
   "domain":"check01"

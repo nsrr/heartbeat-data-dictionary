@@ -1,6 +1,6 @@
 {
   "id": "dxsclerosis",
-  "display_name": "HHQB: Diagnosed: Multiple Sclerosis",
+  "display_name": "Diagnosed: Multiple Sclerosis",
   "description": "",
   "type": "choices",
   "domain":"noyes"

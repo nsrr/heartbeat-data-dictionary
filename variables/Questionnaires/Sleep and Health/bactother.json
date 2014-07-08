@@ -1,8 +1,0 @@
-{
-  "id": "bactother",
-  "display_name": "HHQB: Total other exercise per week",
-  "description": "",
-  "type": "numeric",
-  "units": "minutes",
-  "calculation": "( ( bactotherhr * 60 ) + bactothermn ) * bactotherdays"
-}

@@ -1,7 +1,0 @@
-{
-  "id": "fpainbegin",
-  "display_name": "HHQF: Pain begins while standing still or sitting",
-  "description": "",
-  "type": "choices",
-  "domain":"noyes"
-}

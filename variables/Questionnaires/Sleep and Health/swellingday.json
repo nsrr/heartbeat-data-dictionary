@@ -1,0 +1,7 @@
+{
+  "id": "swellingday",
+  "display_name": "Swelling comes on during the day",
+  "description": "",
+  "type": "choices",
+  "domain":"noyes"
+}

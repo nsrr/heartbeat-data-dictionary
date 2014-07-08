@@ -1,7 +1,0 @@
-{
-  "id": "fwdwuap",
-  "display_name": "HHQF: Wake Up Weekdays (am/pm)",
-  "description": "",
-  "type": "choices",
-  "domain":"ampm"
-}

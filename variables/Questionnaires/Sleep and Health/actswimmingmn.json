@@ -1,0 +1,7 @@
+{
+  "id": "actswimmingmn",
+  "display_name": "Swimming (minutes)",
+  "description": "",
+  "type": "numeric",
+  "units": "minutes"
+}

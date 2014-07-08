@@ -1,6 +1,6 @@
 {
   "id": "employment_text",
-  "display_name": "HHQB: Unable to work because (specify)",
+  "display_name": "Unable to work because (specify)",
   "description": "",
   "type": "string"
 }

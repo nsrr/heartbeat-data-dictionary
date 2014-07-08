@@ -1,7 +1,0 @@
-{
-  "id": "fswellingday",
-  "display_name": "HHQF: Swelling comes on during the day",
-  "description": "",
-  "type": "choices",
-  "domain":"noyes"
-}

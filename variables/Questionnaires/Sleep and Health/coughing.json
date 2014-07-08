@@ -1,0 +1,7 @@
+{
+  "id": "coughing",
+  "display_name": "Awakened in last month, coughing or wheezing",
+  "description": "",
+  "type": "choices",
+  "domain":"hhqalways"
+}

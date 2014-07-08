@@ -1,6 +1,6 @@
 {
   "id": "dxlivercirr",
-  "display_name": "HHQB: Diagnosed: Liver Disease, If yes: Cirrhosis",
+  "display_name": "Diagnosed: Liver Disease, If yes: Cirrhosis",
   "description": "",
   "type": "choices",
   "domain":"noyes"

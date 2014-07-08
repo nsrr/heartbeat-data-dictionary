@@ -1,0 +1,7 @@
+{
+  "id": "paindisappear",
+  "display_name": "Pain disappears while walking",
+  "description": "",
+  "type": "choices",
+  "domain":"noyes"
+}

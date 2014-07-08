@@ -1,0 +1,7 @@
+{
+  "id": "heartburn",
+  "display_name": "Awakened in the last month by heartburn or indigestion",
+  "description": "",
+  "type": "choices",
+  "domain":"hhqalways"
+}

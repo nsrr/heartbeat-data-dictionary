@@ -1,0 +1,8 @@
+{
+  "id": "actbicycling",
+  "display_name": "Total bicycling per week",
+  "description": "",
+  "type": "numeric",
+  "units": "minutes",
+  "calculation": "( ( actbicyclinghr * 60 ) + actbicyclingmn ) * actbicyclingdays"
+}

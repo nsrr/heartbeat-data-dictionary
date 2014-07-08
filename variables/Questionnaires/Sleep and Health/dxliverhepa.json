@@ -1,6 +1,6 @@
 {
   "id": "dxliverhepa",
-  "display_name": "HHQB: Diagnosed: Liver Disease, If yes: Hepatitis",
+  "display_name": "Diagnosed: Liver Disease, If yes: Hepatitis",
   "description": "",
   "type": "choices",
   "domain":"noyes"

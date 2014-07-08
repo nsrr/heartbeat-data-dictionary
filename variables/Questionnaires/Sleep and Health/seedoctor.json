@@ -1,0 +1,7 @@
+{
+  "id": "seedoctor",
+  "display_name": "In the last month, did you see a doctor because of this pain",
+  "description": "",
+  "type": "choices",
+  "domain":"noyes"
+}

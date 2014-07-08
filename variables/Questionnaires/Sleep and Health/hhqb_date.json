@@ -1,7 +1,0 @@
-{
-  "id": "hhqb_date",
-  "display_name": "HHQB: Date Completed",
-  "description": "",
-  "type": "numeric",
-  "units": "days from index date"
-}

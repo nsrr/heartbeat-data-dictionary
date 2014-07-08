@@ -1,0 +1,8 @@
+{
+  "id": "actswimming",
+  "display_name": "Total swimming per week",
+  "description": "",
+  "type": "numeric",
+  "units": "minutes",
+  "calculation": "( ( actswimminghr * 60 ) + actswimmingmn ) * actswimmingdays"
+}

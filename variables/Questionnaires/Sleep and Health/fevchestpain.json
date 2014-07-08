@@ -1,7 +1,0 @@
-{
-  "id": "fevchestpain",
-  "display_name": "HHQF: Ever had pain or discomfort in chest",
-  "description": "",
-  "type": "choices",
-  "domain":"noyes"
-}

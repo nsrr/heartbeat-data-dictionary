@@ -1,7 +1,0 @@
-{
-  "id": "bsnortedfq",
-  "display_name": "HHQB: Frequency of snorting or gasping in the last month",
-  "description": "",
-  "type": "choices",
-  "domain":"hhqnightsperweek"
-}

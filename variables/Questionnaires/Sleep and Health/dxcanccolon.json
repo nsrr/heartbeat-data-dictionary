@@ -1,6 +1,6 @@
 {
   "id": "dxcanccolon",
-  "display_name": "HHQB: Diagnosed: Cancer, if yes: Colon",
+  "display_name": "Diagnosed: Cancer, if yes: Colon",
   "description": "",
   "type": "choices",
   "domain":"noyes"

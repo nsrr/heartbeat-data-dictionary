@@ -1,6 +1,6 @@
 {
-  "id": "black",
-  "display_name": "HHQB: Race: Black or African American",
+  "id": "lack",
+  "display_name": "Race: Black or African American",
   "description": "",
   "type": "choices",
   "domain":"check01"

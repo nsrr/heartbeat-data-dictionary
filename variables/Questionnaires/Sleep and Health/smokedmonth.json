@@ -1,6 +1,6 @@
 {
   "id": "smokedmonth",
-  "display_name": "HHQB: Smoked cigarettes in last month",
+  "display_name": "Smoked cigarettes in last month",
   "description": "",
   "type": "choices",
   "domain":"noyes"

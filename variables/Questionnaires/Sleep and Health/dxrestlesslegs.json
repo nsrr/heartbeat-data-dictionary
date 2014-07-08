@@ -1,6 +1,6 @@
 {
   "id": "dxrestlesslegs",
-  "display_name": "HHQB: Diagnosed: Restless Legs or Periodic Leg Movements",
+  "display_name": "Diagnosed: Restless Legs or Periodic Leg Movements",
   "description": "",
   "type": "choices",
   "domain":"noyes"

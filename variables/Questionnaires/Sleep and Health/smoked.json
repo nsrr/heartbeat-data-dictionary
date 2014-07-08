@@ -1,6 +1,6 @@
 {
   "id": "smoked",
-  "display_name": "HHQB: Ever smoked cigarettes",
+  "display_name": "Ever smoked cigarettes",
   "description": "",
   "type": "choices",
   "domain":"noyes"

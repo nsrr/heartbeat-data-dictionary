@@ -1,6 +1,6 @@
 {
   "id": "hysterectomy",
-  "display_name": "HHQB: Had hysterectomy",
+  "display_name": "Had hysterectomy",
   "description": "",
   "type": "choices",
   "domain":"yesno123"

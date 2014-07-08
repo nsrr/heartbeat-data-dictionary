@@ -1,6 +1,6 @@
 {
   "id": "hormonetype_text",
-  "display_name": "HHQB: Hormone therapy type (specify)",
+  "display_name": "Hormone therapy type (specify)",
   "description": "",
   "type": "string"
 }

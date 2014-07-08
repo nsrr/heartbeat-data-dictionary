@@ -1,0 +1,7 @@
+{
+  "id": "snorted",
+  "display_name": "Snorted or gasped in the last month",
+  "description": "",
+  "type": "choices",
+  "domain":"noyes"
+}

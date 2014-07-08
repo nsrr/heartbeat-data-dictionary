@@ -1,6 +1,6 @@
 {
   "id": "dxcancbreast",
-  "display_name": "HHQB: Diagnosed: Cancer, if yes: Breast",
+  "display_name": "Diagnosed: Cancer, if yes: Breast",
   "description": "",
   "type": "choices",
   "domain":"noyes"

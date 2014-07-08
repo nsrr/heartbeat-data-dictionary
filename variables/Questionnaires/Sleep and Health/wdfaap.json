@@ -1,0 +1,7 @@
+{
+  "id": "wdfaap",
+  "display_name": "Fall Asleep Weekdays (am/pm)",
+  "description": "",
+  "type": "choices",
+  "domain":"ampm"
+}

@@ -1,6 +1,6 @@
 {
   "id": "dxdepression",
-  "display_name": "HHQB: Diagnosed: Depression",
+  "display_name": "Diagnosed: Depression",
   "description": "",
   "type": "choices",
   "domain":"noyes"

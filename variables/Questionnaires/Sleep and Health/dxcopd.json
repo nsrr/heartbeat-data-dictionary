@@ -1,6 +1,6 @@
 {
   "id": "dxcopd",
-  "display_name": "HHQB: Diagnosed: Emphysema or COPD",
+  "display_name": "Diagnosed: Emphysema or COPD",
   "description": "",
   "type": "choices",
   "domain":"noyes"

@@ -1,7 +1,0 @@
-{
-  "id": "fworserest",
-  "display_name": "HHQF: Symptoms worse when at rest",
-  "description": "",
-  "type": "choices",
-  "domain":"noyes"
-}

@@ -1,6 +1,6 @@
 {
   "id": "dxcanc",
-  "display_name": "HHQB: Diagnosed: Cancer",
+  "display_name": "Diagnosed: Cancer",
   "description": "",
   "type": "choices",
   "domain":"noyes"

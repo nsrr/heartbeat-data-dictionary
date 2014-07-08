@@ -1,6 +1,6 @@
 {
   "id": "ethnicity",
-  "display_name": "HHQB: Ethnicity",
+  "display_name": "Ethnicity",
   "description": "",
   "type": "choices",
   "domain":"ethnicity"

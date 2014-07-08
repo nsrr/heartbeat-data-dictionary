@@ -1,6 +1,6 @@
 {
   "id": "dxdiabmedno",
-  "display_name": "HHQB: Diagnosed: Diabetes, no medications, diet or nothing",
+  "display_name": "Diagnosed: Diabetes, no medications, diet or nothing",
   "description": "",
   "type": "choices",
   "domain":"dietyesno"

@@ -1,6 +1,6 @@
 {
   "id": "dxbronchitis",
-  "display_name": "HHQB: Diagnosed: Chronic Bronchitis",
+  "display_name": "Diagnosed: Chronic Bronchitis",
   "description": "",
   "type": "choices",
   "domain":"noyes"

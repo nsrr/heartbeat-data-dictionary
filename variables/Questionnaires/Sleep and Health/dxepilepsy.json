@@ -1,6 +1,6 @@
 {
   "id": "dxepilepsy",
-  "display_name": "HHQB: Diagnosed: Epilepsy (Seizure Disorder)",
+  "display_name": "Diagnosed: Epilepsy (Seizure Disorder)",
   "description": "",
   "type": "choices",
   "domain":"noyes"

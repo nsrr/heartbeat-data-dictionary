@@ -1,0 +1,7 @@
+{
+  "id": "actjoggingmn",
+  "display_name": "Jogging (minutes)",
+  "description": "",
+  "type": "numeric",
+  "units": "minutes"
+}

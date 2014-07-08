@@ -1,7 +1,0 @@
-{
-  "id": "bwalkhurry",
-  "display_name": "HHQB: Get pain if walk uphill or hurrying",
-  "description": "",
-  "type": "choices",
-  "domain":"yesno128"
-}

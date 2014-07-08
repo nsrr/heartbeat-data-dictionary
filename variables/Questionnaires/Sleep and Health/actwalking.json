@@ -1,0 +1,8 @@
+{
+  "id": "actwalking",
+  "display_name": "Total walking exercise per week",
+  "description": "",
+  "type": "numeric",
+  "units": "minutes",
+  "calculation": "( ( actwalkinghr * 60 ) + actwalkingmn ) * actwalkingdays"
+}

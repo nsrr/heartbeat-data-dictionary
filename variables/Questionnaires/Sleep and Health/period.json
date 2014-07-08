@@ -1,6 +1,6 @@
 {
   "id": "period",
-  "display_name": "HHQB: Had menstrual period in past 12 months",
+  "display_name": "Had menstrual period in past 12 months",
   "description": "",
   "type": "choices",
   "domain":"noyes"

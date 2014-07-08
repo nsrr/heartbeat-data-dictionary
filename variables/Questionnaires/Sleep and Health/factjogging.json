@@ -1,8 +1,0 @@
-{
-  "id": "factjogging",
-  "display_name": "HHQF: Total jogging per week",
-  "description": "",
-  "type": "numeric",
-  "units": "minutes",
-  "calculation": "( ( factjogginghr * 60 ) + factjoggingmn ) * factjoggingdays"
-}

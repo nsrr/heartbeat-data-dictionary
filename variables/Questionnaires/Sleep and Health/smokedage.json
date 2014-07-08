@@ -1,6 +1,6 @@
 {
   "id": "smokedage",
-  "display_name": "HHQB: Age started smoking",
+  "display_name": "Age started smoking",
   "description": "",
   "type": "numeric",
   "units": "years"

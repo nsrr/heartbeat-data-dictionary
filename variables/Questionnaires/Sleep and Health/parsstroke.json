@@ -1,6 +1,6 @@
 {
   "id": "parsstroke",
-  "display_name": "HHQB: Family: Stroke (parents)",
+  "display_name": "Family: Stroke (parents)",
   "description": "",
   "type": "choices",
   "domain":"noyes"

@@ -1,6 +1,6 @@
 {
   "id": "dxbowel",
-  "display_name": "HHQB: Diagnosed: Inflammatory Bowel Disease (Ulcerative Colitis or Crohns Disease)",
+  "display_name": "Diagnosed: Inflammatory Bowel Disease (Ulcerative Colitis or Crohns Disease)",
   "description": "",
   "type": "choices",
   "domain":"noyes"

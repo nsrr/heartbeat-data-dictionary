@@ -1,6 +1,6 @@
 {
   "id": "dxcarotid",
-  "display_name": "HHQB: Diagnosed: Carotid Surgery (Endarterectomy)",
+  "display_name": "Diagnosed: Carotid Surgery (Endarterectomy)",
   "description": "",
   "type": "choices",
   "domain":"noyes"

@@ -1,6 +1,6 @@
 {
   "id": "smokedfrq",
-  "display_name": "HHQB: Number of cigarettes per day on average",
+  "display_name": "Number of cigarettes per day on average",
   "description": "",
   "type": "numeric",
   "units": "cigarettes"

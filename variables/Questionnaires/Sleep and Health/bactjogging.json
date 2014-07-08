@@ -1,8 +1,0 @@
-{
-  "id": "bactjogging",
-  "display_name": "HHQB: Total jogging per week",
-  "description": "",
-  "type": "numeric",
-  "units": "minutes",
-  "calculation": "( ( bactjogginghr * 60 ) + bactjoggingmn ) * bactjoggingdays"
-}

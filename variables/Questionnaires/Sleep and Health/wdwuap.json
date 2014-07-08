@@ -1,0 +1,7 @@
+{
+  "id": "wdwuap",
+  "display_name": "Wake Up Weekdays (am/pm)",
+  "description": "",
+  "type": "choices",
+  "domain":"ampm"
+}

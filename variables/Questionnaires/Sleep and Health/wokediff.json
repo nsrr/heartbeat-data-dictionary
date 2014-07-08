@@ -1,0 +1,7 @@
+{
+  "id": "wokediff",
+  "display_name": "Woke up during the night and had difficulty getting back to sleep",
+  "description": "",
+  "type": "choices",
+  "domain":"hhqalways"
+}

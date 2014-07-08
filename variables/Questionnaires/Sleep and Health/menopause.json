@@ -1,6 +1,6 @@
 {
   "id": "menopause",
-  "display_name": "HHQB: Gone through menopause",
+  "display_name": "Gone through menopause",
   "description": "",
   "type": "choices",
   "domain":"noyes"

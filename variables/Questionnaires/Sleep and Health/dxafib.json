@@ -1,6 +1,6 @@
 {
   "id": "dxafib",
-  "display_name": "HHQB: Diagnosed: Atrial Fibrillation",
+  "display_name": "Diagnosed: Atrial Fibrillation",
   "description": "",
   "type": "choices",
   "domain":"noyes"

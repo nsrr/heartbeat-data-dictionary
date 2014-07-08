@@ -1,0 +1,7 @@
+{
+  "id": "stopbreath",
+  "display_name": "Stopped breathing in the last month",
+  "description": "",
+  "type": "choices",
+  "domain":"noyes"
+}

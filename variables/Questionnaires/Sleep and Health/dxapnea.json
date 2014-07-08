@@ -1,6 +1,6 @@
 {
   "id": "dxapnea",
-  "display_name": "HHQB: Diagnosed: Sleep Apnea",
+  "display_name": "Diagnosed: Sleep Apnea",
   "description": "",
   "type": "choices",
   "domain":"noyes"

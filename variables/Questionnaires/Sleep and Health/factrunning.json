@@ -1,8 +1,0 @@
-{
-  "id": "factrunning",
-  "display_name": "HHQF: Total running per week",
-  "description": "",
-  "type": "numeric",
-  "units": "minutes",
-  "calculation": "( ( factrunninghr * 60 ) + factrunningmn ) * factrunningdays"
-}

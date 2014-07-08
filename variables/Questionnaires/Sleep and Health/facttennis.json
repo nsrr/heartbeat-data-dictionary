@@ -1,8 +1,0 @@
-{
-  "id": "facttennis",
-  "display_name": "HHQF: Total tennis per week",
-  "description": "",
-  "type": "numeric",
-  "units": "minutes",
-  "calculation": "( ( facttennishr * 60 ) + facttennismn ) * facttennisdays"
-}

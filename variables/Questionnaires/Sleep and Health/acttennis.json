@@ -1,0 +1,8 @@
+{
+  "id": "acttennis",
+  "display_name": "Total tennis per week",
+  "description": "",
+  "type": "numeric",
+  "units": "minutes",
+  "calculation": "( ( acttennishr * 60 ) + acttennismn ) * acttennisdays"
+}

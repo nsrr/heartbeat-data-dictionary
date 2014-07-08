@@ -1,6 +1,6 @@
 {
   "id": "dxheartattack",
-  "display_name": "HHQB: Diagnosed: Heart attack",
+  "display_name": "Diagnosed: Heart attack",
   "description": "",
   "type": "choices",
   "domain":"noyes"

@@ -1,7 +1,0 @@
-{
-  "id": "fseedoctor",
-  "display_name": "HHQF: In last month, did you see a doctor because of this pain",
-  "description": "",
-  "type": "choices",
-  "domain":"noyes"
-}

@@ -1,0 +1,7 @@
+{
+  "id": "painwalk",
+  "display_name": "Pain while walking in last month",
+  "description": "",
+  "type": "choices",
+  "domain":"noyes"
+}

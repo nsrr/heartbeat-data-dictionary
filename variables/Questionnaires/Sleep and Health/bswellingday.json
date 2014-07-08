@@ -1,7 +1,0 @@
-{
-  "id": "bswellingday",
-  "display_name": "HHQB: Swelling comes on during the day",
-  "description": "",
-  "type": "choices",
-  "domain":"noyes"
-}

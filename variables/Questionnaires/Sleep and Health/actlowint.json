@@ -1,0 +1,8 @@
+{
+  "id": "actlowint",
+  "display_name": "Total low intensity exercises per week",
+  "description": "",
+  "type": "numeric",
+  "units": "minutes",
+  "calculation": "( ( actlowinthr * 60 ) + actlowintmn ) * actlowintdays"
+}

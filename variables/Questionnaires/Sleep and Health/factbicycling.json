@@ -1,8 +1,0 @@
-{
-  "id": "factbicycling",
-  "display_name": "HHQF: Total bicycling per week",
-  "description": "",
-  "type": "numeric",
-  "units": "minutes",
-  "calculation": "( ( factbicyclinghr * 60 ) + factbicyclingmn ) * factbicyclingdays"
-}

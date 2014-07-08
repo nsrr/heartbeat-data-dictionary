@@ -1,6 +1,6 @@
 {
   "id": "kidsstroke",
-  "display_name": "HHQB: Family: Stroke (children)",
+  "display_name": "Family: Stroke (children)",
   "description": "",
   "type": "choices",
   "domain":"noyes"

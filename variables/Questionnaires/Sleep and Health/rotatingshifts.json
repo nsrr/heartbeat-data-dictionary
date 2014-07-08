@@ -1,6 +1,6 @@
 {
   "id": "rotatingshifts",
-  "display_name": "HHQB: Work rotating night shifts",
+  "display_name": "Work rotating night shifts",
   "description": "",
   "type": "choices",
   "domain":"noyes"

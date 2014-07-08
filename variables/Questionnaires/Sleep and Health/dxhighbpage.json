@@ -1,6 +1,6 @@
 {
   "id": "dxhighbpage",
-  "display_name": "HHQB: Diagnosed: HBP, age first treated",
+  "display_name": "Diagnosed: HBP, age first treated",
   "description": "",
   "type": "numeric",
   "units":"years"

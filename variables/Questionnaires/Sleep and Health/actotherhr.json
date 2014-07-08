@@ -1,0 +1,7 @@
+{
+  "id": "actotherhr",
+  "display_name": "Other exercise (hours)",
+  "description": "",
+  "type": "numeric",
+  "units": "hours"
+}

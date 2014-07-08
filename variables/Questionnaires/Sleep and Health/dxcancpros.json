@@ -1,6 +1,6 @@
 {
   "id": "dxcancpros",
-  "display_name": "HHQB: Diagnosed: Cancer, if yes: Prostate",
+  "display_name": "Diagnosed: Cancer, if yes: Prostate",
   "description": "",
   "type": "choices",
   "domain":"noyes"

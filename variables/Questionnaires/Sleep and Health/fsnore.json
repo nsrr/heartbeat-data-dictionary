@@ -1,6 +1,6 @@
 {
   "id": "fsnore",
-  "display_name": "HHQF: Snored in last month",
+  "display_name": "Snored in last month",
   "description": "",
   "type": "choices",
   "domain":"noyes"

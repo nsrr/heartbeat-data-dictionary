@@ -1,6 +1,6 @@
 {
   "id": "race_white",
-  "display_name": "HHQB: White Race (0/1)",
+  "display_name": "White Race (0/1)",
   "description": "",
   "type": "choices",
   "domain":"yesno"

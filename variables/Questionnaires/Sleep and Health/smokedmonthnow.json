@@ -1,6 +1,6 @@
 {
   "id": "smokedmonthnow",
-  "display_name": "HHQB: Current number of cigarettes per day",
+  "display_name": "Current number of cigarettes per day",
   "description": "",
   "type": "numeric",
   "units": "cigarettes"

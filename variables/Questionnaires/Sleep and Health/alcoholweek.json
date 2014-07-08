@@ -1,6 +1,6 @@
 {
   "id": "alcoholweek",
-  "display_name": "HHQB: Days in a week consuming alcohol over last year",
+  "display_name": "Days in a week consuming alcohol over last year",
   "description": "",
   "type": "choices",
   "domain":"days"

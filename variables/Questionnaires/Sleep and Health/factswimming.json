@@ -1,8 +1,0 @@
-{
-  "id": "factswimming",
-  "display_name": "HHQF: Total swimming per week",
-  "description": "",
-  "type": "numeric",
-  "units": "minutes",
-  "calculation": "( ( factswimminghr * 60 ) + factswimmingmn ) * factswimmingdays"
-}

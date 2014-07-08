@@ -1,8 +1,0 @@
-{
-  "id": "bactrunning",
-  "display_name": "HHQB: Total running per week",
-  "description": "",
-  "type": "numeric",
-  "units": "minutes",
-  "calculation": "( ( bactrunninghr * 60 ) + bactrunningmn ) * bactrunningdays"
-}

@@ -1,0 +1,7 @@
+{
+  "id": "actlowintmn",
+  "display_name": "Lower intensity exercise (minutes)",
+  "description": "",
+  "type": "numeric",
+  "units": "minutes"
+}

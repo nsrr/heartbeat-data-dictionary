@@ -1,0 +1,7 @@
+{
+  "id": "actjoggingdays",
+  "display_name": "Jogging (days per week)",
+  "description": "",
+  "type": "numeric",
+  "units": "days per week"
+}
