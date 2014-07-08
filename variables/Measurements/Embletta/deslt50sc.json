@@ -1,6 +1,6 @@
 {
   "id": "deslt50sc",
-  "display_name": "Embletta: Sp02 Range/Position: <50% Cumul. Supine (min)",
+  "display_name": "Sp02 Range/Position: Less than 50% Cumulative Supine",
   "description": "",
   "type": "numeric",
   "units": "minutes"

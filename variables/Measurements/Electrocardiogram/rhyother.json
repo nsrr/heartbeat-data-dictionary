@@ -1,6 +1,6 @@
 {
   "id": "rhyother",
-  "display_name": "ECG: Other rhythm",
+  "display_name": "Other rhythm",
   "description": "",
   "type": "choices",
   "domain": "check01"

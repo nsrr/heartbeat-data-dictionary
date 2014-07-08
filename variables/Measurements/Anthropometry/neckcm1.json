@@ -1,6 +1,6 @@
 {
   "id": "neckcm1",
-  "display_name": "Physical Measurements: Neck measurement 1",
+  "display_name": "Neck measurement 1",
   "description": "",
   "type": "numeric",
   "units": "centimeters"

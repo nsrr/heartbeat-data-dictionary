@@ -1,6 +1,6 @@
 {
   "id": "pulse1",
-  "display_name": "Physical Measurements: First Pulse Measurement",
+  "display_name": "First Pulse Measurement",
   "description": "",
   "type": "numeric",
   "units": "beats per minute"

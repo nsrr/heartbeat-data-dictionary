@@ -1,6 +1,6 @@
 {
   "id": "ndesat5",
-  "display_name": "Embletta: Desaturation Fall: <5% Number",
+  "display_name": "Desaturation Fall: Less than 5% Number",
   "description": "",
   "type": "numeric",
   "units": ""

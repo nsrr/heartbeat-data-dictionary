@@ -1,6 +1,6 @@
 {
   "id": "meas_date",
-  "display_name": "Physical Measurements: Date Completed",
+  "display_name": "Date physical measurements completed",
   "description": "",
   "type": "numeric",
   "units": "days from index date"

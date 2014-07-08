@@ -1,6 +1,6 @@
 {
   "id": "normrhythm",
-  "display_name": "ECG: Normal sinus rhythm",
+  "display_name": "Normal sinus rhythm",
   "description": "",
   "type": "choices",
   "domain": "check01"

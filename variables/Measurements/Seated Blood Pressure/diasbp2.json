@@ -1,6 +1,6 @@
 {
   "id": "diasbp2",
-  "display_name": "Physical Measurements: Second Diastolic Blood Pressure Measurement",
+  "display_name": "Second Diastolic Blood Pressure Measurement",
   "description": "",
   "type": "numeric",
   "units": "millimeters of mercury"

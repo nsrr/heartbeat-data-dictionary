@@ -1,6 +1,6 @@
 {
   "id": "ndesat10h",
-  "display_name": "Embletta: Desaturation Fall: 5-9% oximetry desaturations per hour",
+  "display_name": "Desaturation Fall: 5-9% oximetry desaturations per hour",
   "description": "",
   "type": "numeric",
   "units": "desaturations per hour"

@@ -1,6 +1,6 @@
 {
   "id": "oalt50",
-  "display_name": "Embletta: Apnea-Desat Relation: <=50% Obstructive",
+  "display_name": "Apnea-Desat Relation: Less than or equal to 50% obstructive apneas",
   "description": "",
   "type": "numeric",
   "units": ""

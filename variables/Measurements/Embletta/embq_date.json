@@ -1,6 +1,6 @@
 {
   "id": "embq_date",
-  "display_name": "Embletta: Date embletta performed",
+  "display_name": "Date embletta performed",
   "description": "",
   "type": "numeric",
   "units": "days from index date"

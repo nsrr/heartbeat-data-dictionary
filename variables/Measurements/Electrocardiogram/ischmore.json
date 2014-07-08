@@ -1,6 +1,6 @@
 {
   "id": "ischmore",
-  "display_name": "ECG: Ischemia Pattern: More than 1 pattern",
+  "display_name": "Ischemia Pattern: More than 1 pattern",
   "description": "",
   "type": "choices",
   "domain": "check01"

@@ -1,6 +1,6 @@
 {
   "id": "noaa",
-  "display_name": "Embletta: Apnea/Hypopnea: Obstructive Apneas or Hypopneas per hour",
+  "display_name": "Apnea/Hypopnea: Obstructive Apneas or Hypopneas per hour",
   "description": "",
   "type": "numeric",
   "units": "events per hour"

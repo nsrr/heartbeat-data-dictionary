@@ -1,6 +1,6 @@
 {
   "id": "ca90s",
-  "display_name": "Embletta: Apnea-Desat Relation: >90% Central",
+  "display_name": "Apnea-Desat Relation: Greater than 90% Central",
   "description": "",
   "type": "numeric",
   "units": "events"

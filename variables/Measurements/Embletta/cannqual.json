@@ -1,6 +1,6 @@
 {
   "id": "cannqual",
-  "display_name": "Embletta QS: Cannula Quality",
+  "display_name": "Cannula Quality",
   "description": "",
   "type": "choices",
   "domain": "qualdata"

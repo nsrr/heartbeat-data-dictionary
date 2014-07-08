@@ -1,6 +1,6 @@
 {
   "id": "exclsat",
-  "display_name": "Embletta QS: Exclusion Saturation",
+  "display_name": "Exclusion Saturation",
   "description": "",
   "type": "choices",
   "domain": "check01"

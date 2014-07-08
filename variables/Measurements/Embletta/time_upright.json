@@ -1,7 +1,7 @@
 {
   "id": "time_upright",
-  "display_name": "Embletta: Upright Time (min)",
+  "display_name": "Upright Time",
   "description": "",
-  "type": "integer",
+  "type": "numeric",
   "units": "minutes"
 }

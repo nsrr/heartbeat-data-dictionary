@@ -1,6 +1,6 @@
 {
   "id": "ndesatch",
-  "display_name": "Embletta: Desaturation Fall: Total Cumulative OD/h",
+  "display_name": "Desaturation Fall: Total Cumulative Oximetery Desaturations per hour",
   "description": "",
   "type": "numeric",
   "units": ""

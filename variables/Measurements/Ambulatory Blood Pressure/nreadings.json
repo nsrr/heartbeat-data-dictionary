@@ -1,6 +1,6 @@
 {
   "id": "nreadings",
-  "display_name": "24BP: Number of Readings",
+  "display_name": "Number of Readings",
   "description": "",
   "type": "numeric",
   "units": "readings"

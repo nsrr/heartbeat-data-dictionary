@@ -1,6 +1,6 @@
 {
   "id": "nmis",
-  "display_name": "Embletta: Apnea/Hypopnea: Mixed Supine",
+  "display_name": "Apnea/Hypopnea: Mixed Supine",
   "description": "",
   "type": "numeric",
   "units": "events"

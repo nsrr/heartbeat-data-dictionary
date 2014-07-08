@@ -1,6 +1,6 @@
 {
   "id": "atrialenl",
-  "display_name": "ECG: Atrial Enlargement",
+  "display_name": "Atrial Enlargement",
   "description": "",
   "type": "choices",
   "domain": "atrialenl"

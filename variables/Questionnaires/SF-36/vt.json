@@ -1,6 +1,6 @@
 {
   "id": "vt",
-  "display_name": "SF-36: Vitality Scale (transformed 0-100)",
+  "display_name": "Vitality Scale (transformed 0-100)",
   "description": "",
   "type": "numeric",
   "units": ""

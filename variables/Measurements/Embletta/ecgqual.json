@@ -1,6 +1,6 @@
 {
   "id": "ecgqual",
-  "display_name": "Embletta QS: ECG Quality",
+  "display_name": "ECG Quality",
   "description": "",
   "type": "choices",
   "domain": "qualdata"

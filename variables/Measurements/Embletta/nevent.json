@@ -1,6 +1,6 @@
 {
   "id": "nevent",
-  "display_name": "Embletta: Apnea/Hypopnea: Total Number",
+  "display_name": "Apnea/Hypopnea: Total Number",
   "description": "",
   "type": "numeric",
   "units": ""

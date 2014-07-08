@@ -1,6 +1,6 @@
 {
   "id": "phqtotal",
-  "display_name": "PHQ-9: Sum of Items 1-9",
+  "display_name": "Sum of Items 1-9",
   "description": "",
   "type": "numeric",
   "units": ""

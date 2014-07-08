@@ -1,6 +1,6 @@
 {
   "id": "alertafib",
-  "display_name": "Embletta QS: Alert A-fib",
+  "display_name": "Alert A-fib",
   "description": "",
   "type": "choices",
   "domain": "check01"

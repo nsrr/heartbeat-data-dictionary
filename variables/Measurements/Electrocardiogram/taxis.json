@@ -1,7 +1,7 @@
 {
   "id": "taxis",
-  "display_name": "ECG: T Axis",
-  "description": "",
+  "display_name": "T Axis",
+  "description": "Average direction of electrical activity during the T wave",
   "type": "numeric",
   "units": ""
 }

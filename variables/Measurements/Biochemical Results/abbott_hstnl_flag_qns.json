@@ -1,6 +1,6 @@
 {
   "id": "abbott_hstnl_flag_qns",
-  "display_name": "Abbott High-Sensitivity Troponin-l test: undetectable levels",
+  "display_name": "Abbott High-Sensitivity Troponin-I test: undetectable levels",
   "description": "",
   "type": "choices",
   "domain": "yesno"

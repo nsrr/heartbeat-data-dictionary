@@ -1,6 +1,6 @@
 {
   "id": "studyqual",
-  "display_name": "Embletta QS: Study Quality",
+  "display_name": "Study Quality",
   "description": "",
   "type": "choices",
   "domain": "studyqual"

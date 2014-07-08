@@ -1,7 +1,7 @@
 {
   "id": "vrhr",
-  "display_name": "ECG: Ventricular Rate to heart rate",
-  "description": "",
+  "display_name": "Ventricular rate to heart rate",
+  "description": "Ratio of the ventricular rate to the heart rate",
   "type": "numeric",
-  "units": "beats per minute"
+  "units": ""
 }

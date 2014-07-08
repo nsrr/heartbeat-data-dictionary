@@ -1,6 +1,6 @@
 {
   "id": "slppctright",
-  "display_name": "Embletta: Position: Right (%)",
+  "display_name": "Position: Right",
   "description": "",
   "type": "numeric",
   "units": "percent"

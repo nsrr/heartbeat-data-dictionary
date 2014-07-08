@@ -1,6 +1,6 @@
 {
   "id": "sintach",
-  "display_name": "ECG: Sinus tachycardia",
+  "display_name": "Sinus tachycardia",
   "description": "",
   "type": "choices",
   "domain": "check01"

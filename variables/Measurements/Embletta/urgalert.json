@@ -1,6 +1,6 @@
 {
   "id": "urgalert",
-  "display_name": "Embletta QS: Urgent Alert",
+  "display_name": "Urgent Alert",
   "description": "",
   "type": "choices",
   "domain": "yesno"

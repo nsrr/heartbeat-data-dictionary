@@ -1,6 +1,6 @@
 {
   "id": "qrsivcd",
-  "display_name": "ECG: QRS Conduction Block: Intravient Conduction Delay",
+  "display_name": "QRS Conduction Block: Intravient Conduction Delay",
   "description": "",
   "type": "choices",
   "domain": "check01"

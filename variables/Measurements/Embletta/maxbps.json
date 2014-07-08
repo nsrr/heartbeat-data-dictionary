@@ -1,6 +1,6 @@
 {
   "id": "maxbps",
-  "display_name": "Embletta: Pulse: Supine Maximum",
+  "display_name": "Pulse: Supine Maximum",
   "description": "",
   "type": "numeric",
   "units": "beats per minute"

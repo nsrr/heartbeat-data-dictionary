@@ -1,6 +1,6 @@
 {
   "id": "plethqual",
-  "display_name": "Embletta QS: Plethysmography Quality",
+  "display_name": "Plethysmography Quality",
   "description": "",
   "type": "choices",
   "domain": "qualdata"

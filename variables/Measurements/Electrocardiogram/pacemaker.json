@@ -1,6 +1,6 @@
 {
   "id": "pacemaker",
-  "display_name": "ECG: Pacemaker",
+  "display_name": "Pacemaker",
   "description": "",
   "type": "choices",
   "domain": "check01"

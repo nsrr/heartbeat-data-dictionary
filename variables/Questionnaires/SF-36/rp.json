@@ -1,6 +1,6 @@
 {
   "id": "rp",
-  "display_name": "SF-36: Role Physical Scale (transformed 0-100)",
+  "display_name": "Role Physical Scale (transformed 0-100)",
   "description": "",
   "type": "numeric",
   "units": ""

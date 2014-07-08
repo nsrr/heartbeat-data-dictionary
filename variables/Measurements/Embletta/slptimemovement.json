@@ -1,6 +1,6 @@
 {
   "id": "slptimemovement",
-  "display_name": "Embletta: Position: Movement (min)",
+  "display_name": "Position: Movement",
   "description": "",
   "type": "numeric",
   "units": "minutes"
