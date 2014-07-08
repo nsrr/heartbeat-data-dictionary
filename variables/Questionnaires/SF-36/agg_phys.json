@@ -1,6 +1,6 @@
 {
   "id": "agg_phys",
-  "display_name": "SF-36: Aggregate Physical Norm Score",
+  "display_name": "Aggregate Physical Norm Score",
   "description": "",
   "type": "numeric",
   "units": ""

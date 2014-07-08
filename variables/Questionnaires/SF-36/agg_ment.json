@@ -1,6 +1,6 @@
 {
   "id": "agg_ment",
-  "display_name": "SF-36: Aggregate Mental Norm Score",
+  "display_name": "Aggregate Mental Norm Score",
   "description": "",
   "type": "numeric",
   "units": ""
