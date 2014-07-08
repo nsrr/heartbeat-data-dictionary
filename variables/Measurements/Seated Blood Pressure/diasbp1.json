@@ -1,6 +1,6 @@
 {
   "id": "diasbp1",
-  "display_name": "Physical Measurements: First Diastolic Blood Pressure Measurement",
+  "display_name": "First Diastolic Blood Pressure Measurement",
   "description": "",
   "type": "numeric",
   "units": "millimeters of mercury"

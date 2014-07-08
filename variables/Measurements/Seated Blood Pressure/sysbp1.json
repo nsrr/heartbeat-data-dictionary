@@ -1,6 +1,6 @@
 {
   "id": "sysbp1",
-  "display_name": "Physical Measurements: First Systolic Blood Pressure Measurement",
+  "display_name": "First Systolic Blood Pressure Measurement",
   "description": "",
   "type": "numeric",
   "units": "millimeters of mercury"
