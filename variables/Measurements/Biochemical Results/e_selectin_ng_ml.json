@@ -1,6 +1,6 @@
 {
   "id": "e_selectin_ng_ml",
-  "display_name": "Selectin test levels",
+  "display_name": "Selectin levels",
   "description": "",
   "type": "numeric",
   "units": "nanograms per milliliter"
