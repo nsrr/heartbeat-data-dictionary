@@ -1,6 +1,6 @@
 {
   "id": "weightkg",
-  "display_name": "Physical Measurements: Weight (kg)",
+  "display_name": "Weight",
   "description": "",
   "type": "numeric",
   "units": "kilograms"
