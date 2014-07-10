@@ -4,7 +4,7 @@ libname obf "\\rfa01\bwh-sleepepi-heartbeat\nsrr-prep\_ids";
 %let b=%sysget(SAS_EXECFILENAME);
 %let path= %sysfunc(tranwrd(&a,&b,heartbeat dataset macros.sas));
 %include "&path";
-%let release = 0.1.1.rc;
+%let release = 0.1.1.rc2;
 
 data dob;
   set hbeat.heartbeatmeasurements;
