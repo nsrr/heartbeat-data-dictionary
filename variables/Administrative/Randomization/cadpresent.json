@@ -1,6 +1,6 @@
 {
   "id": "cadpresent",
-  "display_name": "Randomization: Presence of Established CAD",
+  "display_name": "Randomization: Presence of established coronary artery disease",
   "description": "",
   "type": "choices",
   "domain": "noyes"
