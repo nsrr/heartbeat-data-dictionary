@@ -1,6 +1,6 @@
 {
 	"id": "inact",
-	"display_name": "Screening: Sitting, inactive, in a public place",
+	"display_name": "Sitting, inactive, in a public place",
 	"description":"",
 	"type": "choices",
 	"domain": "ess"

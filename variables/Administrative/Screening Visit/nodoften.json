@@ -1,6 +1,6 @@
 {
 	"id": "nodoften",
-	"display_name": "Screening: How often does this occur",
+	"display_name": "How often does this occur",
 	"description": "",
 	"type": "choices",
 	"domain": "howoften"

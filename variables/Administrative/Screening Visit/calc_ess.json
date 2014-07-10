@@ -1,6 +1,6 @@
 {
   "id": "calc_ess",
-  "display_name": "Screening: Calculated ESS Score",
+  "display_name": "Calculated ESS Score",
   "description": "",
   "type": "numeric",
   "units": ""

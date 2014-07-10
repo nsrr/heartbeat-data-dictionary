@@ -1,6 +1,6 @@
 {
 	"id": "smoke",
-	"display_name": "Screening: Smoke in bedroom",
+	"display_name": "Smoke in bedroom",
 	"description": "",
 	"type": "choices",
 	"domain": "noyes"
