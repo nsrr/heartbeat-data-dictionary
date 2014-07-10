@@ -1,6 +1,6 @@
 {
   "id": "failpm",
-  "display_name": "Withdrawal: Unable to complete successful portable monitor",
+  "display_name": "Withdrawal Reason: Unable to complete successful portable monitor",
   "description": "",
   "type": "choices",
   "domain": "check01"

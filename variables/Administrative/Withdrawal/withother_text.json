@@ -1,6 +1,6 @@
 {
   "id": "withother_text",
-  "display_name": "Withdrawal Reason: Other reason (text)",
+  "display_name": "Withdrawal Reason: Other reason (specify)",
   "description": "",
   "type": "text"
 }
