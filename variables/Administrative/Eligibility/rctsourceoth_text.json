@@ -1,6 +1,6 @@
 {
 	"id": "rctsourceoth_text",
-	"display_name": "Eligibility: Recruitment source, other (specify):",
+	"display_name": "Recruitment source, other (specify):",
 	"description": "",
 	"type": "string"
 }

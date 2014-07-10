@@ -1,6 +1,6 @@
 {
 	"id": "exclusion07",
-	"display_name": "Eligibility: Exclusion 7 (had uppp)",
+	"display_name": "Had Uvulopalatopharyngoplasty surgery",
 	"description": "",
 	"type": "choices",
 	"domain":"noyes"

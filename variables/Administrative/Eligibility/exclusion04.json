@@ -1,6 +1,6 @@
 {
 	"id": "exclusion04",
-	"display_name": "Eligibility: Exclusion 4 (pregnant or planning on becoming pregnant)",
+	"display_name": "Pregnant or planning on becoming pregnant",
 	"description": "",
 	"type": "choices",
 	"domain":"noyes"

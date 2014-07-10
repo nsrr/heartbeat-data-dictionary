@@ -1,6 +1,6 @@
 {
 	"id": "inclusion05",
-	"display_name": "Eligibility: Inclusion 5 (berlin > 2)",
+	"display_name": "Berlin score greater than 2",
 	"description": "",
 	"type": "choices",
 	"domain":"noyes"

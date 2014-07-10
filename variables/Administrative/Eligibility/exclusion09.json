@@ -1,6 +1,6 @@
 {
 	"id": "exclusion09",
-	"display_name": "Eligibility: Exclusion 9 (resting O2 < 90%)",
+	"display_name": "Resting oxygen saturation less than 90%",
 	"description": "",
 	"type": "choices",
 	"domain":"noyes"

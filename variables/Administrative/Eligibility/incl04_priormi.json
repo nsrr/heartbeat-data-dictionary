@@ -1,6 +1,6 @@
 {
 	"id": "incl04_priormi",
-	"display_name": "Eligibility: Inclusion 4 (established CAD: prior MI)",
+	"display_name": "Established coronary artery disease: Prior myocardial infarction",
 	"description": "",
 	"type": "choices",
 	"domain":"check01"

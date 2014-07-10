@@ -1,6 +1,6 @@
 {
 	"id": "enroll_date",
-	"display_name": "Eligibility: Enrollment date",
+	"display_name": "Enrollment date",
 	"description": "",
 	"type": "numeric",
   "units": "days from index date"

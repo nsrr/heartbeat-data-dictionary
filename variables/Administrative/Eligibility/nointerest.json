@@ -1,6 +1,6 @@
 {
 	"id": "nointerest",
-	"display_name": "Eligibility: Does not agree: Not interested in research",
+	"display_name": "Does not agree: Not interested in research",
 	"description": "",
 	"type": "choices",
 	"domain":"check01"

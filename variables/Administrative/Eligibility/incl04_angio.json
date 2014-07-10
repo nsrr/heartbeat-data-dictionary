@@ -1,6 +1,6 @@
 {
 	"id": "incl04_angio",
-	"display_name": "Eligibility: Inclusion 4 (established CAD: stenosis)",
+	"display_name": "Established coronary artery disease: Angiostenosis",
 	"description": "",
 	"type": "choices",
 	"domain":"check01"
