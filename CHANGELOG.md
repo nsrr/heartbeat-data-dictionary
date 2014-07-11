@@ -1,5 +1,8 @@
 ## 0.2.0
 
+### Changes
+- Sleep and Health Questionnaire variables and Medication variables have been condensed into single, omni-visit variables, rather than visit-specific ones where possible
+
 ## 0.1.1 (July 11, 2014)
 
 ### Changes
