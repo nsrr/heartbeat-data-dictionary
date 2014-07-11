@@ -65,7 +65,7 @@ data embletta;
   rename endtime = embq_endtime;
   rename starttime = embq_starttime;
 
-  drop folder inembletta inembqs;
+  drop folder inembletta inembqs enddttime startdttime;
 run;
 
 data hbeat_sf36;
@@ -143,6 +143,18 @@ data heartbeat_renamed_final;
   drop sf36_date sf36_sfht;
 run;
 
+data ecgaxis_b;
+  set heartbeat_renamed_base;
+
+  keep studyid paxis qrsaxis taxis;
+run;
+
+data ecgaxis_f;
+  set heartbeat_renamed_final;
+
+  keep studyid paxis qrsaxis taxis;
+run;
+
 data zscore_b;
   set heartbeat_renamed_base;
 
@@ -193,13 +205,13 @@ data baseline_csv;
   phq_date = (phq_date-random_date);
   random_date = 0;
 
-  drop i visit staffid bp_z gh_z mh_z pf_z re_z rp_z sf_z vt_z mcs pcs agg_ment agg_phys;
+  drop i visit staffid bp_z gh_z mh_z pf_z re_z rp_z sf_z vt_z mcs pcs agg_ment agg_phys paxis qrsaxis taxis;
 
 run;
 
 data hbeat_total_base;
   length obf_pptid 8.;
-  merge baseline_csv zscore_b obf.obfid;
+  merge baseline_csv zscore_b ecgaxis_b obf.obfid;
   by studyid;
 
   drop studyid namecode labelid;
@@ -243,12 +255,12 @@ data final_csv;
   phq_date = (phq_date-random_date);
   random_date = 0;
 
-  drop i visit staffid bp_z gh_z mh_z pf_z re_z rp_z sf_z vt_z mcs pcs agg_ment agg_phys;
+  drop i visit staffid bp_z gh_z mh_z pf_z re_z rp_z sf_z vt_z mcs pcs agg_ment agg_phys paxis qrsaxis taxis;
 run;
 
 data hbeat_total_final;
   length obf_pptid 8.;
-  merge final_csv(in=a) zscore_f obf.obfid;
+  merge final_csv(in=a) zscore_f ecgaxis_f obf.obfid;
   by studyid;
 
   if a;
