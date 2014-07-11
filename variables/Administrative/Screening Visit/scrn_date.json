@@ -1,6 +1,6 @@
 {
 	"id": "scrn_date",
-	"display_name": "Screening: Date Completed",
+	"display_name": "Date Completed",
 	"description": "",
 	"type": "numeric",
   "units": "days from index date"

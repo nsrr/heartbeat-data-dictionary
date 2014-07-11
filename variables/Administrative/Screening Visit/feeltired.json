@@ -1,6 +1,6 @@
 {
 	"id": "feeltired",
-	"display_name": "Screening: Feel tired of fatigued after sleep",
+	"display_name": "Feel tired of fatigued after sleep",
 	"description": "",
 	"type": "choices",
 	"domain": "howoften"

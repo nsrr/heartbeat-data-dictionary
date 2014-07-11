@@ -1,7 +1,7 @@
 {
   "id": "calc_bmi",
-  "display_name": "Screening: Calculated BMI (self-report height/weight)",
-  "description": "",
+  "display_name": "Calculated Body Mass Index",
+  "description": "BMI calculated using self-reported height and weight",
   "type": "numeric",
   "units": ""
 }

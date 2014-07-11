@@ -1,6 +1,6 @@
 {
   "id": "bscore",
-  "display_name": "Screening: Berlin Score",
+  "display_name": "Hand-calculated Berlin Score",
   "description": "",
   "type": "numeric",
   "units": ""

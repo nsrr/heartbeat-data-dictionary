@@ -1,6 +1,6 @@
 {
 	"id": "doyousnore",
-	"display_name": "Screening: Do you snore?",
+	"display_name": "Do you snore?",
 	"description": "",
 	"type": "choices",
 	"domain": "noyes"

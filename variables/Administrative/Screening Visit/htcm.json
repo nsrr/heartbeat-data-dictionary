@@ -1,6 +1,6 @@
 {
   "id": "htcm",
-  "display_name": "Screening: Height (cm)",
+  "display_name": "Height",
   "description" :"",
   "type": "numeric",
   "units": "centimeters"

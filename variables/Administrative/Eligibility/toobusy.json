@@ -1,6 +1,6 @@
 {
 	"id": "toobusy",
-	"display_name": "Eligibility: Does not agree: Too busy",
+	"display_name": "Does not agree: Too busy",
 	"description": "",
 	"type": "choices",
 	"domain":"check01"

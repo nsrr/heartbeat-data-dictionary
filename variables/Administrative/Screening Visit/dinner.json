@@ -1,6 +1,6 @@
 {
 	"id": "dinner",
-	"display_name": "Screening: At the dinner table",
+	"display_name": "At the dinner table",
 	"description": "",
 	"type": "choices",
 	"domain": "ess"

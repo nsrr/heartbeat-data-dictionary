@@ -1,6 +1,6 @@
 {
 	"id": "incl04_dyslipid",
-	"display_name": "Eligibility: Inclusion 4 (risk factors: dyslipidemia)",
+	"display_name": "Coronary artery disease risk factors: Dyslipidemia",
 	"description": "",
 	"type": "choices",
 	"domain":"check01"

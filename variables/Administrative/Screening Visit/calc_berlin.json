@@ -1,6 +1,6 @@
 {
   "id": "calc_berlin",
-  "display_name": "Screening: Calculated Berlin Score",
+  "display_name": "Calculated Berlin Score",
   "description": "",
   "type": "numeric",
   "units": ""

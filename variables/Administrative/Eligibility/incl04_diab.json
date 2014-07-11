@@ -1,6 +1,6 @@
 {
 	"id": "incl04_diab",
-	"display_name": "Eligibility: Inclusion 4 (risk factors: diabetes)",
+	"display_name": "Coronary artery disease risk factors: Diabetes",
 	"description": "",
 	"type": "choices",
 	"domain":"check01"

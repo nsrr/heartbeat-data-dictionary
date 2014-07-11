@@ -1,6 +1,6 @@
 {
   "id": "escore",
-  "display_name": "Screening: ESS Score",
+  "display_name": "ESS Score",
   "description": "",
   "type": "numeric",
   "units": ""

@@ -1,6 +1,6 @@
 {
 	"id": "misswork",
-	"display_name": "Eligibility: Does not agree: May miss work",
+	"display_name": "Does not agree: May miss work",
 	"description": "",
 	"type": "choices",
 	"domain":"check01"

@@ -1,6 +1,6 @@
 {
 	"id": "watchtv",
-	"display_name": "Screening: Watching TV",
+	"display_name": "Watching TV",
 	"description": "",
 	"type": "choices",
 	"domain": "ess"

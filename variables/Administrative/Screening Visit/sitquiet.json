@@ -1,6 +1,6 @@
 {
 	"id": "sitquiet",
-	"display_name": "Screening: Sitting quietly after lunch",
+	"display_name": "Sitting quietly after lunch",
 	"description": "",
 	"type": "choices",
 	"domain": "ess"

@@ -1,6 +1,6 @@
 {
 	"id": "male",
-	"display_name": "Screening: Male gender",
+	"display_name": "Male gender",
 	"description": "",
 	"type": "choices",
 	"domain": "sex"
