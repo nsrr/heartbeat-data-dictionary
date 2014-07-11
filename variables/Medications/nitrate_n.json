@@ -1,0 +1,7 @@
+{
+  "id": "bnitrate_n",
+  "display_name": "Number of nitrates?",
+  "description": "",
+  "type": "numeric",
+  "units": "medications"
+}

@@ -1,0 +1,7 @@
+{
+  "id": "bcalciumblocker_n",
+  "display_name": "Number of calcium blocker?",
+  "description": "",
+  "type": "numeric",
+  "units": "medications"
+}

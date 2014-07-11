@@ -1,0 +1,7 @@
+{
+  "id": "bdiabetes_n",
+  "display_name": "Number of diabetes medications?",
+  "description": "",
+  "type": "numeric",
+  "units": "medications"
+}

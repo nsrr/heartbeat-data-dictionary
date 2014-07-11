@@ -1,7 +1,0 @@
-{
-  "id": "blipidlowering",
-  "display_name": "Medications Baseline: Lipid lowering medications?",
-  "description": "",
-  "type": "choices",
-  "domain": "check01"
-}

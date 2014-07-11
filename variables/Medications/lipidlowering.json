@@ -1,0 +1,7 @@
+{
+  "id": "blipidlowering",
+  "display_name": "Any lipid lowering medications usage?",
+  "description": "",
+  "type": "choices",
+  "domain": "check01"
+}

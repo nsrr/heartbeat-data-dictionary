@@ -1,7 +1,0 @@
-{
-  "id": "bnitrate",
-  "display_name": "Medications Baseline: Nitrates?",
-  "description": "",
-  "type": "choices",
-  "domain": "check01"
-}

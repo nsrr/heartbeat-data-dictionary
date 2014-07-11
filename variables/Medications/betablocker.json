@@ -1,0 +1,7 @@
+{
+  "id": "bbetablocker",
+  "display_name": "Any beta blocker usage?",
+  "description": "",
+  "type": "choices",
+  "domain": "check01"
+}

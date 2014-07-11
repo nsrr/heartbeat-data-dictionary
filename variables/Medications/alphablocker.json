@@ -1,0 +1,7 @@
+{
+  "id": "balphablocker",
+  "display_name": "Any alpha blocker usage?",
+  "description": "",
+  "type": "choices",
+  "domain": "check01"
+}

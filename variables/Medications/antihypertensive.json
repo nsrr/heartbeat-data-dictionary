@@ -1,0 +1,7 @@
+{
+  "id": "bantihypertensive",
+  "display_name": "Any anti-hypertensive usage?",
+  "description": "",
+  "type": "choices",
+  "domain": "check01"
+}

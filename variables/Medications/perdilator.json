@@ -1,0 +1,7 @@
+{
+  "id": "bperdilator",
+  "display_name": "Any peripheral dilator usage?",
+  "description": "",
+  "type": "choices",
+  "domain": "check01"
+}

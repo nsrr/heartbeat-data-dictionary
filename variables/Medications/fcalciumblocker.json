@@ -1,7 +1,0 @@
-{
-  "id": "fcalciumblocker",
-  "display_name": "Medications Final: Calcium Blocker?",
-  "description": "",
-  "type": "choices",
-  "domain": "check01"
-}

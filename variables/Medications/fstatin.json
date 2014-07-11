@@ -1,7 +1,0 @@
-{
-  "id": "fstatin",
-  "display_name": "Medications Final: Statin usage?",
-  "description": "",
-  "type": "choices",
-  "domain": "check01"
-}

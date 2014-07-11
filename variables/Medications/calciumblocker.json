@@ -1,0 +1,7 @@
+{
+  "id": "bcalciumblocker",
+  "display_name": "Any calcium blocker usage?",
+  "description": "",
+  "type": "choices",
+  "domain": "check01"
+}

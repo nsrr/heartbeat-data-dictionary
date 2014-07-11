@@ -1,0 +1,7 @@
+{
+  "id": "bdiabetes",
+  "display_name": "Any diabetes medication usage?",
+  "description": "",
+  "type": "choices",
+  "domain": "check01"
+}

@@ -1,7 +1,0 @@
-{
-  "id": "fdiuretic",
-  "display_name": "Medications Final: Diuretics usage?",
-  "description": "",
-  "type": "choices",
-  "domain": "check01"
-}

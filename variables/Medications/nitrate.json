@@ -1,0 +1,7 @@
+{
+  "id": "bnitrate",
+  "display_name": "Any nitrate usage?",
+  "description": "",
+  "type": "choices",
+  "domain": "check01"
+}

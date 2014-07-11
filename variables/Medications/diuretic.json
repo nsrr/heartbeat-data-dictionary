@@ -1,0 +1,7 @@
+{
+  "id": "bdiuretic",
+  "display_name": "Any diuretic usage?",
+  "description": "",
+  "type": "choices",
+  "domain": "check01"
+}

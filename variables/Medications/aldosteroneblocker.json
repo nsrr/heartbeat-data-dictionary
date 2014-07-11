@@ -1,0 +1,7 @@
+{
+  "id": "baldosteroneblocker",
+  "display_name": "Any aldosterone blocker usage?",
+  "description": "",
+  "type": "choices",
+  "domain": "check01"
+}

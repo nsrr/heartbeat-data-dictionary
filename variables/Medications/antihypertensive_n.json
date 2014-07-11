@@ -1,0 +1,7 @@
+{
+  "id": "bantihypertensive_n",
+  "display_name": "Number of anti-hypertensives?",
+  "description": "",
+  "type": "numeric",
+  "units": "medications"
+}
