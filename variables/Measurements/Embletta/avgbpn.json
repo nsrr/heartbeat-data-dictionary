@@ -1,6 +1,6 @@
 {
   "id": "avgbpn",
-  "display_name": "Embletta: Pulse: Non-Supine Mean (bpm)",
+  "display_name": "Pulse: Non-Supine Mean",
   "description": "",
   "type": "numeric",
   "units": "millimeters of mercury"

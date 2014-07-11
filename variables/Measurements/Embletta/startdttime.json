@@ -1,6 +1,6 @@
 {
   "id": "startdttime",
-  "display_name": "Embletta: Start Time (Datetime)",
+  "display_name": "Start Time",
   "description": "",
   "type": "datetime"
 }

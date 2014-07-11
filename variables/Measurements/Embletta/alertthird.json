@@ -1,6 +1,6 @@
 {
   "id": "alertthird",
-  "display_name": "Embletta QS: Alert Third",
+  "display_name": "Alert Third",
   "description": "",
   "type": "choices",
   "domain": "check01"

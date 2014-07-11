@@ -1,6 +1,6 @@
 {
   "id": "sysbp2",
-  "display_name": "Physical Measurements: Second Systolic Blood Pressure Measurement",
+  "display_name": "Second Systolic Blood Pressure Measurement",
   "description": "",
   "type": "numeric",
   "units": "millimeters of mercury"

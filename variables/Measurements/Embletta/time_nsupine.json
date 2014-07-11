@@ -1,7 +1,7 @@
 {
   "id": "time_nsupine",
-  "display_name": "Embletta: Non-Supine Time (min)",
+  "display_name": "Non-Supine Time",
   "description": "",
-  "type": "integer",
+  "type": "numeric",
   "units": "minutes"
 }

@@ -1,6 +1,6 @@
 {
   "id": "nmin",
-  "display_name": "Embletta: Apnea/Hypopnea: Mixed Non-Supine",
+  "display_name": "Apnea/Hypopnea: Mixed Non-Supine",
   "description": "",
   "type": "numeric",
   "units": "events"

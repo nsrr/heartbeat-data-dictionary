@@ -1,6 +1,6 @@
 {
 	"id": "incl04_bmi30",
-	"display_name": "Eligibility: Inclusion 4 (risk factors: BMI > 30)",
+	"display_name": "Coronary artery disease risk factors: BMI greater than 30",
 	"description": "",
 	"type": "choices",
 	"domain":"check01"

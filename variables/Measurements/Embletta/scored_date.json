@@ -1,6 +1,6 @@
 {
   "id": "scored_date",
-  "display_name": "Embletta QS: Scored Date",
+  "display_name": "Scored Date",
   "description": "",
   "type": "numeric",
   "units": "days from index date"

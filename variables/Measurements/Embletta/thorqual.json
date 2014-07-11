@@ -1,6 +1,6 @@
 {
   "id": "thorqual",
-  "display_name": "Embletta QS: Thoracic Quality",
+  "display_name": "Thoracic Quality",
   "description": "",
   "type": "choices",
   "domain": "qualdata"

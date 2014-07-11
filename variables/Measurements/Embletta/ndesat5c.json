@@ -1,6 +1,6 @@
 {
   "id": "ndesat5c",
-  "display_name": "Embletta: Desaturation Fall: <5% Cumulative Number",
+  "display_name": "Desaturation Fall: Less than 5% Cumulative Number",
   "description": "",
   "type": "numeric",
   "units": ""

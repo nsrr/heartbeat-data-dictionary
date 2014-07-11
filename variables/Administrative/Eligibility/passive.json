@@ -1,6 +1,6 @@
 {
 	"id": "passive",
-	"display_name": "Eligibility: Does not agree: Passive refusal",
+	"display_name": "Does not agree: Passive refusal",
 	"description": "",
 	"type": "choices",
 	"domain":"check01"

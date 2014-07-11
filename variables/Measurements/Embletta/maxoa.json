@@ -1,6 +1,6 @@
 {
   "id": "maxoa",
-  "display_name": "Embletta: Apnea/Hypopnea: Obstructive Longest (sec)",
+  "display_name": "Apnea/Hypopnea: Obstructive Longest duration",
   "description": "",
   "type": "numeric",
   "units": "seconds"

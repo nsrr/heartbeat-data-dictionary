@@ -1,6 +1,6 @@
 {
   "id": "desati",
-  "display_name": "Embletta: Oxygen Desaturation Events (OD/h)",
+  "display_name": "Oxygen Desaturation Events",
   "description": "",
   "type": "numeric",
   "units": "events per hour"

@@ -1,7 +1,7 @@
 {
   "id": "printerval",
-  "display_name": "ECG: PR Interval",
-  "description": "",
+  "display_name": "PR Interval",
+  "description": "Duration from the beginning of the P-wave to the beginning of the QRS complex",
   "type": "numeric",
   "units": "milliseconds"
 }

@@ -1,6 +1,6 @@
 {
   "id": "adverseevent",
-  "display_name": "Withdrawal Reason: Adverse Event/SAE",
+  "display_name": "Withdrawal Reason: Adverse Event or Serious Adverse Event",
   "description": "",
   "type": "choices",
   "domain": "check01"

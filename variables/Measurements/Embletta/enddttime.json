@@ -1,6 +1,6 @@
 {
   "id": "enddttime",
-  "display_name": "Embletta: End Time (Datetime)",
+  "display_name": "End Time",
   "description": "",
   "type": "datetime"
 }

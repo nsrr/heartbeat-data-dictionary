@@ -1,6 +1,6 @@
 {
   "id": "occupation",
-  "display_name": "HHQB: Most recent occupation (text)",
+  "display_name": "HHQB: Most recent occupation (specify)",
   "description": "",
   "type": "string"
 }

@@ -1,6 +1,6 @@
 {
 	"id": "snoringis",
-	"display_name": "Screening: Your snoring is",
+	"display_name": "Your snoring is",
 	"description": "",
 	"type": "choices",
 	"domain": "volume"

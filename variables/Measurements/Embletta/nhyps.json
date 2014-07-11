@@ -1,6 +1,6 @@
 {
   "id": "nhyps",
-  "display_name": "Embletta: Apnea/Hypopnea: Hypopnea Supine",
+  "display_name": "Apnea/Hypopnea: Hypopnea Supine",
   "description": "",
   "type": "numeric",
   "units": "events"

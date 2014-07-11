@@ -1,6 +1,6 @@
 {
   "id": "pulsemean",
-  "display_name": "Physical Measurements: Pulse Mean (3 Measurements)",
+  "display_name": "Pulse Mean (3 Measurements)",
   "description": "",
   "type": "numeric",
   "units": "beats per minute",

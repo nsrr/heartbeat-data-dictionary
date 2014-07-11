@@ -1,6 +1,6 @@
 {
 	"id": "siteid",
-	"display_name": "Screening: Site ID",
+	"display_name": "Site ID",
 	"description": "",
 	"type": "choices",
 	"domain": "siteid"

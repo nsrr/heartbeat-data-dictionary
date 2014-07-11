@@ -1,6 +1,6 @@
 {
   "id": "nmia",
-  "display_name": "Embletta: Apnea/Hypopnea: Mixed Apneas or Hypopneas per hour",
+  "display_name": "Apnea/Hypopnea: Mixed Apneas or Hypopneas per hour",
   "description": "",
   "type": "numeric",
   "units": "events per hour"

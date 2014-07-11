@@ -1,6 +1,6 @@
 {
   "id": "avgbps",
-  "display_name": "Embletta: Pulse: Supine Mean (bpm)",
+  "display_name": "Pulse: Supine Mean",
   "description": "",
   "type": "numeric",
   "units": "millimeters of mercury"

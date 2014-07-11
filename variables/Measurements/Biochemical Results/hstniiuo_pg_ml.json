@@ -1,7 +1,7 @@
 {
   "id": "hstniiuo_pg_ml",
-  "display_name": "High sensitivity troponin levels (investigational use only)",
-  "description": "",
+  "display_name": "Troponin levels (investigational use only)",
+  "description": "High sensitivity troponin levels (investigational use only)",
   "type": "numeric",
   "units": "picograms per milliliter"
 }

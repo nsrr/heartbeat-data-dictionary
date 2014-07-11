@@ -1,6 +1,6 @@
 {
 	"id": "quitbreath",
-	"display_name": "Screening: Quit breathing during sleep",
+	"display_name": "Quit breathing during sleep",
 	"description": "",
 	"type": "choices",
 	"domain": "howoften"

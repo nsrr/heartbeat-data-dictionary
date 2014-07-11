@@ -1,7 +1,7 @@
 {
   "id": "totalmin_emb",
-  "display_name": "Embletta QS: Total min",
+  "display_name": "Total minutes",
   "description": "",
-  "type": "integer",
+  "type": "numeric",
   "units": "minutes"
 }

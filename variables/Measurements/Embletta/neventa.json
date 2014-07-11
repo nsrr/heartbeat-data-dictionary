@@ -1,6 +1,6 @@
 {
   "id": "neventa",
-  "display_name": "Embletta: Apnea/Hypopnea: Total A or H/h",
+  "display_name": "Apnea/Hypopnea: Total Apnea or Hypopnea per hour",
   "description": "",
   "type": "numeric",
   "units": ""

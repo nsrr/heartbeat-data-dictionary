@@ -1,6 +1,6 @@
 {
   "id": "hipcm1",
-  "display_name": "Physical Measurements: Hip measurement 1",
+  "display_name": "Hip measurement 1",
   "description": "",
   "type": "numeric",
   "units": "centimeters"

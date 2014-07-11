@@ -1,6 +1,6 @@
 {
   "id": "atrfib",
-  "display_name": "ECG: Atrial fibrillation",
+  "display_name": "Atrial fibrillation",
   "description": "",
   "type": "choices",
   "domain": "check01"

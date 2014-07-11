@@ -1,6 +1,6 @@
 {
 	"id": "exclusion06",
-	"display_name": "Eligibility: Exclusion 6 (current or past oxygen/cpap use)",
+	"display_name": "Current or past oxygen or CPAP use",
 	"description": "",
 	"type": "choices",
 	"domain":"noyes"

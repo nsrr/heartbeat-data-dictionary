@@ -1,7 +1,7 @@
 {
   "id": "aphyp",
-  "display_name": "Embletta: Apnea + Hypopnea (n)",
+  "display_name": "Apnea + Hypopnea",
   "description": "",
-  "type": "integer",
+  "type": "numeric",
   "units": ""
 }

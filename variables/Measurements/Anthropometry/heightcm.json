@@ -1,6 +1,6 @@
 {
   "id": "heightcm",
-  "display_name": "Physical Measurements: Height",
+  "display_name": "Height",
   "description": "",
   "type": "numeric",
   "units": "centimeters"

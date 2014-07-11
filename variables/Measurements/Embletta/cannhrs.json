@@ -1,6 +1,6 @@
 {
   "id": "cannhrs",
-  "display_name": "Embletta QS: Cannula hours",
+  "display_name": "Cannula hours",
   "description": "",
   "type": "numeric",
   "units": "hours"

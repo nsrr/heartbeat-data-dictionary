@@ -1,6 +1,6 @@
 {
   "id": "diasmean",
-  "display_name": "Physical Measurements: Diastolic BP Mean (3 Measurements)",
+  "display_name": "Diastolic BP Mean (3 Measurements)",
   "description": "",
   "type": "numeric",
   "units": "millimeters of mercury",

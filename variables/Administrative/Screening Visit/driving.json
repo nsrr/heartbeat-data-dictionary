@@ -1,6 +1,6 @@
 {
 	"id": "driving",
-	"display_name": "Screening: While driving",
+	"display_name": "While driving",
 	"description": "",
 	"type": "choices",
 	"domain": "ess"

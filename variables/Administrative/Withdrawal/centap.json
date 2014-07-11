@@ -1,6 +1,6 @@
 {
   "id": "centap",
-  "display_name": "Withdrawal: Central sleep apnea index > 5",
+  "display_name": "Withdrawal Reason: Central sleep apnea index greater than 5",
   "description": "",
   "type": "choices",
   "domain": "check01"

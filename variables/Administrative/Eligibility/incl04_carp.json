@@ -1,6 +1,6 @@
 {
 	"id": "incl04_carp",
-	"display_name": "Eligibility: Inclusion 4 (established CAD: carp)",
+	"display_name": "Established coronary artery disease: Coronary artery revascularization procedure (CARP)",
 	"description": "",
 	"type": "choices",
 	"domain":"check01"

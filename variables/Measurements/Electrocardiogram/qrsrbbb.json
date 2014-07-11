@@ -1,6 +1,6 @@
 {
   "id": "qrsrbbb",
-  "display_name": "ECG: QRS Conduction Block: Right bundle branch block",
+  "display_name": "QRS Conduction Block: Right bundle branch block",
   "description": "",
   "type": "choices",
   "domain": "check01"

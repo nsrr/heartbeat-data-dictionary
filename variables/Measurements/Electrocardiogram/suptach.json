@@ -1,6 +1,6 @@
 {
   "id": "suptach",
-  "display_name": "ECG: Supraventricular tachycardia",
+  "display_name": "Supraventricular tachycardia",
   "description": "",
   "type": "choices",
   "domain": "check01"

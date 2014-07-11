@@ -1,6 +1,6 @@
 {
   "id": "qrsdur",
-  "display_name": "ECG: QRS",
+  "display_name": "Duration of the QRS complex",
   "description": "",
   "type": "numeric",
   "units": "milliseconds"

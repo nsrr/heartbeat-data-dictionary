@@ -1,6 +1,6 @@
 {
 	"id": "exclusion02",
-	"display_name": "Eligibility: Exclusion 2 (known CHF)",
+	"display_name": "Known congestive heart failure",
 	"description": "",
 	"type": "choices",
 	"domain":"noyes"

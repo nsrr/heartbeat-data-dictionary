@@ -1,6 +1,6 @@
 {
   "id": "duroa",
-  "display_name": "Embletta: Apnea/Hypopnea: Obstructive Mean (sec)",
+  "display_name": "Apnea/Hypopnea: Obstructive Mean duration",
   "description": "",
   "type": "numeric",
   "units": "seconds"

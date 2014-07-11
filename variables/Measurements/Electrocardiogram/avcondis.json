@@ -1,6 +1,6 @@
 {
 	"id": "avcondis",
-	"display_name": "ECG: AV Conduction Disturbance",
+	"display_name": "Atrioventricular Conduction Disturbance",
 	"description": "",
 	"type": "choices",
 	"domain": "condiscat"

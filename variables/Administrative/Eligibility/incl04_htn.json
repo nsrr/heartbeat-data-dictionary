@@ -1,6 +1,6 @@
 {
 	"id": "incl04_htn",
-	"display_name": "Eligibility: Inclusion 4 (risk factors: hypertension)",
+	"display_name": "Coronary artery disease risk factors: Hypertension",
 	"description": "",
 	"type": "choices",
 	"domain":"check01"

@@ -1,6 +1,6 @@
 {
   "id": "slppctprone",
-  "display_name": "Embletta: Position: Prone (%)",
+  "display_name": "Position: Prone",
   "description": "",
   "type": "numeric",
   "units": "percent"

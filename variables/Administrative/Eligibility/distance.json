@@ -1,6 +1,6 @@
 {
 	"id": "distance",
-	"display_name": "Eligibility: Does not agree: Distance too far",
+	"display_name": "Does not agree: Distance too far",
 	"description": "",
 	"type": "choices",
 	"domain":"check01"

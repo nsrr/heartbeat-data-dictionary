@@ -1,6 +1,6 @@
 {
   "id": "d_dimer_ug_ml",
-  "display_name": "D-Dimer test levels",
+  "display_name": "D-Dimer levels",
   "description": "",
   "type": "numeric",
   "units": "micrograms per milliliter"

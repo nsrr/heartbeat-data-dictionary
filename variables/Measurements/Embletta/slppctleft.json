@@ -1,6 +1,6 @@
 {
   "id": "slppctleft",
-  "display_name": "Embletta: Position: Left (%)",
+  "display_name": "Position: Left",
   "description": "",
   "type": "numeric",
   "units": "percent"

@@ -1,6 +1,6 @@
 {
   "id": "alertahi",
-  "display_name": "Embletta QS: Alert AHI",
+  "display_name": "Alert AHI",
   "description": "",
   "type": "choices",
   "domain": "check01"

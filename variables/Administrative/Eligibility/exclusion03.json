@@ -1,6 +1,6 @@
 {
 	"id": "exclusion03",
-	"display_name": "Eligibility: Exclusion 3 (smoking in bedroom)",
+	"display_name": "Smoking in bedroom",
 	"description": "",
 	"type": "choices",
 	"domain":"noyes"

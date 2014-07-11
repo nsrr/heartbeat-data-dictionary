@@ -1,6 +1,6 @@
 {
   "id": "age",
-  "display_name":"Screening: Age",
+  "display_name":"Age",
   "description":"",
   "type":"numeric",
   "units": "years"

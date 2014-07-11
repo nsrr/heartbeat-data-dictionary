@@ -1,6 +1,6 @@
 {
   "id": "phqsev",
-  "display_name": "PHQ-9: Depression Severity (from total score)",
+  "display_name": "Depression Severity (from total score)",
   "description": "",
   "type": "choices",
   "domain": "phqsev"

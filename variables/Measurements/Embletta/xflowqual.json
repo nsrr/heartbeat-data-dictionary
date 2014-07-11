@@ -1,6 +1,6 @@
 {
   "id": "xflowqual",
-  "display_name": "Embletta QS: X-Flow Quality",
+  "display_name": "X-Flow Quality",
   "description": "",
   "type": "choices",
   "domain": "qualdata"

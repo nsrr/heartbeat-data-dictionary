@@ -1,7 +1,7 @@
 {
   "id": "totalhrs_emb",
-  "display_name": "Embletta QS: Total hrs",
+  "display_name": "Total hours",
   "description": "",
-  "type": "integer",
+  "type": "numeric",
   "units": "hours"
 }

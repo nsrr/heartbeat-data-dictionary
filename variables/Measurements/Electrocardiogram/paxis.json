@@ -1,7 +1,7 @@
 {
   "id": "paxis",
-  "display_name": "ECG: P Axis",
-  "description": "",
+  "display_name": "P Axis",
+  "description": "Average direction of electrical activity during the P wave",
   "type": "numeric",
-  "units": ""
+  "units": "degrees"
 }

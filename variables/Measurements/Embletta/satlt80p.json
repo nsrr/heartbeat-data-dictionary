@@ -1,6 +1,6 @@
 {
   "id": "satlt80p",
-  "display_name": "Embletta: Sp02: Saturation <80% (pct)",
+  "display_name": "Sp02: Saturation Less than 80%",
   "description": "",
   "type": "numeric",
   "units": "percent"

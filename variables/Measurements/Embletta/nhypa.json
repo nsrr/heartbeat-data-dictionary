@@ -1,6 +1,6 @@
 {
   "id": "nhypa",
-  "display_name": "Embletta: Apnea/Hypopnea: Hypopnea Apneas or Hypopneas per hour",
+  "display_name": "Apnea/Hypopnea: Hypopnea Apneas or Hypopneas per hour",
   "description": "",
   "type": "numeric",
   "units": "events per hour"

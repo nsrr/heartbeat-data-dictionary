@@ -1,6 +1,6 @@
 {
 	"id": "inclusion01",
-	"display_name": "Eligibility: Inclusion 1 (age 45-75)",
+	"display_name": "Age 45-75",
 	"description": "",
 	"type": "choices",
 	"domain": "noyes"
