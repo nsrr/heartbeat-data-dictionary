@@ -1,6 +1,6 @@
 {
   "id": "race",
-  "display_name": "HHQB: Race categorical",
+  "display_name": "Race",
   "description": "",
   "type": "choices",
   "domain":"racehb",
