@@ -3,5 +3,6 @@
   "display_name": "Visit",
   "description": "",
   "type": "choices",
-  "domain": "timepoint"
+  "domain": "timepoint",
+  "commonly_used": true
 }

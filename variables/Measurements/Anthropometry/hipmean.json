@@ -4,5 +4,6 @@
   "description": "",
   "type": "numeric",
   "units": "centimeters",
-  "calculation": "( hipcm1 + hipcm2 ) / 2"
+  "calculation": "( hipcm1 + hipcm2 ) / 2",
+  "commonly_used": true
 }

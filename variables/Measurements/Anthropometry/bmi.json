@@ -4,5 +4,6 @@
   "description": "",
   "type": "numeric",
   "units": "",
-  "calculation": "weightkg / ( heightcm * heightcm )"
+  "calculation": "weightkg / ( heightcm * heightcm )",
+  "commonly_used": true
 }

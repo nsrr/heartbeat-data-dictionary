@@ -4,5 +4,6 @@
   "description": "",
   "type": "numeric",
   "units": "beats per minute",
-  "calculation": "mean(pulse1,pulse2,pulse3)"
+  "calculation": "mean(pulse1,pulse2,pulse3)",
+  "commonly_used": true
 }

@@ -3,5 +3,6 @@
 	"display_name": "Site ID",
 	"description": "",
 	"type": "choices",
-	"domain": "siteid"
+	"domain": "siteid",
+  "commonly_used": true
 }

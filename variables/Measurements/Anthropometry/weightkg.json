@@ -3,5 +3,6 @@
   "display_name": "Weight",
   "description": "",
   "type": "numeric",
-  "units": "kilograms"
+  "units": "kilograms",
+  "commonly_used": true
 }

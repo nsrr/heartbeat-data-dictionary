@@ -3,5 +3,6 @@
   "display_name": "HHQB: Race categorical",
   "description": "",
   "type": "choices",
-  "domain":"racehb"
+  "domain":"racehb",
+  "commonly_used": true
 }

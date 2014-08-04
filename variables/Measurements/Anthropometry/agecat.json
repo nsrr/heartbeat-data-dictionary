@@ -3,5 +3,6 @@
   "display_name": "Categorical Age",
   "description": "",
   "type": "choices",
-  "domain": "agecat"
+  "domain": "agecat",
+  "commonly_used": true
 }

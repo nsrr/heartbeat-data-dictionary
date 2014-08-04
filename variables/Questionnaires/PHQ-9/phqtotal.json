@@ -3,5 +3,6 @@
   "display_name": "Sum of Items 1-9",
   "description": "",
   "type": "numeric",
-  "units": ""
+  "units": "",
+  "commonly_used": true
 }

@@ -4,5 +4,6 @@
   "description": "",
   "type": "numeric",
   "units": "centimeters",
-  "calculation": "( neckcm1 + neckcm2 ) / 2"
+  "calculation": "( neckcm1 + neckcm2 ) / 2",
+  "commonly_used": true
 }
