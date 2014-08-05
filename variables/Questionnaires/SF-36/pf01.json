@@ -3,5 +3,8 @@
   "display_name": "Vigorous activies, such as running, lifting heavy objects, participating in strenuous sports",
   "description": "",
   "type": "choices",
-  "domain": "sf36limit"
+  "domain": "sf36limit",
+  "forms": [
+    "heartbeat_sf-36_form"
+  ]
 }
