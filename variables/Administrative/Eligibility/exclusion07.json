@@ -1,7 +1,10 @@
 {
-	"id": "exclusion07",
-	"display_name": "Had Uvulopalatopharyngoplasty surgery",
-	"description": "",
-	"type": "choices",
-	"domain":"noyes"
+  "id": "exclusion07",
+  "display_name": "Had Uvulopalatopharyngoplasty surgery",
+  "description": "",
+  "type": "choices",
+  "domain":"noyes",
+  "forms": [
+      "heartbeat_eligibility_form"
+  ]
 }

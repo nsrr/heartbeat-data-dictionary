@@ -1,7 +1,10 @@
 {
-	"id": "inclusion04",
-	"display_name": "Established coronary artery disease or risk factors",
-	"description": "",
-	"type": "choices",
-	"domain": "noyes"
+  "id": "inclusion04",
+  "display_name": "Established coronary artery disease or risk factors",
+  "description": "",
+  "type": "choices",
+  "domain": "noyes",
+  "forms": [
+      "heartbeat_eligibility_form"
+  ]
 }

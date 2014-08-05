@@ -1,7 +1,10 @@
 {
-	"id": "exclusion02",
-	"display_name": "Known congestive heart failure",
-	"description": "",
-	"type": "choices",
-	"domain":"noyes"
+  "id": "exclusion02",
+  "display_name": "Known congestive heart failure",
+  "description": "",
+  "type": "choices",
+  "domain":"noyes",
+  "forms": [
+      "heartbeat_eligibility_form"
+  ]
 }

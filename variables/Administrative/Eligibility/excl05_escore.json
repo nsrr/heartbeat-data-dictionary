@@ -3,5 +3,8 @@
   "display_name": "Epworth score greater than or equal to 16 (specify)",
   "description": "",
   "type": "numeric",
-  "units": ""
+  "units": "",
+  "forms": [
+      "heartbeat_eligibility_form"
+  ]
 }

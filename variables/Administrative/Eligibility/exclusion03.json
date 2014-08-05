@@ -1,7 +1,10 @@
 {
-	"id": "exclusion03",
-	"display_name": "Smoking in bedroom",
-	"description": "",
-	"type": "choices",
-	"domain":"noyes"
+  "id": "exclusion03",
+  "display_name": "Smoking in bedroom",
+  "description": "",
+  "type": "choices",
+  "domain":"noyes",
+  "forms": [
+      "heartbeat_eligibility_form"
+  ]
 }

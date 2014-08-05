@@ -1,7 +1,10 @@
 {
-	"id": "exclusion04",
-	"display_name": "Pregnant or planning on becoming pregnant",
-	"description": "",
-	"type": "choices",
-	"domain":"noyes"
+  "id": "exclusion04",
+  "display_name": "Pregnant or planning on becoming pregnant",
+  "description": "",
+  "type": "choices",
+  "domain":"noyes",
+  "forms": [
+      "heartbeat_eligibility_form"
+  ]
 }

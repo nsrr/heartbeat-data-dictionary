@@ -3,5 +3,8 @@
   "display_name": "Age 45-75, specify age",
   "description": "",
   "type": "numeric",
-  "units": "years"
+  "units": "years",
+  "forms": [
+      "heartbeat_eligibility_form"
+  ]
 }

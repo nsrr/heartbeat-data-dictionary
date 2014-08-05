@@ -1,7 +1,10 @@
 {
-	"id": "enroll_date",
-	"display_name": "Enrollment date",
-	"description": "",
-	"type": "numeric",
-  "units": "days from index date"
+  "id": "enroll_date",
+  "display_name": "Enrollment date",
+  "description": "",
+  "type": "numeric",
+  "units": "days from index date",
+  "forms": [
+      "heartbeat_eligibility_form"
+  ]
 }

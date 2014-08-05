@@ -1,7 +1,10 @@
 {
-	"id": "eligfinal",
-	"display_name": "Final eligibility status",
-	"description": "",
-	"type": "choices",
-	"domain":"eligstatus"
+  "id": "eligfinal",
+  "display_name": "Final eligibility status",
+  "description": "",
+  "type": "choices",
+  "domain":"eligstatus",
+  "forms": [
+      "heartbeat_eligibility_form"
+  ]
 }

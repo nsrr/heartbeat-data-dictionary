@@ -1,6 +1,9 @@
 {
-	"id": "rctsourceoth_text",
-	"display_name": "Recruitment source, other (specify):",
-	"description": "",
-	"type": "string"
+  "id": "rctsourceoth_text",
+  "display_name": "Recruitment source, other (specify):",
+  "description": "",
+  "type": "string",
+  "forms": [
+      "heartbeat_eligibility_form"
+  ]
 }
