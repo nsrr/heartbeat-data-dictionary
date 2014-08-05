@@ -1,7 +1,10 @@
 {
-	"id": "rctsource",
-	"display_name": "Recruitment source",
-	"description": "",
-	"type": "choices",
-	"domain": "source"
+  "id": "rctsource",
+  "display_name": "Recruitment source",
+  "description": "",
+  "type": "choices",
+  "domain": "source",
+  "forms": [
+    "heartbeat_eligibility_form"
+  ]
 }

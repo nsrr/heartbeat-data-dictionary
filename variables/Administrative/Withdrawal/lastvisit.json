@@ -3,5 +3,8 @@
   "display_name": "Withdrawal: Last visit completed",
   "description": "",
   "type": "choices",
-  "domain": "lastvisit"
+  "domain": "lastvisit",
+  "forms": [
+    "heartbeat_withdrawal_form"
+  ]
 }

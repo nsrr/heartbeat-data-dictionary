@@ -1,7 +1,10 @@
 {
-	"id": "incl04_priormi",
-	"display_name": "Established coronary artery disease: Prior myocardial infarction",
-	"description": "",
-	"type": "choices",
-	"domain":"check01"
+  "id": "incl04_priormi",
+  "display_name": "Established coronary artery disease: Prior myocardial infarction",
+  "description": "",
+  "type": "choices",
+  "domain":"check01",
+  "forms": [
+    "heartbeat_eligibility_form"
+  ]
 }

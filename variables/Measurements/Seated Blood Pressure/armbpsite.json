@@ -3,5 +3,8 @@
   "display_name": "Arm that blood pressure was taken on",
   "description": "",
   "type": "choices",
-  "domain": "bparm"
+  "domain": "bparm",
+  "forms": [
+    "heartbeat_physical_measurements_form"
+  ]
 }

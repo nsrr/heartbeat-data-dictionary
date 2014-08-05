@@ -1,7 +1,10 @@
 {
-	"id": "exclusion08",
-	"display_name": "Sleep duration less than 4 hours per night",
-	"description": "",
-	"type": "choices",
-	"domain":"noyes"
+  "id": "exclusion08",
+  "display_name": "Sleep duration less than 4 hours per night",
+  "description": "",
+  "type": "choices",
+  "domain":"noyes",
+  "forms": [
+    "heartbeat_eligibility_form"
+  ]
 }

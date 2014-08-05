@@ -1,7 +1,10 @@
 {
-	"id": "passive",
-	"display_name": "Does not agree: Passive refusal",
-	"description": "",
-	"type": "choices",
-	"domain":"check01"
+  "id": "passive",
+  "display_name": "Does not agree: Passive refusal",
+  "description": "",
+  "type": "choices",
+  "domain":"check01",
+  "forms": [
+    "heartbeat_eligibility_form"
+  ]
 }

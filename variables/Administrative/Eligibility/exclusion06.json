@@ -1,7 +1,10 @@
 {
-	"id": "exclusion06",
-	"display_name": "Current or past oxygen or CPAP use",
-	"description": "",
-	"type": "choices",
-	"domain":"noyes"
+  "id": "exclusion06",
+  "display_name": "Current or past oxygen or CPAP use",
+  "description": "",
+  "type": "choices",
+  "domain":"noyes",
+  "forms": [
+    "heartbeat_eligibility_form"
+  ]
 }
