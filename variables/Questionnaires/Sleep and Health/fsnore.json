@@ -3,5 +3,8 @@
   "display_name": "Snored in last month",
   "description": "",
   "type": "choices",
-  "domain":"noyes"
+  "domain":"noyes",
+  "forms": [
+     "heartbeat_final_health_form"
+    ]
 }

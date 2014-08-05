@@ -4,6 +4,6 @@
   "description": "",
   "type": "string",
   "forms": [
-      "heartbeat_baseline_health_form"
+      "heartbeat_baseline_health_form", "heartbeat_final_health_form"
   ]
 }
