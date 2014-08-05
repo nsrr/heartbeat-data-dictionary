@@ -3,5 +3,8 @@
   "display_name": "Frequency of snorting or gasping in the last month",
   "description": "",
   "type": "choices",
-  "domain":"hhqnightsperweek"
+  "domain":"hhqnightsperweek",
+  "forms": [
+      "heartbeat_baseline_health_form"
+  ]
 }

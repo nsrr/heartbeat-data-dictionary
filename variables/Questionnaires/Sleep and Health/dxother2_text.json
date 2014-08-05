@@ -2,5 +2,8 @@
 	"id": "dxother2_text",
 	"display_name": "Diagnosed: Other 2 (text)",
 	"description": "",
-	"type": "string"
+	"type": "string",
+  "forms": [
+      "heartbeat_baseline_health_form"
+  ]
 }

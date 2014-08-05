@@ -3,5 +3,8 @@
   "display_name": "Wake Up Weekdays (hour)",
   "description": "",
   "type": "numeric",
-  "units": ""
+  "units": "",
+  "forms": [
+      "heartbeat_baseline_health_form"
+  ]
 }

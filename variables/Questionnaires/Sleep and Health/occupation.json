@@ -2,5 +2,8 @@
   "id": "occupation",
   "display_name": "Most recent occupation (text)",
   "description": "",
-  "type": "string"
+  "type": "string",
+  "forms": [
+      "heartbeat_baseline_health_form"
+  ]
 }

@@ -2,5 +2,8 @@
   "id": "otherrace_text",
   "display_name": "Race: Other (specify)",
   "description": "",
-  "type": "string"
+  "type": "string",
+  "forms": [
+      "heartbeat_baseline_health_form"
+  ]
 }

@@ -3,5 +3,8 @@
   "display_name": "Awakened in last month, coughing or wheezing",
   "description": "",
   "type": "choices",
-  "domain":"hhqalways"
+  "domain":"hhqalways",
+  "forms": [
+      "heartbeat_baseline_health_form"
+  ]
 }

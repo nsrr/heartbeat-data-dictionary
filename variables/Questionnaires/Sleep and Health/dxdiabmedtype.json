@@ -3,5 +3,8 @@
   "display_name": "Diagnosed: Diabetes, medication type",
   "description": "",
   "type": "choices",
-  "domain":"insulinmed"
+  "domain":"insulinmed",
+  "forms": [
+      "heartbeat_baseline_health_form"
+  ]
 }

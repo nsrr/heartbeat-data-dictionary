@@ -3,5 +3,8 @@
   "display_name": "Days in a week consuming alcohol over last year",
   "description": "",
   "type": "choices",
-  "domain":"days"
+  "domain":"days",
+  "forms": [
+      "heartbeat_baseline_health_form"
+  ]
 }

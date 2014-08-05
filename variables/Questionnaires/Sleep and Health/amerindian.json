@@ -3,5 +3,8 @@
   "display_name": "Race: American Indian or Alaska Native",
   "description": "",
   "type": "choices",
-  "domain":"check01"
+  "domain":"check01",
+  "forms": [
+      "heartbeat_baseline_health_form"
+  ]
 }

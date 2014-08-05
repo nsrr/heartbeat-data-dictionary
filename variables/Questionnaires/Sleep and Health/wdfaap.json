@@ -3,5 +3,8 @@
   "display_name": "Fall Asleep Weekdays (am/pm)",
   "description": "",
   "type": "choices",
-  "domain":"ampm"
+  "domain":"ampm",
+  "forms": [
+      "heartbeat_baseline_health_form"
+  ]
 }

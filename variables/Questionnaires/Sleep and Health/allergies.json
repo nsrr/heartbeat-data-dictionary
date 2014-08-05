@@ -3,5 +3,8 @@
   "display_name": "Ever had allergies to dust",
   "description": "",
   "type": "choices",
-  "domain":"noyes"
+  "domain":"noyes",
+  "forms": [
+      "heartbeat_baseline_health_form"
+  ]
 }

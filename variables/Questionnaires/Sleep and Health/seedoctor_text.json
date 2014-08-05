@@ -2,5 +2,8 @@
   "id": "seedoctor_text",
   "display_name": "In the last month, if you saw a doctor, what did he/she say?",
   "description": "",
-  "type": "string"
+  "type": "string",
+  "forms": [
+      "heartbeat_baseline_health_form"
+  ]
 }

@@ -3,5 +3,8 @@
   "display_name": "Hormone therapy type",
   "description": "",
   "type": "choices",
-  "domain":"htherapy"
+  "domain":"htherapy",
+  "forms": [
+      "heartbeat_baseline_health_form"
+  ]
 }

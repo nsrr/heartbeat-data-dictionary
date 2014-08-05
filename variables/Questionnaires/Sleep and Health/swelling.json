@@ -3,5 +3,8 @@
   "display_name": "Swelling in feet in last month",
   "description": "",
   "type": "choices",
-  "domain":"noyes"
+  "domain":"noyes",
+  "forms": [
+      "heartbeat_baseline_health_form"
+  ]
 }

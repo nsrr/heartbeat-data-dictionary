@@ -2,5 +2,8 @@
   "id": "hormonetype_text",
   "display_name": "Hormone therapy type (specify)",
   "description": "",
-  "type": "string"
+  "type": "string",
+  "forms": [
+      "heartbeat_baseline_health_form"
+  ]
 }

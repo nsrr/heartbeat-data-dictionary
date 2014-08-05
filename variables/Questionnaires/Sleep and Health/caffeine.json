@@ -3,5 +3,8 @@
   "display_name": "Caffeine consumption in last month",
   "description": "",
   "type": "choices",
-  "domain":"caffeineintakeamount"
+  "domain":"caffeineintakeamount",
+  "forms": [
+      "heartbeat_baseline_health_form"
+  ]
 }

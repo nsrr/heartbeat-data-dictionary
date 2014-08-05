@@ -3,5 +3,8 @@
   "display_name": "Diagnosed: High Blood Cholesterol",
   "description": "",
   "type": "choices",
-  "domain":"noyes"
+  "domain":"noyes",
+  "forms": [
+      "heartbeat_baseline_health_form"
+  ]
 }

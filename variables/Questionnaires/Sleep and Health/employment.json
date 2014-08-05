@@ -3,5 +3,8 @@
   "display_name": "Current employment status",
   "description": "",
   "type": "choices",
-  "domain":"employstat"
+  "domain":"employstat",
+  "forms": [
+      "heartbeat_baseline_health_form"
+  ]
 }

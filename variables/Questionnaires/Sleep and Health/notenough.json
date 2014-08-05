@@ -3,5 +3,8 @@
   "display_name": "Did not get enough sleep",
   "description": "",
   "type": "choices",
-  "domain":"hhqalways"
+  "domain":"hhqalways",
+  "forms": [
+      "heartbeat_baseline_health_form"
+  ]
 }

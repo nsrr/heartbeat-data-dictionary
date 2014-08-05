@@ -3,5 +3,8 @@
   "display_name": "Current number of cigarettes per day",
   "description": "",
   "type": "numeric",
-  "units": "cigarettes"
+  "units": "cigarettes",
+  "forms": [
+      "heartbeat_baseline_health_form"
+  ]
 }

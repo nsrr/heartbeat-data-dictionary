@@ -3,5 +3,8 @@
   "display_name": "Tennis, squash, racquetball (minutes)",
   "description": "",
   "type": "numeric",
-  "units": "minutes"
+  "units": "minutes",
+  "forms": [
+      "heartbeat_baseline_health_form"
+  ]
 }

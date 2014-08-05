@@ -3,5 +3,8 @@
   "display_name": "Awakened in last month, need to go to bathroom",
   "description": "",
   "type": "choices",
-  "domain":"hhqalways"
+  "domain":"hhqalways",
+  "forms": [
+      "heartbeat_baseline_health_form"
+  ]
 }

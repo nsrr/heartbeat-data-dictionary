@@ -1,6 +1,9 @@
 {
-	"id": "dxcancoth_text",
-	"display_name": "Diagnosed: Cancer, if yes: Other (text)",
-	"description": "",
-	"type": "string"
+  "id": "dxcancoth_text",
+  "display_name": "Diagnosed: Cancer, if yes: Other (text)",
+  "description": "",
+  "type": "string",
+  "forms": [
+      "heartbeat_baseline_health_form"
+  ]
 }

@@ -3,5 +3,8 @@
   "display_name": "Race: Native Hawaiian or Other Pacific Islander",
   "description": "",
   "type": "choices",
-  "domain":"check01"
+  "domain":"check01",
+  "forms": [
+      "heartbeat_baseline_health_form"
+  ]
 }

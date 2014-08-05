@@ -2,5 +2,8 @@
   "id": "actother_text",
   "display_name": "Other exercise (text)",
   "description": "",
-  "type": "string"
+  "type": "string",
+  "forms": [
+      "heartbeat_baseline_health_form"
+  ]
 }

@@ -3,5 +3,8 @@
   "display_name": "Awakened in the last month by shortness of breath",
   "description": "",
   "type": "choices",
-  "domain":"hhqalways"
+  "domain":"hhqalways",
+  "forms": [
+      "heartbeat_baseline_health_form"
+  ]
 }
