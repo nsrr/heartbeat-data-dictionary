@@ -1,6 +1,9 @@
 {
-	"id": "dxother2_text",
-	"display_name": "HHQB: Diagnosed: Other 2 (specify)",
-	"description": "",
-	"type": "string"
+  "id": "dxother2_text",
+  "display_name": "HHQB: Diagnosed: Other 2 (specify)",
+  "description": "",
+  "type": "string",
+  "forms": [
+    "heartbeat_baseline_health_questionnaire_form"
+  ]
 }

@@ -4,5 +4,8 @@
   "description": "",
   "type": "numeric",
   "units": "minutes",
-  "calculation": "( ( bactwalkinghr * 60 ) + bactwalkingmn ) * bactwalkingdays"
+  "calculation": "( ( bactwalkinghr * 60 ) + bactwalkingmn ) * bactwalkingdays",
+  "forms": [
+    "heartbeat_baseline_health_questionnaire_form"
+  ]
 }

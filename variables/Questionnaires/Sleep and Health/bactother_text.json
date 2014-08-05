@@ -2,5 +2,8 @@
   "id": "bactother_text",
   "display_name": "HHQB: Other exercise (specify)",
   "description": "",
-  "type": "string"
+  "type": "string",
+  "forms": [
+    "heartbeat_baseline_health_questionnaire_form"
+  ]
 }

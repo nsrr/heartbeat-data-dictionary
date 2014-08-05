@@ -4,5 +4,8 @@
   "description": "",
   "type": "numeric",
   "units": "minutes",
-  "calculation": "( ( bactswimminghr * 60 ) + bactswimmingmn ) * bactswimmingdays"
+  "calculation": "( ( bactswimminghr * 60 ) + bactswimmingmn ) * bactswimmingdays",
+  "forms": [
+    "heartbeat_baseline_health_questionnaire_form"
+  ]
 }

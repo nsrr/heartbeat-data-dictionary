@@ -1,6 +1,9 @@
 {
-	"id": "dxliveroth_text",
-	"display_name": "HHQB: Diagnosed: Liver Disease, If yes: Other (specify)",
-	"description" :"",
-	"type": "string"
+  "id": "dxliveroth_text",
+  "display_name": "HHQB: Diagnosed: Liver Disease, If yes: Other (specify)",
+  "description" :"",
+  "type": "string",
+  "forms": [
+    "heartbeat_baseline_health_questionnaire_form"
+  ]
 }

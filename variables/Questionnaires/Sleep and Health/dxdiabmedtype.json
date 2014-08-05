@@ -3,5 +3,8 @@
   "display_name": "HHQB: Diagnosed: Diabetes, medication type",
   "description": "",
   "type": "choices",
-  "domain":"insulinmed"
+  "domain":"insulinmed",
+  "forms": [
+    "heartbeat_baseline_health_questionnaire_form"
+  ]
 }

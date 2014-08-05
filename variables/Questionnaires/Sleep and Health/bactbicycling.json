@@ -4,5 +4,8 @@
   "description": "",
   "type": "numeric",
   "units": "minutes",
-  "calculation": "( ( bactbicyclinghr * 60 ) + bactbicyclingmn ) * bactbicyclingdays"
+  "calculation": "( ( bactbicyclinghr * 60 ) + bactbicyclingmn ) * bactbicyclingdays",
+  "forms": [
+    "heartbeat_baseline_health_questionnaire_form"
+  ]
 }

@@ -3,5 +3,8 @@
   "display_name": "HHQB: Age of hysterectomy",
   "description": "",
   "type": "numeric",
-  "units": "years"
+  "units": "years",
+  "forms": [
+    "heartbeat_baseline_health_questionnaire_form"
+  ]
 }

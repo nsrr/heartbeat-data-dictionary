@@ -4,5 +4,8 @@
   "description": "",
   "type": "numeric",
   "units": "minutes",
-  "calculation": "( ( factjogginghr * 60 ) + factjoggingmn ) * factjoggingdays"
+  "calculation": "( ( factjogginghr * 60 ) + factjoggingmn ) * factjoggingdays",
+  "forms": [
+    "heartbeat_final_health_questionnaire_form"
+  ]
 }

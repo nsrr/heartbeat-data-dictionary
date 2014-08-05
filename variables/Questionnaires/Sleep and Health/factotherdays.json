@@ -3,5 +3,8 @@
   "display_name": "HHQF: Other exercise (days per week)",
   "description": "",
   "type": "numeric",
-  "units": "days per week"
+  "units": "days per week",
+  "forms": [
+    "heartbeat_final_health_questionnaire_form"
+  ]
 }

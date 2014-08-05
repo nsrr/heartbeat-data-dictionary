@@ -3,5 +3,8 @@
   "display_name": "HHQB: Diagnosed: Multiple Sclerosis",
   "description": "",
   "type": "choices",
-  "domain":"noyes"
+  "domain":"noyes",
+  "forms": [
+    "heartbeat_baseline_health_questionnaire_form"
+  ]
 }

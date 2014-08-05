@@ -2,5 +2,8 @@
   "id": "occupation",
   "display_name": "HHQB: Most recent occupation (specify)",
   "description": "",
-  "type": "string"
+  "type": "string",
+  "forms": [
+    "heartbeat_baseline_health_questionnaire_form"
+  ]
 }
