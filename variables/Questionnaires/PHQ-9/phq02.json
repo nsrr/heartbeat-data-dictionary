@@ -3,5 +3,8 @@
   "display_name": "Feeling down, depressed, or hopeless",
   "description": "",
   "type": "choices",
-  "domain": "phq9"
+  "domain": "phq9",
+  "forms": [
+    "heartbeat_phq_form"
+  ]
 }

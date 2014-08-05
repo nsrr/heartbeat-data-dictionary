@@ -3,5 +3,8 @@
   "display_name": "Feeling bad about yourself - or that you are a failure or have let yourself or your family down",
   "description": "",
   "type": "choices",
-  "domain": "phq9"
+  "domain": "phq9",
+  "forms": [
+    "heartbeat_phq_form"
+  ]
 }

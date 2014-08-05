@@ -3,5 +3,8 @@
   "display_name": "Sum of Items 1-9",
   "description": "",
   "type": "numeric",
-  "units": ""
+  "units": "",
+  "forms": [
+    "heartbeat_phq_form"
+  ]
 }

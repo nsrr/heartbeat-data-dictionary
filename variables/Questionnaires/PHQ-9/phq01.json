@@ -3,5 +3,8 @@
   "display_name": "Little interest or pleasure in doing things",
   "description": "",
   "type": "choices",
-  "domain": "phq9"
+  "domain": "phq9",
+  "forms": [
+    "heartbeat_phq_form"
+  ]
 }
