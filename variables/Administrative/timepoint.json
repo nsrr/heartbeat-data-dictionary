@@ -3,5 +3,8 @@
   "display_name": "Visit",
   "description": "",
   "type": "choices",
-  "domain": "timepoint"
+  "domain": "timepoint",
+  "forms": [
+      "heartbeat_physical_measurements_form"
+  ]
 }

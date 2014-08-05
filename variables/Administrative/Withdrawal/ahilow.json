@@ -3,5 +3,8 @@
   "display_name": "Withdrawal Reason: AHI less than 15",
   "description": "",
   "type": "choices",
-  "domain": "check01"
+  "domain": "check01",
+  "forms": [
+      "heartbeat_withdrawal_form"
+  ]
 }

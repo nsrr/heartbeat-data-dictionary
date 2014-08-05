@@ -3,5 +3,8 @@
   "display_name": "Blood pressure cuff size",
   "description": "",
   "type": "choices",
-  "domain": "cuffsize"
+  "domain": "cuffsize",
+  "forms": [
+      "heartbeat_physical_measurements_form"
+  ]
 }

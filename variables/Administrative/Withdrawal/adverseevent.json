@@ -3,5 +3,8 @@
   "display_name": "Withdrawal Reason: Adverse Event or Serious Adverse Event",
   "description": "",
   "type": "choices",
-  "domain": "check01"
+  "domain": "check01",
+  "forms": [
+      "heartbeat_withdrawal_form"
+  ]
 }

@@ -3,5 +3,8 @@
   "display_name": "Withdrawal: Date of Withdrawal or Removal",
   "description": "",
   "type": "numeric",
-  "units": "days from index date"
+  "units": "days from index date",
+  "forms": [
+      "heartbeat_withdrawal_form"
+  ]
 }

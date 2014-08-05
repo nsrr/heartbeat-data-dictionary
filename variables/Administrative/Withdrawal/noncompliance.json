@@ -3,5 +3,8 @@
   "display_name": "Withdrawal Reason: Protocol non-compliance",
   "description": "",
   "type": "choices",
-  "domain": "check01"
+  "domain": "check01",
+  "forms": [
+      "heartbeat_withdrawal_form"
+  ]
 }

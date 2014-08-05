@@ -3,5 +3,8 @@
   "display_name": "Withdrawal Reason: Unable to complete successful portable monitor",
   "description": "",
   "type": "choices",
-  "domain": "check01"
+  "domain": "check01",
+  "forms": [
+      "heartbeat_withdrawal_form"
+  ]
 }

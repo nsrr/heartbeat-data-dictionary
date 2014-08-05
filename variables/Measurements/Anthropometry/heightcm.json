@@ -3,5 +3,8 @@
   "display_name": "Height",
   "description": "",
   "type": "numeric",
-  "units": "centimeters"
+  "units": "centimeters",
+  "forms": [
+      "heartbeat_physical_measurements_form"
+  ]
 }
