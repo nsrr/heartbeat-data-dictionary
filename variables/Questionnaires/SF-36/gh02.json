@@ -3,5 +3,8 @@
   "display_name": "I seem to get sick a little easier than other people",
   "description": "",
   "type": "choices",
-  "domain": "sf36false"
+  "domain": "sf36false",
+  "forms": [
+      "heartbeat_sf-36_form"
+  ]
 }

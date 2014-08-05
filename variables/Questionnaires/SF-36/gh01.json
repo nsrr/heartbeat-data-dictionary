@@ -3,5 +3,8 @@
   "display_name": "In general, would you say your health is",
   "description": "",
   "type": "choices",
-  "domain": "sf36poor"
+  "domain": "sf36poor",
+  "forms": [
+      "heartbeat_sf-36_form"
+  ]
 }

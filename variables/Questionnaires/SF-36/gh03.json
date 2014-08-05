@@ -3,5 +3,8 @@
   "display_name": "I am as healthy as anybody I know",
   "description": "",
   "type": "choices",
-  "domain": "sf36false"
+  "domain": "sf36false",
+  "forms": [
+      "heartbeat_sf-36_form"
+  ]
 }

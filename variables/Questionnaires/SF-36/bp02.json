@@ -3,5 +3,8 @@
   "display_name": "During the past 4 weeks, how much did pain interfere with your normal (including both work outside the home and housework)?",
   "description": "",
   "type": "choices",
-  "domain": "sf36extremely"
+  "domain": "sf36extremely",
+  "forms": [
+      "heartbeat_sf-36_form"
+  ]
 }
