@@ -33,3 +33,4 @@ These are known issues in the current version.
 - Multiple occurrences found: **Low values in [syswakemin](https://sleepdata.org/datasets/heartbeat/variables/syswakemin)**
   - Several systolic pressure values were below 75 mmHg
 - One occurrence found: **[meas_date](https://sleepdata.org/datasets/heartbeat/variables/meas_date) value = negative days**
+- One occurrence found: **[abbott_hstnl__pg_ml_](https://sleepdata.org/datasets/heartbeat/variables/abbott_hstnl__pg_ml_) value > 17,000 pg/mL**
