@@ -23,3 +23,4 @@ These are known issues in the current version.
   - Several heart rate values were below 25 bpm
 - One occurrence found: **[map2allmin](https://sleepdata.org/datasets/heartbeat/variables/map2allmin) value < 10 mmHg**
 - One occurrence found: **[map2wakemin](https://sleepdata.org/datasets/heartbeat/variables/map2wakemin) value < 10 mmHg**
+- One occurrence found: **[mapallmin](https://sleepdata.org/datasets/heartbeat/variables/mapallmin) value < 10 mmHg**
