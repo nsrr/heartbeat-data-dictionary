@@ -13,3 +13,5 @@ These are known issues in the current version.
   - Several diastolic pressure values were below 30 mmHg
 - Multiple occurrences found: **Low values in [diasleepmin](https://sleepdata.org/datasets/heartbeat/variables/diasleepmin)**
   - Several diastolic pressure values were below 30 mmHg
+- Multiple occurrences found: **Low values in [diawakemin](https://sleepdata.org/datasets/heartbeat/variables/diawakemin)**
+  - Several diastolic pressure values were below 30 mmHg
