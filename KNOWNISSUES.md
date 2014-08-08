@@ -34,3 +34,4 @@ These are known issues in the current version.
   - Several systolic pressure values were below 75 mmHg
 - One occurrence found: **[meas_date](https://sleepdata.org/datasets/heartbeat/variables/meas_date) value = negative days**
 - One occurrence found: **[abbott_hstnl__pg_ml_](https://sleepdata.org/datasets/heartbeat/variables/abbott_hstnl__pg_ml_) value > 17,000 pg/mL**
+- One occurrence found: **[ecg_date](https://sleepdata.org/datasets/heartbeat/variables/ecg_date) value = negative days**
