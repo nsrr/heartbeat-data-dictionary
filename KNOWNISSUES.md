@@ -32,3 +32,4 @@ These are known issues in the current version.
   - Several systolic pressure values were below 75 mmHg
 - Multiple occurrences found: **Low values in [syswakemin](https://sleepdata.org/datasets/heartbeat/variables/syswakemin)**
   - Several systolic pressure values were below 75 mmHg
+- One occurrence found: **[meas_date](https://sleepdata.org/datasets/heartbeat/variables/meas_date) value = negative days**
