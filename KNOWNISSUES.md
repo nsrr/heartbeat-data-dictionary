@@ -27,3 +27,4 @@ These are known issues in the current version.
 - One occurrence found: **[mapwakemin](https://sleepdata.org/datasets/heartbeat/variables/mapwakemin) value < 10 mmHg**
 - One occurrence found: **[ppallmin](https://sleepdata.org/datasets/heartbeat/variables/ppallmin) value < 5 mmHg**
 - One occurrence found: **[ppwakemin](https://sleepdata.org/datasets/heartbeat/variables/ppwakemin) value < 5 mmHg**
+- One occurrence found: **[sleepmin](https://sleepdata.org/datasets/heartbeat/variables/sleepmin) value > 1200 minutes**
