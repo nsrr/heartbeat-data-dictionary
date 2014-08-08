@@ -37,3 +37,5 @@ These are known issues in the current version.
 - One occurrence found: **[ecg_date](https://sleepdata.org/datasets/heartbeat/variables/ecg_date) value = negative days**
 - Multiple occurrences found: **Negative values in [embq_date](https://sleepdata.org/datasets/heartbeat/variables/embq_date)**
   - Several date values were negative
+- Multiple occurrences found: **Low values in [minbp](https://sleepdata.org/datasets/heartbeat/variables/minbp)**
+  - Several pulse rates were below 30 bpm
