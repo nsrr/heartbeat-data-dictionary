@@ -9,3 +9,5 @@ These are known issues in the current version.
 - Multiple occurrences found: **Negative dates in [scrn_date](https://sleepdata.org/datasets/heartbeat/variables/scrn_date)**
   - Several dates were negative values
 - One occurrence found: **[bp24date](https://sleepdata.org/datasets/heartbeat/variables/bp24date) value = negative days**
+- Multiple occurrences found: **Low values in [diaallmin](https://sleepdata.org/datasets/heartbeat/variables/diaallmin)**
+  - Several diastolic pressure values were below 30 mmHg
