@@ -19,3 +19,5 @@ These are known issues in the current version.
   - Several heart rate values were below 25 bpm
 - Multiple occurrences found: **Low values in [heartsleepmin](https://sleepdata.org/datasets/heartbeat/variables/heartsleepmin)**
   - Several heart rate values were below 25 bpm
+- Multiple occurrences found: **Low values in [heartwakemin](https://sleepdata.org/datasets/heartbeat/variables/heartwakemin)**
+  - Several heart rate values were below 25 bpm
