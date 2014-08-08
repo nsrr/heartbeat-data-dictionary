@@ -45,3 +45,5 @@ These are known issues in the current version.
   - Several date values were negative
 - Multiple occurrences found: **Negative values in [review_date](https://sleepdata.org/datasets/heartbeat/variables/review_date)**
   - Several date values were negative
+- Multiple occurrences found: **Negative values in [scored_date](https://sleepdata.org/datasets/heartbeat/variables/scored_date)**
+  - Several date values were negative
