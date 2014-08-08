@@ -52,3 +52,5 @@ These are known issues in the current version.
   - Several date values were negative
 - Multiple occurrences found: **Negative values in [phq_date](https://sleepdata.org/datasets/heartbeat/variables/phq_date)**
   - Several date values were negative
+- Multiple occurrences found: **Negative values in [hhqb_date](https://sleepdata.org/datasets/heartbeat/variables/hhqb_date)**
+  - Several date values were negative
