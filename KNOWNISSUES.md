@@ -11,3 +11,5 @@ These are known issues in the current version.
 - One occurrence found: **[bp24date](https://sleepdata.org/datasets/heartbeat/variables/bp24date) value = negative days**
 - Multiple occurrences found: **Low values in [diaallmin](https://sleepdata.org/datasets/heartbeat/variables/diaallmin)**
   - Several diastolic pressure values were below 30 mmHg
+- Multiple occurrences found: **Low values in [diasleepmin](https://sleepdata.org/datasets/heartbeat/variables/diasleepmin)**
+  - Several diastolic pressure values were below 30 mmHg
