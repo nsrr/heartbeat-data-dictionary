@@ -50,3 +50,5 @@ These are known issues in the current version.
 - One occurrence found: **[endodate](https://sleepdata.org/datasets/heartbeat/variables/endodate) value = negative days**
 - Multiple occurrences found: **Negative values in [outconc_date](https://sleepdata.org/datasets/heartbeat/variables/outconc_date)**
   - Several date values were negative
+- Multiple occurrences found: **Negative values in [phq_date](https://sleepdata.org/datasets/heartbeat/variables/phq_date)**
+  - Several date values were negative
