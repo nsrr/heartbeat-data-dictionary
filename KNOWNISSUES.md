@@ -41,3 +41,5 @@ These are known issues in the current version.
   - Several pulse rates were below 30 bpm
 - Multiple occurrences found: **Low values in [minbpn](https://sleepdata.org/datasets/heartbeat/variables/minbpn)**
   - Several pulse rates were below 30 bpm
+- Multiple occurrences found: **Negative values in [receive_date](https://sleepdata.org/datasets/heartbeat/variables/receive_date)**
+  - Several date values were negative
