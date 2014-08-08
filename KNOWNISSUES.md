@@ -30,3 +30,5 @@ These are known issues in the current version.
 - One occurrence found: **[sleepmin](https://sleepdata.org/datasets/heartbeat/variables/sleepmin) value > 1200 minutes**
 - Multiple occurrences found: **Low values in [sysallmin](https://sleepdata.org/datasets/heartbeat/variables/sysallmin)**
   - Several systolic pressure values were below 75 mmHg
+- Multiple occurrences found: **Low values in [syswakemin](https://sleepdata.org/datasets/heartbeat/variables/syswakemin)**
+  - Several systolic pressure values were below 75 mmHg
