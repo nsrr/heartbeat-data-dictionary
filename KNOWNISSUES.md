@@ -47,3 +47,4 @@ These are known issues in the current version.
   - Several date values were negative
 - Multiple occurrences found: **Negative values in [scored_date](https://sleepdata.org/datasets/heartbeat/variables/scored_date)**
   - Several date values were negative
+- One occurrence found: **[endodate](https://sleepdata.org/datasets/heartbeat/variables/endodate) value = negative days**
