@@ -1,6 +1,9 @@
 {
-	"id": "nopartoth_text",
-	"display_name": "Does not agree: Other (specify)",
-	"description": "",
-	"type": "string"
+  "id": "nopartoth_text",
+  "display_name": "Does not agree: Other (specify)",
+  "description": "",
+  "type": "string",
+  "forms": [
+    "heartbeat_eligibility_form"
+  ]
 }

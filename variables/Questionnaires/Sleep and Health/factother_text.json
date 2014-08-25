@@ -2,5 +2,8 @@
   "id": "factother_text",
   "display_name": "HHQF: Other exercise (specify)",
   "description": "",
-  "type": "string"
+  "type": "string",
+  "forms": [
+    "heartbeat_final_health_questionnaire_form"
+  ]
 }

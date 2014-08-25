@@ -1,7 +1,10 @@
 {
-	"id": "partstatus",
-	"display_name": "Final participation status",
-	"description": "",
-	"type": "choices",
-	"domain":"partstatus"
+  "id": "partstatus",
+  "display_name": "Final participation status",
+  "description": "",
+  "type": "choices",
+  "domain":"partstatus",
+  "forms": [
+    "heartbeat_eligibility_form"
+  ]
 }

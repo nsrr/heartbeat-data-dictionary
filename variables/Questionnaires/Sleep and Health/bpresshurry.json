@@ -3,5 +3,8 @@
   "display_name": "HHQB: In last month, get chest discomfort when walking uphill or hurrying",
   "description": "",
   "type": "choices",
-  "domain":"yesno128"
+  "domain":"yesno128",
+  "forms": [
+    "heartbeat_baseline_health_questionnaire_form"
+  ]
 }

@@ -3,5 +3,8 @@
   "display_name": "HHQB: Awakened in the last month by noise in your surroundings",
   "description": "",
   "type": "choices",
-  "domain":"hhqalways"
+  "domain":"hhqalways",
+  "forms": [
+    "heartbeat_baseline_health_questionnaire_form"
+  ]
 }

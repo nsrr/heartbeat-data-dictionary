@@ -3,5 +3,8 @@
   "display_name": "HHQB: Number of periods in last 12 months",
   "description": "",
   "type": "numeric",
-  "units": "periods"
+  "units": "periods",
+  "forms": [
+    "heartbeat_baseline_health_questionnaire_form"
+  ]
 }

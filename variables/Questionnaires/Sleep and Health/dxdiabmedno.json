@@ -3,5 +3,8 @@
   "display_name": "HHQB: Diagnosed: Diabetes, no medications, diet or nothing",
   "description": "",
   "type": "choices",
-  "domain":"dietyesno"
+  "domain":"dietyesno",
+  "forms": [
+    "heartbeat_baseline_health_questionnaire_form"
+  ]
 }

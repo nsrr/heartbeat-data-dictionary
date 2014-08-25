@@ -3,5 +3,8 @@
   "display_name": "HHQF: Frequency of stopped breathing in last month",
   "description": "",
   "type": "choices",
-  "domain":"hhqnightsperweek"
+  "domain":"hhqnightsperweek",
+  "forms": [
+    "heartbeat_final_health_questionnaire_form"
+  ]
 }

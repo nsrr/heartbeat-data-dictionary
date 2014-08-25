@@ -3,5 +3,8 @@
   "display_name": "Lifting or carrying groceries",
   "description": "",
   "type": "choices",
-  "domain": "sf36limit"
+  "domain": "sf36limit",
+  "forms": [
+    "heartbeat_sf-36_form"
+  ]
 }

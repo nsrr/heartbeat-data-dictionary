@@ -3,5 +3,8 @@
   "display_name": "Second Pulse Measurement",
   "description": "",
   "type": "numeric",
-  "units": "beats per minute"
+  "units": "beats per minute",
+"forms": [
+    "heartbeat_physical_measurements_form"
+  ]
 }

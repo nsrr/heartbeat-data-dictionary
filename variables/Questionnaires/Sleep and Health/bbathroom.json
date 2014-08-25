@@ -3,5 +3,8 @@
   "display_name": "HHQB: Awakened in the last month by the need to go to the bathroom",
   "description": "",
   "type": "choices",
-  "domain":"hhqalways"
+  "domain":"hhqalways",
+  "forms": [
+    "heartbeat_baseline_health_questionnaire_form"
+  ]
 }

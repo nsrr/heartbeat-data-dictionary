@@ -3,5 +3,8 @@
   "display_name": "Thoughts that you would be better of dead, or of hurting yourself in some way",
   "description": "",
   "type": "choices",
-  "domain": "phq9"
+  "domain": "phq9",
+  "forms": [
+    "heartbeat_phq_form"
+  ]
 }

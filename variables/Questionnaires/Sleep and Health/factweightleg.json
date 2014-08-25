@@ -4,5 +4,8 @@
   "description": "",
   "type": "numeric",
   "units": "minutes",
-  "calculation": "( ( factweightleghr * 60 ) + factweightlegmn ) * factweightlegdays"
+  "calculation": "( ( factweightleghr * 60 ) + factweightlegmn ) * factweightlegdays",
+  "forms": [
+    "heartbeat_final_health_questionnaire_form"
+  ]
 }

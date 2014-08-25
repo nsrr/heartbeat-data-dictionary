@@ -3,5 +3,8 @@
   "display_name": "HHQB: Weight training-legs",
   "description": "",
   "type": "numeric",
-  "units": "minutes"
+  "units": "minutes",
+  "forms": [
+    "heartbeat_baseline_health_questionnaire_form"
+  ]
 }

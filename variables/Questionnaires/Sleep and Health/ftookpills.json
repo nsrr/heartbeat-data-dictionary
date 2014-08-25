@@ -3,5 +3,8 @@
   "display_name": "HHQF: Took sleeping pills",
   "description": "",
   "type": "choices",
-  "domain":"hhqalways"
+  "domain":"hhqalways",
+  "forms": [
+    "heartbeat_final_health_questionnaire_form"
+  ]
 }

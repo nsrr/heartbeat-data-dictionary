@@ -4,5 +4,8 @@
   "description": "",
   "type": "numeric",
   "units": "minutes",
-  "calculation": "( ( facttennishr * 60 ) + facttennismn ) * facttennisdays"
+  "calculation": "( ( facttennishr * 60 ) + facttennismn ) * facttennisdays",
+  "forms": [
+    "heartbeat_final_health_questionnaire_form"
+  ]
 }

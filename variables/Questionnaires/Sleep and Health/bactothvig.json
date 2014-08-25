@@ -4,5 +4,8 @@
   "description": "",
   "type": "numeric",
   "units": "minutes",
-  "calculation": "( ( bactothvighr * 60 ) + bactothvigmn ) * bactothvigdays"
+  "calculation": "( ( bactothvighr * 60 ) + bactothvigmn ) * bactothvigdays",
+  "forms": [
+    "heartbeat_baseline_health_questionnaire_form"
+  ]
 }

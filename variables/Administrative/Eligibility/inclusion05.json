@@ -1,7 +1,10 @@
 {
-	"id": "inclusion05",
-	"display_name": "Berlin score greater than 2",
-	"description": "",
-	"type": "choices",
-	"domain":"noyes"
+  "id": "inclusion05",
+  "display_name": "Berlin score greater than 2",
+  "description": "",
+  "type": "choices",
+  "domain":"noyes",
+  "forms": [
+    "heartbeat_eligibility_form"
+  ]
 }

@@ -3,5 +3,8 @@
   "display_name": "Have you been very nervous?",
   "description": "",
   "type": "choices",
-  "domain": "sf36time"
+  "domain": "sf36time",
+  "forms": [
+    "heartbeat_sf-36_form"
+  ]
 }

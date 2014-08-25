@@ -3,5 +3,9 @@
   "display_name": "HHQB: Fall Asleep Weekdays (hour)",
   "description": "",
   "type": "numeric",
-  "units": ""
+  "units": "",
+  "forms": [
+    "heartbeat_baseline_health_questionnaire_form"
+  ]
 }
+
