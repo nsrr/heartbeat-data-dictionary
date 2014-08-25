@@ -5,7 +5,7 @@
 - Summary variables have been marked as `commonly_used: true` for sleepdata.org
 - Randomized treatment arm is now a stratification for sleepdata.org graphs
 - **Gem Changes**
-  - Updated to spout 0.9.0
+  - Updated to spout 0.9.0.beta2
 
 ## 0.1.1 (July 11, 2014)
 
