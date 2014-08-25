@@ -1,3 +1,11 @@
+## 0.1.2
+
+### Changes
+- Variables are now associated with the appropriate annotated codebook forms
+- Summary variables have been marked as `commonly_used: true` for sleepdata.org
+- **Gem Changes**
+  - Updated to spout 0.9.0
+
 ## 0.1.1 (July 11, 2014)
 
 ### Changes
