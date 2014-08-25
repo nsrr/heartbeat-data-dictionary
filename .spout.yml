@@ -2,6 +2,8 @@ visit: timepoint
 charts:
  - chart: agecat
    title: Age
+ - chart: treatmentarm
+   title: Treatment Arm
  - chart: male
    title: Gender
  - chart: race
