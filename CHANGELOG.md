@@ -2,6 +2,12 @@
 
 ### Changes
 - Sleep and Health Questionnaire variables and Medication variables have been condensed into single, omni-visit variables, rather than visit-specific ones where possible
+- The CSV datasets generated from a SAS export is located here:
+  - `\\rfa01\bwh-sleepepi-heartbeat\nsrr-prep\_releases\0.2.0.beta1\`
+    - `heartbeat-baseline-dataset-0.2.0.beta1.csv`
+    - `heartbeat-final-dataset-0.2.0.beta1.csv`
+- **Gem Changes**
+  - Updated to spout 0.9.0.beta2
 
 ## 0.1.1 (July 11, 2014)
 
