@@ -12,6 +12,10 @@ data dob;
   keep studyid dob;
 run;
 
+data frand;
+	set hbeat.heartbeatrandomization(keep=studyid treatmentarm);
+run;
+
 proc sort data=dob nodupkey;
   by studyid;
 run;
@@ -40,7 +44,8 @@ data race;
 run;
 
 data heartbeathhqfinal;
-  merge hbeat.heartbeathhqfinal(in=a) race(in=b);
+  merge hbeat.heartbeathhqfinal(in=a) race(in=b) frand(in=c);;
+	by studyid;
 
 	if a;
 
