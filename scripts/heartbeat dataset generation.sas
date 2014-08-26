@@ -133,19 +133,19 @@ proc sql noprint;
 
   select NAME into :medshq_varnames_base separated by ' '
   from hbeat_base_contents
-  where substr(NAME,1,1) = "b" and substr(NAME,1,2) not in ("bp", "bm") and substr(NAME,1,8) not in ("bothered", "bathroom", "black", "bsn", "bsc");
+  where substr(NAME,1,1) = "b" and substr(NAME,1,2) not in ("bp", "bm") and NAME not in ("bothered", "bathroom", "black", "bsnore", "bscore", "bsnorefq");
 
   select substr(NAME,2) into :medshq_newnames_base separated by ' '
   from hbeat_base_contents
-  where substr(NAME,1,1) = "b" and substr(NAME,1,2) not in ("bp", "bm") and substr(NAME,1,8) not in ("bothered", "bathroom", "black", "bsn", "bsc");
+  where substr(NAME,1,1) = "b" and substr(NAME,1,2) not in ("bp", "bm") and NAME not in ("bothered", "bathroom", "black", "bsnore", "bscore", "bsnorefq");
 
 	select NAME into :medshq_varnames_final separated by ' '
   from hbeat_final_contents
-  where substr(NAME,1,1) = "f" and substr(NAME,1,2) not in ("fr", "fe") and substr(NAME,1,4) not in ("fail", "fsn");
+  where substr(NAME,1,1) = "f" and substr(NAME,1,2) not in ("fr") and NAME not in ("failpm", "fsnore", "fsnorefq", "feeltired", "framingham");
 
   select substr(NAME,2) into :medshq_newnames_final separated by ' '
   from hbeat_final_contents
-  where substr(NAME,1,1) = "f" and substr(NAME,1,2) not in ("fr", "fe") and substr(NAME,1,4) not in ("fail", "fsn");
+  where substr(NAME,1,1) = "f" and substr(NAME,1,2) not in ("fr") and NAME not in ("failpm", "fsnore", "fsnorefq", "feeltired", "framingham");
 quit;
 
 data heartbeat_renamed_base;
@@ -157,8 +157,16 @@ data heartbeat_renamed_base;
 	rename %parallel_join(&medshq_varnames_base, &medshq_newnames_base, =);
 	rename bperdilator = perdilator;
 	rename bperdilator_n = perdilator_n;
-	rename snore = bsnore;
-	rename snorefq = bsnorefq;
+	rename bmovelegs = movelegs;
+	rename bmoverelieve = moverelieve;
+	rename bpainbegin = painbegin;
+	rename bpaincalves = paincalves;
+	rename bpaindisappear = paindisappear;
+	rename bpainjoints = painjoints;
+	rename bpainwalk = painwalk;
+	rename bpresshurry = presshurry;
+	rename bpressordinary = pressordinary;
+	rename hhqb_date = hhq_date;
 	rename bbathroom = bathroom;
   drop faceinhibitor faldosteroneblocker falphablocker fantihypertensive fbetablocker fcalciumblocker fdiabetes fdiuretic flipidlowering fnitrate fotherah fperdilator fstatin faceinhibitor_n 
 		faldosteroneblocker_n falphablocker_n fantihypertensive_n fbetablocker_n fcalciumblocker_n fdiabetes_n fdiuretic_n flipidlowering_n fnitrate_n fotherah_n fperdilator_n fstatin_n;
@@ -171,8 +179,7 @@ data heartbeat_renamed_final;
   drop sf36_date sf36_sfht;
 
 	rename %parallel_join(&medshq_varnames_final, &medshq_newnames_final, =);
-	rename snore = fsnore;
-	rename snorefq = fsnorefq;
+	rename hhqf_date = hhq_date;
 	drop baceinhibitor baldosteroneblocker balphablocker bantihypertensive bbetablocker bcalciumblocker bdiabetes bdiuretic blipidlowering bnitrate botherah bperdilator bstatin baceinhibitor_n
 		baldosteroneblocker_n balphablocker_n bantihypertensive_n bbetablocker_n bcalciumblocker_n bdiabetes_n bdiuretic_n blipidlowering_n bnitrate_n botherah_n bperdilator_n bstatin_n;
 run;
@@ -235,7 +242,7 @@ data baseline_csv;
   review_date = (review_date-random_date);
   scored_date = (scored_date-random_date);
   endodate = (endodate-random_date);
-  hhqb_date = (hhqb_date-random_date);
+  hhq_date = (hhq_date-random_date);
   phq_date = (phq_date-random_date);
   random_date = 0;
 
@@ -285,7 +292,7 @@ data final_csv;
   enddate = (enddate-random_date);
   mintherdate = (mintherdate-random_date);
   startdate = (startdate-random_date);
-  hhqf_date = (hhqf_date-random_date);
+  hhq_date = (hhq_date-random_date);
   phq_date = (phq_date-random_date);
   random_date = 0;
 
