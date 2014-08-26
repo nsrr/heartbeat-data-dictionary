@@ -4,7 +4,7 @@ libname obf "\\rfa01\bwh-sleepepi-heartbeat\nsrr-prep\_ids";
 %let b=%sysget(SAS_EXECFILENAME);
 %let path= %sysfunc(tranwrd(&a,&b,heartbeat dataset macros.sas));
 %include "&path";
-%let release = 0.1.1;
+%let release = 0.2.0.pre;
 
 data dob;
   set hbeat.heartbeatmeasurements;
@@ -119,6 +119,9 @@ run;
 proc contents data=hbeat_baseline out=hbeat_base_contents noprint;
 run;
 
+proc contents data=hbeat_final out=hbeat_final_contents noprint;
+run;
+
 proc sql noprint;
   select NAME into :sf36_varnames separated by ' '
   from hbeat_base_contents
@@ -127,6 +130,22 @@ proc sql noprint;
   select substr(NAME,6) into :sf36_newnames separated by ' '
   from hbeat_base_contents
   where substr(NAME,1,5) = "sf36_";
+
+  select NAME into :med_varnames separated by ' '
+  from hbeat_base_contents
+  where substr(NAME,1,1) = "b" and substr(NAME,1,2) not in ("bp", "bm") and substr(NAME,1,8) not in ("bothered", "bathroom", "black", "bsn", "bsc");
+
+  select substr(NAME,2) into :med_newnames separated by ' '
+  from hbeat_base_contents
+  where substr(NAME,1,1) = "b" and substr(NAME,1,2) not in ("bp", "bm") and substr(NAME,1,8) not in ("bothered", "bathroom", "black", "bsn", "bsc");
+
+	select NAME into :med_varnames separated by ' '
+  from hbeat_final_contents
+  where substr(NAME,1,1) = "f" and substr(NAME,1,2) not in ("fr", "fe") and substr(NAME,1,4) not in ("fail", "fsn");
+
+  select substr(NAME,2) into :med_newnames separated by ' '
+  from hbeat_final_contents
+  where substr(NAME,1,1) = "f" and substr(NAME,1,2) not in ("fr", "fe") and substr(NAME,1,4) not in ("fail", "fsn");
 quit;
 
 data heartbeat_renamed_base;
@@ -134,6 +153,15 @@ data heartbeat_renamed_base;
 
   rename %parallel_join(&sf36_varnames, &sf36_newnames, =);
   drop sf36_date sf36_sfht;
+
+	rename %parallel_join(&med_varnames, &med_newnames, =);
+	rename bperdilator = perdilator;
+	rename bperdilator_n = perdilator_n;
+	rename snore = bsnore;
+	rename snorefq = bsnorefq;
+	rename bbathroom = bathroom;
+  drop faceinhibitor faldosteroneblocker falphablocker fantihypertensive fbetablocker fcalciumblocker fdiabetes fdiuretic flipidlowering fnitrate fotherah fperdilator fstatin faceinhibitor_n 
+		faldosteroneblocker_n falphablocker_n fantihypertensive_n fbetablocker_n fcalciumblocker_n fdiabetes_n fdiuretic_n flipidlowering_n fnitrate_n fotherah_n fperdilator_n fstatin_n;
 run;
 
 data heartbeat_renamed_final;
@@ -141,6 +169,12 @@ data heartbeat_renamed_final;
 
   rename %parallel_join(&sf36_varnames, &sf36_newnames, =);
   drop sf36_date sf36_sfht;
+
+	rename %parallel_join(&med_varnames, &med_newnames, =);
+	rename snore = fsnore;
+	rename snorefq = fsnorefq;
+	drop baceinhibitor baldosteroneblocker balphablocker bantihypertensive bbetablocker bcalciumblocker bdiabetes bdiuretic blipidlowering bnitrate botherah bperdilator bstatin baceinhibitor_n
+		baldosteroneblocker_n balphablocker_n bantihypertensive_n bbetablocker_n bcalciumblocker_n bdiabetes_n bdiuretic_n blipidlowering_n bnitrate_n botherah_n bperdilator_n bstatin_n;
 run;
 
 data ecgaxis_b;
