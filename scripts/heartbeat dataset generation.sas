@@ -35,9 +35,14 @@ data heartbeathhqbaseline;
   timepoint = 2;
 run;
 
+data race;
+	set heartbeathhqbaseline(keep=studyid race);
+run;
 
 data heartbeathhqfinal;
-  set hbeat.heartbeathhqfinal;
+  merge hbeat.heartbeathhqfinal(in=a) race(in=b);
+
+	if a;
 
   timepoint = 7;
 run;
