@@ -14,10 +14,6 @@
 ### Changes
 - Display names have been cleaned up to remove the prefix of what form they belong to, in order to place more focus on the actual question
 - Variable descriptions now contain detailed information for certain ECG and Screening variables
-- The CSV datasets generated from a SAS export is located here:
-  - `\\rfa01\bwh-sleepepi-heartbeat\nsrr-prep\_releases\0.1.1\`
-    - `heartbeat-baseline-dataset-0.1.1.csv`
-    - `heartbeat-final-dataset-0.1.1.csv`
 
 ## 0.1.0 (July 3, 2014)
 
