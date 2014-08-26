@@ -131,19 +131,19 @@ proc sql noprint;
   from hbeat_base_contents
   where substr(NAME,1,5) = "sf36_";
 
-  select NAME into :med_varnames separated by ' '
+  select NAME into :medshq_varnames_base separated by ' '
   from hbeat_base_contents
   where substr(NAME,1,1) = "b" and substr(NAME,1,2) not in ("bp", "bm") and substr(NAME,1,8) not in ("bothered", "bathroom", "black", "bsn", "bsc");
 
-  select substr(NAME,2) into :med_newnames separated by ' '
+  select substr(NAME,2) into :medshq_newnames_base separated by ' '
   from hbeat_base_contents
   where substr(NAME,1,1) = "b" and substr(NAME,1,2) not in ("bp", "bm") and substr(NAME,1,8) not in ("bothered", "bathroom", "black", "bsn", "bsc");
 
-	select NAME into :med_varnames separated by ' '
+	select NAME into :medshq_varnames_final separated by ' '
   from hbeat_final_contents
   where substr(NAME,1,1) = "f" and substr(NAME,1,2) not in ("fr", "fe") and substr(NAME,1,4) not in ("fail", "fsn");
 
-  select substr(NAME,2) into :med_newnames separated by ' '
+  select substr(NAME,2) into :medshq_newnames_final separated by ' '
   from hbeat_final_contents
   where substr(NAME,1,1) = "f" and substr(NAME,1,2) not in ("fr", "fe") and substr(NAME,1,4) not in ("fail", "fsn");
 quit;
@@ -154,7 +154,7 @@ data heartbeat_renamed_base;
   rename %parallel_join(&sf36_varnames, &sf36_newnames, =);
   drop sf36_date sf36_sfht;
 
-	rename %parallel_join(&med_varnames, &med_newnames, =);
+	rename %parallel_join(&medshq_varnames_base, &medshq_newnames_base, =);
 	rename bperdilator = perdilator;
 	rename bperdilator_n = perdilator_n;
 	rename snore = bsnore;
@@ -170,7 +170,7 @@ data heartbeat_renamed_final;
   rename %parallel_join(&sf36_varnames, &sf36_newnames, =);
   drop sf36_date sf36_sfht;
 
-	rename %parallel_join(&med_varnames, &med_newnames, =);
+	rename %parallel_join(&medshq_varnames_final, &medshq_newnames_final, =);
 	rename snore = fsnore;
 	rename snorefq = fsnorefq;
 	drop baceinhibitor baldosteroneblocker balphablocker bantihypertensive bbetablocker bcalciumblocker bdiabetes bdiuretic blipidlowering bnitrate botherah bperdilator bstatin baceinhibitor_n
