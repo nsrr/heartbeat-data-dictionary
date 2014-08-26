@@ -4,6 +4,7 @@
 - Variables are now associated with the appropriate annotated codebook forms
 - Summary variables have been marked as `commonly_used: true` for sleepdata.org
 - Randomized treatment arm is now a stratification for sleepdata.org graphs
+- Forms now follow a standardized naming convention
 - **Gem Changes**
   - Updated to spout 0.9.0.beta2
 
