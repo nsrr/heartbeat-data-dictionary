@@ -1,7 +1,0 @@
-{
-  "id": "hhq_date",
-  "display_name": "Date Sleep and Health questionnaire completed",
-  "description": "",
-  "type": "numeric",
-  "units": "days from index date"
-}
