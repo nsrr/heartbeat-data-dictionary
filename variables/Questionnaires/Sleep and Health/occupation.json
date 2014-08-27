@@ -1,6 +1,6 @@
 {
   "id": "occupation",
-  "display_name": "Most recent occupation (text)",
+  "display_name": "Most recent occupation",
   "description": "",
   "type": "string",
   "forms": [
