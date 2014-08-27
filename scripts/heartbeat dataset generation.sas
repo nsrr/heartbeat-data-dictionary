@@ -266,6 +266,7 @@ data hbeat_total_base;
   by studyid;
 
 	if enroll_date > 0 then enroll_date = .;
+	if scrn_date > 0 then scrn_date = .;
 
   drop visit_date endodate hhq_date phq_date meas_date studyid namecode labelid distance exclusion01 exclusion02 exclusion03 exclusion04 exclusion05 exclusion07 exclusion08 exclusion09 exclusion10 extra_tests inclusion01 inclusion02 inclusion03 misswork nointerest nopartoth nopartoth_text partstatus passive toobusy transport;
 run;
