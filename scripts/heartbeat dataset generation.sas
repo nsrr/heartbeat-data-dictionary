@@ -316,6 +316,9 @@ data hbeat_total_final;
 
   if a;
 
+	if abbott_hstnl__pg_ml_ > 1492 then abbott_hstnl__pg_ml_ = .;
+	if hstniiuo_pg_ml > 1000 then hstniiuo_pg_ml = .;
+
   drop studyid namecode labelid;
 run;
 
