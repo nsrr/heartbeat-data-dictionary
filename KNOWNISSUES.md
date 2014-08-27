@@ -2,13 +2,6 @@
 
 These are known issues in the current version.
 
-- One occurrence found: **[visit_date](https://sleepdata.org/datasets/heartbeat/variables/visit_date) value = negative days**
-- Multiple occurrences found: **Negative dates in [elig_date](https://sleepdata.org/datasets/heartbeat/variables/elig_date)**
-  - Several dates were negative values
-- One occurrence found: **[enroll_date](https://sleepdata.org/datasets/heartbeat/variables/enroll_date) value > 3600 days**
-- Multiple occurrences found: **Negative dates in [scrn_date](https://sleepdata.org/datasets/heartbeat/variables/scrn_date)**
-  - Several dates were negative values
-- One occurrence found: **[bp24date](https://sleepdata.org/datasets/heartbeat/variables/bp24date) value = negative days**
 - Multiple occurrences found: **Low values in [diaallmin](https://sleepdata.org/datasets/heartbeat/variables/diaallmin)**
   - Several diastolic pressure values were below 30 mmHg
 - Multiple occurrences found: **Low values in [diasleepmin](https://sleepdata.org/datasets/heartbeat/variables/diasleepmin)**
@@ -32,25 +25,9 @@ These are known issues in the current version.
   - Several systolic pressure values were below 75 mmHg
 - Multiple occurrences found: **Low values in [syswakemin](https://sleepdata.org/datasets/heartbeat/variables/syswakemin)**
   - Several systolic pressure values were below 75 mmHg
-- One occurrence found: **[meas_date](https://sleepdata.org/datasets/heartbeat/variables/meas_date) value = negative days**
-- One occurrence found: **[abbott_hstnl__pg_ml_](https://sleepdata.org/datasets/heartbeat/variables/abbott_hstnl__pg_ml_) value > 17,000 pg/mL**
-- One occurrence found: **[ecg_date](https://sleepdata.org/datasets/heartbeat/variables/ecg_date) value = negative days**
 - Multiple occurrences found: **Negative values in [embq_date](https://sleepdata.org/datasets/heartbeat/variables/embq_date)**
   - Several date values were negative
 - Multiple occurrences found: **Low values in [minbp](https://sleepdata.org/datasets/heartbeat/variables/minbp)**
   - Several pulse rates were below 30 bpm
 - Multiple occurrences found: **Low values in [minbpn](https://sleepdata.org/datasets/heartbeat/variables/minbpn)**
   - Several pulse rates were below 30 bpm
-- Multiple occurrences found: **Negative values in [receive_date](https://sleepdata.org/datasets/heartbeat/variables/receive_date)**
-  - Several date values were negative
-- Multiple occurrences found: **Negative values in [review_date](https://sleepdata.org/datasets/heartbeat/variables/review_date)**
-  - Several date values were negative
-- Multiple occurrences found: **Negative values in [scored_date](https://sleepdata.org/datasets/heartbeat/variables/scored_date)**
-  - Several date values were negative
-- One occurrence found: **[endodate](https://sleepdata.org/datasets/heartbeat/variables/endodate) value = negative days**
-- Multiple occurrences found: **Negative values in [outconc_date](https://sleepdata.org/datasets/heartbeat/variables/outconc_date)**
-  - Several date values were negative
-- Multiple occurrences found: **Negative values in [phq_date](https://sleepdata.org/datasets/heartbeat/variables/phq_date)**
-  - Several date values were negative
-- Multiple occurrences found: **Negative values in [hhqb_date](https://sleepdata.org/datasets/heartbeat/variables/hhqb_date)**
-  - Several date values were negative
