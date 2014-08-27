@@ -41,7 +41,7 @@ data heartbeathhqbaseline;
 	else if race = 5 then race = 2;
   timepoint = 2;
 
-	drop white black hawaii asian ameridian otherrace otherrace_text race_white race_black;
+	drop white black hawaii asian amerindian otherrace otherrace_text race_white race_black;
 run;
 
 data race;
