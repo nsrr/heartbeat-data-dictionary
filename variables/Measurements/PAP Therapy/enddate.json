@@ -1,7 +1,0 @@
-{
-  "id": "enddate",
-  "display_name": "PAP Compliance: End date of compliance period",
-  "description": "",
-  "type": "numeric",
-  "units": "days from index date"
-}

@@ -1,7 +1,0 @@
-{
-  "id": "with_date",
-  "display_name": "Date withdrawal completed",
-  "description": "",
-  "type": "numeric",
-  "units": "days from index date"
-}
