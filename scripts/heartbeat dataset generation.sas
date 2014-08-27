@@ -308,6 +308,8 @@ data final_csv;
   phq_date = (phq_date-random_date);
   random_date = 0;
 
+	rename meas_date = final_visit_date;
+
   drop i visit staffid bp_z gh_z mh_z pf_z re_z rp_z sf_z vt_z mcs pcs agg_ment agg_phys paxis qrsaxis taxis;
 run;
 
