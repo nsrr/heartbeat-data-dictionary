@@ -6,9 +6,9 @@
 - Many date variables have been removed from the dataset as well, because they are synonymous with either the `index date` or `final_visit_date` variables
 - Treatment arm has been added to the final dataset to allow it to be used as a stratification factor on sleepdata.org graphs
 - The CSV datasets generated from a SAS export is located here:
-  - `\\rfa01\bwh-sleepepi-heartbeat\nsrr-prep\_releases\0.2.0.rc\`
-    - `heartbeat-baseline-dataset-0.2.0.rc.csv`
-    - `heartbeat-final-dataset-0.2.0.rc.csv`
+  - `\\rfa01\bwh-sleepepi-heartbeat\nsrr-prep\_releases\0.2.0.rc2\`
+    - `heartbeat-baseline-dataset-0.2.0.rc2.csv`
+    - `heartbeat-final-dataset-0.2.0.rc2.csv`
 
 ## 0.1.2 (August 27, 2014)
 
