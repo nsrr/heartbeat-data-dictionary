@@ -2,6 +2,9 @@
 
 ### Changes
 - Sleep and Health Questionnaire variables and Medication variables have been condensed into single, omni-visit variables, rather than visit-specific ones where possible
+- Eligibility variables for which all responses were either 'Yes' or 'No' (exclusion or inclusion criteria) have been removed from the dataset
+- Many date variables have been removed from the dataset as well, because they are synonymous with either the `index date` or `final_visit_date` variables
+- Treatment arm has been added to the final dataset to allow it to be used as a stratification factor on sleepdata.org graphs
 - The CSV datasets generated from a SAS export is located here:
   - `\\rfa01\bwh-sleepepi-heartbeat\nsrr-prep\_releases\0.2.0.beta1\`
     - `heartbeat-baseline-dataset-0.2.0.beta1.csv`
