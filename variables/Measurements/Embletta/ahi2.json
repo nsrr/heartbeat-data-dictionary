@@ -3,5 +3,6 @@
   "display_name": "AHI 2",
   "description": "",
   "type": "numeric",
-  "units": "events per hour"
+  "units": "events per hour",
+  "commonly_used": true
 }

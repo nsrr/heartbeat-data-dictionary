@@ -5,6 +5,6 @@
   "type": "numeric",
   "units": "days from index date",
   "forms": [
-      "heartbeat_withdrawal_form"
+    "heartbeat_withdrawal_form"
   ]
 }

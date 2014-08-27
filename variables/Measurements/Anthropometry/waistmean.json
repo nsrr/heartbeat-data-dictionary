@@ -4,5 +4,6 @@
   "description": "",
   "type": "numeric",
   "units": "centimeters",
-  "calculation": "( waistcm1 + waistcm2 ) / 2"
+  "calculation": "( waistcm1 + waistcm2 ) / 2",
+  "commonly_used": true
 }

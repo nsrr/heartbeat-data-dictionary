@@ -5,6 +5,6 @@
   "type": "numeric",
   "units": "years",
   "forms": [
-      "heartbeat_eligibility_form"
+    "heartbeat_eligibility_form"
   ]
 }

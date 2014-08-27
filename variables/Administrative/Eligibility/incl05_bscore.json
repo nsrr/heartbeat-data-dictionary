@@ -5,6 +5,6 @@
   "type": "choices",
   "domain": "berlin",
   "forms": [
-      "heartbeat_eligibility_form"
+    "heartbeat_eligibility_form"
   ]
 }

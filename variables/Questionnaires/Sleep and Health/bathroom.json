@@ -5,6 +5,6 @@
   "type": "choices",
   "domain":"hhqalways",
   "forms": [
-      "heartbeat_baseline_health_form", "heartbeat_final_health_form"
+      "heartbeat_baseline_health_questionnaire_form", "heartbeat_final_health_questionnaire_form"
   ]
 }

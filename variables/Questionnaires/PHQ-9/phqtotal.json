@@ -4,7 +4,8 @@
   "description": "",
   "type": "numeric",
   "units": "",
+  "commonly_used": true,
   "forms": [
-      "heartbeat_phq_form"
+    "heartbeat_phq_form"
   ]
 }

@@ -4,7 +4,8 @@
   "description": "",
   "type": "numeric",
   "units": "centimeters",
+  "commonly_used": true,
   "forms": [
-      "heartbeat_physical_measurements_form"
+    "heartbeat_physical_measurements_form"
   ]
 }

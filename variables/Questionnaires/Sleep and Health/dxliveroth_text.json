@@ -2,5 +2,8 @@
 	"id": "dxliveroth_text",
 	"display_name": "Diagnosed: Liver Disease, If yes: Other (text)",
 	"description" :"",
-	"type": "string"
+	"type": "string",
+  "forms": [
+    "heartbeat_baseline_health_questionnaire_form"
+  ]
 }

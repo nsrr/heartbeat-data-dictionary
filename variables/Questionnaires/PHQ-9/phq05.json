@@ -5,6 +5,6 @@
   "type": "choices",
   "domain": "phq9",
   "forms": [
-      "heartbeat_phq_form"
+    "heartbeat_phq_form"
   ]
 }

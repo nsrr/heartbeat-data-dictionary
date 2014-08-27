@@ -5,6 +5,6 @@
   "type": "choices",
   "domain":"check01",
   "forms": [
-      "heartbeat_eligibility_form"
+    "heartbeat_eligibility_form"
   ]
 }

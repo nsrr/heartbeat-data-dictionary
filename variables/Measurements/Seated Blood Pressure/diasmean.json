@@ -4,5 +4,6 @@
   "description": "",
   "type": "numeric",
   "units": "millimeters of mercury",
-  "calculation": "mean(diasbp1,diasbp2,diasbp3)"
+  "calculation": "mean(diasbp1,diasbp2,diasbp3)",
+  "commonly_used": true
 }

@@ -1,7 +1,8 @@
 {
   "id": "race",
-  "display_name": "Race categorical",
+  "display_name": "Race",
   "description": "",
   "type": "choices",
-  "domain":"racehb"
+  "domain":"racehb",
+  "commonly_used": true
 }

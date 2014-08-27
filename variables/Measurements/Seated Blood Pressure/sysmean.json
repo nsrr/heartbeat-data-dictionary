@@ -4,5 +4,6 @@
   "description": "",
   "type": "numeric",
   "units": "millimeters of mercury",
-  "calculation": "mean(sysbp1,sysbp2,sysbp3)"
+  "calculation": "mean(sysbp1,sysbp2,sysbp3)",
+  "commonly_used": true
 }

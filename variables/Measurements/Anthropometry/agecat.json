@@ -1,7 +1,8 @@
 {
   "id": "agecat",
-  "display_name": "Categorical Age",
+  "display_name": "Age",
   "description": "",
   "type": "choices",
-  "domain": "agecat"
+  "domain": "agecat",
+  "commonly_used": true
 }

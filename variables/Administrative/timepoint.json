@@ -4,7 +4,5 @@
   "description": "",
   "type": "choices",
   "domain": "timepoint",
-  "forms": [
-      "heartbeat_physical_measurements_form", "heartbeat_sf-36_form", "heartbeat_phq_form"
-  ]
+  "commonly_used": true
 }

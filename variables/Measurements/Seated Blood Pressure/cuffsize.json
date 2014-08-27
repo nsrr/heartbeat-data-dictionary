@@ -5,6 +5,6 @@
   "type": "choices",
   "domain": "cuffsize",
   "forms": [
-      "heartbeat_physical_measurements_form"
+    "heartbeat_physical_measurements_form"
   ]
 }

@@ -4,6 +4,6 @@
   "description": "",
   "type": "text",
   "forms": [
-      "heartbeat_withdrawal_form"
+    "heartbeat_withdrawal_form"
   ]
 }

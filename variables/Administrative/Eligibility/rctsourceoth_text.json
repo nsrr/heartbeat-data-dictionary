@@ -4,6 +4,6 @@
   "description": "",
   "type": "string",
   "forms": [
-      "heartbeat_eligibility_form"
+    "heartbeat_eligibility_form"
   ]
 }
