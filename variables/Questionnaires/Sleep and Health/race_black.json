@@ -1,7 +1,0 @@
-{
-  "id": "race_black",
-  "display_name": "Black Race",
-  "description": "",
-  "type": "choices",
-  "domain":"yesno"
-}

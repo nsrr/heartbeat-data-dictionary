@@ -36,7 +36,12 @@ data heartbeathhqbaseline;
   set hbeat.heartbeathhqbaseline;
 
   if bwalkhurry = 3 then bwalkhurry = .;
+	if race not in (4,5) then race = 7;
+	if race = 4 then race = 1;
+	else if race = 5 then race = 2;
   timepoint = 2;
+
+	drop white black hawaii asian ameridian otherrace otherrace_text race_white race_black;
 run;
 
 data race;
@@ -143,11 +148,11 @@ proc sql noprint;
 
   select NAME into :medshq_varnames_base separated by ' '
   from hbeat_base_contents
-  where substr(NAME,1,1) = "b" and substr(NAME,1,2) not in ("bp", "bm") and NAME not in ("bothered", "bathroom", "black", "bsnore", "bscore", "bsnorefq");
+  where substr(NAME,1,1) = "b" and substr(NAME,1,2) not in ("bp", "bm") and NAME not in ("bothered", "bathroom", "bsnore", "bscore", "bsnorefq");
 
   select substr(NAME,2) into :medshq_newnames_base separated by ' '
   from hbeat_base_contents
-  where substr(NAME,1,1) = "b" and substr(NAME,1,2) not in ("bp", "bm") and NAME not in ("bothered", "bathroom", "black", "bsnore", "bscore", "bsnorefq");
+  where substr(NAME,1,1) = "b" and substr(NAME,1,2) not in ("bp", "bm") and NAME not in ("bothered", "bathroom", "bsnore", "bscore", "bsnorefq");
 
 	select NAME into :medshq_varnames_final separated by ' '
   from hbeat_final_contents
@@ -176,7 +181,6 @@ data heartbeat_renamed_base;
 	rename bpainwalk = painwalk;
 	rename bpresshurry = presshurry;
 	rename bpressordinary = pressordinary;
-	rename hhqb_date = hhq_date;
 	rename bbathroom = bathroom;
   drop faceinhibitor faldosteroneblocker falphablocker fantihypertensive fbetablocker fcalciumblocker fdiabetes fdiuretic flipidlowering fnitrate fotherah fperdilator fstatin faceinhibitor_n 
 		faldosteroneblocker_n falphablocker_n fantihypertensive_n fbetablocker_n fcalciumblocker_n fdiabetes_n fdiuretic_n flipidlowering_n fnitrate_n fotherah_n fperdilator_n fstatin_n;
@@ -189,7 +193,6 @@ data heartbeat_renamed_final;
   drop sf36_date sf36_sfht;
 
 	rename %parallel_join(&medshq_varnames_final, &medshq_newnames_final, =);
-	rename hhqf_date = hhq_date;
 	drop baceinhibitor baldosteroneblocker balphablocker bantihypertensive bbetablocker bcalciumblocker bdiabetes bdiuretic blipidlowering bnitrate botherah bperdilator bstatin baceinhibitor_n
 		baldosteroneblocker_n balphablocker_n bantihypertensive_n bbetablocker_n bcalciumblocker_n bdiabetes_n bdiuretic_n blipidlowering_n bnitrate_n botherah_n bperdilator_n bstatin_n;
 run;
@@ -238,23 +241,9 @@ data baseline_csv;
   else if 75 =< floor(calc_age) =< 84 then agecat = 9;
 
   /*recode dates to be days from index date*/
-  visit_date = (visit_date-random_date);
-  elig_date = (elig_date-random_date);
-  enroll_date = (enroll_date-random_date);
-  scrn_date = (scrn_date-random_date);
   dateofwithdrawal = (dateofwithdrawal-random_date);
-  with_date = (with_date-random_date);
   bp24date = (bp24date-random_date);
-  meas_date = (meas_date-random_date);
-  ecg_date = (ecg_date-random_date);
   embq_date = (embq_date-random_date);
-  receive_date = (receive_date-random_date);
-  review_date = (review_date-random_date);
-  scored_date = (scored_date-random_date);
-  endodate = (endodate-random_date);
-  hhq_date = (hhq_date-random_date);
-  phq_date = (phq_date-random_date);
-  random_date = 0;
 
   drop i visit staffid bp_z gh_z mh_z pf_z re_z rp_z sf_z vt_z mcs pcs agg_ment agg_phys paxis qrsaxis taxis;
 
@@ -267,7 +256,7 @@ data hbeat_total_base;
 
 	if bp24date < 0 then bp24date = .;
 
-  drop with_date elig_date enroll_date scrn_date receive_date review_date scored_date ecg_date visit_date endodate hhq_date phq_date meas_date studyid namecode labelid distance exclusion01 exclusion02 exclusion03 exclusion04 exclusion05 exclusion07 exclusion08 exclusion09 exclusion10 extratests inclusion01 inclusion02 inclusion03 misswork nointerest nopartoth nopartoth_text partstatus passive toobusy transport;
+  drop random_date with_date elig_date enroll_date scrn_date receive_date review_date scored_date ecg_date visit_date endodate hhq_date phq_date meas_date studyid namecode labelid distance exclusion01 exclusion02 exclusion03 exclusion04 exclusion05 exclusion07 exclusion08 exclusion09 exclusion10 extratests inclusion01 inclusion02 inclusion03 misswork nointerest nopartoth nopartoth_text partstatus passive toobusy transport;
 run;
 
 data final_csv;
@@ -290,23 +279,9 @@ data final_csv;
   else if 75 =< floor(calc_age) =< 84 then agecat = 9;
 
   /*recode dates to be days from index date*/
-  visit_date = (visit_date-random_date);
   bp24date = (bp24date-random_date);
   meas_date = (meas_date-random_date);
-  ecg_date = (ecg_date-random_date);
   embq_date = (embq_date-random_date);
-  receive_date = (receive_date-random_date);
-  review_date = (review_date-random_date);
-  scored_date = (scored_date-random_date);
-  endodate = (endodate-random_date);
-  inconc_date = (inconc_date-random_date);
-  outconc_date = (outconc_date-random_date);
-  enddate = (enddate-random_date);
-  mintherdate = (mintherdate-random_date);
-  startdate = (startdate-random_date);
-  hhq_date = (hhq_date-random_date);
-  phq_date = (phq_date-random_date);
-  random_date = 0;
 
 	rename meas_date = final_visit_date;
 
@@ -323,7 +298,7 @@ data hbeat_total_final;
 	if abbott_hstnl__pg_ml_ > 1492 then abbott_hstnl__pg_ml_ = .;
 	if hstniiuo_pg_ml > 1000 then hstniiuo_pg_ml = .;
 
-  drop studyid namecode labelid inconc_date outconc_date phq_date hhq_date endodate visit_date ecg_date receive_date review_date scored_date enddate mintherdate startdate;
+  drop studyid namecode labelid inconc_date outconc_date phq_date hhq_date endodate visit_date ecg_date receive_date review_date scored_date enddate mintherdate startdate random_date;
 run;
 
 proc sort data = hbeat_total_base;

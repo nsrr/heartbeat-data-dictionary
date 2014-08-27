@@ -1,7 +1,0 @@
-{
-  "id": "race_white",
-  "display_name": "White Race",
-  "description": "",
-  "type": "choices",
-  "domain":"yesno"
-}
