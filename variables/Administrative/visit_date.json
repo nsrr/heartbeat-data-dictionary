@@ -1,7 +1,0 @@
-{
-  "id": "visit_date",
-  "display_name": "Date of study visit",
-  "description": "",
-  "type": "numeric",
-  "units": "days from index date"
-}
