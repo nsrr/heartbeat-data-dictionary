@@ -55,6 +55,8 @@ data heartbeathhqfinal;
 	if a;
 
   timepoint = 7;
+
+	drop hhqf_date;
 run;
 
 data hbeatembletta;
