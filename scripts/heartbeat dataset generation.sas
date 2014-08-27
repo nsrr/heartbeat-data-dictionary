@@ -265,6 +265,8 @@ data hbeat_total_base;
   merge baseline_csv zscore_b ecgaxis_b obf.obfid;
   by studyid;
 
+	if enroll_date > 0 then enroll_date = .;
+
   drop studyid namecode labelid distance exclusion01 exclusion02 exclusion03 exclusion04 exclusion05 exclusion07 exclusion08 exclusion09 exclusion10 extra_tests inclusion01 inclusion02 inclusion03 misswork nointerest nopartoth nopartoth_text partstatus passive toobusy transport;
 run;
 
