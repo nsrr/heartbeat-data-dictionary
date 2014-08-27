@@ -325,7 +325,7 @@ data hbeat_total_final;
 	if abbott_hstnl__pg_ml_ > 1492 then abbott_hstnl__pg_ml_ = .;
 	if hstniiuo_pg_ml > 1000 then hstniiuo_pg_ml = .;
 
-  drop studyid namecode labelid outconc_date phq_date hhq_date endodate visit_date ecg_date;
+  drop studyid namecode labelid inconc_date outconc_date phq_date hhq_date endodate visit_date ecg_date;
 run;
 
 proc sort data = hbeat_total_base;
