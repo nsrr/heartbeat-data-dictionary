@@ -25,8 +25,6 @@ These are known issues in the current version.
   - Several systolic pressure values were below 75 mmHg
 - Multiple occurrences found: **Low values in [syswakemin](https://sleepdata.org/datasets/heartbeat/variables/syswakemin)**
   - Several systolic pressure values were below 75 mmHg
-- Multiple occurrences found: **Negative values in [embq_date](https://sleepdata.org/datasets/heartbeat/variables/embq_date)**
-  - Several date values were negative
 - Multiple occurrences found: **Low values in [minbp](https://sleepdata.org/datasets/heartbeat/variables/minbp)**
   - Several pulse rates were below 30 bpm
 - Multiple occurrences found: **Low values in [minbpn](https://sleepdata.org/datasets/heartbeat/variables/minbpn)**
