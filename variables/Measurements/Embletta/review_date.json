@@ -1,7 +1,0 @@
-{
-  "id": "review_date",
-  "display_name": "Date study reviewed",
-  "description": "",
-  "type": "numeric",
-  "units": "days from index date"
-}

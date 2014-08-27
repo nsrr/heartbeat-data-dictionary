@@ -269,7 +269,7 @@ data hbeat_total_base;
 	if scrn_date > 0 then scrn_date = .;
 	if bp24date < 0 then bp24date = .;
 
-  drop ecg_date visit_date endodate hhq_date phq_date meas_date studyid namecode labelid distance exclusion01 exclusion02 exclusion03 exclusion04 exclusion05 exclusion07 exclusion08 exclusion09 exclusion10 extratests inclusion01 inclusion02 inclusion03 misswork nointerest nopartoth nopartoth_text partstatus passive toobusy transport;
+  drop receive_date review_date scored_date ecg_date visit_date endodate hhq_date phq_date meas_date studyid namecode labelid distance exclusion01 exclusion02 exclusion03 exclusion04 exclusion05 exclusion07 exclusion08 exclusion09 exclusion10 extratests inclusion01 inclusion02 inclusion03 misswork nointerest nopartoth nopartoth_text partstatus passive toobusy transport;
 run;
 
 data final_csv;
@@ -325,7 +325,7 @@ data hbeat_total_final;
 	if abbott_hstnl__pg_ml_ > 1492 then abbott_hstnl__pg_ml_ = .;
 	if hstniiuo_pg_ml > 1000 then hstniiuo_pg_ml = .;
 
-  drop studyid namecode labelid inconc_date outconc_date phq_date hhq_date endodate visit_date ecg_date;
+  drop studyid namecode labelid inconc_date outconc_date phq_date hhq_date endodate visit_date ecg_date receive_date review_date scored_date;
 run;
 
 proc sort data = hbeat_total_base;

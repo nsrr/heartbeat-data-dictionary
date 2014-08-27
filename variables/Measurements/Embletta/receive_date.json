@@ -1,7 +1,0 @@
-{
-  "id": "receive_date",
-  "display_name": "Date study received",
-  "description": "",
-  "type": "numeric",
-  "units": "days from index date"
-}
