@@ -2,6 +2,6 @@
   "id": "bscore",
   "display_name": "Hand-calculated Berlin Score",
   "description": "",
-  "type": "numeric",
-  "units": ""
+  "type": "choices",
+  "domain": "berlin"
 }

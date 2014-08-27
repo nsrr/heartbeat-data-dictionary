@@ -2,6 +2,6 @@
   "id": "calc_berlin",
   "display_name": "Calculated Berlin Score",
   "description": "",
-  "type": "numeric",
-  "units": ""
+  "type": "choices",
+  "domain": "berlin"
 }
