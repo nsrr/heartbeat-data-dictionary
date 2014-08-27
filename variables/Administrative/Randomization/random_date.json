@@ -1,7 +1,0 @@
-{
-  "id": "random_date",
-  "display_name": "Randomization: Randomization Date",
-  "description": "",
-  "type": "numeric",
-  "units": "days from index date"
-}
