@@ -1,4 +1,4 @@
-## 0.1.2
+## 0.1.2 (August 27, 2014)
 
 ### Changes
 - Variables are now associated with the appropriate annotated codebook forms
