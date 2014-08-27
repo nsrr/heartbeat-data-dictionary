@@ -1,7 +1,0 @@
-{
-  "id": "phq_date",
-  "display_name": "Date PHQ-9 was completed",
-  "description": "",
-  "type": "numeric",
-  "units": "days from index date"
-}

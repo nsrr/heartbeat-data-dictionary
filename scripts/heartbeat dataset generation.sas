@@ -267,7 +267,7 @@ data hbeat_total_base;
 
 	if enroll_date > 0 then enroll_date = .;
 
-  drop meas_date studyid namecode labelid distance exclusion01 exclusion02 exclusion03 exclusion04 exclusion05 exclusion07 exclusion08 exclusion09 exclusion10 extra_tests inclusion01 inclusion02 inclusion03 misswork nointerest nopartoth nopartoth_text partstatus passive toobusy transport;
+  drop phq_date meas_date studyid namecode labelid distance exclusion01 exclusion02 exclusion03 exclusion04 exclusion05 exclusion07 exclusion08 exclusion09 exclusion10 extra_tests inclusion01 inclusion02 inclusion03 misswork nointerest nopartoth nopartoth_text partstatus passive toobusy transport;
 run;
 
 data final_csv;
@@ -323,7 +323,7 @@ data hbeat_total_final;
 	if abbott_hstnl__pg_ml_ > 1492 then abbott_hstnl__pg_ml_ = .;
 	if hstniiuo_pg_ml > 1000 then hstniiuo_pg_ml = .;
 
-  drop studyid namecode labelid outconc_date;
+  drop studyid namecode labelid outconc_date phq_date;
 run;
 
 proc sort data = hbeat_total_base;
