@@ -1,6 +1,6 @@
 {
   "id": "walkhurry",
-  "display_name": "Get pain if walk uphill or hurrying",
+  "display_name": "Get pain if walking uphill or hurrying",
   "description": "",
   "type": "choices",
   "domain":"yesno128",

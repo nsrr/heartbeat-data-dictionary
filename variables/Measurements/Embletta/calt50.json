@@ -1,6 +1,6 @@
 {
   "id": "calt50",
-  "display_name": "Apnea-Desat Relation: Less than or equal to 50% Central",
+  "display_name": "Apnea-Desaturation Relation: Less than or equal to 50% Central",
   "description": "",
   "type": "numeric",
   "units": "events"

@@ -1,6 +1,6 @@
 {
   "id": "pressordinary",
-  "display_name": "In the last month, get chest discomfort when walk at ordinary pace",
+  "display_name": "In the last month, get chest discomfort when walking at an ordinary pace",
   "description": "",
   "type": "choices",
   "domain":"noyes",

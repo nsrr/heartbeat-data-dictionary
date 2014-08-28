@@ -1,6 +1,6 @@
 {
   "id": "eventlt50",
-  "display_name": "Apnea-Desat Relation: Less than or equal to 50% total",
+  "display_name": "Apnea-Desaturation Relation: Less than or equal to 50% total",
   "description": "",
   "type": "numeric",
   "units": ""

@@ -1,6 +1,6 @@
 {
   "id": "dxhighcholmed",
-  "display_name": "Diagnosed: HBC, taking medication",
+  "display_name": "Diagnosed: High Blood Cholesterol, taking medication",
   "description": "",
   "type": "choices",
   "domain":"noyes",

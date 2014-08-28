@@ -1,6 +1,6 @@
 {
   "id": "oxihrs",
-  "display_name": "Oximeter hrs",
+  "display_name": "Oximeter hours",
   "description": "",
   "type": "numeric",
   "units": "hours"

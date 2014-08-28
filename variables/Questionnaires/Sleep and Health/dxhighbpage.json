@@ -1,6 +1,6 @@
 {
   "id": "dxhighbpage",
-  "display_name": "Diagnosed: HBP, age first treated",
+  "display_name": "Diagnosed: High Blood Pressure, age first treated",
   "description": "",
   "type": "numeric",
   "units":"years",

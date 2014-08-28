@@ -1,6 +1,6 @@
 {
   "id": "sumhrs",
-  "display_name": "Sum hrs",
+  "display_name": "Sum hours",
   "description": "",
   "type": "numeric",
   "units": "hours"

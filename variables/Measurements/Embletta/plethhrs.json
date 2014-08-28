@@ -1,6 +1,6 @@
 {
   "id": "plethhrs",
-  "display_name": "Plethysmography hrs",
+  "display_name": "Plethysmography hours",
   "description": "",
   "type": "numeric",
   "units": "hours"

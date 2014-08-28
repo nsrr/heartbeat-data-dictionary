@@ -1,6 +1,6 @@
 {
   "id": "ecghrs",
-  "display_name": "ECG hrs",
+  "display_name": "ECG hours",
   "description": "",
   "type": "numeric",
   "units": "hours"
