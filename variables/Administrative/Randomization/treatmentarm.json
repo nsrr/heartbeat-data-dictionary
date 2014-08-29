@@ -1,6 +1,6 @@
 {
   "id": "treatmentarm",
-  "display_name": "Randomization: Treatment Arm",
+  "display_name": "Treatment Arm",
   "description": "",
   "type": "choices",
   "domain": "txarm"

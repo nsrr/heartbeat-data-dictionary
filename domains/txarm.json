@@ -1,17 +1,17 @@
 [
   {
     "value": "1",
-    "display_name": "HSLE",
+    "display_name": "HLSE",
     "description": ""
   },
   {
     "value": "2",
-    "display_name": "HSLE-O",
+    "display_name": "HLSE-O",
     "description": ""
   },
   {
     "value": "3",
-    "display_name": "HSLE-P",
+    "display_name": "HLSE-P",
     "description": ""
   }
 ]
