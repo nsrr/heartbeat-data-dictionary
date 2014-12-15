@@ -3,5 +3,8 @@
   "display_name": "Airflow hours",
   "description": "",
   "type": "numeric",
-  "units": "hours"
+  "units": "hours",
+  "forms": [
+    "heartbeat_embletta_qs_form"
+  ]
 }

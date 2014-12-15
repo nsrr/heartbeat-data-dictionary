@@ -2,5 +2,8 @@
   "id": "embq_stoptime",
   "display_name": "Stop Time",
   "description": "",
-  "type": "time"
+  "type": "time",
+  "forms": [
+    "heartbeat_embletta_qs_form"
+  ]
 }

@@ -3,5 +3,8 @@
   "display_name": "Total minutes",
   "description": "",
   "type": "numeric",
-  "units": "minutes"
+  "units": "minutes",
+  "forms": [
+    "heartbeat_embletta_qs_form"
+  ]
 }
