@@ -2,5 +2,8 @@
   "id": "embq_starttime",
   "display_name": "Start Time",
   "description": "",
-  "type": "time"
+  "type": "time",
+  "forms": [
+    "heartbeat_embletta_qs_form"
+  ]
 }

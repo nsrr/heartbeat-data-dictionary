@@ -3,5 +3,8 @@
   "display_name": "Oximeter Quality",
   "description": "",
   "type": "choices",
-  "domain": "qualdata"
+  "domain": "qualdata",
+  "forms": [
+    "heartbeat_embletta_qs_form"
+  ]
 }

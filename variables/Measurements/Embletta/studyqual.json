@@ -3,5 +3,8 @@
   "display_name": "Study Quality",
   "description": "",
   "type": "choices",
-  "domain": "studyqual"
+  "domain": "studyqual",
+  "forms": [
+    "heartbeat_embletta_qs_form"
+  ]
 }

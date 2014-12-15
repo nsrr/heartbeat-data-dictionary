@@ -2,5 +2,8 @@
   "id": "studyqual_comments",
   "display_name": "Study Quality Comments",
   "description": "",
-  "type": "string"
+  "type": "string",
+  "forms": [
+    "heartbeat_embletta_qs_form"
+  ]
 }
