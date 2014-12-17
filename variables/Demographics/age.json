@@ -1,7 +1,7 @@
 {
   "id": "age",
-  "display_name":"Age",
-  "description":"",
+  "display_name":"Age from Screening Form",
+  "description":"age_calc is the preferred variable for the participant's age",
   "type":"numeric",
   "units": "years"
 }
