@@ -3,5 +3,5 @@
   "display_name": "Apnea-Desaturation Relation: Greater than 90% Obstructive",
   "description": "",
   "type": "numeric",
-  "units": ""
+  "units": "obstructive apnea events"
 }

@@ -3,5 +3,5 @@
   "display_name": "Apnea-Desaturation Relation: Less than or equal to 50% obstructive apneas",
   "description": "",
   "type": "numeric",
-  "units": ""
+  "units": "obstructive apnea events"
 }
