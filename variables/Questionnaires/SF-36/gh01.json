@@ -5,6 +5,6 @@
   "type": "choices",
   "domain": "sf36poor",
   "forms": [
-    "heartbeat_sf-36_form"
+    "heartbeat_sf_36_form"
   ]
 }

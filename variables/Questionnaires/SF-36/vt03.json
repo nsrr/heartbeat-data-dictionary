@@ -5,6 +5,6 @@
   "type": "choices",
   "domain": "sf36time",
   "forms": [
-    "heartbeat_sf-36_form"
+    "heartbeat_sf_36_form"
   ]
 }
