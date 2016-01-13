@@ -3,5 +3,5 @@
   "display_name": "Apnea/Hypopnea: Hypopnea Number",
   "description": "",
   "type": "numeric",
-  "units": ""
+  "units": "events"
 }

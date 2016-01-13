@@ -3,5 +3,5 @@
   "display_name": "Apnea-Desaturation Relation: 51-60% Obstructive",
   "description": "",
   "type": "numeric",
-  "units": ""
+  "units": "obstructive apnea events"
 }

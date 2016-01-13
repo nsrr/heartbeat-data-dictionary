@@ -1,3 +1,5 @@
+---
+slug: heartbeat
 visit: timepoint
 charts:
  - chart: treatmentarm
@@ -8,3 +10,8 @@ charts:
    title: Gender
  - chart: race
    title: Race
+webservers:
+  - name: production
+    url: https://sleepdata.org
+  - name: staging
+    url: https://sleepepi.partners.org/edge/sleepdata
