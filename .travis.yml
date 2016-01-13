@@ -1,6 +1,7 @@
+sudo: false
 language: ruby
 rvm:
-  - 2.1.5
+  - 2.3.0
 notifications:
   email:
     - michael.cailler@icloud.com
