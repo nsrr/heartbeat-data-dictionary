@@ -11,7 +11,12 @@
  },
  {
    "value": "8",
-   "display_name": "65 or older",
+   "display_name": "65-74 years",
+   "description": ""
+ },
+ {
+   "value": "9",
+   "display_name": "75 or older",
    "description": ""
  }
 ]
