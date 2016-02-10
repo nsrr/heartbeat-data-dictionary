@@ -2,31 +2,31 @@
   {
     "value": "1",
     "display_name": "Fail",
-    "description": ""
+    "description": "Less than 2 hours of data or <=4 hours and AHI <15."
   },
   {
     "value": "2",
     "display_name": "Poor/Diagnostic",
-    "description": ""
+    "description": "Nasal pressure or one band, and usable for >=2 hours and AHI>15"
   },
   {
     "value": "3",
     "display_name": "Fair",
-    "description": ""
+    "description": "Nasal pressure or one band, and usable for >=4 hours"
   },
   {
     "value": "4",
     "display_name": "Good",
-    "description": ""
+    "description": "At least Nasal pressure, one band, and oximetry or both bands and oximetry usable for >=4 hours"
   },
   {
     "value": "5",
     "display_name": "Excellent",
-    "description": ""
+    "description": "All channels are useable for >=4 hours but <6 hours"
   },
   {
     "value": "6",
     "display_name": "Outstanding",
-    "description": ""
+    "description": "All channels are good for >=6 hours"
   }
 ]
