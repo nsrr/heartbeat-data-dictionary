@@ -1,3 +1,5 @@
+## 0.3.0
+
 ## 0.2.1 (January 19, 2016)
 
 - Fixed naming convention of "HeartBEAT Medical Outcomes Study (SF-36)" form
