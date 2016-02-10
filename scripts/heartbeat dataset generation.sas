@@ -239,8 +239,7 @@ data baseline_csv;
 
   if 45 =< floor(calc_age) =< 54 then agecat = 6;
   else if 55 =< floor(calc_age) =< 64 then agecat = 7;
-  else if 65 =< floor(calc_age) =< 74 then agecat = 8;
-  else if 75 =< floor(calc_age) =< 84 then agecat = 9;
+  else if 65 =< floor(calc_age) then agecat = 8;
 
   /*recode dates to be days from index date*/
   dateofwithdrawal = (dateofwithdrawal-random_date);
@@ -277,8 +276,7 @@ data final_csv;
 
   if 45 =< floor(calc_age) =< 54 then agecat = 6;
   else if 55 =< floor(calc_age) =< 64 then agecat = 7;
-  else if 65 =< floor(calc_age) =< 74 then agecat = 8;
-  else if 75 =< floor(calc_age) =< 84 then agecat = 9;
+  else if 65 =< floor(calc_age) then agecat = 8;
 
   /*recode dates to be days from index date*/
   bp24date = (bp24date-random_date);
