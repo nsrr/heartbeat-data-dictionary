@@ -1,5 +1,8 @@
 ## 0.3.0
 
+- Add unit for `bmi` variable
+- Removed `site` variable (duplication)
+
 ## 0.2.1 (January 19, 2016)
 
 - Fixed naming convention of "HeartBEAT Medical Outcomes Study (SF-36)" form

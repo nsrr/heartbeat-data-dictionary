@@ -1,7 +1,0 @@
-{
-  "id": "site",
-  "display_name": "PAP Compliance: Site ID",
-  "description": "",
-  "type": "choices",
-  "domain": "siteid"
-}
