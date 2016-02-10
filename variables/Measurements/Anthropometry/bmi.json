@@ -3,7 +3,7 @@
   "display_name": "Body Mass Index",
   "description": "",
   "type": "numeric",
-  "units": "",
+  "units": "kilograms per meters squared",
   "calculation": "weightkg / ( heightcm * heightcm )",
   "commonly_used": true
 }

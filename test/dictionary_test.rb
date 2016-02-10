@@ -18,7 +18,8 @@ class DictionaryTest < Minitest::Test
     'millimeters of mercury', 'milliseconds', 'minutes', 'minutes per day',
     'missing items', 'nanograms per milliliter', 'naps', 'ovaries', 'percent',
     'periods', 'picograms per milliliter', 'pounds', 'readings', 'seconds',
-    'units per liter', 'years', 'obstructive apnea events']
+    'units per liter', 'years', 'obstructive apnea events',
+    'kilograms per meters squared']
 
   @variables.select{|v| ['numeric','integer'].include?(v.type)}.each do |variable|
     define_method('test_units: '+variable.path) do
