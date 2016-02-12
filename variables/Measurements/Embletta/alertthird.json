@@ -1,6 +1,6 @@
 {
   "id": "alertthird",
-  "display_name": "Alert Third",
+  "display_name": "Alert Third Degree AV block",
   "description": "",
   "type": "choices",
   "domain": "check01",

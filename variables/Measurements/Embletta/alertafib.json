@@ -1,7 +1,7 @@
 {
   "id": "alertafib",
   "display_name": "Alert A-fib",
-  "description": "",
+  "description": "A-Fib/Flutter that was previously diagnose but HR>120 pr <50 for 2 minute duration",
   "type": "choices",
   "domain": "check01",
   "forms": [

@@ -1,7 +1,7 @@
 {
   "id": "alerthr",
-  "display_name": "Alert hr",
-  "description": "",
+  "display_name": "Alert Heart Rate",
+  "description": "HR >= 150 or <=30 (no A-Fib/Flutter) for 2 consecutive minutes",
   "type": "choices",
   "domain": "check01",
   "forms": [
