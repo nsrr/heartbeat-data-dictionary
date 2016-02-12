@@ -1,9 +1,0 @@
-{
-  "id": "withother_text",
-  "display_name": "Withdrawal Reason: Other reason (specify)",
-  "description": "",
-  "type": "text",
-  "forms": [
-    "heartbeat_withdrawal_form"
-  ]
-}

@@ -1,7 +1,7 @@
 ## 0.3.0
 
 - Add unit for `bmi` variable
-- Removed extraneous variables: `site`, `age`
+- Removed extraneous variables: `site`, `age`, `withother_text`
 - Re-order `sex` domain answer options
 
 ## 0.2.1 (January 19, 2016)
