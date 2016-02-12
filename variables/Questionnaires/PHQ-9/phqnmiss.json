@@ -1,6 +1,6 @@
 {
   "id": "phqnmiss",
-  "display_name": "Number of missing items",
+  "display_name": "PHQ-9: Number of missing items",
   "description": "",
   "type": "numeric",
   "units": "missing items"

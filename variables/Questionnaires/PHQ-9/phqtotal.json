@@ -1,7 +1,7 @@
 {
   "id": "phqtotal",
-  "display_name": "Sum of Items 1-9",
-  "description": "",
+  "display_name": "PHQ-9: Total score",
+  "description": "The sum of items 1 through 9",
   "type": "numeric",
   "units": "",
   "commonly_used": true,
