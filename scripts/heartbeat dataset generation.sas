@@ -252,7 +252,7 @@ run;
 
 data hbeat_total_base;
   length obf_pptid 8.;
-  merge baseline_csv zscore_b ecgaxis_b obf.obfid;
+  merge baseline_csv zscore_b ecgaxis_b obf.obfid frand;
   by studyid;
 
 	if bp24date < 0 then bp24date = .;
@@ -290,7 +290,7 @@ run;
 
 data hbeat_total_final;
   length obf_pptid 8.;
-  merge final_csv(in=a) zscore_f ecgaxis_f obf.obfid;
+  merge final_csv(in=a) zscore_f ecgaxis_f obf.obfid frand;
   by studyid;
 
   if a;

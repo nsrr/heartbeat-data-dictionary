@@ -3,6 +3,7 @@
 - Add unit for `bmi` variable
 - Removed extraneous variables: `site`, `age`, `withother_text`, `rctsourceoth_text`
 - Re-order `sex` domain answer options
+- Fix SAS script to carry `treatmentarm` into follow-up dataset for all subjects
 
 ## 0.2.1 (January 19, 2016)
 
