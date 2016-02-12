@@ -5,6 +5,7 @@
 - Re-order `sex` domain answer options
 - Fix SAS script to carry `treatmentarm` into follow-up dataset for all subjects
 - Change `race` variable to `race3` to match other datasets (1: W, 2: B, 3: O)
+- Fix units of Embletta Pulse rate variables and change `Sp02` to `SpO2`
 
 ## 0.2.1 (January 19, 2016)
 
