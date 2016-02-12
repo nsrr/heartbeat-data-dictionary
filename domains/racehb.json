@@ -1,16 +1,16 @@
 [
   {
     "value": "1",
-    "display_name": "African American or Black",
+    "display_name": "White",
     "description": ""
   },
   {
     "value": "2",
-    "display_name": "Caucasian",
+    "display_name": "Black",
     "description": ""
   },
   {
-    "value": "7",
+    "value": "3",
     "display_name": "Other",
     "description": ""
   }

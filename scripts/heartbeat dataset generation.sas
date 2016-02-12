@@ -36,16 +36,21 @@ data heartbeathhqbaseline;
   set hbeat.heartbeathhqbaseline;
 
   if bwalkhurry = 3 then bwalkhurry = .;
-	if race not in (4,5) then race = 7;
-	if race = 4 then race = 1;
-	else if race = 5 then race = 2;
+
+  *create new `race3` categorical variable to match BioLINCC method;
+  *1 = white, 2 = black, 3 = other;
+  if race = 5 then race3 = 1;
+	else if race = 4 then race3 = 2;
+	else if race not in (7,.) then race3 = 3;
+
+  *set timepoint variable;
   timepoint = 2;
 
-	drop white black hawaii asian amerindian otherrace otherrace_text race_white race_black hhqb_date;
+	drop white black hawaii asian amerindian otherrace otherrace_text race_white race_black hhqb_date race;
 run;
 
 data race;
-	set heartbeathhqbaseline(keep=studyid race);
+	set heartbeathhqbaseline(keep=studyid race3);
 run;
 
 data heartbeathhqfinal;

@@ -4,6 +4,7 @@
 - Removed extraneous variables: `site`, `age`, `withother_text`, `rctsourceoth_text`
 - Re-order `sex` domain answer options
 - Fix SAS script to carry `treatmentarm` into follow-up dataset for all subjects
+- Change `race` variable to `race3` to match other datasets (1: W, 2: B, 3: O)
 
 ## 0.2.1 (January 19, 2016)
 
