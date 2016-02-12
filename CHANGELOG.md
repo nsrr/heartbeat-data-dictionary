@@ -1,7 +1,7 @@
 ## 0.3.0
 
 - Add unit for `bmi` variable
-- Removed `site` variable (duplication)
+- Removed extraneous variables: `site`, `age`
 - Re-order `sex` domain answer options
 
 ## 0.2.1 (January 19, 2016)
