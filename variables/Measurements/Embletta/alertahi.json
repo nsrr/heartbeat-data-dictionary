@@ -1,6 +1,6 @@
 {
   "id": "alertahi",
-  "display_name": "Alert AHI",
+  "display_name": "Alert AHI > 50",
   "description": "",
   "type": "choices",
   "domain": "check01",
