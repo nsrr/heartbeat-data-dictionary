@@ -1,6 +1,6 @@
 {
   "id": "deslt50uc",
-  "display_name": "Sp02 Range/Position: Less than 50% Cumulative Upright",
+  "display_name": "SpO2 Range/Position: Less than 50% Cumulative Upright",
   "description": "",
   "type": "numeric",
   "units": "minutes"

@@ -1,6 +1,6 @@
 {
   "id": "minsat",
-  "display_name": "Sp02: Lowest Oxygen Saturation",
+  "display_name": "SpO2: Lowest Oxygen Saturation",
   "description": "",
   "type": "numeric",
   "units": "percent"

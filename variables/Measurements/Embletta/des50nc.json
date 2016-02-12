@@ -1,6 +1,6 @@
 {
   "id": "des50nc",
-  "display_name": "Sp02 Range/Position: 50-59% Cumulative Non-Supine",
+  "display_name": "SpO2 Range/Position: 50-59% Cumulative Non-Supine",
   "description": "",
   "type": "numeric",
   "units": "minutes"

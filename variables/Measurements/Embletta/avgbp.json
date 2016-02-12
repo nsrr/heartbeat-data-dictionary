@@ -1,7 +1,7 @@
 {
   "id": "avgbp",
-  "display_name": "Pulse: Total Mean",
+  "display_name": "Mean Pulse Rate",
   "description": "",
   "type": "numeric",
-  "units": "millimeters of mercury"
+  "units": "beats per minute"
 }

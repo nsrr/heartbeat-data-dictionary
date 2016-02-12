@@ -1,6 +1,6 @@
 {
   "id": "satlt70m",
-  "display_name": "Sp02: Saturation Less than 70%",
+  "display_name": "SpO2: Saturation Less than 70%",
   "description": "",
   "type": "numeric",
   "units": "minutes"
