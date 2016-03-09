@@ -1,6 +1,6 @@
 {
   "id": "incl05_bscore",
-  "display_name": "Berlin greater than 2, specify score",
+  "display_name": "Berlin scale score at screening",
   "description": "",
   "type": "choices",
   "domain": "berlin",
