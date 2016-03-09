@@ -1,6 +1,6 @@
 {
   "id": "incl01_age",
-  "display_name": "Age 45-75, specify age",
+  "display_name": "Age of participant at screening",
   "description": "",
   "type": "numeric",
   "units": "years",
