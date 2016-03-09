@@ -1,6 +1,6 @@
 {
   "id": "ecgqual",
-  "display_name": "ECG Quality",
+  "display_name": "ECG channel: Proportion of valid signal time",
   "description": "",
   "type": "choices",
   "domain": "qualdata",

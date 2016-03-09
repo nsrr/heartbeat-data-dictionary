@@ -1,6 +1,6 @@
 {
   "id": "airflowqual",
-  "display_name": "Airflow Quality",
+  "display_name": "Airflow channel: Proportion of valid signal time",
   "description": "",
   "type": "choices",
   "domain": "qualdata",

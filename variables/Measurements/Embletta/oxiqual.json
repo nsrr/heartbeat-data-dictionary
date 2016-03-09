@@ -1,6 +1,6 @@
 {
   "id": "oxiqual",
-  "display_name": "Oximeter Quality",
+  "display_name": "Oximeter channel: Proportion of valid signal time",
   "description": "",
   "type": "choices",
   "domain": "qualdata",

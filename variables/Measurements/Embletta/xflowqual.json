@@ -1,6 +1,6 @@
 {
   "id": "xflowqual",
-  "display_name": "X-Flow Quality",
+  "display_name": "X-Flow channel: Proportion of valid signal time",
   "description": "",
   "type": "choices",
   "domain": "qualdata",

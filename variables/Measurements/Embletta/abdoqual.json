@@ -1,6 +1,6 @@
 {
   "id": "abdoqual",
-  "display_name": "Abdomen Quality",
+  "display_name": "Abdomen channel: Proportion of valid signal time",
   "description": "",
   "type": "choices",
   "domain": "qualdata",

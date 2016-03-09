@@ -1,6 +1,6 @@
 {
   "id": "sumqual",
-  "display_name": "Sum Quality",
+  "display_name": "Sum channel: Proportion of valid signal time",
   "description": "",
   "type": "choices",
   "domain": "qualdata",

@@ -1,6 +1,6 @@
 {
   "id": "plethqual",
-  "display_name": "Plethysmography Quality",
+  "display_name": "Plethysmography channel: Proportion of valid signal time",
   "description": "",
   "type": "choices",
   "domain": "qualdata",

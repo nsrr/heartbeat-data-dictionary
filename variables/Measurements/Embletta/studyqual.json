@@ -1,6 +1,6 @@
 {
   "id": "studyqual",
-  "display_name": "Study Quality",
+  "display_name": "Study channel: Proportion of valid signal time",
   "description": "",
   "type": "choices",
   "domain": "studyqual",

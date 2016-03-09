@@ -1,6 +1,6 @@
 {
   "id": "cannqual",
-  "display_name": "Cannula Quality",
+  "display_name": "Cannula channel: Proportion of valid signal time",
   "description": "",
   "type": "choices",
   "domain": "qualdata",
