@@ -1,6 +1,6 @@
 {
   "id": "ecghrs",
-  "display_name": "ECG hours",
+  "display_name": "ECG channel: Hours of usbale signal",
   "description": "",
   "type": "numeric",
   "units": "hours",

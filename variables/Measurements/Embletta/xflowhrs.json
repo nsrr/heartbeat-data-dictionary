@@ -1,6 +1,6 @@
 {
   "id": "xflowhrs",
-  "display_name": "X-Flow hours",
+  "display_name": "X-Flow channel: Hours of usbale signal",
   "description": "",
   "type": "numeric",
   "units": "hours",

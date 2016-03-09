@@ -1,6 +1,6 @@
 {
   "id": "sumhrs",
-  "display_name": "Sum hours",
+  "display_name": "Sum channel: Hours of usbale signal",
   "description": "",
   "type": "numeric",
   "units": "hours",

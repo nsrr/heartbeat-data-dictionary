@@ -1,6 +1,6 @@
 {
   "id": "plethhrs",
-  "display_name": "Plethysmography hours",
+  "display_name": "Plethysmography channel: Hours of usbale signal",
   "description": "",
   "type": "numeric",
   "units": "hours",

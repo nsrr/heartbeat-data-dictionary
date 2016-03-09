@@ -1,6 +1,6 @@
 {
   "id": "thorhrs",
-  "display_name": "Thoracic hours",
+  "display_name": "Thoracic channel: Hours of usbale signal",
   "description": "",
   "type": "numeric",
   "units": "hours",

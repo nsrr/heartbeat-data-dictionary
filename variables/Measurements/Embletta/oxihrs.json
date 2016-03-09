@@ -1,6 +1,6 @@
 {
   "id": "oxihrs",
-  "display_name": "Oximeter hours",
+  "display_name": "Oximeter channel: Hours of usbale signal",
   "description": "",
   "type": "numeric",
   "units": "hours",

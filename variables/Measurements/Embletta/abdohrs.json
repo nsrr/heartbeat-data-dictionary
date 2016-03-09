@@ -1,6 +1,6 @@
 {
   "id": "abdohrs",
-  "display_name": "Abdomen hours",
+  "display_name": "Abdomen channel: Hours of usable signal",
   "description": "",
   "type": "numeric",
   "units": "hours",

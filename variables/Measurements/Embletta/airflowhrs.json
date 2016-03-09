@@ -1,6 +1,6 @@
 {
   "id": "airflowhrs",
-  "display_name": "Airflow hours",
+  "display_name": "Airflow channel: Hours of usbale signal",
   "description": "",
   "type": "numeric",
   "units": "hours",
