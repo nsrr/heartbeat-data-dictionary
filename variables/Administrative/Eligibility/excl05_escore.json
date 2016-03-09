@@ -1,6 +1,6 @@
 {
   "id": "excl05_escore",
-  "display_name": "Epworth score greater than or equal to 16 (specify)",
+  "display_name": "Epworth sleepiness scale score at screening",
   "description": "",
   "type": "numeric",
   "units": "",
