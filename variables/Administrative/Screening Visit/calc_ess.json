@@ -1,7 +1,7 @@
 {
   "id": "calc_ess",
   "display_name": "Calculated ESS Score",
-  "description": "",
+  "description": "Calculated ESS score from the Epworth Sleepiness Scale",
   "type": "numeric",
   "units": ""
 }

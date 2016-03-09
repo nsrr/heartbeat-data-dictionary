@@ -1,7 +1,7 @@
 {
 	"id": "sittalk",
-	"display_name": "Sitting and talking to someone",
-	"description": "",
+	"display_name": "Chance of dozing while sitting and talking to someone",
+	"description": "Question from the Epworth Sleepiness Scale",
 	"type": "choices",
 	"domain": "ess"
 }

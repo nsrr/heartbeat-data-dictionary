@@ -1,7 +1,7 @@
 {
 	"id": "wakingtime",
-	"display_name": "Waking time feeling tired or fatigued",
-	"description": "",
+	"display_name": "During your waketime, do you feel tired, fatigued or not up to par?",
+	"description": "Question from the Berlin Questionnaire",
 	"type": "choices",
 	"domain": "howoften"
 }

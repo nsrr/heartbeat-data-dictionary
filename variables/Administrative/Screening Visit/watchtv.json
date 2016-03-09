@@ -1,7 +1,7 @@
 {
 	"id": "watchtv",
-	"display_name": "Watching TV",
-	"description": "",
+	"display_name": "Chance of dozing while watching TV",
+	"description": "Question from the Epworth Sleepiness Scale",
 	"type": "choices",
 	"domain": "ess"
 }

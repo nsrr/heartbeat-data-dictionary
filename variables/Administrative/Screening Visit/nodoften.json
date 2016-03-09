@@ -1,7 +1,7 @@
 {
 	"id": "nodoften",
-	"display_name": "How often does this occur",
-	"description": "",
+	"display_name": "If yes, how often does this occur",
+	"description": "Question from the Berlin Questionnaire",
 	"type": "choices",
 	"domain": "howoften"
 }

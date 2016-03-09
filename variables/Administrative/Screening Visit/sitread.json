@@ -1,7 +1,7 @@
 {
 	"id": "sitread",
-	"display_name": "Sitting and reading",
-	"description": "",
+	"display_name": "Chance of dozing while sitting and reading",
+	"description": "Question from the Epworth Sleepiness Scale",
 	"type": "choices",
 	"domain": "ess"
 }

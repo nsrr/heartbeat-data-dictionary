@@ -1,6 +1,6 @@
 {
 	"id": "smoke",
-	"display_name": "Smoke in bedroom",
+	"display_name": "Do you smoke in the bedroom?",
 	"description": "",
 	"type": "choices",
 	"domain": "noyes"

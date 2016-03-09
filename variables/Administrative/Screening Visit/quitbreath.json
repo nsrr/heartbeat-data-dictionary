@@ -1,7 +1,7 @@
 {
 	"id": "quitbreath",
-	"display_name": "Quit breathing during sleep",
-	"description": "",
+	"display_name": "Has anyone noticed that you quit breathing during your sleep?",
+	"description": "Questionnaire from the Berlin Questionnaire",
 	"type": "choices",
 	"domain": "howoften"
 }

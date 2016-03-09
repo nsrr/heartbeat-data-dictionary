@@ -1,7 +1,7 @@
 {
   "id": "bscore",
   "display_name": "Hand-calculated Berlin Score",
-  "description": "",
+  "description": "Hand-calculated Berlin score from the Berlin Questionnaire",
   "type": "choices",
   "domain": "berlin"
 }

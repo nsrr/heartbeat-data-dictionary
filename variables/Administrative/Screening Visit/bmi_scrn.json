@@ -1,7 +1,7 @@
 {
   "id": "bmi_scrn",
   "display_name": "Body Mass Index",
-  "description": "BMI hand-calculated using self-reported height and weight",
+  "description": "BMI hand-calculated using self-reported height and weight from the Berlin Questionnaire",
   "type": "numeric",
   "units": ""
 }

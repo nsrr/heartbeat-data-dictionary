@@ -1,7 +1,7 @@
 {
 	"id": "dinner",
-	"display_name": "At the dinner table",
-	"description": "",
+	"display_name": "Chance of dozing while at the dinner table",
+	"description": "Question from the Epworth Sleepiness Scale",
 	"type": "choices",
 	"domain": "ess"
 }

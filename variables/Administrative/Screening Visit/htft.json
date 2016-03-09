@@ -1,7 +1,7 @@
 {
   "id": "htft",
   "display_name": "Height",
-  "description": "",
+  "description": "Question from the Berlin Questionnaire",
   "type": "numeric",
   "units": "feet"
 }

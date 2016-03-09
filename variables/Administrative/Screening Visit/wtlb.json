@@ -1,7 +1,7 @@
 {
   "id": "wtlb",
   "display_name": "Weight",
-  "description": "",
+  "description": "Question from the Berlin Questionnaire",
   "type": "numeric",
   "units": "pounds"
 }

@@ -1,7 +1,7 @@
 {
 	"id": "bothered",
-	"display_name": "Snoring bothered other people",
-	"description": "",
+	"display_name": "Has your snoring bothered other people?",
+	"description": "Question from the Berlin Questionnaire",
 	"type": "choices",
 	"domain": "noyes"
 }

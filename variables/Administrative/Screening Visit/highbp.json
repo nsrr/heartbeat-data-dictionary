@@ -1,7 +1,7 @@
 {
 	"id": "highbp",
-	"display_name": "Have high blood pressure",
-	"description": "",
+	"display_name": "Do you have high blood pressure",
+	"description": "Question from the Berlin Questionnaire",
 	"type": "choices",
 	"domain": "noyes"
 }

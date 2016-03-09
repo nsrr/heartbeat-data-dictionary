@@ -1,6 +1,6 @@
 {
 	"id": "useoxy",
-	"display_name": "Use oxygen or CPAP or BiLevel",
+	"display_name": "Do you use oxygen, CPAP, or BiLevel",
 	"description": "",
 	"type": "choices",
 	"domain": "noyes"

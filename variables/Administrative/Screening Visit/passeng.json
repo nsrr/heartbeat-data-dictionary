@@ -1,7 +1,7 @@
 {
 	"id": "passeng",
-	"display_name": "Passenger in a car for more than an hour without a break",
-	"description": "",
+	"display_name": "Chance of dozing as a passenger in a car for more than an hour without a break",
+	"description": "Question for the Epworth Sleepiness Scale",
 	"type": "choices",
 	"domain": "ess"
 }

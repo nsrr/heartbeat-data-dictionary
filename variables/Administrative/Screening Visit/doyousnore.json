@@ -1,7 +1,7 @@
 {
 	"id": "doyousnore",
 	"display_name": "Do you snore?",
-	"description": "",
+	"description": "Question from the Berlin Questionnaire",
 	"type": "choices",
 	"domain": "noyes"
 }

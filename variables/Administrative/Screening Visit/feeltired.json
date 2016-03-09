@@ -1,7 +1,7 @@
 {
 	"id": "feeltired",
-	"display_name": "Feel tired or fatigued after sleep",
-	"description": "",
+	"display_name": "How often do you feel tired or fatigued after your sleep?",
+	"description": "Question from the Berlin Questionnaire",
 	"type": "choices",
 	"domain": "howoften"
 }

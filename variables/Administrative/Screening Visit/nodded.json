@@ -1,7 +1,7 @@
 {
 	"id": "nodded",
-	"display_name": "Fallen asleep while driving",
-	"description": "",
+	"display_name": "Have you ever nodded off or fallen asleep while driving a vehicle?",
+	"description": "Question from the Berlin Questionnaire",
 	"type": "choices",
 	"domain": "noyes"
 }

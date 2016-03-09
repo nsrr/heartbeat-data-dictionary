@@ -1,7 +1,7 @@
 {
 	"id": "lying",
-	"display_name": "Lying down to rest",
-	"description": "",
+	"display_name": "Chance of dozing while lying down to rest",
+	"description": "Question from the Epworth Sleepiness Scale",
 	"type": "choices",
 	"domain": "ess"
 }

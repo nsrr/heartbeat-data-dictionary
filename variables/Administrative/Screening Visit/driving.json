@@ -1,7 +1,7 @@
 {
 	"id": "driving",
-	"display_name": "While driving",
-	"description": "",
+	"display_name": "Chance of dozing while driving",
+	"description": "Question from the Epworth Sleepiness Scale",
 	"type": "choices",
 	"domain": "ess"
 }

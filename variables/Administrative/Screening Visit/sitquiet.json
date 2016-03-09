@@ -1,7 +1,7 @@
 {
 	"id": "sitquiet",
-	"display_name": "Sitting quietly after lunch",
-	"description": "",
+	"display_name": "Chance of dozing while sitting quietly after lunch",
+	"description": "Question from the Epworth Sleepiness Scale",
 	"type": "choices",
 	"domain": "ess"
 }
