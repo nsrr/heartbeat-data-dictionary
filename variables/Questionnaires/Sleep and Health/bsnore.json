@@ -1,6 +1,6 @@
 {
   "id": "bsnore",
-  "display_name": "Snored in last month",
+  "display_name": "Snored in the last month",
   "description": "",
   "type": "choices",
   "domain":"noyes",

@@ -1,6 +1,6 @@
 {
   "id": "mapwakevalid",
-  "display_name": "Mean MAP with valid wake",
+  "display_name": "Mean arterial pressure with valid wake",
   "description": "",
   "type": "numeric",
   "units":"millimeters of mercury"

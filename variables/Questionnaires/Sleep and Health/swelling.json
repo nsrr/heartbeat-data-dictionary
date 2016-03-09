@@ -1,6 +1,6 @@
 {
   "id": "swelling",
-  "display_name": "Swelling in feet in last month",
+  "display_name": "Swelling in the feet in last month",
   "description": "",
   "type": "choices",
   "domain":"noyes",
