@@ -6,7 +6,11 @@
 - Fix SAS script to carry `treatmentarm` into follow-up dataset for all subjects
 - Change `race` variable to `race3` to match other datasets (1: W, 2: B, 3: O)
 - Fix units of Embletta Pulse rate variables and change `Sp02` to `SpO2`
-- Clarify `ahi1` and `ahi2` variable descriptions
+- Remove `ahi1` and `ahi2` variable
+- The CSV datasets generated from a SAS export is located here:
+  - `\\rfa01\bwh-sleepepi-heartbeat\nsrr-prep\_releases\0.3.0\`
+    - `heartbeat-baseline-dataset-0.3.0.rc.csv`
+    - `heartbeat-followup-dataset-0.3.0.rc.csv`
 
 ## 0.2.1 (January 19, 2016)
 
