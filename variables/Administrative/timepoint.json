@@ -1,6 +1,6 @@
 {
   "id": "timepoint",
-  "display_name": "Visit",
+  "display_name": "Visit number",
   "description": "",
   "type": "choices",
   "domain": "timepoint",
