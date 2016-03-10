@@ -1,0 +1,7 @@
+{
+  "id": "n_cent_apneas",
+  "display_name": "Number of central apneas from eligibility scoring pass",
+  "description": "",
+  "type": "numeric",
+  "units": "central apneas"
+}

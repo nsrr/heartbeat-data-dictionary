@@ -1,0 +1,7 @@
+{
+  "id": "n_obs_apneas",
+  "display_name": "Number of obstructive apneas from eligibility scoring pass",
+  "description": "",
+  "type": "numeric",
+  "units": "obstructive apneas"
+}

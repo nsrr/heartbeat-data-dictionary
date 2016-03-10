@@ -1,7 +1,8 @@
 {
   "id": "aphypi",
-  "display_name": "Apnea-Hypopnea Index",
+  "display_name": "Overall Apnea-Hypopnea Index from Embletta Sleep Report",
   "description": "",
   "type": "numeric",
-  "units": ""
+  "units": "",
+  "commonly_used": true
 }

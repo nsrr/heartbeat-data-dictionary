@@ -1,10 +1,12 @@
+
+*set options and libnames;
 %include "\\rfa01\bwh-sleepepi-heartbeat\sas\heartbeat options and libnames.sas";
 libname obf "\\rfa01\bwh-sleepepi-heartbeat\nsrr-prep\_ids";
 %let a=%sysget(SAS_EXECFILEPATH);
 %let b=%sysget(SAS_EXECFILENAME);
 %let path= %sysfunc(tranwrd(&a,&b,heartbeat dataset macros.sas));
 %include "&path";
-%let release = 0.2.0;
+%let release = 0.3.0.pre;
 
 data dob;
   set hbeat.heartbeatmeasurements;
@@ -21,10 +23,10 @@ proc sort data=dob nodupkey;
 run;
 
 data hbeatages;
-  merge dob(in=a) hbeat.heartbeatmeasurements(drop=dob);
+  merge dob (in=a) hbeat.heartbeatmeasurements (drop=dob);
   by studyid;
   if a;
-  calc_age = (meas_date - dob)/365.25;
+  calc_age = (meas_date - dob) / 365.25;
   keep studyid timepoint calc_age;
 run;
 
@@ -73,8 +75,23 @@ data hbeatembletta;
   if pass > 1;
 run;
 
+*add dataset from pass 1 to calculate central / obstructive ratio from screening;
+data hbeatembletta_ratio;
+  set hbeat.heartbeatembletta;
+
+  if pass = 1;
+
+  cent_obs_ratio = nca / noa;
+  format cent_obs_ratio 8.2 nca noa 8.;
+
+  rename nca = n_cent_apneas
+    noa = n_obs_apneas;
+
+  keep studyid embq_date cent_obs_ratio nca noa;
+run;
+
 data embletta;
-  merge hbeatembletta (in=a) hbeat.heartbeatembqs;
+  merge hbeatembletta (in=a) hbeat.heartbeatembqs hbeatembletta_ratio;
   by studyid embq_date;
 
   if a;
@@ -87,7 +104,7 @@ data embletta;
   rename endtime = embq_endtime;
   rename starttime = embq_starttime;
 
-  drop folder inembletta inembqs enddttime startdttime;
+  drop folder inembletta inembqs enddttime startdttime ahi1 ahi2;
 run;
 
 data hbeat_sf36;
@@ -242,17 +259,17 @@ data baseline_csv;
     end;
   end;
 
-  if 45 =< floor(calc_age) =< 54 then agecat = 6;
-  else if 55 =< floor(calc_age) =< 64 then agecat = 7;
-  else if 65 =< floor(calc_age) then agecat = 8;
+  if 45 =< floor(calc_age) =< 54 then agecat = 1;
+  else if 55 =< floor(calc_age) =< 64 then agecat = 2;
+  else if 65 =< floor(calc_age) then agecat = 3;
 
   /*recode dates to be days from index date*/
-  dateofwithdrawal = (dateofwithdrawal-random_date);
-  bp24date = (bp24date-random_date);
-  embq_date = (embq_date-random_date);
-
-  drop i visit staffid bp_z gh_z mh_z pf_z re_z rp_z sf_z vt_z mcs pcs agg_ment agg_phys paxis qrsaxis taxis;
-
+  dateofwithdrawal = (dateofwithdrawal - random_date);
+  bp24date = (bp24date - random_date);
+  embq_date = (embq_date - random_date);
+ 
+  drop i visit staffid bp_z gh_z mh_z pf_z re_z rp_z sf_z vt_z mcs pcs agg_ment 
+    agg_phys paxis qrsaxis taxis age rctsourceoth_text withother_text;
 run;
 
 data hbeat_total_base;
@@ -260,12 +277,20 @@ data hbeat_total_base;
   merge baseline_csv zscore_b ecgaxis_b obf.obfid frand;
   by studyid;
 
+  attrib _all_ label = "";
+  format _all_;
+
 	if bp24date < 0 then bp24date = .;
 
-  drop random_date with_date elig_date enroll_date scrn_date receive_date review_date scored_date ecg_date visit_date endodate hhq_date phq_date meas_date studyid namecode labelid distance exclusion01 exclusion02 exclusion03 exclusion04 exclusion05 exclusion07 exclusion08 exclusion09 exclusion10 extratests inclusion01 inclusion02 inclusion03 misswork nointerest nopartoth nopartoth_text partstatus passive toobusy transport;
+  drop random_date with_date elig_date enroll_date scrn_date receive_date 
+    review_date scored_date ecg_date visit_date endodate phq_date meas_date 
+    studyid namecode labelid distance exclusion01 exclusion02 exclusion03 
+    exclusion04 exclusion05 exclusion07 exclusion08 exclusion09 exclusion10 
+    extratests inclusion01 inclusion02 inclusion03 misswork nointerest 
+    nopartoth nopartoth_text partstatus passive toobusy transport;
 run;
 
-data final_csv;
+data followup_csv;
   set heartbeat_renamed_final;
 
   attrib _all_ label = "";
@@ -279,41 +304,55 @@ data final_csv;
     end;
   end;
 
-  if 45 =< floor(calc_age) =< 54 then agecat = 6;
-  else if 55 =< floor(calc_age) =< 64 then agecat = 7;
-  else if 65 =< floor(calc_age) then agecat = 8;
+  if 45 =< floor(calc_age) =< 54 then agecat = 1;
+  else if 55 =< floor(calc_age) =< 64 then agecat = 2;
+  else if 65 =< floor(calc_age) then agecat = 3;
 
   /*recode dates to be days from index date*/
-  bp24date = (bp24date-random_date);
-  meas_date = (meas_date-random_date);
-  embq_date = (embq_date-random_date);
+  bp24date = (bp24date - random_date);
+  meas_date = (meas_date - random_date);
+  embq_date = (embq_date - random_date);
 
-	rename meas_date = final_visit_date;
+	rename meas_date = followup_visit_date;
 
-  drop i visit staffid bp_z gh_z mh_z pf_z re_z rp_z sf_z vt_z mcs pcs agg_ment agg_phys paxis qrsaxis taxis;
+  drop i visit staffid bp_z gh_z mh_z pf_z re_z rp_z sf_z vt_z mcs pcs agg_ment 
+    agg_phys paxis qrsaxis taxis cent_obs_ratio n_cent_apneas n_obs_apneas 
+    site;
 run;
 
-data hbeat_total_final;
+data hbeat_total_followup;
   length obf_pptid 8.;
-  merge final_csv(in=a) zscore_f ecgaxis_f obf.obfid frand;
+  merge followup_csv(in=a) zscore_f ecgaxis_f obf.obfid frand;
   by studyid;
 
   if a;
 
+  attrib _all_ label = "";
+  format _all_;
+
 	if abbott_hstnl__pg_ml_ > 1492 then abbott_hstnl__pg_ml_ = .;
 	if hstniiuo_pg_ml > 1000 then hstniiuo_pg_ml = .;
 
-  drop studyid namecode labelid inconc_date outconc_date phq_date hhq_date endodate visit_date ecg_date receive_date review_date scored_date enddate mintherdate startdate random_date;
+  drop studyid namecode labelid inconc_date outconc_date phq_date endodate visit_date ecg_date receive_date review_date scored_date enddate mintherdate startdate random_date;
 run;
 
 proc sort data = hbeat_total_base;
   by obf_pptid;
 run;
 
-proc sort data = hbeat_total_final;
+proc sort data = hbeat_total_followup;
   by obf_pptid;
 run;
 
-proc export data=hbeat_total_base outfile="\\rfa01\bwh-sleepepi-heartbeat\nsrr-prep\_releases\&release\heartbeat-baseline-dataset-&release..csv" dbms=csv replace; run;
+*create CSV exports;
+proc export data=hbeat_total_base 
+  outfile="\\rfa01\bwh-sleepepi-heartbeat\nsrr-prep\_releases\&release\heartbeat-baseline-dataset-&release..csv" 
+  dbms=csv 
+  replace; 
+run;
 
-proc export data=hbeat_total_final outfile="\\rfa01\bwh-sleepepi-heartbeat\nsrr-prep\_releases\&release\heartbeat-final-dataset-&release..csv" dbms=csv replace; run;
+proc export data=hbeat_total_followup
+  outfile="\\rfa01\bwh-sleepepi-heartbeat\nsrr-prep\_releases\&release\heartbeat-followup-dataset-&release..csv" 
+  dbms=csv 
+  replace; 
+run;
