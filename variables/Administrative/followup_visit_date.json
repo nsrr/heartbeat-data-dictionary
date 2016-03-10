@@ -1,5 +1,5 @@
 {
-  "id": "final_visit_date",
+  "id": "followup_visit_date",
   "display_name": "Date of the follow-up visit",
   "description": "",
   "type": "numeric",
