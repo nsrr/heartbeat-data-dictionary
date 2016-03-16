@@ -3,5 +3,9 @@
   "display_name": "Ratio of central apneas to obstructive apneas from eligibility scoring pass",
   "description": "",
   "type": "numeric",
-  "units": ""
+  "units": "",
+  "labels": [
+    "ahi",
+    "icsd"
+  ]
 }

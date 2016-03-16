@@ -4,5 +4,9 @@
   "description": "",
   "type": "numeric",
   "units": "",
-  "commonly_used": true
+  "commonly_used": true,
+  "labels": [
+    "ahi",
+    "icsd"
+  ]
 }
