@@ -1,4 +1,4 @@
-## 0.3.0
+## 0.3.0 (March 16, 2016)
 
 - Add unit for `bmi` variable
 - Removed extraneous variables: `site`, `age`, `withother_text`, `rctsourceoth_text`
@@ -9,8 +9,8 @@
 - Remove `ahi1` and `ahi2` variable
 - The CSV datasets generated from a SAS export is located here:
   - `\\rfa01\bwh-sleepepi-heartbeat\nsrr-prep\_releases\0.3.0\`
-    - `heartbeat-baseline-dataset-0.3.0.rc.csv`
-    - `heartbeat-followup-dataset-0.3.0.rc.csv`
+    - `heartbeat-baseline-dataset-0.3.0.csv`
+    - `heartbeat-followup-dataset-0.3.0.csv`
 
 ## 0.2.1 (January 19, 2016)
 
