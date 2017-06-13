@@ -6,7 +6,7 @@ libname obf "\\rfa01\bwh-sleepepi-heartbeat\nsrr-prep\_ids";
 %let b=%sysget(SAS_EXECFILENAME);
 %let path= %sysfunc(tranwrd(&a,&b,heartbeat dataset macros.sas));
 %include "&path";
-%let release = 0.3.0;
+%let release = 0.4.0.pre;
 
 data dob;
   set hbeat.heartbeatmeasurements;
@@ -267,8 +267,8 @@ data baseline_csv;
   dateofwithdrawal = (dateofwithdrawal - random_date);
   bp24date = (bp24date - random_date);
   embq_date = (embq_date - random_date);
- 
-  drop i visit staffid bp_z gh_z mh_z pf_z re_z rp_z sf_z vt_z mcs pcs agg_ment 
+
+  drop i visit staffid bp_z gh_z mh_z pf_z re_z rp_z sf_z vt_z mcs pcs agg_ment
     agg_phys paxis qrsaxis taxis age rctsourceoth_text withother_text;
 run;
 
@@ -282,11 +282,11 @@ data hbeat_total_base;
 
 	if bp24date < 0 then bp24date = .;
 
-  drop random_date with_date elig_date enroll_date scrn_date receive_date 
-    review_date scored_date ecg_date visit_date endodate phq_date meas_date 
-    studyid namecode labelid distance exclusion01 exclusion02 exclusion03 
-    exclusion04 exclusion05 exclusion07 exclusion08 exclusion09 exclusion10 
-    extratests inclusion01 inclusion02 inclusion03 misswork nointerest 
+  drop random_date with_date elig_date enroll_date scrn_date receive_date
+    review_date scored_date ecg_date visit_date endodate phq_date meas_date
+    studyid namecode labelid distance exclusion01 exclusion02 exclusion03
+    exclusion04 exclusion05 exclusion07 exclusion08 exclusion09 exclusion10
+    extratests inclusion01 inclusion02 inclusion03 misswork nointerest
     nopartoth nopartoth_text partstatus passive toobusy transport;
 run;
 
@@ -315,8 +315,8 @@ data followup_csv;
 
 	rename meas_date = followup_visit_date;
 
-  drop i visit staffid bp_z gh_z mh_z pf_z re_z rp_z sf_z vt_z mcs pcs agg_ment 
-    agg_phys paxis qrsaxis taxis cent_obs_ratio n_cent_apneas n_obs_apneas 
+  drop i visit staffid bp_z gh_z mh_z pf_z re_z rp_z sf_z vt_z mcs pcs agg_ment
+    agg_phys paxis qrsaxis taxis cent_obs_ratio n_cent_apneas n_obs_apneas
     site;
 run;
 
@@ -345,14 +345,14 @@ proc sort data = hbeat_total_followup;
 run;
 
 *create CSV exports;
-proc export data=hbeat_total_base 
-  outfile="\\rfa01\bwh-sleepepi-heartbeat\nsrr-prep\_releases\&release\heartbeat-baseline-dataset-&release..csv" 
-  dbms=csv 
-  replace; 
+proc export data=hbeat_total_base
+  outfile="\\rfa01\bwh-sleepepi-heartbeat\nsrr-prep\_releases\&release\heartbeat-baseline-dataset-&release..csv"
+  dbms=csv
+  replace;
 run;
 
 proc export data=hbeat_total_followup
-  outfile="\\rfa01\bwh-sleepepi-heartbeat\nsrr-prep\_releases\&release\heartbeat-followup-dataset-&release..csv" 
-  dbms=csv 
-  replace; 
+  outfile="\\rfa01\bwh-sleepepi-heartbeat\nsrr-prep\_releases\&release\heartbeat-followup-dataset-&release..csv"
+  dbms=csv
+  replace;
 run;

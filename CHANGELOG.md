@@ -1,3 +1,5 @@
+## 0.4.0
+
 ## 0.3.0 (March 16, 2016)
 
 - Add unit for `bmi` variable
