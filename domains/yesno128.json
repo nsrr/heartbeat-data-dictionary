@@ -12,6 +12,7 @@
   {
     "value": "-8",
     "display_name": "Not Applicable",
-    "description": ""
+    "description": "",
+    "missing": true
   }
 ]

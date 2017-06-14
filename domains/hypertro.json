@@ -6,17 +6,17 @@
   },
   {
     "value": "1",
-    "display_name": "RVH (R Ventricular Hypertrophy)",
+    "display_name": "RVH (Right Ventricular Hypertrophy)",
     "description": ""
   },
   {
     "value": "2",
-    "display_name": "LVH (L Ventricular Hypertrophy)",
+    "display_name": "LVH (Left Ventricular Hypertrophy)",
     "description": ""
   },
   {
     "value": "3",
-    "display_name": "RVH & LVH",
+    "display_name": "RVH (Right Ventricular Hypertrophy) & LVH (Left Ventricular Hypertrophy)",
     "description": ""
   },
   {

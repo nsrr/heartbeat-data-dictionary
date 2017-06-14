@@ -1,17 +1,17 @@
 [
- {
-   "value": "1",
-   "display_name": "45-54 years",
-   "description": ""
- },
- {
-   "value": "2",
-   "display_name": "55-64 years",
-   "description": ""
- },
- {
-   "value": "3",
-   "display_name": "65 years or older",
-   "description": ""
- }
+  {
+    "value": "1",
+    "display_name": "45-54 years",
+    "description": ""
+  },
+  {
+    "value": "2",
+    "display_name": "55-64 years",
+    "description": ""
+  },
+  {
+    "value": "3",
+    "display_name": "65 years or older",
+    "description": ""
+  }
 ]

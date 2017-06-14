@@ -1,17 +1,17 @@
 [
   {
     "value": "1",
-    "display_name": "HLSE",
+    "display_name": "Healthy Lifestyles and Sleep Education - control arm (HLSE)",
     "description": ""
   },
   {
     "value": "2",
-    "display_name": "HLSE-O",
+    "display_name": "Healthy Lifestyles and Sleep Education + (supplemental nocturnal) Oxygen - oxygen arm (HLSE-O)",
     "description": ""
   },
   {
     "value": "3",
-    "display_name": "HLSE-P",
+    "display_name": "Healthy Lifestyles and Sleep Education + Positive airway pressure treatment - CPAP arm (HLSE-P)",
     "description": ""
   }
 ]

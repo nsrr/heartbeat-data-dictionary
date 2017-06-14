@@ -6,17 +6,17 @@
   },
   {
     "value": "1",
-    "display_name": "1* AVB",
+    "display_name": "First-degree atrioventricular block (AVB)",
     "description": ""
   },
   {
     "value": "2",
-    "display_name": "2* AVB",
+    "display_name": "Second-degree atrioventricular block (AVB)",
     "description": ""
   },
   {
     "value": "3",
-    "display_name": "3* AVB",
+    "display_name": "Third-degree atrioventricular block (AVB)",
     "description": ""
   }
 ]

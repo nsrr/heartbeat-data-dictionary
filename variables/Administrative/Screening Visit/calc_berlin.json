@@ -1,7 +1,7 @@
 {
   "id": "calc_berlin",
   "display_name": "Calculated Berlin Score",
-  "description": "Calculated Berlin score from the Berlin Questionnaire",
-  "type": "choices",
-  "domain": "berlin"
+  "description": "",
+  "type": "integer",
+  "units": ""
 }

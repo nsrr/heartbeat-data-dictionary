@@ -3,5 +3,5 @@
   "display_name": "Calculated Body Mass Index",
   "description": "BMI calculated using self-reported height and weight from the Berlin Questionnaire",
   "type": "numeric",
-  "units": ""
+  "units": "kilograms per meters squared"
 }
