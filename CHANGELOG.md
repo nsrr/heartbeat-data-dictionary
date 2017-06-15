@@ -1,5 +1,11 @@
 ## 0.4.0
 
+- Update display names and descriptions to spell out abbreviations
+- The CSV datasets generated from a SAS export is located here:
+  - `\\rfawin\bwh-sleepepi-heartbeat\nsrr-prep\_releases\0.4.0.beta1\`
+    - `heartbeat-baseline-dataset-0.4.0.beta1.csv`
+    - `heartbeat-followup-dataset-0.4.0.beta1.csv`
+
 ## 0.3.0 (March 16, 2016)
 
 - Add unit for `bmi` variable

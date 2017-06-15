@@ -1,14 +1,18 @@
-require 'test_helper'
-require 'colorize'
+# frozen_string_literal: true
 
+require 'test_helper'
+
+# Launches default Spout tests and custom tests for specific to this dictionary.
 class DictionaryTest < Minitest::Test
   # This line includes all default Spout Dictionary tests
   include Spout::Tests
 
-  # This line provides access to @variables, @forms, and @domains
-  # iterators that can be used to write custom tests
+  # This line provides access to @variables, @forms, and @domains iterators
+  # that can be used to write custom tests.
   include Spout::Helpers::Iterators
 
+  # Example 1: Create custom tests to show that `integer` and `numeric`
+  # variables have a valid unit type.
   VALID_UNITS = [
     '', 'beats per minute', 'centimeters', 'cigarettes', 'days',
     'days from index date', 'days per week', 'degrees',
@@ -19,13 +23,14 @@ class DictionaryTest < Minitest::Test
     'missing items', 'nanograms per milliliter', 'naps', 'ovaries', 'percent',
     'periods', 'picograms per milliliter', 'pounds', 'readings', 'seconds',
     'units per liter', 'years', 'obstructive apnea events',
-    'kilograms per meters squared', 'central apneas', 'obstructive apneas']
+    'kilograms per meters squared', 'central apneas', 'obstructive apneas',
+    nil ]
 
-  @variables.select{|v| ['numeric','integer'].include?(v.type)}.each do |variable|
-    define_method('test_units: '+variable.path) do
-      message = "\"#{variable.units}\"".colorize( :red ) + " invalid units.\n" +
-                '             Valid types: ' +
-                VALID_UNITS.sort.collect{|u| u.inspect.colorize( :white )}.join(', ')
+  @variables.select { |v| %w(numeric integer).include?(v.type) }.each do |variable|
+    define_method("test_units: #{variable.path}") do
+      message = "\"#{variable.units}\"".colorize(:red) + " invalid units.\n" +
+                "             Valid types: " +
+                VALID_UNITS.sort_by(&:to_s).collect { |u| u.inspect.colorize(:white) }.join(', ')
       assert VALID_UNITS.include?(variable.units), message
     end
   end

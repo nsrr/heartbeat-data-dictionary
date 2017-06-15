@@ -8,7 +8,7 @@ libname obf "\\rfawin\bwh-sleepepi-heartbeat\nsrr-prep\_ids";
 %let b=%sysget(SAS_EXECFILENAME);
 %let path= %sysfunc(tranwrd(&a,&b,heartbeat-macros.sas));
 %include "&path";
-%let release = 0.4.0.pre;
+%let release = 0.4.0.beta1;
 
 data dob;
   set hbeat.heartbeatmeasurements;
@@ -348,13 +348,13 @@ run;
 
 *create CSV exports;
 proc export data=hbeat_total_base
-  outfile="\\rfa01\bwh-sleepepi-heartbeat\nsrr-prep\_releases\&release\heartbeat-baseline-dataset-&release..csv"
+  outfile="\\rfawin\bwh-sleepepi-heartbeat\nsrr-prep\_releases\&release\heartbeat-baseline-dataset-&release..csv"
   dbms=csv
   replace;
 run;
 
 proc export data=hbeat_total_followup
-  outfile="\\rfa01\bwh-sleepepi-heartbeat\nsrr-prep\_releases\&release\heartbeat-followup-dataset-&release..csv"
+  outfile="\\rfawin\bwh-sleepepi-heartbeat\nsrr-prep\_releases\&release\heartbeat-followup-dataset-&release..csv"
   dbms=csv
   replace;
 run;
