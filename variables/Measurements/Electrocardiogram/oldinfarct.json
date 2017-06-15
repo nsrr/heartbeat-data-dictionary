@@ -3,5 +3,12 @@
   "display_name": "Old Infarct",
   "description": "",
   "type": "choices",
-  "domain": "oldinfarct"
+  "domain": "oldinfarct",
+  "labels": [
+    "ecg",
+    "ekg",
+    "mi",
+    "myocardial infarction",
+    "heart attack"
+  ]
 }

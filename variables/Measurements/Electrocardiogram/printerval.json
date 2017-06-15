@@ -3,5 +3,13 @@
   "display_name": "PR Interval",
   "description": "Duration from the beginning of the P-wave to the beginning of the QRS complex",
   "type": "numeric",
-  "units": "milliseconds"
+  "units": "milliseconds",
+  "labels": [
+    "ecg",
+    "ekg",
+    "p-r",
+    "ms",
+    ".12-.20",
+    "seconds"
+  ]
 }

@@ -3,5 +3,5 @@
   "display_name": "Automatic database eligibility check",
   "description": "",
   "type": "choices",
-  "domain":"eligstatus"
+  "domain": "eligstatus"
 }

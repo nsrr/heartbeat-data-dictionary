@@ -3,5 +3,9 @@
   "display_name": "Apnea/Hypopnea: Obstructive Number",
   "description": "",
   "type": "numeric",
-  "units": "events"
+  "units": "events",
+  "labels": [
+    "hst",
+    "portable sleep monitor"
+  ]
 }

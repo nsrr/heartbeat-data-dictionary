@@ -3,6 +3,10 @@
   "display_name": "Start Time",
   "description": "",
   "type": "time",
+  "labels": [
+    "hst",
+    "portable sleep monitor"
+  ],
   "forms": [
     "heartbeat_embletta_qs_form"
   ]

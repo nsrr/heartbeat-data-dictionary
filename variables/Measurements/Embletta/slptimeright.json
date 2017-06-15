@@ -3,5 +3,9 @@
   "display_name": "Position: Right",
   "description": "",
   "type": "numeric",
-  "units": "minutes"
+  "units": "minutes",
+  "labels": [
+    "hst",
+    "portable sleep monitor"
+  ]
 }

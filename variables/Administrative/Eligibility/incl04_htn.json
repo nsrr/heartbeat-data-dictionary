@@ -1,9 +1,13 @@
 {
   "id": "incl04_htn",
-  "display_name": "Coronary artery disease risk factors: Hypertension",
+  "display_name": "Coronary artery disease (CAD) risk factors: Hypertension (HTN)",
   "description": "",
   "type": "choices",
-  "domain":"check01",
+  "domain": "check01",
+  "labels": [
+    "high blood pressure",
+    "heart disease"
+  ],
   "forms": [
     "heartbeat_eligibility_form"
   ]

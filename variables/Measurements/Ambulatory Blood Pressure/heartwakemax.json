@@ -3,5 +3,10 @@
   "display_name": "Maximum Mean Heart Rate (wake)",
   "description": "",
   "type": "numeric",
-  "units": "beats per minute"
+  "units": "beats per minute",
+  "labels": [
+    "hr",
+    "bpm",
+    "bp"
+  ]
 }

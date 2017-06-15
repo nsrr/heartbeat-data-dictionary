@@ -3,5 +3,10 @@
   "display_name": "Position: Supine",
   "description": "",
   "type": "numeric",
-  "units": "percent"
+  "units": "percent",
+  "labels": [
+    "hst",
+    "portable sleep monitor",
+    "back"
+  ]
 }

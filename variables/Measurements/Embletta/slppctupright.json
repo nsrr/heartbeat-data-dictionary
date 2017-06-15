@@ -3,5 +3,9 @@
   "display_name": "Position: Upright",
   "description": "",
   "type": "numeric",
-  "units": "percent"
+  "units": "percent",
+  "labels": [
+    "hst",
+    "portable sleep monitor"
+  ]
 }

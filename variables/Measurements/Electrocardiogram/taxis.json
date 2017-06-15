@@ -3,5 +3,9 @@
   "display_name": "T Axis",
   "description": "Average direction of electrical activity during the T wave",
   "type": "numeric",
-  "units": "degrees"
+  "units": "degrees",
+  "labels": [
+    "ecg",
+    "ekg"
+  ]
 }

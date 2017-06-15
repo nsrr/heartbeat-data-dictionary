@@ -4,6 +4,9 @@
   "description": "",
   "type": "choices",
   "domain": "berlin",
+  "labels": [
+    "questionnaire"
+  ],
   "forms": [
     "heartbeat_eligibility_form"
   ]

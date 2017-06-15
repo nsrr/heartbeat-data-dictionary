@@ -3,5 +3,9 @@
   "display_name": "P Axis",
   "description": "Average direction of electrical activity during the P wave",
   "type": "numeric",
-  "units": "degrees"
+  "units": "degrees",
+  "labels": [
+    "ecg",
+    "ekg"
+  ]
 }

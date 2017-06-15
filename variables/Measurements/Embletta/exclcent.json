@@ -1,9 +1,14 @@
 {
   "id": "exclcent",
   "display_name": "Exclusion Central",
-  "description": "",
+  "description": "Central sleep apnea index >5",
   "type": "choices",
   "domain": "check01",
+  "labels": [
+    "hst",
+    "portable sleep monitor",
+    "csa"
+  ],
   "forms": [
     "heartbeat_embletta_qs_form"
   ]

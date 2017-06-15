@@ -4,5 +4,9 @@
   "description": "",
   "type": "numeric",
   "units": "minutes",
-  "calculation": "( ( actlowinthr * 60 ) + actlowintmn ) * actlowintdays"
+  "calculation": "( ( actlowinthr * 60 ) + actlowintmn ) * actlowintdays",
+  "labels": [
+    "physical activity",
+    "physical functioning"
+  ]
 }

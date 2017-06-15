@@ -3,5 +3,9 @@
   "display_name": "QRS Axis",
   "description": "Average direction of electrical activity during the QRS complex",
   "type": "numeric",
-  "units": "degrees"
+  "units": "degrees",
+  "labels": [
+    "ecg",
+    "ekg"
+  ]
 }

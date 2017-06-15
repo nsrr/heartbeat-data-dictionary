@@ -4,6 +4,11 @@
   "description": "",
   "type": "choices",
   "domain": "qualdata",
+  "labels": [
+    "ekg",
+    "hst",
+    "portable sleep monitor"
+  ],
   "forms": [
     "heartbeat_embletta_qs_form"
   ]

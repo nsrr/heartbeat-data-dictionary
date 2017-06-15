@@ -1,9 +1,14 @@
 {
   "id": "ecghrs",
-  "display_name": "ECG channel: Hours of usbale signal",
+  "display_name": "ECG channel: Hours of usable signal",
   "description": "",
   "type": "numeric",
   "units": "hours",
+  "labels": [
+    "ekg",
+    "hst",
+    "portable sleep monitor"
+  ],
   "forms": [
     "heartbeat_embletta_qs_form"
   ]

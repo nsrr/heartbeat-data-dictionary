@@ -3,5 +3,9 @@
   "display_name": "Early Repolarization",
   "description": "",
   "type": "choices",
-  "domain": "earlyrep"
+  "domain": "earlyrep",
+  "labels": [
+    "ecg",
+    "ekg"
+  ]
 }

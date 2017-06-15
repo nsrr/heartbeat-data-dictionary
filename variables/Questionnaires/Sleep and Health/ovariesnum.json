@@ -4,6 +4,14 @@
   "description": "",
   "type": "numeric",
   "units": "ovaries",
+  "labels": [
+    "one",
+    "two",
+    "1",
+    "2",
+    "hysterectomy",
+    "oophorectomy"
+  ],
   "forms": [
     "heartbeat_baseline_health_questionnaire_form"
   ]

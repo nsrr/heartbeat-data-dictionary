@@ -3,5 +3,9 @@
   "display_name": "Desaturation Low Point: Number Less than 70%",
   "description": "",
   "type": "numeric",
-  "units": ""
+  "labels": [
+    "hst",
+    "portable sleep monitor",
+    "#"
+  ]
 }

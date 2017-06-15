@@ -1,9 +1,14 @@
 {
   "id": "incl04_bmi30",
-  "display_name": "Coronary artery disease risk factors: BMI greater than 30",
+  "display_name": "Coronary artery disease (CAD) risk factors: Body mass index (BMI) greater than 30",
   "description": "",
   "type": "choices",
-  "domain":"check01",
+  "domain": "check01",
+  "labels": [
+    "heart disease",
+    "obese",
+    ">"
+  ],
   "forms": [
     "heartbeat_eligibility_form"
   ]

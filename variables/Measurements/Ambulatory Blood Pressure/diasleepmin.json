@@ -3,5 +3,9 @@
   "display_name": "Minimum Diastolic Pressure (asleep)",
   "description": "",
   "type": "numeric",
-  "units": "millimeters of mercury"
+  "units": "millimeters of mercury",
+  "labels": [
+    "mmhg",
+    "bp"
+  ]
 }

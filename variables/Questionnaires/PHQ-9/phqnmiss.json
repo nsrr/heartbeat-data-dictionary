@@ -1,7 +1,10 @@
 {
   "id": "phqnmiss",
-  "display_name": "PHQ-9: Number of missing items",
+  "display_name": "Patient Health Questionnaire-9 (PHQ-9): Number of missing items",
   "description": "",
   "type": "numeric",
-  "units": "missing items"
+  "units": "missing items",
+  "labels": [
+    "depression"
+  ]
 }

@@ -3,5 +3,11 @@
   "display_name": "Apnea-Desaturation Relation: 51-60% Mixed Apnea",
   "description": "",
   "type": "numeric",
-  "units": ""
+  "labels": [
+    "hst",
+    "portable sleep monitor",
+    "sao2",
+    "spo2",
+    "oximetry"
+  ]
 }

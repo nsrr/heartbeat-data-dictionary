@@ -3,5 +3,10 @@
   "display_name": "General Health Perception Z-Score",
   "description": "",
   "type": "numeric",
-  "units": ""
+  "labels": [
+    "short form health survey",
+    "qol",
+    "medical outcomes survey",
+    "mos-sf36"
+  ]
 }

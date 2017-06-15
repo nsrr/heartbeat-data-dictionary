@@ -1,7 +1,7 @@
 {
   "id": "dxkidney_text",
   "display_name": "Diagnosed: Kidney Disease (specify)",
-  "description" :"",
+  "description": "",
   "type": "string",
   "forms": [
     "heartbeat_baseline_health_questionnaire_form"

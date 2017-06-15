@@ -3,7 +3,12 @@
   "display_name": "Never took hormones",
   "description": "",
   "type": "choices",
-  "domain":"check01",
+  "domain": "check01",
+  "labels": [
+    "hrt",
+    "estrogen",
+    "progestin"
+  ],
   "forms": [
     "heartbeat_baseline_health_questionnaire_form"
   ]

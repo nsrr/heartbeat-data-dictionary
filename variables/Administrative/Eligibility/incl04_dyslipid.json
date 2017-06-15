@@ -1,9 +1,16 @@
 {
   "id": "incl04_dyslipid",
-  "display_name": "Coronary artery disease risk factors: Dyslipidemia",
+  "display_name": "Coronary artery disease (CAD) risk factors: Dyslipidemia",
   "description": "",
   "type": "choices",
-  "domain":"check01",
+  "domain": "check01",
+  "labels": [
+    "hyperlipidemia",
+    "heart disease",
+    "cholestrol",
+    "triglycerides",
+    "fat phospholipids"
+  ],
   "forms": [
     "heartbeat_eligibility_form"
   ]

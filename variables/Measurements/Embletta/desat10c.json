@@ -3,5 +3,10 @@
   "display_name": "Desaturation Fall: 5-9% Cumulative Number",
   "description": "",
   "type": "numeric",
-  "units": ""
+  "labels": [
+    "hst",
+    "portable sleep monitor",
+    "sao2",
+    "oximetry"
+  ]
 }

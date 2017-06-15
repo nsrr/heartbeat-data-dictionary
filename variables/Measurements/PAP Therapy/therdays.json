@@ -1,7 +1,10 @@
 {
   "id": "therdays",
-  "display_name": "PAP Compliance: Number of days on therapy",
+  "display_name": "Positive Airway Pressure Compliance: Number of days on therapy",
   "description": "",
   "type": "numeric",
-  "units": "days"
+  "units": "days",
+  "labels": [
+    "#"
+  ]
 }

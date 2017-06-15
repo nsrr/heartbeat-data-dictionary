@@ -1,9 +1,11 @@
 {
   "id": "excl05_escore",
-  "display_name": "Epworth sleepiness scale score at screening",
+  "display_name": "Epworth Sleepiness Scale (ESS) score at screening",
   "description": "",
   "type": "numeric",
-  "units": "",
+  "labels": [
+    "questionnaire"
+  ],
   "forms": [
     "heartbeat_eligibility_form"
   ]

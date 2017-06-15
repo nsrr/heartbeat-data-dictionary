@@ -3,5 +3,11 @@
   "display_name": "Oxygen Desaturation Events",
   "description": "",
   "type": "numeric",
-  "units": "events per hour"
+  "units": "events per hour",
+  "labels": [
+    "hst",
+    "portable sleep monitor",
+    "sao2",
+    "oximetry"
+  ]
 }

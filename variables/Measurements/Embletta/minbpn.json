@@ -3,5 +3,13 @@
   "display_name": "Pulse: Non-Supine Minimum",
   "description": "",
   "type": "numeric",
-  "units": "beats per minute"
+  "units": "beats per minute",
+  "labels": [
+    "hst",
+    "portable sleep monitor",
+    "right",
+    "left",
+    "prone",
+    "upright"
+  ]
 }

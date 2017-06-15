@@ -1,7 +1,13 @@
 {
   "id": "calc_ess",
-  "display_name": "Calculated ESS Score",
-  "description": "Calculated ESS score from the Epworth Sleepiness Scale",
+  "display_name": "Calculated Epworth Sleepiness Scale (ESS) Score",
+  "description": "Calculated Epworth Sleepiness Scale (ESS) score from the Epworth Sleepiness Scale (ESS)",
   "type": "numeric",
-  "units": ""
+  "labels": [
+    "questionnaire",
+    "0-7",
+    "8-9",
+    "10-15",
+    "16-24"
+  ]
 }

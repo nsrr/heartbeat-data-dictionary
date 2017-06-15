@@ -4,5 +4,10 @@
   "description": "",
   "type": "numeric",
   "units": "minutes",
-  "calculation": "( ( actweightleghr * 60 ) + actweightlegmn ) * actweightlegdays"
+  "calculation": "( ( actweightleghr * 60 ) + actweightlegmn ) * actweightlegdays",
+  "labels": [
+    "exercise",
+    "physical activity",
+    "physical functioning"
+  ]
 }

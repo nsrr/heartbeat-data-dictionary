@@ -4,6 +4,18 @@
   "description": "",
   "type": "choices",
   "domain": "check01",
+  "labels": [
+    "ae",
+    "sae",
+    "medication device reaction",
+    "drug interaction",
+    "worsening of pre-existing condition",
+    "apparent unrelated illness",
+    "clinical intervention",
+    "abnormal laboratory value",
+    "hospitalization",
+    "surgery "
+  ],
   "forms": [
     "heartbeat_withdrawal_form"
   ]

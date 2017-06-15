@@ -3,5 +3,11 @@
   "display_name": "Infarct",
   "description": "",
   "type": "choices",
-  "domain": "infarct"
+  "domain": "infarct",
+  "labels": [
+    "mi",
+    "heart attack",
+    "ecg",
+    "ekg"
+  ]
 }

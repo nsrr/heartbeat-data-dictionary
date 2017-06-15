@@ -3,6 +3,11 @@
   "display_name": "Hormone therapy type (specify)",
   "description": "",
   "type": "string",
+  "labels": [
+    "hrt",
+    "estrogen",
+    "progestin"
+  ],
   "forms": [
     "heartbeat_baseline_health_questionnaire_form"
   ]

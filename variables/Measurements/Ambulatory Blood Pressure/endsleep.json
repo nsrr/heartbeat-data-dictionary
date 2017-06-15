@@ -2,5 +2,9 @@
   "id": "endsleep",
   "display_name": "End of sleep time",
   "description": "",
-  "type": "time"
+  "type": "time",
+  "labels": [
+    "mmhg",
+    "bp"
+  ]
 }

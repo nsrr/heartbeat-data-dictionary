@@ -1,9 +1,16 @@
 {
   "id": "alertthird",
-  "display_name": "Alert Third Degree AV block",
+  "display_name": "Alert Third Degree Atrioventricular (AV) block",
   "description": "",
   "type": "choices",
   "domain": "check01",
+  "labels": [
+    "complete",
+    "hst",
+    "portable sleep monitor",
+    "urgent",
+    "3rd"
+  ],
   "forms": [
     "heartbeat_embletta_qs_form"
   ]

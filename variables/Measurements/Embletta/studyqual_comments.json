@@ -3,6 +3,10 @@
   "display_name": "Study Channel Comments",
   "description": "",
   "type": "string",
+  "labels": [
+    "hst",
+    "portable sleep monitor"
+  ],
   "forms": [
     "heartbeat_embletta_qs_form"
   ]

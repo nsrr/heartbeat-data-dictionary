@@ -1,7 +1,11 @@
 {
   "id": "exclahi15",
-  "display_name": "Exclusion AHI < 15",
+  "display_name": "Exclusion Apnea-Hypopnea Index (AHI) < 15",
   "description": "",
   "type": "choices",
-  "domain": "check01"
+  "domain": "check01",
+  "labels": [
+    "hst",
+    "portable sleep monitor"
+  ]
 }

@@ -4,6 +4,11 @@
   "description": "",
   "type": "choices",
   "domain": "check01",
+  "labels": [
+    "hst",
+    "portable sleep monitor",
+    "urgent"
+  ],
   "forms": [
     "heartbeat_embletta_qs_form"
   ]

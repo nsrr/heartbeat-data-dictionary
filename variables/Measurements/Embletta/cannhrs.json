@@ -4,6 +4,12 @@
   "description": "",
   "type": "numeric",
   "units": "hours",
+  "labels": [
+    "hst",
+    "portable sleep monitor",
+    "nasal",
+    "flow"
+  ],
   "forms": [
     "heartbeat_embletta_qs_form"
   ]

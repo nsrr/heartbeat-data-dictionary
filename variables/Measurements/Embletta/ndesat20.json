@@ -3,5 +3,9 @@
   "display_name": "Desaturation Fall: 10-20% Number",
   "description": "",
   "type": "numeric",
-  "units": ""
+  "labels": [
+    "hst",
+    "portable sleep monitor",
+    "#"
+  ]
 }

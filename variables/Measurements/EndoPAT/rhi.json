@@ -3,5 +3,7 @@
   "display_name": "EndoPat: Reactive Hyperemia Index",
   "description": "",
   "type": "numeric",
-  "units": ""
+  "labels": [
+    "endothelial function using peripheral arterial tonometry"
+  ]
 }

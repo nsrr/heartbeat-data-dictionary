@@ -1,9 +1,26 @@
 {
   "id": "inclusion04",
-  "display_name": "Established coronary artery disease or risk factors",
+  "display_name": "Established coronary artery disease (CAD) or risk factors",
   "description": "",
   "type": "choices",
   "domain": "noyes",
+  "labels": [
+    "heart disease",
+    "high hdl cholestrol",
+    "low hdl cholestrol",
+    "high blood pressure",
+    "htn",
+    "hypertension",
+    "family history",
+    "diabetes",
+    "dm",
+    "smoking",
+    "post-menopausal",
+    "over 45 years old",
+    "obesity",
+    "high-density",
+    "low-density"
+  ],
   "forms": [
     "heartbeat_eligibility_form"
   ]

@@ -1,7 +1,12 @@
 {
-	"id": "ectopy",
-	"display_name": "Ectopy",
-	"description": "",
-	"type": "choices",
-	"domain": "ectopy"
+  "id": "ectopy",
+  "display_name": "Ectopy",
+  "description": "",
+  "type": "choices",
+  "domain": "ectopy",
+  "labels": [
+    "ecg",
+    "ekg",
+    "ectopic"
+  ]
 }

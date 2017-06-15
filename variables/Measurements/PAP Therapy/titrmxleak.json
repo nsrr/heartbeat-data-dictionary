@@ -1,7 +1,6 @@
 {
   "id": "titrmxleak",
-  "display_name": "PAP Compliance: Maximum leak during titration period",
+  "display_name": "Positive Airway Pressure Compliance: Maximum leak during titration period",
   "description": "",
-  "type": "numeric",
-  "units": ""
+  "type": "numeric"
 }

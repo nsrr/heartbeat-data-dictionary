@@ -1,9 +1,14 @@
 {
   "id": "plethhrs",
-  "display_name": "Plethysmography channel: Hours of usbale signal",
+  "display_name": "Plethysmography channel: Hours of usable signal",
   "description": "",
   "type": "numeric",
   "units": "hours",
+  "labels": [
+    "hst",
+    "portable sleep monitor",
+    "ppg"
+  ],
   "forms": [
     "heartbeat_embletta_qs_form"
   ]

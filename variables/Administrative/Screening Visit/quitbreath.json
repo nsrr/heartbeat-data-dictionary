@@ -1,7 +1,10 @@
 {
-	"id": "quitbreath",
-	"display_name": "Has anyone noticed that you quit breathing during your sleep?",
-	"description": "Questionnaire from the Berlin Questionnaire",
-	"type": "choices",
-	"domain": "howoften"
+  "id": "quitbreath",
+  "display_name": "Has anyone noticed that you quit breathing during your sleep?",
+  "description": "Questionnaire from the Berlin Questionnaire",
+  "type": "choices",
+  "domain": "howoften",
+  "labels": [
+    "apnea"
+  ]
 }

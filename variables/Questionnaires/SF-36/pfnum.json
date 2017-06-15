@@ -3,5 +3,12 @@
   "display_name": "Number of questions answered in the physical functioning subscale",
   "description": "",
   "type": "numeric",
-  "units": ""
+  "labels": [
+    "short form health survey",
+    "qol",
+    "medical outcomes survey",
+    "mos-sf36",
+    "exercise",
+    "activity"
+  ]
 }

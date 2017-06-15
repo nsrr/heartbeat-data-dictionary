@@ -1,7 +1,6 @@
 {
   "id": "thermxleak",
-  "display_name": "PAP Compliance: Maximum leak during therapy period",
+  "display_name": "Positive Airway Pressure Compliance: Maximum leak during therapy period",
   "description": "",
-  "type": "numeric",
-  "units": ""
+  "type": "numeric"
 }

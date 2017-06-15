@@ -3,5 +3,13 @@
   "display_name": "Non-Supine Time",
   "description": "",
   "type": "numeric",
-  "units": "minutes"
+  "units": "minutes",
+  "labels": [
+    "hst",
+    "portable sleep monitor",
+    "right",
+    "left",
+    "prone",
+    "upright"
+  ]
 }

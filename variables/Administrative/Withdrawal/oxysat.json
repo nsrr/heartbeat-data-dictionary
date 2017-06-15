@@ -4,6 +4,12 @@
   "description": "",
   "type": "choices",
   "domain": "check01",
+  "labels": [
+    "hypoxemia",
+    "hypoxia",
+    "sao2",
+    "spo2"
+  ],
   "forms": [
     "heartbeat_withdrawal_form"
   ]

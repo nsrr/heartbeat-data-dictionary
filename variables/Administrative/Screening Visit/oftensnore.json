@@ -1,7 +1,7 @@
 {
-	"id": "oftensnore",
-	"display_name": "How often do you snore",
-	"description": "Question from the Berlin Questionnaire",
-	"type": "choices",
-	"domain": "howoften"
+  "id": "oftensnore",
+  "display_name": "How often do you snore",
+  "description": "Question from the Berlin Questionnaire",
+  "type": "choices",
+  "domain": "howoften"
 }

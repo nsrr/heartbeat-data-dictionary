@@ -3,7 +3,11 @@
   "display_name": "Ever used aspirin on a regular basis",
   "description": "",
   "type": "choices",
-  "domain":"noyes",
+  "domain": "noyes",
+  "labels": [
+    "asa",
+    "acetylsalicylic acid"
+  ],
   "forms": [
     "heartbeat_baseline_health_questionnaire_form"
   ]

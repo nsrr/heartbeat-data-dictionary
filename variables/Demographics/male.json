@@ -1,7 +1,7 @@
 {
-	"id": "male",
-	"display_name": "Gender",
-	"description": "",
-	"type": "choices",
-	"domain": "sex"
+  "id": "male",
+  "display_name": "Gender",
+  "description": "",
+  "type": "choices",
+  "domain": "sex"
 }

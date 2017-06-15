@@ -1,7 +1,6 @@
 {
   "id": "titrlk90",
-  "display_name": "PAP Compliance: 90% leak on titration",
+  "display_name": "Positive Airway Pressure Compliance: 90% leak on titration",
   "description": "",
-  "type": "numeric",
-  "units": ""
+  "type": "numeric"
 }

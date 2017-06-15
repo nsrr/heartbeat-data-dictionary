@@ -3,5 +3,23 @@
   "display_name": "Atrial Enlargement",
   "description": "",
   "type": "choices",
-  "domain": "atrialenl"
+  "domain": "atrialenl",
+  "labels": [
+    "ecg",
+    "ekg",
+    "cardiomegaly",
+    "hypertrophy",
+    "dilation",
+    "p pulmonale",
+    "cor",
+    "> 2.5 mm",
+    "ventricular failure",
+    "pulmonary hypertension",
+    "tricuspid regurgitation",
+    "stenosis",
+    "septal defect",
+    "obesity",
+    "osa",
+    "obstructive sleep apnea"
+  ]
 }

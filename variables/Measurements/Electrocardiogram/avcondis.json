@@ -1,7 +1,11 @@
 {
-	"id": "avcondis",
-	"display_name": "Atrioventricular Conduction Disturbance",
-	"description": "",
-	"type": "choices",
-	"domain": "condiscat"
+  "id": "avcondis",
+  "display_name": "Atrioventricular Conduction Disturbance",
+  "description": "",
+  "type": "choices",
+  "domain": "condiscat",
+  "labels": [
+    "ecg",
+    "ekg"
+  ]
 }

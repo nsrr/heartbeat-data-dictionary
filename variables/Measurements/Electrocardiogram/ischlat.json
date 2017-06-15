@@ -3,5 +3,9 @@
   "display_name": "Ischemia Pattern: Lateral wall",
   "description": "",
   "type": "choices",
-  "domain": "check01"
+  "domain": "check01",
+  "labels": [
+    "ecg",
+    "ekg"
+  ]
 }

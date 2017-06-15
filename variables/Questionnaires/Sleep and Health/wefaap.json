@@ -3,8 +3,14 @@
   "display_name": "Fall Asleep Weekends (am/pm)",
   "description": "",
   "type": "choices",
-  "domain":"ampm",
+  "domain": "ampm",
+  "labels": [
+    "bedtime",
+    "saturday",
+    "sunday"
+  ],
   "forms": [
-      "heartbeat_baseline_health_questionnaire_form", "heartbeat_final_health_questionnaire_form"
+    "heartbeat_baseline_health_questionnaire_form",
+    "heartbeat_final_health_questionnaire_form"
   ]
 }

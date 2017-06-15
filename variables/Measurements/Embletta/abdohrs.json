@@ -4,6 +4,10 @@
   "description": "",
   "type": "numeric",
   "units": "hours",
+  "labels": [
+    "respiratory belt",
+    "hst"
+  ],
   "forms": [
     "heartbeat_embletta_qs_form"
   ]

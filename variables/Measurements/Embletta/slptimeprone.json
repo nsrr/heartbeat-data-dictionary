@@ -3,5 +3,10 @@
   "display_name": "Position: Prone",
   "description": "",
   "type": "numeric",
-  "units": "minutes"
+  "units": "minutes",
+  "labels": [
+    "hst",
+    "portable sleep monitor",
+    "stomach"
+  ]
 }

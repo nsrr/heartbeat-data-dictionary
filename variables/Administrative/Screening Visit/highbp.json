@@ -1,7 +1,11 @@
 {
-	"id": "highbp",
-	"display_name": "Do you have high blood pressure",
-	"description": "Question from the Berlin Questionnaire",
-	"type": "choices",
-	"domain": "noyes"
+  "id": "highbp",
+  "display_name": "Do you have high blood pressure (BP)",
+  "description": "Question from the Berlin Questionnaire",
+  "type": "choices",
+  "domain": "noyes",
+  "labels": [
+    "htn",
+    "hypertension"
+  ]
 }

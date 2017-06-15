@@ -4,6 +4,11 @@
   "description": "",
   "type": "numeric",
   "units": "days from index date",
+  "labels": [
+    "sleep study",
+    "hst",
+    "portable sleep monitor"
+  ],
   "forms": [
     "heartbeat_embletta_qs_form"
   ]

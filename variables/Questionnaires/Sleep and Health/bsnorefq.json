@@ -3,7 +3,7 @@
   "display_name": "Frequency of snoring in the last month",
   "description": "",
   "type": "choices",
-  "domain":"hhqnightsperweeksnore",
+  "domain": "hhqnightsperweeksnore",
   "forms": [
     "heartbeat_baseline_health_questionnaire_form"
   ]

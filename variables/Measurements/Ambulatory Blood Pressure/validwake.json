@@ -3,5 +3,8 @@
   "display_name": "At least 10 wake readings",
   "description": "",
   "type": "choices",
-  "domain":"noyes01"
+  "domain": "noyes01",
+  "labels": [
+    "bp"
+  ]
 }

@@ -3,5 +3,10 @@
   "display_name": "ST Segment Abnormality",
   "description": "",
   "type": "choices",
-  "domain": "stsegab"
+  "domain": "stsegab",
+  "labels": [
+    "ecg",
+    "ekg",
+    "depression"
+  ]
 }

@@ -3,5 +3,12 @@
   "display_name": "SpO2 Range/Position: 70-79% Cumulative Supine",
   "description": "",
   "type": "numeric",
-  "units": "minutes"
+  "units": "minutes",
+  "labels": [
+    "hst",
+    "portable sleep monitor",
+    "sao2",
+    "back",
+    "oximetry"
+  ]
 }

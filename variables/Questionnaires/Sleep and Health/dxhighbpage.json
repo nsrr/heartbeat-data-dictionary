@@ -1,9 +1,13 @@
 {
   "id": "dxhighbpage",
-  "display_name": "Diagnosed: High Blood Pressure, age first treated",
+  "display_name": "Diagnosed: High Blood Pressure (BP), age first treated",
   "description": "",
   "type": "numeric",
-  "units":"years",
+  "units": "years",
+  "labels": [
+    "htn",
+    "hypertension"
+  ],
   "forms": [
     "heartbeat_baseline_health_questionnaire_form"
   ]

@@ -1,9 +1,12 @@
 {
   "id": "incl04_angio",
-  "display_name": "Established coronary artery disease: Angiostenosis",
+  "display_name": "Established coronary artery disease (CAD): Angiostenosis",
   "description": "",
   "type": "choices",
-  "domain":"check01",
+  "domain": "check01",
+  "labels": [
+    "heart disease"
+  ],
   "forms": [
     "heartbeat_eligibility_form"
   ]

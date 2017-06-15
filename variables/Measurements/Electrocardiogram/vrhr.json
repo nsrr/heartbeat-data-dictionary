@@ -3,5 +3,8 @@
   "display_name": "Ventricular rate to heart rate",
   "description": "Ratio of the ventricular rate to the heart rate",
   "type": "numeric",
-  "units": ""
+  "labels": [
+    "ecg",
+    "ekg"
+  ]
 }

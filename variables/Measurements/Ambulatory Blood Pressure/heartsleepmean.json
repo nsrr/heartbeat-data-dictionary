@@ -3,5 +3,10 @@
   "display_name": "Average Heart Rate (asleep)",
   "description": "",
   "type": "numeric",
-  "units": "beats per minute"
+  "units": "beats per minute",
+  "labels": [
+    "hr",
+    "bpm",
+    "bp"
+  ]
 }

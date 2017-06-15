@@ -1,7 +1,15 @@
 {
   "id": "qrsrandl",
   "display_name": "QRS Conduction Block: Right and left bundle branch blocks",
-  "description": "",
+  "description": "QRS complex wider than .12 seconds",
   "type": "choices",
-  "domain": "check01"
+  "domain": "check01",
+  "labels": [
+    "ecg",
+    "ekg",
+    "ivc",
+    "intraventricular conduction delay",
+    "wide",
+    "bbb"
+  ]
 }

@@ -4,5 +4,8 @@
   "description": "",
   "type": "numeric",
   "units": "years",
+  "labels": [
+    "yrs"
+  ],
   "commonly_used": true
 }

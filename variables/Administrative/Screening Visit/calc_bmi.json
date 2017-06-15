@@ -1,7 +1,10 @@
 {
   "id": "calc_bmi",
-  "display_name": "Calculated Body Mass Index",
-  "description": "BMI calculated using self-reported height and weight from the Berlin Questionnaire",
+  "display_name": "Calculated Body mass index (BMI)",
+  "description": "Body mass index (BMI) calculated using self-reported height and weight from the Berlin Questionnaire",
   "type": "numeric",
-  "units": "kilograms per meters squared"
+  "labels": [
+    "wt",
+    "ht"
+  ]
 }

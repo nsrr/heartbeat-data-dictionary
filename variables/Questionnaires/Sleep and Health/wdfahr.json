@@ -3,8 +3,16 @@
   "display_name": "Fall Asleep Weekdays (hour)",
   "description": "",
   "type": "numeric",
-  "units": "",
+  "labels": [
+    "bedtime",
+    "monday",
+    "tuesday",
+    "wednesday",
+    "thursday",
+    "friday"
+  ],
   "forms": [
-      "heartbeat_baseline_health_questionnaire_form", "heartbeat_final_health_questionnaire_form"
+    "heartbeat_baseline_health_questionnaire_form",
+    "heartbeat_final_health_questionnaire_form"
   ]
 }

@@ -3,7 +3,10 @@
   "display_name": "Berlin score greater than 2",
   "description": "",
   "type": "choices",
-  "domain":"noyes",
+  "domain": "noyes",
+  "labels": [
+    "questionnaire"
+  ],
   "forms": [
     "heartbeat_eligibility_form"
   ]

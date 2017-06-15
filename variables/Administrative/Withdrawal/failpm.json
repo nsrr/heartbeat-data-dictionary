@@ -4,6 +4,11 @@
   "description": "",
   "type": "choices",
   "domain": "check01",
+  "labels": [
+    "sleep study",
+    "embletta",
+    "hst"
+  ],
   "forms": [
     "heartbeat_withdrawal_form"
   ]

@@ -3,8 +3,9 @@
   "display_name": "Pain disappears while walking",
   "description": "",
   "type": "choices",
-  "domain":"noyes",
+  "domain": "noyes",
   "forms": [
-      "heartbeat_baseline_health_questionnaire_form", "heartbeat_final_health_questionnaire_form"
+    "heartbeat_baseline_health_questionnaire_form",
+    "heartbeat_final_health_questionnaire_form"
   ]
 }

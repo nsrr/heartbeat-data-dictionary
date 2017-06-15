@@ -3,5 +3,12 @@
   "display_name": "Apnea/Hypopnea: Apnea Non-Supine",
   "description": "",
   "type": "numeric",
-  "units": ""
+  "labels": [
+    "hst",
+    "portable sleep monitor",
+    "right",
+    "left",
+    "prone",
+    "upright"
+  ]
 }

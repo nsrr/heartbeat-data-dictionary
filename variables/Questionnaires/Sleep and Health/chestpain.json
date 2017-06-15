@@ -3,8 +3,12 @@
   "display_name": "Awakened in the last month by chest pain or tightness",
   "description": "",
   "type": "choices",
-  "domain":"hhqalways",
+  "domain": "hhqalways",
+  "labels": [
+    "angina"
+  ],
   "forms": [
-      "heartbeat_baseline_health_questionnaire_form", "heartbeat_final_health_questionnaire_form"
+    "heartbeat_baseline_health_questionnaire_form",
+    "heartbeat_final_health_questionnaire_form"
   ]
 }

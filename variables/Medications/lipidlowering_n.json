@@ -3,5 +3,8 @@
   "display_name": "Number of lipid lowering medications?",
   "description": "",
   "type": "numeric",
-  "units": "medications"
+  "units": "medications",
+  "labels": [
+    "#"
+  ]
 }

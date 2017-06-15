@@ -3,5 +3,12 @@
   "display_name": "Minimum Mean Heart Rate (all readings)",
   "description": "",
   "type": "numeric",
-  "units": "beats per minute"
+  "units": "beats per minute",
+  "labels": [
+    "hr",
+    "bpm",
+    "wake",
+    "sleep",
+    "bp"
+  ]
 }

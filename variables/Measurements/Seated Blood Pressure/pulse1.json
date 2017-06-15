@@ -4,6 +4,9 @@
   "description": "",
   "type": "numeric",
   "units": "beats per minute",
+  "labels": [
+    "bpm"
+  ],
   "forms": [
     "heartbeat_physical_measurements_form"
   ]

@@ -3,5 +3,8 @@
   "display_name": "Number of beta blockers?",
   "description": "",
   "type": "numeric",
-  "units": "medications"
+  "units": "medications",
+  "labels": [
+    "#"
+  ]
 }

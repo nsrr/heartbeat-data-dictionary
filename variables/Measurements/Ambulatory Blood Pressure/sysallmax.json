@@ -3,5 +3,11 @@
   "display_name": "Maximum Systolic Pressure (all readings)",
   "description": "",
   "type": "numeric",
-  "units": "millimeters of mercury"
+  "units": "millimeters of mercury",
+  "labels": [
+    "mmhg",
+    "sleep",
+    "wake",
+    "bp"
+  ]
 }

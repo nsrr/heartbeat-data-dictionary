@@ -3,6 +3,11 @@
   "display_name": "Alert Other Text",
   "description": "",
   "type": "string",
+  "labels": [
+    "hst",
+    "portable sleep monitor",
+    "urgent"
+  ],
   "forms": [
     "heartbeat_embletta_qs_form"
   ]

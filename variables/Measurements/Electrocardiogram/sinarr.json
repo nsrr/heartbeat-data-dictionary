@@ -3,5 +3,9 @@
   "display_name": "Sinus arrhythmia",
   "description": "",
   "type": "choices",
-  "domain": "check01"
+  "domain": "check01",
+  "labels": [
+    "ecg",
+    "ekg"
+  ]
 }

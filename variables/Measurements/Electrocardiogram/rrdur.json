@@ -3,5 +3,10 @@
   "display_name": "RR duration",
   "description": "Time between the onset of one QRS complex and the next QRS complex",
   "type": "numeric",
-  "units": "milliseconds"
+  "units": "milliseconds",
+  "labels": [
+    "ecg",
+    "ekg",
+    "ms"
+  ]
 }

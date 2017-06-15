@@ -3,5 +3,12 @@
   "display_name": "Maximum Diastolic Pressure (all readings)",
   "description": "",
   "type": "numeric",
-  "units": "millimeters of mercury"
+  "units": "millimeters of mercury",
+  "labels": [
+    "mmhg",
+    "highest",
+    "wake",
+    "sleep",
+    "bp"
+  ]
 }

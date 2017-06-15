@@ -3,5 +3,9 @@
   "display_name": "Ischemia Pattern: Inferior wall",
   "description": "",
   "type": "choices",
-  "domain": "check01"
+  "domain": "check01",
+  "labels": [
+    "ecg",
+    "ekg"
+  ]
 }

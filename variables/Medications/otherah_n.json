@@ -3,5 +3,9 @@
   "display_name": "Number of other anti-hypertensives?",
   "description": "",
   "type": "numeric",
-  "units": "medications"
+  "units": "medications",
+  "labels": [
+    "#",
+    "htn"
+  ]
 }

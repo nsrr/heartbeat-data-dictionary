@@ -1,7 +1,10 @@
 {
-	"id": "stopped",
-	"display_name": "Chance of dozing while in a car while stopped",
-	"description": "Question from the Epworth Sleepiness Scale",
-	"type": "choices",
-	"domain": "ess"
+  "id": "stopped",
+  "display_name": "Chance of dozing while in a car while stopped",
+  "description": "Question from the Epworth Sleepiness Scale (ESS)",
+  "type": "choices",
+  "domain": "ess",
+  "labels": [
+    "questionnaire"
+  ]
 }

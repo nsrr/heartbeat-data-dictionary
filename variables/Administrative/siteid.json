@@ -1,8 +1,8 @@
 {
-	"id": "siteid",
-	"display_name": "Site ID",
-	"description": "",
-	"type": "choices",
-	"domain": "siteid",
+  "id": "siteid",
+  "display_name": "Site ID",
+  "description": "",
+  "type": "choices",
+  "domain": "siteid",
   "commonly_used": true
 }

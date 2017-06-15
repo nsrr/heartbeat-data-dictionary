@@ -1,12 +1,12 @@
 {
   "id": "aphypi",
-  "display_name": "Overall Apnea-Hypopnea Index from Embletta Sleep Report",
+  "display_name": "Overall Apnea-Hypopnea Index (AHI) from Embletta Sleep Report",
   "description": "",
   "type": "numeric",
-  "units": "",
-  "commonly_used": true,
   "labels": [
-    "ahi",
-    "icsd"
-  ]
+    "icsd",
+    "hst",
+    "portable sleep monitor"
+  ],
+  "commonly_used": true
 }

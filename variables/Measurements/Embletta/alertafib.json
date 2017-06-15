@@ -1,9 +1,14 @@
 {
   "id": "alertafib",
-  "display_name": "Alert A-fib",
-  "description": "A-Fib/Flutter that was previously diagnose but HR>120 pr <50 for 2 minute duration",
+  "display_name": "Alert A-fibrillation",
+  "description": "A-Fibrillation/Flutter that was previously diagnosed but heart rate > 120 or < 50 for 2 minute duration",
   "type": "choices",
   "domain": "check01",
+  "labels": [
+    "hst",
+    "portable sleep monitor",
+    "urgent"
+  ],
   "forms": [
     "heartbeat_embletta_qs_form"
   ]

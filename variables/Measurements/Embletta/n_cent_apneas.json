@@ -3,5 +3,11 @@
   "display_name": "Number of central apneas from eligibility scoring pass",
   "description": "",
   "type": "numeric",
-  "units": "central apneas"
+  "units": "central apneas",
+  "labels": [
+    "hst",
+    "portable sleep monitor",
+    "ca",
+    "#"
+  ]
 }

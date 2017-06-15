@@ -3,5 +3,10 @@
   "display_name": "Pulse: Supine Standard Deviation",
   "description": "",
   "type": "numeric",
-  "units": "beats per minute"
+  "units": "beats per minute",
+  "labels": [
+    "hst",
+    "portable sleep monitor",
+    "bpm"
+  ]
 }

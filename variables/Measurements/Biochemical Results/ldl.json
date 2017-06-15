@@ -1,7 +1,11 @@
 {
   "id": "ldl",
-  "display_name": "Low density lipoprotein levels",
+  "display_name": "Low-density lipoprotein (LDL) levels",
   "description": "",
   "type": "numeric",
-  "units": "milligrams per deciliter"
+  "units": "milligrams per deciliter",
+  "labels": [
+    "mg/dl",
+    "cholestrol"
+  ]
 }

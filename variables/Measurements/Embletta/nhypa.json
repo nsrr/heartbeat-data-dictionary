@@ -3,5 +3,9 @@
   "display_name": "Apnea/Hypopnea: Hypopnea Apneas or Hypopneas per hour",
   "description": "",
   "type": "numeric",
-  "units": "events per hour"
+  "units": "events per hour",
+  "labels": [
+    "hst",
+    "portable sleep monitor"
+  ]
 }

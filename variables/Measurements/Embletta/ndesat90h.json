@@ -3,5 +3,10 @@
   "display_name": "Desaturation Low Point: oximetry desaturations per hour less than 90%",
   "description": "",
   "type": "numeric",
-  "units": "desaturations per hour"
+  "units": "desaturations per hour",
+  "labels": [
+    "hst",
+    "portable sleep monitor",
+    "index"
+  ]
 }

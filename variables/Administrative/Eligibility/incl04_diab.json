@@ -1,9 +1,13 @@
 {
   "id": "incl04_diab",
-  "display_name": "Coronary artery disease risk factors: Diabetes",
+  "display_name": "Coronary artery disease (CAD) risk factors: Diabetes",
   "description": "",
   "type": "choices",
-  "domain":"check01",
+  "domain": "check01",
+  "labels": [
+    "dm",
+    "heart disease"
+  ],
   "forms": [
     "heartbeat_eligibility_form"
   ]

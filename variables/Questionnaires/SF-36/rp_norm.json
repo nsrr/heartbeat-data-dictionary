@@ -3,5 +3,10 @@
   "display_name": "Role-Physical Norm Score",
   "description": "",
   "type": "numeric",
-  "units": ""
+  "labels": [
+    "short form health survey",
+    "qol",
+    "medical outcomes survey",
+    "mos-sf36"
+  ]
 }

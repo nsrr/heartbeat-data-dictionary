@@ -1,9 +1,9 @@
 {
   "id": "dxstroke",
-  "display_name": "Diagnosed: Stroke (CVA)",
+  "display_name": "Diagnosed: Stroke ((CVA) Cerebrovascular accident)",
   "description": "",
   "type": "choices",
-  "domain":"noyes",
+  "domain": "noyes",
   "forms": [
     "heartbeat_baseline_health_questionnaire_form"
   ]

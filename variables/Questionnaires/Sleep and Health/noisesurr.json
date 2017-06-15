@@ -3,8 +3,13 @@
   "display_name": "Awakened in the last month by noise in your surroundings",
   "description": "",
   "type": "choices",
-  "domain":"hhqalways",
+  "domain": "hhqalways",
+  "labels": [
+    "environment",
+    "dog barking"
+  ],
   "forms": [
-      "heartbeat_baseline_health_questionnaire_form", "heartbeat_final_health_questionnaire_form"
+    "heartbeat_baseline_health_questionnaire_form",
+    "heartbeat_final_health_questionnaire_form"
   ]
 }

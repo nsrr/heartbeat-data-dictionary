@@ -1,7 +1,7 @@
 {
-	"id": "snoringis",
-	"display_name": "Your snoring is?",
-	"description": "Question from the Berlin Questionnaire",
-	"type": "choices",
-	"domain": "volume"
+  "id": "snoringis",
+  "display_name": "Your snoring is?",
+  "description": "Question from the Berlin Questionnaire",
+  "type": "choices",
+  "domain": "volume"
 }

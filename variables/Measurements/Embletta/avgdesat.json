@@ -3,5 +3,11 @@
   "display_name": "SpO2: Average Desaturation",
   "description": "",
   "type": "numeric",
-  "units": "percent"
+  "units": "percent",
+  "labels": [
+    "%",
+    "hst",
+    "portable sleep monitor",
+    "sao2"
+  ]
 }

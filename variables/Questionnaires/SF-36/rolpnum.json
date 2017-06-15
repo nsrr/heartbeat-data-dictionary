@@ -3,5 +3,10 @@
   "display_name": "Number of questions answered from the Role-Physical subscale",
   "description": "",
   "type": "numeric",
-  "units": ""
+  "labels": [
+    "short form health survey",
+    "qol",
+    "medical outcomes survey",
+    "mos-sf36"
+  ]
 }

@@ -3,5 +3,9 @@
   "display_name": "Total number of Apneas and Hypopneas",
   "description": "",
   "type": "numeric",
-  "units": ""
+  "labels": [
+    "#",
+    "hst",
+    "portable sleep monitor"
+  ]
 }

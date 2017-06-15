@@ -3,7 +3,10 @@
   "display_name": "Diagnosed: Diabetes, age first treated",
   "description": "",
   "type": "numeric",
-  "units":"years",
+  "units": "years",
+  "labels": [
+    "dm"
+  ],
   "forms": [
     "heartbeat_baseline_health_questionnaire_form"
   ]

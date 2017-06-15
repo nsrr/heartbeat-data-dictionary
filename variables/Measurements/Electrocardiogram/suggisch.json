@@ -3,5 +3,9 @@
   "display_name": "Suggesting Ischemia",
   "description": "",
   "type": "choices",
-  "domain": "suggisch"
+  "domain": "suggisch",
+  "labels": [
+    "ecg",
+    "ekg"
+  ]
 }

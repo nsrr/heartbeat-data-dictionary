@@ -1,7 +1,14 @@
 {
   "id": "qrsdur",
   "display_name": "Duration of the QRS complex",
-  "description": "",
+  "description": "duration from the end of the PR interval to the end of the S wave",
   "type": "numeric",
-  "units": "milliseconds"
+  "units": "milliseconds",
+  "labels": [
+    "ecg",
+    "ekg",
+    "ms",
+    ".8-.12",
+    "seconds"
+  ]
 }

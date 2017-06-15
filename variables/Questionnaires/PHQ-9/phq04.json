@@ -4,6 +4,10 @@
   "description": "",
   "type": "choices",
   "domain": "phq9",
+  "labels": [
+    "depression",
+    "patient health"
+  ],
   "forms": [
     "heartbeat_phq_form"
   ]

@@ -3,5 +3,10 @@
   "display_name": "Apnea/Hypopnea: Central Longest duration",
   "description": "",
   "type": "numeric",
-  "units": "seconds"
+  "units": "seconds",
+  "labels": [
+    "hst",
+    "portable sleep monitor",
+    "length"
+  ]
 }

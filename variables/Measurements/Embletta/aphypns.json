@@ -3,5 +3,12 @@
   "display_name": "Non-Supine Total number of Apneas and Hypopneas",
   "description": "",
   "type": "numeric",
-  "units": ""
+  "labels": [
+    "right",
+    "left",
+    "prone",
+    "upright",
+    "hst",
+    "portable sleep monitor"
+  ]
 }

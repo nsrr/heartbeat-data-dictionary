@@ -1,9 +1,14 @@
 {
   "id": "alertahi",
-  "display_name": "Alert AHI > 50",
+  "display_name": "Alert Apnea-Hypopnea Index (AHI) > 50",
   "description": "",
   "type": "choices",
   "domain": "check01",
+  "labels": [
+    "hst",
+    "portable sleep monitor",
+    "urgent"
+  ],
   "forms": [
     "heartbeat_embletta_qs_form"
   ]

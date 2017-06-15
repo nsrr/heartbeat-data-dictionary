@@ -1,7 +1,11 @@
 {
   "id": "aphypis",
-  "display_name": "Supine Apnea-Hypopnea Index",
+  "display_name": "Supine Apnea-Hypopnea Index (AHI)",
   "description": "",
   "type": "numeric",
-  "units": ""
+  "labels": [
+    "back",
+    "hst",
+    "portable sleep monitor"
+  ]
 }

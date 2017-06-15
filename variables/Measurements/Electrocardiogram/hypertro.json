@@ -1,7 +1,11 @@
 {
-	"id": "hypertro",
-	"display_name": "Hypertrophy",
-	"description": "",
-	"type": "choices",
-	"domain": "hypertro"
+  "id": "hypertro",
+  "display_name": "Hypertrophy",
+  "description": "",
+  "type": "choices",
+  "domain": "hypertro",
+  "labels": [
+    "ecg",
+    "ekg"
+  ]
 }

@@ -1,9 +1,13 @@
 {
   "id": "incl04_priormi",
-  "display_name": "Established coronary artery disease: Prior myocardial infarction",
+  "display_name": "Established coronary artery disease (CAD): Prior myocardial infarction (MI)",
   "description": "",
   "type": "choices",
-  "domain":"check01",
+  "domain": "check01",
+  "labels": [
+    "heart attack",
+    "heart disease"
+  ],
   "forms": [
     "heartbeat_eligibility_form"
   ]

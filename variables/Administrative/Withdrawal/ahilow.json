@@ -1,6 +1,6 @@
 {
   "id": "ahilow",
-  "display_name": "Withdrawal Reason: AHI less than 15",
+  "display_name": "Withdrawal Reason: Apnea-Hypopnea Index (AHI) less than 15",
   "description": "",
   "type": "choices",
   "domain": "check01",

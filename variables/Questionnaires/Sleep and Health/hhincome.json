@@ -3,7 +3,10 @@
   "display_name": "Annual household income before taxes",
   "description": "",
   "type": "choices",
-  "domain":"money",
+  "domain": "money",
+  "labels": [
+    "gross"
+  ],
   "forms": [
     "heartbeat_baseline_health_questionnaire_form"
   ]

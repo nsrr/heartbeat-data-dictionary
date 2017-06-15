@@ -3,5 +3,12 @@
   "display_name": "Physical Functioning Scale (transformed 0-100)",
   "description": "",
   "type": "numeric",
-  "units": ""
+  "labels": [
+    "short form health survey",
+    "qol",
+    "medical outcomes survey",
+    "mos-sf36",
+    "exercise",
+    "activity"
+  ]
 }

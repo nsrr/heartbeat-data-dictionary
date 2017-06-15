@@ -3,5 +3,14 @@
   "display_name": "Mean Pulse Rate in Non-Supine",
   "description": "",
   "type": "numeric",
-  "units": "beats per minute"
+  "units": "beats per minute",
+  "labels": [
+    "bpm",
+    "hst",
+    "portable sleep monitor",
+    "right",
+    "left",
+    "upright",
+    "prone"
+  ]
 }

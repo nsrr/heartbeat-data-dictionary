@@ -1,8 +1,8 @@
 {
-	"id": "dxother2_text",
-	"display_name": "Diagnosed: Other 2",
-	"description": "",
-	"type": "string",
+  "id": "dxother2_text",
+  "display_name": "Diagnosed: Other 2",
+  "description": "",
+  "type": "string",
   "forms": [
     "heartbeat_baseline_health_questionnaire_form"
   ]

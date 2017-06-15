@@ -1,7 +1,10 @@
 {
-	"id": "inact",
-	"display_name": "Chance of dozing while sitting, inactive, in a public place",
-	"description":"Question from the Epworth Sleepiness Scale",
-	"type": "choices",
-	"domain": "ess"
+  "id": "inact",
+  "display_name": "Chance of dozing while sitting, inactive, in a public place",
+  "description": "Question from the Epworth Sleepiness Scale (ESS)",
+  "type": "choices",
+  "domain": "ess",
+  "labels": [
+    "questionnaire"
+  ]
 }

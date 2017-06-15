@@ -3,5 +3,12 @@
   "display_name": "Physical Functioning Z-Score",
   "description": "",
   "type": "numeric",
-  "units": ""
+  "labels": [
+    "short form health survey",
+    "qol",
+    "medical outcomes survey",
+    "mos-sf36",
+    "exercise",
+    "activity"
+  ]
 }

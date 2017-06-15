@@ -3,7 +3,7 @@
   "display_name": "Final eligibility status",
   "description": "",
   "type": "choices",
-  "domain":"eligstatus",
+  "domain": "eligstatus",
   "forms": [
     "heartbeat_eligibility_form"
   ]

@@ -3,5 +3,12 @@
   "display_name": "Atrial fibrillation",
   "description": "",
   "type": "choices",
-  "domain": "check01"
+  "domain": "check01",
+  "labels": [
+    "afib",
+    "ecg",
+    "af",
+    "a-fib",
+    "ekg"
+  ]
 }

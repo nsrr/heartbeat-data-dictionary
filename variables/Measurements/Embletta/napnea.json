@@ -3,5 +3,9 @@
   "display_name": "Apnea/Hypopnea: Apnea Number",
   "description": "",
   "type": "numeric",
-  "units": ""
+  "labels": [
+    "hst",
+    "portable sleep monitor",
+    "#"
+  ]
 }

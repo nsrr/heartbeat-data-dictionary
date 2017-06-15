@@ -1,6 +1,6 @@
 {
   "id": "bp24date",
-  "display_name": "Date of 24 hour blood pressure",
+  "display_name": "Date of 24 hour blood pressure (BP)",
   "description": "",
   "type": "numeric",
   "units": "days from index date"

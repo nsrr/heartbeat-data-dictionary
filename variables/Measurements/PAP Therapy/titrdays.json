@@ -1,7 +1,10 @@
 {
   "id": "titrdays",
-  "display_name": "PAP Compliance: Number of days on titration",
+  "display_name": "Positive Airway Pressure Compliance: Number of days on titration",
   "description": "",
   "type": "numeric",
-  "units": "days"
+  "units": "days",
+  "labels": [
+    "#"
+  ]
 }

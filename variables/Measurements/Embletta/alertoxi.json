@@ -4,6 +4,14 @@
   "description": "O2 saturation <85% for >10% of total sleep time.",
   "type": "choices",
   "domain": "check01",
+  "labels": [
+    "tst",
+    "hypoxia",
+    "hypoxemia",
+    "hst",
+    "portable sleep monitor",
+    "urgent"
+  ],
   "forms": [
     "heartbeat_embletta_qs_form"
   ]

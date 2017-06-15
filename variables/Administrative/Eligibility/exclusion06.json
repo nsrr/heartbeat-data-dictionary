@@ -1,9 +1,12 @@
 {
   "id": "exclusion06",
-  "display_name": "Current or past oxygen or CPAP use",
+  "display_name": "Current or past oxygen or Continuous Positive Airway Pressure (CPAP) use",
   "description": "",
   "type": "choices",
-  "domain":"noyes",
+  "domain": "noyes",
+  "labels": [
+    "o2"
+  ],
   "forms": [
     "heartbeat_eligibility_form"
   ]

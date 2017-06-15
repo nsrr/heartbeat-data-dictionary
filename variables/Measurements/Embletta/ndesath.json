@@ -3,5 +3,9 @@
   "display_name": "Desaturation Fall: Total oximetry desaturations per hour",
   "description": "",
   "type": "numeric",
-  "units": "desaturations per hour"
+  "units": "desaturations per hour",
+  "labels": [
+    "hst",
+    "portable sleep monitor"
+  ]
 }

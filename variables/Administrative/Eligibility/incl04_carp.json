@@ -1,9 +1,16 @@
 {
   "id": "incl04_carp",
-  "display_name": "Established coronary artery disease: Coronary artery revascularization procedure (CARP)",
+  "display_name": "Established coronary artery disease (CAD): Coronary artery revascularization procedure (CARP)",
   "description": "",
   "type": "choices",
-  "domain":"check01",
+  "domain": "check01",
+  "labels": [
+    "heart disease",
+    "cabg",
+    "bypass grafting",
+    "percutaneous intervention",
+    "pci"
+  ],
   "forms": [
     "heartbeat_eligibility_form"
   ]

@@ -3,5 +3,10 @@
   "display_name": "Desaturation Fall: greater than 20% Cumulative oximetry desaturations per hour",
   "description": "",
   "type": "numeric",
-  "units": "desaturations per hour"
+  "units": "desaturations per hour",
+  "labels": [
+    "hst",
+    "portable sleep monitor",
+    "index"
+  ]
 }

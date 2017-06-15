@@ -3,5 +3,9 @@
   "display_name": "Maximum Systolic Pressure (wake)",
   "description": "",
   "type": "numeric",
-  "units": "millimeters of mercury"
+  "units": "millimeters of mercury",
+  "labels": [
+    "mmhg",
+    "bp"
+  ]
 }

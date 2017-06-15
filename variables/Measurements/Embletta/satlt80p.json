@@ -3,5 +3,9 @@
   "display_name": "SpO2: Saturation Less than 80%",
   "description": "",
   "type": "numeric",
-  "units": "percent"
+  "units": "percent",
+  "labels": [
+    "hst",
+    "portable sleep monitor"
+  ]
 }

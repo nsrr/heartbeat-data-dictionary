@@ -3,5 +3,8 @@
   "display_name": "Ratio of heart rate between sleep and wake",
   "description": "",
   "type": "numeric",
-  "units":""
+  "labels": [
+    "hr",
+    "bp"
+  ]
 }

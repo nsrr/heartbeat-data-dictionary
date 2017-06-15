@@ -3,5 +3,11 @@
   "display_name": "Apnea-Desaturation Relation: Less than or equal to 50% hypopneas",
   "description": "",
   "type": "numeric",
-  "units": ""
+  "labels": [
+    "hst",
+    "portable sleep monitor",
+    "sao2",
+    "spo2",
+    "oximetry"
+  ]
 }
