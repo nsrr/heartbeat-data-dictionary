@@ -1,10 +1,12 @@
 
+/* prepare-heartbeat-for-nsrr.sas */
+
 *set options and libnames;
-%include "\\rfa01\bwh-sleepepi-heartbeat\sas\heartbeat options and libnames.sas";
-libname obf "\\rfa01\bwh-sleepepi-heartbeat\nsrr-prep\_ids";
+%include "\\rfawin\bwh-sleepepi-heartbeat\sas\heartbeat options and libnames.sas";
+libname obf "\\rfawin\bwh-sleepepi-heartbeat\nsrr-prep\_ids";
 %let a=%sysget(SAS_EXECFILEPATH);
 %let b=%sysget(SAS_EXECFILENAME);
-%let path= %sysfunc(tranwrd(&a,&b,heartbeat dataset macros.sas));
+%let path= %sysfunc(tranwrd(&a,&b,heartbeat-macros.sas));
 %include "&path";
 %let release = 0.4.0.pre;
 
@@ -15,7 +17,7 @@ data dob;
 run;
 
 data frand;
-	set hbeat.heartbeatrandomization(keep=studyid treatmentarm);
+  set hbeat.heartbeatrandomization(keep=studyid treatmentarm);
 run;
 
 proc sort data=dob nodupkey;
@@ -42,28 +44,28 @@ data heartbeathhqbaseline;
   *create new `race3` categorical variable to match BioLINCC method;
   *1 = white, 2 = black, 3 = other;
   if race = 5 then race3 = 1;
-	else if race = 4 then race3 = 2;
-	else if race not in (7,.) then race3 = 3;
+  else if race = 4 then race3 = 2;
+  else if race not in (7,.) then race3 = 3;
 
   *set timepoint variable;
   timepoint = 2;
 
-	drop white black hawaii asian amerindian otherrace otherrace_text race_white race_black hhqb_date race;
+  drop white black hawaii asian amerindian otherrace otherrace_text race_white race_black hhqb_date race;
 run;
 
 data race;
-	set heartbeathhqbaseline(keep=studyid race3);
+  set heartbeathhqbaseline(keep=studyid race3);
 run;
 
 data heartbeathhqfinal;
   merge hbeat.heartbeathhqfinal(in=a) race(in=b) frand(in=c);;
-	by studyid;
+  by studyid;
 
-	if a;
+  if a;
 
   timepoint = 7;
 
-	drop hhqf_date;
+  drop hhqf_date;
 run;
 
 data hbeatembletta;
@@ -178,7 +180,7 @@ proc sql noprint;
   from hbeat_base_contents
   where substr(NAME,1,1) = "b" and substr(NAME,1,2) not in ("bp", "bm") and NAME not in ("bothered", "bathroom", "bsnore", "bscore", "bsnorefq");
 
-	select NAME into :medshq_varnames_final separated by ' '
+  select NAME into :medshq_varnames_final separated by ' '
   from hbeat_final_contents
   where substr(NAME,1,1) = "f" and substr(NAME,1,2) not in ("fr") and NAME not in ("failpm", "fsnore", "fsnorefq", "feeltired", "framingham");
 
@@ -193,21 +195,21 @@ data heartbeat_renamed_base;
   rename %parallel_join(&sf36_varnames, &sf36_newnames, =);
   drop sf36_date sf36_sfht;
 
-	rename %parallel_join(&medshq_varnames_base, &medshq_newnames_base, =);
-	rename bperdilator = perdilator;
-	rename bperdilator_n = perdilator_n;
-	rename bmovelegs = movelegs;
-	rename bmoverelieve = moverelieve;
-	rename bpainbegin = painbegin;
-	rename bpaincalves = paincalves;
-	rename bpaindisappear = paindisappear;
-	rename bpainjoints = painjoints;
-	rename bpainwalk = painwalk;
-	rename bpresshurry = presshurry;
-	rename bpressordinary = pressordinary;
-	rename bbathroom = bathroom;
+  rename %parallel_join(&medshq_varnames_base, &medshq_newnames_base, =);
+  rename bperdilator = perdilator;
+  rename bperdilator_n = perdilator_n;
+  rename bmovelegs = movelegs;
+  rename bmoverelieve = moverelieve;
+  rename bpainbegin = painbegin;
+  rename bpaincalves = paincalves;
+  rename bpaindisappear = paindisappear;
+  rename bpainjoints = painjoints;
+  rename bpainwalk = painwalk;
+  rename bpresshurry = presshurry;
+  rename bpressordinary = pressordinary;
+  rename bbathroom = bathroom;
   drop faceinhibitor faldosteroneblocker falphablocker fantihypertensive fbetablocker fcalciumblocker fdiabetes fdiuretic flipidlowering fnitrate fotherah fperdilator fstatin faceinhibitor_n
-		faldosteroneblocker_n falphablocker_n fantihypertensive_n fbetablocker_n fcalciumblocker_n fdiabetes_n fdiuretic_n flipidlowering_n fnitrate_n fotherah_n fperdilator_n fstatin_n;
+    faldosteroneblocker_n falphablocker_n fantihypertensive_n fbetablocker_n fcalciumblocker_n fdiabetes_n fdiuretic_n flipidlowering_n fnitrate_n fotherah_n fperdilator_n fstatin_n;
 run;
 
 data heartbeat_renamed_final;
@@ -216,9 +218,9 @@ data heartbeat_renamed_final;
   rename %parallel_join(&sf36_varnames, &sf36_newnames, =);
   drop sf36_date sf36_sfht;
 
-	rename %parallel_join(&medshq_varnames_final, &medshq_newnames_final, =);
-	drop baceinhibitor baldosteroneblocker balphablocker bantihypertensive bbetablocker bcalciumblocker bdiabetes bdiuretic blipidlowering bnitrate botherah bperdilator bstatin baceinhibitor_n
-		baldosteroneblocker_n balphablocker_n bantihypertensive_n bbetablocker_n bcalciumblocker_n bdiabetes_n bdiuretic_n blipidlowering_n bnitrate_n botherah_n bperdilator_n bstatin_n;
+  rename %parallel_join(&medshq_varnames_final, &medshq_newnames_final, =);
+  drop baceinhibitor baldosteroneblocker balphablocker bantihypertensive bbetablocker bcalciumblocker bdiabetes bdiuretic blipidlowering bnitrate botherah bperdilator bstatin baceinhibitor_n
+    baldosteroneblocker_n balphablocker_n bantihypertensive_n bbetablocker_n bcalciumblocker_n bdiabetes_n bdiuretic_n blipidlowering_n bnitrate_n botherah_n bperdilator_n bstatin_n;
 run;
 
 data ecgaxis_b;
@@ -280,7 +282,7 @@ data hbeat_total_base;
   attrib _all_ label = "";
   format _all_;
 
-	if bp24date < 0 then bp24date = .;
+  if bp24date < 0 then bp24date = .;
 
   drop random_date with_date elig_date enroll_date scrn_date receive_date
     review_date scored_date ecg_date visit_date endodate phq_date meas_date
@@ -313,7 +315,7 @@ data followup_csv;
   meas_date = (meas_date - random_date);
   embq_date = (embq_date - random_date);
 
-	rename meas_date = followup_visit_date;
+  rename meas_date = followup_visit_date;
 
   drop i visit staffid bp_z gh_z mh_z pf_z re_z rp_z sf_z vt_z mcs pcs agg_ment
     agg_phys paxis qrsaxis taxis cent_obs_ratio n_cent_apneas n_obs_apneas
@@ -330,8 +332,8 @@ data hbeat_total_followup;
   attrib _all_ label = "";
   format _all_;
 
-	if abbott_hstnl__pg_ml_ > 1492 then abbott_hstnl__pg_ml_ = .;
-	if hstniiuo_pg_ml > 1000 then hstniiuo_pg_ml = .;
+  if abbott_hstnl__pg_ml_ > 1492 then abbott_hstnl__pg_ml_ = .;
+  if hstniiuo_pg_ml > 1000 then hstniiuo_pg_ml = .;
 
   drop studyid namecode labelid inconc_date outconc_date phq_date endodate visit_date ecg_date receive_date review_date scored_date enddate mintherdate startdate random_date;
 run;
