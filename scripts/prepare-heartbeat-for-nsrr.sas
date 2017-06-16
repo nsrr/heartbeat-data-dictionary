@@ -378,7 +378,7 @@
       baseline_csv
       zscore_b 
       ecgaxis_b 
-      obf.obfid (rename=(obf_pptid=nsrrid))
+      obf.obfid_clusterid (rename=(obf_pptid=nsrrid))
       frand;
     by studyid;
 
@@ -431,7 +431,7 @@
       followup_csv (in=a) 
       zscore_f 
       ecgaxis_f 
-      obf.obfid (rename=(obf_pptid=nsrrid))
+      obf.obfid_clusterid (rename=(obf_pptid=nsrrid))
       frand;
     by studyid;
 
