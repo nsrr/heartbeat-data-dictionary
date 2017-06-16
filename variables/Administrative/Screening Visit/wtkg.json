@@ -1,7 +1,0 @@
-{
-  "id": "wtkg",
-  "display_name": "Weight",
-  "description": "Question from the Berlin Questionnaire",
-  "type": "numeric",
-  "units": "kilograms"
-}

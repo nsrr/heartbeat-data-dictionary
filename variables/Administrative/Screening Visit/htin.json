@@ -1,7 +1,0 @@
-{
-  "id": "htin",
-  "display_name": "Height",
-  "description": "Question from the Berlin Questionnaire",
-  "type": "numeric",
-  "units": "inches"
-}
