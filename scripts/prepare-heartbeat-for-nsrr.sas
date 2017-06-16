@@ -11,7 +11,7 @@
   %let b=%sysget(SAS_EXECFILENAME);
   %let path= %sysfunc(tranwrd(&a,&b,heartbeat-macros.sas));
   %include "&path";
-  %let release = 0.4.0.beta2;
+  %let release = 0.4.0.beta3;
 
 *******************************************************************************;
 * process data ;
@@ -375,7 +375,7 @@
   data hbeat_total_base;
     length nsrrid 8.;
     merge 
-      baseline_csv 
+      baseline_csv
       zscore_b 
       ecgaxis_b 
       obf.obfid (rename=(obf_pptid=nsrrid))
@@ -392,7 +392,7 @@
       studyid namecode labelid distance exclusion01 exclusion02 exclusion03
       exclusion04 exclusion05 exclusion07 exclusion08 exclusion09 exclusion10
       extratests inclusion01 inclusion02 inclusion03 misswork nointerest
-      nopartoth nopartoth_text partstatus passive toobusy transport;
+      nopartoth nopartoth_text partstatus passive toobusy transport siteid;
   run;
 
   data followup_csv;
@@ -445,7 +445,7 @@
 
     drop studyid namecode labelid inconc_date outconc_date phq_date endodate 
       visit_date ecg_date receive_date review_date scored_date enddate 
-      mintherdate startdate random_date;
+      mintherdate startdate random_date siteid;
   run;
 
   proc sort data=hbeat_total_base;
