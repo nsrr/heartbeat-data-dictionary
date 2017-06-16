@@ -3,5 +3,6 @@
   "display_name": "Treatment Arm",
   "description": "1.  HLSE (Healthy Lifestyles and Sleep Education - control arm.  2.  HLSE-O (Healthy Lifestyles and Sleep Education + (supplemental nocturnal) Oxygen - oxygen arm.  3.  HLSE-P (Healthy Lifestyles and Sleep Education + Positive airway pressure treatment -Continuous Positive Airway Pressure (CPAP) arm) ",
   "type": "choices",
-  "domain": "txarm"
+  "domain": "txarm",
+  "commonly_used": true
 }
