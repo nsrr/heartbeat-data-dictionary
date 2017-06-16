@@ -1,7 +1,7 @@
 {
   "id": "agecat",
   "display_name": "Age category",
-  "description": "",
+  "description": "Created using values from the calc_age variable",
   "type": "choices",
   "domain": "agecat",
   "commonly_used": true
