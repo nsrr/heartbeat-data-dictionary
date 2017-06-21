@@ -2,6 +2,7 @@
 
 - Update display names and descriptions to spell out abbreviations
 - Update description for `agecat` variable
+- Change primary subject identifier to `nsrrid` variable (previously `obf_pptid`)
 - The CSV datasets generated from a SAS export is located here:
   - `\\rfawin\bwh-sleepepi-heartbeat\nsrr-prep\_releases\0.4.0.beta3\`
     - `heartbeat-baseline-dataset-0.4.0.beta3.csv`
