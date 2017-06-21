@@ -11,7 +11,7 @@
   %let b=%sysget(SAS_EXECFILENAME);
   %let path= %sysfunc(tranwrd(&a,&b,heartbeat-macros.sas));
   %include "&path";
-  %let release = 0.4.0.beta3;
+  %let release = 0.4.0.rc;
 
 *******************************************************************************;
 * process data ;
@@ -40,6 +40,8 @@
 
   data hbeatelig;
     set hbeat.heartbeateligibility;
+
+    drop eligcheck eligfinal;
   run;
 
   data heartbeathhqbaseline;
@@ -56,7 +58,7 @@
     *set timepoint variable;
     timepoint = 2;
 
-    drop white black hawaii asian amerindian otherrace otherrace_text race_white 
+    drop white black hawaii asian amerindian otherrace otherrace_text race_white
       race_black hhqb_date race;
   run;
 
@@ -130,32 +132,32 @@
   run;
 
   data heartbeat_baseline;
-    merge 
+    merge
       hbeatages
-       
-      hbeat.heartbeatbloods (drop=heartbeat_vt_lab_id 
-        heartbeat_vt_lab_id1 order albumin_assay_date crp_assay_date 
-        crp_comment d_dimer__comment d_dimer_assay_date e_selectin_assay_date 
-        e_selectin_comment hstniiuo_assay_date hstniiuo_comment 
-        il6sr_assay_date il6sr_comment il_6_assay_date il_6_comment 
-        insulin_assay_date insulin_comment lipid_panel_and_sgl_comment 
-        mrp_8_14_assay_date mrp_8_14_comment ntprobnp__assay_date 
-        ntprobnp__comment oxldl_assay_date oxldl_comment pai_1__assay_date 
-        pai_1__comment tnf_a_assay_date tnf_a_comment tnfar1_assay_date 
+
+      hbeat.heartbeatbloods (drop=heartbeat_vt_lab_id
+        heartbeat_vt_lab_id1 order albumin_assay_date crp_assay_date
+        crp_comment d_dimer__comment d_dimer_assay_date e_selectin_assay_date
+        e_selectin_comment hstniiuo_assay_date hstniiuo_comment
+        il6sr_assay_date il6sr_comment il_6_assay_date il_6_comment
+        insulin_assay_date insulin_comment lipid_panel_and_sgl_comment
+        mrp_8_14_assay_date mrp_8_14_comment ntprobnp__assay_date
+        ntprobnp__comment oxldl_assay_date oxldl_comment pai_1__assay_date
+        pai_1__comment tnf_a_assay_date tnf_a_comment tnfar1_assay_date
         tnfar1_comment total_adiponectin_assay_date total_adiponectin_comment
-        ucreat_comment rec_d_in_vt) 
+        ucreat_comment rec_d_in_vt)
 
-      hbeat.heartbeatbp24hr (rename=(totalmin = totalmin_bp 
-        starttime=bp24starttime endtime=bp24endtime)) 
+      hbeat.heartbeatbp24hr (rename=(totalmin = totalmin_bp
+        starttime=bp24starttime endtime=bp24endtime))
 
-      embletta (drop=pass scorerid) 
+      embletta (drop=pass scorerid)
 
-      hbeat.heartbeatecg (drop=scorerid) 
+      hbeat.heartbeatecg (drop=scorerid)
 
-      hbeat.heartbeatendopat(keep=studyid timepoint en_date en_rhi en_lo_c90_120 
-        rename=(en_date=endodate en_rhi=rhi en_lo_c90_120=framingham)) 
+      hbeat.heartbeatendopat(keep=studyid timepoint en_date en_rhi en_lo_c90_120
+        rename=(en_date=endodate en_rhi=rhi en_lo_c90_120=framingham))
 
-      heartbeathhqbaseline (in=a) 
+      heartbeathhqbaseline (in=a)
 
       hbeat.heartbeatmeasurements (drop=dob agedob)
 
@@ -170,13 +172,13 @@
   run;
 
   data hbeat_baseline;
-    merge 
+    merge
       hbeat.heartbeatscreening (drop=calc_berlin calc_bmi calc_ess htcm htft
         htin wtkg wtlb)
-      hbeatelig (in=a) 
-      hbeat.heartbeatrandomization (in=b) 
-      heartbeat_baseline (in=c) 
-      hbeat.heartbeatmedicationscat 
+      hbeatelig (in=a)
+      hbeat.heartbeatrandomization (in=b)
+      heartbeat_baseline (in=c)
+      hbeat.heartbeatmedicationscat
       hbeat.heartbeatwithdrawal;
     by studyid;
 
@@ -186,36 +188,36 @@
   run;
 
   data heartbeat_final;
-    merge 
-      hbeatages 
+    merge
+      hbeatages
 
-      hbeat.heartbeatbloods(drop=heartbeat_vt_lab_id heartbeat_vt_lab_id1 order 
-        albumin_assay_date crp_assay_date crp_comment d_dimer__comment 
-        d_dimer_assay_date e_selectin_assay_date e_selectin_comment 
-        hstniiuo_assay_date hstniiuo_comment il6sr_assay_date il6sr_comment 
-        il_6_assay_date il_6_comment insulin_assay_date insulin_comment 
-        lipid_panel_and_sgl_comment mrp_8_14_assay_date mrp_8_14_comment 
-        ntprobnp__assay_date ntprobnp__comment oxldl_assay_date oxldl_comment 
-        pai_1__assay_date pai_1__comment tnf_a_assay_date tnf_a_comment 
-        tnfar1_assay_date tnfar1_comment total_adiponectin_assay_date 
-        total_adiponectin_comment ucreat_comment rec_d_in_vt) 
+      hbeat.heartbeatbloods(drop=heartbeat_vt_lab_id heartbeat_vt_lab_id1 order
+        albumin_assay_date crp_assay_date crp_comment d_dimer__comment
+        d_dimer_assay_date e_selectin_assay_date e_selectin_comment
+        hstniiuo_assay_date hstniiuo_comment il6sr_assay_date il6sr_comment
+        il_6_assay_date il_6_comment insulin_assay_date insulin_comment
+        lipid_panel_and_sgl_comment mrp_8_14_assay_date mrp_8_14_comment
+        ntprobnp__assay_date ntprobnp__comment oxldl_assay_date oxldl_comment
+        pai_1__assay_date pai_1__comment tnf_a_assay_date tnf_a_comment
+        tnfar1_assay_date tnfar1_comment total_adiponectin_assay_date
+        total_adiponectin_comment ucreat_comment rec_d_in_vt)
 
-      hbeat.heartbeatbp24hr (rename=(totalmin = totalmin_bp 
+      hbeat.heartbeatbp24hr (rename=(totalmin = totalmin_bp
         starttime=bp24starttime endtime=bp24endtime))
 
-      embletta (drop=pass scorerid) 
+      embletta (drop=pass scorerid)
 
       hbeat.heartbeatecg(drop=scorerid)
 
-      hbeat.heartbeatendopat (keep=studyid timepoint en_date en_rhi 
-        en_lo_c90_120 rename=(en_date=endodate en_rhi=rhi 
-        en_lo_c90_120=framingham)) 
+      hbeat.heartbeatendopat (keep=studyid timepoint en_date en_rhi
+        en_lo_c90_120 rename=(en_date=endodate en_rhi=rhi
+        en_lo_c90_120=framingham))
 
-      heartbeathhqfinal (in=a) 
+      heartbeathhqfinal (in=a)
 
-      hbeat.heartbeatmeasurements (drop=dob agedob) 
+      hbeat.heartbeatmeasurements (drop=dob agedob)
 
-      hbeat.heartbeatphq9 (in=b) 
+      hbeat.heartbeatphq9 (in=b)
 
       hbeat_sf36;
     by studyid timepoint;
@@ -227,12 +229,12 @@
   run;
 
   data hbeat_final;
-    merge 
+    merge
       hbeat.heartbeatscreening (keep=studyid male)
-      heartbeat_final (in=a) 
-      hbeat.heartbeatmedicationscat 
+      heartbeat_final (in=a)
+      hbeat.heartbeatmedicationscat
       hbeat.heartbeatoxycompliance (drop=instaffid outstaffid)
-      hbeat.heartbeatpapcompliance 
+      hbeat.heartbeatpapcompliance
       hbeat.heartbeatrandomization (keep=studyid random_date);
     by studyid;
 
@@ -256,26 +258,26 @@
 
     select NAME into :medshq_varnames_base separated by ' '
     from hbeat_base_contents
-    where substr(NAME,1,1) = "b" and substr(NAME,1,2) not in 
-      ("bp", "bm") and NAME not in ("bothered", "bathroom", "bsnore", 
+    where substr(NAME,1,1) = "b" and substr(NAME,1,2) not in
+      ("bp", "bm") and NAME not in ("bothered", "bathroom", "bsnore",
       "bscore", "bsnorefq");
 
     select substr(NAME,2) into :medshq_newnames_base separated by ' '
     from hbeat_base_contents
-    where substr(NAME,1,1) = "b" and substr(NAME,1,2) not in 
-      ("bp", "bm") and NAME not in ("bothered", "bathroom", "bsnore", 
+    where substr(NAME,1,1) = "b" and substr(NAME,1,2) not in
+      ("bp", "bm") and NAME not in ("bothered", "bathroom", "bsnore",
       "bscore", "bsnorefq");
 
     select NAME into :medshq_varnames_final separated by ' '
     from hbeat_final_contents
-    where substr(NAME,1,1) = "f" and substr(NAME,1,2) not in ("fr") 
-      and NAME not in ("failpm", "fsnore", "fsnorefq", "feeltired", 
+    where substr(NAME,1,1) = "f" and substr(NAME,1,2) not in ("fr")
+      and NAME not in ("failpm", "fsnore", "fsnorefq", "feeltired",
       "framingham");
 
     select substr(NAME,2) into :medshq_newnames_final separated by ' '
     from hbeat_final_contents
-    where substr(NAME,1,1) = "f" and substr(NAME,1,2) not in ("fr") 
-      and NAME not in ("failpm", "fsnore", "fsnorefq", "feeltired", 
+    where substr(NAME,1,1) = "f" and substr(NAME,1,2) not in ("fr")
+      and NAME not in ("failpm", "fsnore", "fsnorefq", "feeltired",
       "framingham");
   quit;
 
@@ -298,11 +300,11 @@
     rename bpresshurry = presshurry;
     rename bpressordinary = pressordinary;
     rename bbathroom = bathroom;
-    drop faceinhibitor faldosteroneblocker falphablocker fantihypertensive 
-      fbetablocker fcalciumblocker fdiabetes fdiuretic flipidlowering fnitrate 
-      fotherah fperdilator fstatin faceinhibitor_n faldosteroneblocker_n 
-      falphablocker_n fantihypertensive_n fbetablocker_n fcalciumblocker_n 
-      fdiabetes_n fdiuretic_n flipidlowering_n fnitrate_n fotherah_n 
+    drop faceinhibitor faldosteroneblocker falphablocker fantihypertensive
+      fbetablocker fcalciumblocker fdiabetes fdiuretic flipidlowering fnitrate
+      fotherah fperdilator fstatin faceinhibitor_n faldosteroneblocker_n
+      falphablocker_n fantihypertensive_n fbetablocker_n fcalciumblocker_n
+      fdiabetes_n fdiuretic_n flipidlowering_n fnitrate_n fotherah_n
       fperdilator_n fstatin_n;
   run;
 
@@ -313,11 +315,11 @@
     drop sf36_date sf36_sfht;
 
     rename %parallel_join(&medshq_varnames_final, &medshq_newnames_final, =);
-    drop baceinhibitor baldosteroneblocker balphablocker bantihypertensive 
-      bbetablocker bcalciumblocker bdiabetes bdiuretic blipidlowering 
-      bnitrate botherah bperdilator bstatin baceinhibitor_n baldosteroneblocker_n 
-      balphablocker_n bantihypertensive_n bbetablocker_n bcalciumblocker_n 
-      bdiabetes_n bdiuretic_n blipidlowering_n bnitrate_n botherah_n 
+    drop baceinhibitor baldosteroneblocker balphablocker bantihypertensive
+      bbetablocker bcalciumblocker bdiabetes bdiuretic blipidlowering
+      bnitrate botherah bperdilator bstatin baceinhibitor_n baldosteroneblocker_n
+      balphablocker_n bantihypertensive_n bbetablocker_n bcalciumblocker_n
+      bdiabetes_n bdiuretic_n blipidlowering_n bnitrate_n botherah_n
       bperdilator_n bstatin_n;
   run;
 
@@ -374,10 +376,10 @@
 
   data hbeat_total_base;
     length nsrrid 8.;
-    merge 
+    merge
       baseline_csv
-      zscore_b 
-      ecgaxis_b 
+      zscore_b
+      ecgaxis_b
       obf.obfid_clusterid (rename=(obf_pptid=nsrrid))
       frand;
     by studyid;
@@ -427,10 +429,10 @@
 
   data hbeat_total_followup;
     length nsrrid 8.;
-    merge 
-      followup_csv (in=a) 
-      zscore_f 
-      ecgaxis_f 
+    merge
+      followup_csv (in=a)
+      zscore_f
+      ecgaxis_f
       obf.obfid_clusterid (rename=(obf_pptid=nsrrid))
       frand;
     by studyid;
@@ -443,8 +445,8 @@
     if abbott_hstnl__pg_ml_ > 1492 then abbott_hstnl__pg_ml_ = .;
     if hstniiuo_pg_ml > 1000 then hstniiuo_pg_ml = .;
 
-    drop studyid namecode labelid inconc_date outconc_date phq_date endodate 
-      visit_date ecg_date receive_date review_date scored_date enddate 
+    drop studyid namecode labelid inconc_date outconc_date phq_date endodate
+      visit_date ecg_date receive_date review_date scored_date enddate
       mintherdate startdate random_date siteid;
   run;
 

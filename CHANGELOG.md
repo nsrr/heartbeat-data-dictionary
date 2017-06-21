@@ -4,9 +4,9 @@
 - Update description for `agecat` variable
 - Change primary subject identifier to `nsrrid` variable (previously `obf_pptid`)
 - The CSV datasets generated from a SAS export is located here:
-  - `\\rfawin\bwh-sleepepi-heartbeat\nsrr-prep\_releases\0.4.0.beta3\`
-    - `heartbeat-baseline-dataset-0.4.0.beta3.csv`
-    - `heartbeat-followup-dataset-0.4.0.beta3.csv`
+  - `\\rfawin\bwh-sleepepi-heartbeat\nsrr-prep\_releases\0.4.0.rc\`
+    - `heartbeat-baseline-dataset-0.4.0.rc.csv`
+    - `heartbeat-followup-dataset-0.4.0.rc.csv`
 - **Gem Changes**
   - Updated to spout 0.12.1
   - Updated to ruby 2.4.1
