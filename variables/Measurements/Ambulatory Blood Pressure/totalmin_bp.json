@@ -1,6 +1,6 @@
 {
   "id": "totalmin_bp",
-  "display_name": "Total Study Time",
+  "display_name": "Total 24 hour blood pressure study time",
   "description": "",
   "type": "integer",
   "units": "minutes",
