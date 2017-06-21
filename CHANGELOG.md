@@ -7,6 +7,9 @@
   - `\\rfawin\bwh-sleepepi-heartbeat\nsrr-prep\_releases\0.4.0.beta3\`
     - `heartbeat-baseline-dataset-0.4.0.beta3.csv`
     - `heartbeat-followup-dataset-0.4.0.beta3.csv`
+- **Gem Changes**
+  - Updated to spout 0.12.1
+  - Updated to ruby 2.4.1
 
 ## 0.3.0 (March 16, 2016)
 
