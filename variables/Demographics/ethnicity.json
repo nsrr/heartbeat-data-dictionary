@@ -4,8 +4,8 @@
   "description": "",
   "type": "choices",
   "domain": "ethnicity",
+  "commonly_used": true,
   "forms": [
     "heartbeat_baseline_health_questionnaire_form"
-  ],
-  "commonly_used": true
+  ]
 }
