@@ -11,7 +11,7 @@
   %let b=%sysget(SAS_EXECFILENAME);
   %let path= %sysfunc(tranwrd(&a,&b,heartbeat-macros.sas));
   %include "&path";
-  %let release = 0.4.0;
+  %let release = 0.5.0.pre;
 
 *******************************************************************************;
 * process data ;
