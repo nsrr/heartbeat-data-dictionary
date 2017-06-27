@@ -1,17 +1,17 @@
 [
   {
     "value": "1",
-    "display_name": "1: Yes",
+    "display_name": "Yes",
     "description": ""
   },
   {
     "value": "2",
-    "display_name": "2: No - Failed at Sleep Reading Center",
+    "display_name": "No - Failed at Sleep Reading Center",
     "description": ""
   },
   {
     "value": "3",
-    "display_name": "3: No - Study Not Sent",
+    "display_name": "No - Study Not Sent",
     "description": ""
   }
 ]
