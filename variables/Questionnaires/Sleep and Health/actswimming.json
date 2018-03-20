@@ -4,6 +4,7 @@
   "description": "",
   "type": "numeric",
   "units": "minutes",
+  "calculation": "( ( actswimminghr * 60 ) + actswimmingmn ) * actswimmingdays",
   "labels": [
     "exercise",
     "physical activity",

@@ -4,6 +4,7 @@
   "description": "",
   "type": "numeric",
   "units": "minutes",
+  "calculation": "( ( acttennishr * 60 ) + acttennismn ) * acttennisdays",
   "labels": [
     "exercise",
     "physical activity",

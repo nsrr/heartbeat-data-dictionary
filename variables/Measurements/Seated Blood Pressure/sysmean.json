@@ -4,7 +4,7 @@
   "description": "",
   "type": "numeric",
   "units": "millimeters of mercury",
-  "calculation": "(sysbp1 + sysbp2 + sysbp3) / 3",
+  "calculation": "( sysbp1 + sysbp2 + sysbp3 ) / 3",
   "labels": [
     "mmhg"
   ],

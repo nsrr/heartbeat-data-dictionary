@@ -4,6 +4,7 @@
   "description": "",
   "type": "numeric",
   "units": "minutes",
+  "calculation": "( ( actaerobichr * 60 ) + actaerobicmn ) * actaerobicdays",
   "labels": [
     "physical activity",
     "physical functioning"

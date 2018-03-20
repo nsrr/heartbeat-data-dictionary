@@ -4,6 +4,7 @@
   "description": "",
   "type": "numeric",
   "units": "minutes",
+  "calculation": "( ( actjogginghr * 60 ) + actjoggingmn ) * actjoggingdays",
   "labels": [
     "exercise",
     "physical activity",
