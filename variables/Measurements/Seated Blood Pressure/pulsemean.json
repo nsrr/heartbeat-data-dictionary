@@ -4,7 +4,7 @@
   "description": "",
   "type": "numeric",
   "units": "beats per minute",
-  "calculation": "mean(pulse1,pulse2,pulse3)",
+  "calculation": "(pulse1 + pulse2 + pulse3) / 3",
   "labels": [
     "bpm"
   ],

@@ -1,5 +1,7 @@
 ## 0.4.1
 
+- Update variable calculations
+
 ## 0.4.0 (June 22, 2017)
 
 - Update display names and descriptions to spell out abbreviations

@@ -4,7 +4,6 @@
   "description": "",
   "type": "numeric",
   "units": "minutes",
-  "calculation": "( ( actbicyclinghr * 60 ) + actbicyclingmn ) * actbicyclingdays",
   "labels": [
     "exercise",
     "physical activity",
