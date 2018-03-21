@@ -5,7 +5,6 @@
   "type": "numeric",
   "units": "years",
   "labels": [
-    "htn",
     "hypertension"
   ],
   "forms": [

@@ -5,9 +5,7 @@
   "type": "numeric",
   "units": "events",
   "labels": [
-    "hst",
     "portable sleep monitor",
-    "#",
     "oximetry",
     "spo2",
     "sao2"

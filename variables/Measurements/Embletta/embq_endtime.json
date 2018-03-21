@@ -4,7 +4,6 @@
   "description": "",
   "type": "time",
   "labels": [
-    "hst",
     "portable sleep monitor"
   ]
 }

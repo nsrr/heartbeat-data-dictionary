@@ -2,11 +2,5 @@
   "id": "vitmean",
   "display_name": "Mean score of answered questions in the Vitality subscale",
   "description": "",
-  "type": "numeric",
-  "labels": [
-    "short form health survey",
-    "qol",
-    "medical outcomes survey",
-    "mos-sf36"
-  ]
+  "type": "numeric"
 }

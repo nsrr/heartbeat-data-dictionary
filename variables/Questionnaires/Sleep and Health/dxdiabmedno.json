@@ -4,9 +4,6 @@
   "description": "",
   "type": "choices",
   "domain": "dietyesno",
-  "labels": [
-    "dm"
-  ],
   "forms": [
     "heartbeat_baseline_health_questionnaire_form"
   ]

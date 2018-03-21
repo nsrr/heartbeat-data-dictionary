@@ -2,11 +2,5 @@
   "id": "mh_norm",
   "display_name": "Mental Health Norm Score",
   "description": "",
-  "type": "numeric",
-  "labels": [
-    "short form health survey",
-    "qol",
-    "medical outcomes survey",
-    "mos-sf36"
-  ]
+  "type": "numeric"
 }

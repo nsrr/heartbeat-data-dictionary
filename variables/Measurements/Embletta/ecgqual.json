@@ -6,7 +6,6 @@
   "domain": "qualdata",
   "labels": [
     "ekg",
-    "hst",
     "portable sleep monitor"
   ],
   "forms": [

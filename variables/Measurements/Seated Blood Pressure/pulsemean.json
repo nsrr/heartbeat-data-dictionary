@@ -5,8 +5,5 @@
   "type": "numeric",
   "units": "beats per minute",
   "calculation": "( pulse1 + pulse2 + pulse3 ) / 3",
-  "labels": [
-    "bpm"
-  ],
   "commonly_used": true
 }

@@ -5,9 +5,7 @@
   "type": "choices",
   "domain": "ampm",
   "labels": [
-    "bedtime",
-    "saturday",
-    "sunday"
+    "bedtime"
   ],
   "forms": [
     "heartbeat_baseline_health_questionnaire_form",

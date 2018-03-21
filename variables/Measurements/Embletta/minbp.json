@@ -5,8 +5,6 @@
   "type": "numeric",
   "units": "beats per minute",
   "labels": [
-    "hst",
-    "portable sleep monitor",
-    "bpm"
+    "portable sleep monitor"
   ]
 }

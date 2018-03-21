@@ -4,8 +4,6 @@
   "description": "",
   "type": "numeric",
   "labels": [
-    "hst",
-    "portable sleep monitor",
-    "#"
+    "portable sleep monitor"
   ]
 }

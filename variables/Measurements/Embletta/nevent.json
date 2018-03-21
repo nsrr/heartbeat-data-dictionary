@@ -5,8 +5,6 @@
   "type": "numeric",
   "units": "events",
   "labels": [
-    "hst",
-    "portable sleep monitor",
-    "#"
+    "portable sleep monitor"
   ]
 }

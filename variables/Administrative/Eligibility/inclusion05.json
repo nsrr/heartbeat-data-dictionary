@@ -4,9 +4,6 @@
   "description": "",
   "type": "choices",
   "domain": "noyes",
-  "labels": [
-    "questionnaire"
-  ],
   "forms": [
     "heartbeat_eligibility_form"
   ]

@@ -5,7 +5,6 @@
   "type": "choices",
   "domain": "studypass",
   "labels": [
-    "hst",
     "portable sleep monitor"
   ],
   "forms": [

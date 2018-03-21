@@ -5,7 +5,6 @@
   "type": "choices",
   "domain": "noyes",
   "labels": [
-    "htn",
     "hypertension"
   ]
 }

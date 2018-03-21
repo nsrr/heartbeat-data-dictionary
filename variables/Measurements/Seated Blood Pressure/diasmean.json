@@ -5,8 +5,5 @@
   "type": "numeric",
   "units": "millimeters of mercury",
   "calculation": "( diasbp1 + diasbp2 + diasbp3 ) / 3",
-  "labels": [
-    "mmhg"
-  ],
   "commonly_used": true
 }

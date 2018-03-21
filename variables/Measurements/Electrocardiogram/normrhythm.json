@@ -5,7 +5,6 @@
   "type": "choices",
   "domain": "check01",
   "labels": [
-    "nsr",
     "ecg",
     "ekg"
   ]

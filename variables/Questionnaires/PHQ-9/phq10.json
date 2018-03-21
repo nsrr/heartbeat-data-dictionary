@@ -5,8 +5,7 @@
   "type": "choices",
   "domain": "phqdiff",
   "labels": [
-    "depression",
-    "patient health"
+    "depression"
   ],
   "forms": [
     "heartbeat_phq_form"

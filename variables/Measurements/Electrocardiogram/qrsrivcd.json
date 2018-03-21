@@ -7,7 +7,6 @@
   "labels": [
     "ecg",
     "ekg",
-    "wide",
-    "rbbb"
+    "wide"
   ]
 }

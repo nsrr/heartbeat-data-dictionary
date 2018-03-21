@@ -3,12 +3,12 @@
   "display_name": "Non-Supine Apnea-Hypopnea Index (AHI)",
   "description": "",
   "type": "numeric",
+  "units":"",
   "labels": [
     "right",
     "left",
     "prone",
     "upright",
-    "hst",
     "portable sleep monitor"
   ]
 }

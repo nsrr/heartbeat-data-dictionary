@@ -2,11 +2,5 @@
   "id": "gh_norm",
   "display_name": "General Health Perception Norm Score",
   "description": "",
-  "type": "numeric",
-  "labels": [
-    "short form health survey",
-    "qol",
-    "medical outcomes survey",
-    "mos-sf36"
-  ]
+  "type": "numeric"
 }

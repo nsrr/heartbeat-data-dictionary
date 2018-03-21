@@ -3,10 +3,5 @@
   "display_name": "Minimum Mean Arterial Pressure (MAP) (asleep)",
   "description": "",
   "type": "numeric",
-  "units": "millimeters of mercury",
-  "labels": [
-    "mmhg",
-    "lowest",
-    "bp"
-  ]
+  "units": "millimeters of mercury"
 }

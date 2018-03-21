@@ -6,7 +6,6 @@
   "units": "milliseconds",
   "labels": [
     "ecg",
-    "ekg",
-    "ms"
+    "ekg"
   ]
 }

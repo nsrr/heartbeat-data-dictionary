@@ -2,11 +2,5 @@
   "id": "re_z",
   "display_name": "Role-Emotional Z-Score",
   "description": "",
-  "type": "numeric",
-  "labels": [
-    "short form health survey",
-    "qol",
-    "medical outcomes survey",
-    "mos-sf36"
-  ]
+  "type": "numeric"
 }

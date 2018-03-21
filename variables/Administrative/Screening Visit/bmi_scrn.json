@@ -3,9 +3,5 @@
   "display_name": "Body mass index (BMI) at screening visit",
   "description": "Hand-calculated using self-reported height and weight from the Berlin Questionnaire",
   "type": "numeric",
-  "units": "kilograms per meter squared",
-  "labels": [
-    "wt",
-    "ht"
-  ]
+  "units": "kilograms per meter squared"
 }

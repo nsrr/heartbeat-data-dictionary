@@ -3,10 +3,5 @@
   "display_name": "Aggregate Mental Norm Score",
   "description": "",
   "type": "numeric",
-  "labels": [
-    "short form health survey",
-    "qol",
-    "medical outcomes survey",
-    "mos-sf36"
-  ]
+  "unit":""
 }

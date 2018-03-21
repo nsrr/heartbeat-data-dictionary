@@ -5,8 +5,6 @@
   "type": "numeric",
   "units": "seconds",
   "labels": [
-    "hst",
-    "portable sleep monitor",
-    "length"
+    "portable sleep monitor"
   ]
 }

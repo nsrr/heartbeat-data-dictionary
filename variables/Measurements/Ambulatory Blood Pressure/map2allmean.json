@@ -3,11 +3,5 @@
   "display_name": "Average Mean Arterial Pressure (MAP) (all readings)",
   "description": "",
   "type": "numeric",
-  "units": "millimeters of mercury",
-  "labels": [
-    "mmhg",
-    "wake",
-    "sleep",
-    "bp"
-  ]
+  "units": "millimeters of mercury"
 }

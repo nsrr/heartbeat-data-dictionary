@@ -4,6 +4,9 @@
   "description": "",
   "type": "choices",
   "domain": "ethnicity",
+  "labels": [
+    "race"
+  ],
   "forms": [
     "heartbeat_baseline_health_questionnaire_form"
   ],

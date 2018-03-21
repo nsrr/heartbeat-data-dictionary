@@ -6,7 +6,6 @@
   "units": "beats per minute",
   "labels": [
     "hr",
-    "bpm",
     "bp"
   ]
 }

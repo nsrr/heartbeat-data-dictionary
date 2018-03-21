@@ -4,9 +4,6 @@
   "description": "",
   "type": "numeric",
   "units": "millimeters of mercury",
-  "labels": [
-    "mmhg"
-  ],
   "forms": [
     "heartbeat_physical_measurements_form"
   ]

@@ -3,11 +3,5 @@
   "display_name": "Epworth Sleepiness Scale (ESS) Score",
   "description": "Total Epworth Sleepiness Scale (ESS) score from the Epworth Sleepiness Scale (ESS)",
   "type": "numeric",
-  "labels": [
-    "questionnaire",
-    "0-7",
-    "8-9",
-    "10-15",
-    "16-24"
-  ]
+  "unit":""
 }

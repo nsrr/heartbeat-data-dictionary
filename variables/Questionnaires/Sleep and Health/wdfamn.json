@@ -4,12 +4,7 @@
   "description": "",
   "type": "numeric",
   "labels": [
-    "bedtime",
-    "monday",
-    "tuesday",
-    "wednesday",
-    "thursday",
-    "friday"
+    "bedtime"
   ],
   "forms": [
     "heartbeat_baseline_health_questionnaire_form",

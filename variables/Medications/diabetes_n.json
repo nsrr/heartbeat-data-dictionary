@@ -3,9 +3,5 @@
   "display_name": "Number of diabetes medications?",
   "description": "",
   "type": "numeric",
-  "units": "medications",
-  "labels": [
-    "#",
-    "dm"
-  ]
+  "units": "medications"
 }

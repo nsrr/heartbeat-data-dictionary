@@ -5,7 +5,6 @@
   "type": "numeric",
   "units": "hours",
   "labels": [
-    "hst",
     "portable sleep monitor",
     "nasal",
     "flow"

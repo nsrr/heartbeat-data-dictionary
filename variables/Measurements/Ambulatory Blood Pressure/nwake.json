@@ -3,9 +3,5 @@
   "display_name": "Number of Awake Readings",
   "description": "",
   "type": "numeric",
-  "units": "readings",
-  "labels": [
-    "bp",
-    "#"
-  ]
+  "units": "readings"
 }

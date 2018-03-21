@@ -7,9 +7,6 @@
   "labels": [
     "ecg",
     "ekg",
-    "p-r",
-    "ms",
-    ".12-.20",
-    "seconds"
+    "p-r"
   ]
 }

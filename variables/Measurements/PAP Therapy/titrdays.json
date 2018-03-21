@@ -3,8 +3,5 @@
   "display_name": "Positive Airway Pressure Compliance: Number of days on titration",
   "description": "",
   "type": "numeric",
-  "units": "days",
-  "labels": [
-    "#"
-  ]
+  "units": "days"
 }

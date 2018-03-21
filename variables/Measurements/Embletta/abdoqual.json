@@ -5,8 +5,7 @@
   "type": "choices",
   "domain": "qualdata",
   "labels": [
-    "respiratory belt",
-    "hst"
+    "respiratory belt"
   ],
   "forms": [
     "heartbeat_embletta_qs_form"

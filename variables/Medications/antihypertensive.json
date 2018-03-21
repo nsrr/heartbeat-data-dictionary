@@ -3,8 +3,5 @@
   "display_name": "Any anti-hypertensive usage?",
   "description": "",
   "type": "choices",
-  "domain": "check01",
-  "labels": [
-    "htn"
-  ]
+  "domain": "check01"
 }

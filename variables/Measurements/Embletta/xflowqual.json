@@ -5,7 +5,6 @@
   "type": "choices",
   "domain": "qualdata",
   "labels": [
-    "hst",
     "portable sleep monitor"
   ],
   "forms": [

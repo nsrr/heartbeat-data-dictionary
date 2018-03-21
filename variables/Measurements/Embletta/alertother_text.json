@@ -4,7 +4,6 @@
   "description": "",
   "type": "string",
   "labels": [
-    "hst",
     "portable sleep monitor",
     "urgent"
   ],

@@ -3,7 +3,5 @@
   "display_name": "Ratio of systolic between sleep and wake",
   "description": "",
   "type": "numeric",
-  "labels": [
-    "bp"
-  ]
+  "units": ""
 }

@@ -3,9 +3,5 @@
   "display_name": "Minimum Diastolic Pressure (wake)",
   "description": "",
   "type": "numeric",
-  "units": "millimeters of mercury",
-  "labels": [
-    "mmhg",
-    "bp"
-  ]
+  "units": "millimeters of mercury"
 }

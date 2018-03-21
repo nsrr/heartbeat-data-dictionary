@@ -5,7 +5,6 @@
   "type": "numeric",
   "units": "percent",
   "labels": [
-    "hst",
     "portable sleep monitor",
     "stomach"
   ]

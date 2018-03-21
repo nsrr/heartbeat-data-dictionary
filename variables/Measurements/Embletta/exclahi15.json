@@ -5,7 +5,6 @@
   "type": "choices",
   "domain": "check01",
   "labels": [
-    "hst",
     "portable sleep monitor"
   ]
 }

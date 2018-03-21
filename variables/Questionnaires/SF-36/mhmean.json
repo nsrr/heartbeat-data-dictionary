@@ -2,11 +2,5 @@
   "id": "mhmean",
   "display_name": "Mean score of answered questions in the Mental Health subscale",
   "description": "",
-  "type": "numeric",
-  "labels": [
-    "short form health survey",
-    "qol",
-    "medical outcomes survey",
-    "mos-sf36"
-  ]
+  "type": "numeric"
 }

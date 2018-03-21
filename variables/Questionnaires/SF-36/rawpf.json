@@ -2,11 +2,5 @@
   "id": "rawpf",
   "display_name": "Raw physical functioning subscale score",
   "description": "",
-  "type": "numeric",
-  "labels": [
-    "short form health survey",
-    "qol",
-    "medical outcomes survey",
-    "mos-sf36"
-  ]
+  "type": "numeric"
 }

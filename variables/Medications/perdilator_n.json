@@ -3,8 +3,5 @@
   "display_name": "Number of peripheral dilators?",
   "description": "",
   "type": "numeric",
-  "units": "medications",
-  "labels": [
-    "#"
-  ]
+  "units": "medications"
 }

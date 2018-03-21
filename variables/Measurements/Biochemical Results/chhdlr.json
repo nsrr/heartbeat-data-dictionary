@@ -2,5 +2,6 @@
   "id": "chhdlr",
   "display_name": "Total Cholesterol to  high-density lipoprotein (HDL) ratio",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "unit":""
 }

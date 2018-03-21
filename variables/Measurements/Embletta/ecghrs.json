@@ -6,7 +6,6 @@
   "units": "hours",
   "labels": [
     "ekg",
-    "hst",
     "portable sleep monitor"
   ],
   "forms": [

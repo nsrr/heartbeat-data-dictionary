@@ -5,7 +5,6 @@
   "type": "numeric",
   "units": "milligrams per deciliter",
   "labels": [
-    "mg/dl",
     "cholestrol"
   ]
 }

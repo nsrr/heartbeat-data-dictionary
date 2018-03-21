@@ -3,10 +3,5 @@
   "display_name": "Minimum Mean Heart Rate (wake)",
   "description": "",
   "type": "numeric",
-  "units": "beats per minute",
-  "labels": [
-    "hr",
-    "bpm",
-    "bp"
-  ]
+  "units": "beats per minute"
 }

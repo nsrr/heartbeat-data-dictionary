@@ -5,8 +5,5 @@
   "type": "numeric",
   "units": "centimeters",
   "calculation": "( hipcm1 + hipcm2 ) / 2",
-  "labels": [
-    "cm"
-  ],
   "commonly_used": true
 }

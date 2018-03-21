@@ -3,8 +3,5 @@
   "display_name": "Any diabetes medication usage?",
   "description": "",
   "type": "choices",
-  "domain": "check01",
-  "labels": [
-    "dm"
-  ]
+  "domain": "check01"
 }

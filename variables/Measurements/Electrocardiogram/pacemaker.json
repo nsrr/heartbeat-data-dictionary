@@ -6,7 +6,6 @@
   "domain": "check01",
   "labels": [
     "ecg",
-    "ekg",
-    "pacer"
+    "ekg"
   ]
 }

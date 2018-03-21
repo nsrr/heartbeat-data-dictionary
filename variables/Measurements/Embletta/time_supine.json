@@ -5,7 +5,6 @@
   "type": "numeric",
   "units": "minutes",
   "labels": [
-    "hst",
     "portable sleep monitor",
     "back"
   ]

@@ -5,7 +5,6 @@
   "type": "numeric",
   "units": "events per hour",
   "labels": [
-    "hst",
     "portable sleep monitor",
     "sao2",
     "oximetry"

@@ -6,8 +6,7 @@
   "units": "years",
   "labels": [
     "hysterectomy",
-    "oophorectomy",
-    "yrs"
+    "oophorectomy"
   ],
   "forms": [
     "heartbeat_baseline_health_questionnaire_form"

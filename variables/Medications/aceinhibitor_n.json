@@ -3,8 +3,5 @@
   "display_name": "Number of ace inhibitors?",
   "description": "",
   "type": "numeric",
-  "units": "medications",
-  "labels": [
-    "#"
-  ]
+  "units": "medications"
 }

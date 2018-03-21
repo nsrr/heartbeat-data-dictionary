@@ -2,11 +2,5 @@
   "id": "re",
   "display_name": "Role Emotional Scale (transformed 0-100)",
   "description": "",
-  "type": "numeric",
-  "labels": [
-    "short form health survey",
-    "qol",
-    "medical outcomes survey",
-    "mos-sf36"
-  ]
+  "type": "numeric"
 }

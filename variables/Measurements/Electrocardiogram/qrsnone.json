@@ -6,7 +6,6 @@
   "domain": "check01",
   "labels": [
     "ecg",
-    "ekg",
-    "< .12 seconds"
+    "ekg"
   ]
 }

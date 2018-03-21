@@ -4,12 +4,5 @@
   "description": "",
   "type": "numeric",
   "units": "beats per minute",
-  "labels": [
-    "hr",
-    "bpm",
-    "sleep",
-    "wake",
-    "bp"
-  ],
   "commonly_used": true
 }

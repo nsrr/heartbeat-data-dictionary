@@ -6,7 +6,6 @@
   "units": "days from index date",
   "labels": [
     "sleep study",
-    "hst",
     "portable sleep monitor"
   ],
   "forms": [
