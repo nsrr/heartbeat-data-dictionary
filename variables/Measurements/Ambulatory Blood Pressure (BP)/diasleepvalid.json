@@ -1,6 +1,6 @@
 {
   "id": "diasleepvalid",
-  "display_name": "Mean of diastolic readings with valid sleep",
+  "display_name": "Mean of diastolic blood pressure (DBP) readings with valid sleep",
   "description": "",
   "type": "numeric",
   "units": "millimeters of mercury (mmHg)"

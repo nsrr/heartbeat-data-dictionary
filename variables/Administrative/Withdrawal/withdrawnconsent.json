@@ -1,6 +1,6 @@
 {
   "id": "withdrawnconsent",
-  "display_name": "Withdrawal Reason: Withdrawn consent",
+  "display_name": "Withdrawal reason: Withdrawn consent",
   "description": "",
   "type": "choices",
   "domain": "check01",

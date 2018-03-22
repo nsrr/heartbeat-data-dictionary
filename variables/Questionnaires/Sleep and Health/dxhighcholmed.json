@@ -1,6 +1,6 @@
 {
   "id": "dxhighcholmed",
-  "display_name": "Diagnosed: High Blood Cholesterol, taking medication",
+  "display_name": "Diagnosed: High blood cholesterol, taking medication",
   "description": "",
   "type": "choices",
   "domain": "noyes",

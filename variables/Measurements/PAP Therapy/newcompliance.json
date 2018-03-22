@@ -1,6 +1,6 @@
 {
   "id": "newcompliance",
-  "display_name": "Positive Airway Pressure Compliance: New compliance value",
+  "display_name": "Positive airway pressure compliance: New compliance value",
   "description": "",
   "type": "numeric",
   "units": "percent (%)",

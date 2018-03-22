@@ -1,6 +1,6 @@
 {
   "id": "dxmigraine",
-  "display_name": "Diagnosed: Migraine Headaches",
+  "display_name": "Diagnosed: Migraine headaches",
   "description": "",
   "type": "choices",
   "domain": "noyes",

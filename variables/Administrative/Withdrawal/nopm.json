@@ -1,6 +1,6 @@
 {
   "id": "nopm",
-  "display_name": "Withdrawal Reason: Did not wear portable monitor",
+  "display_name": "Withdrawal reason: Did not wear portable monitor",
   "description": "",
   "type": "choices",
   "domain": "check01",

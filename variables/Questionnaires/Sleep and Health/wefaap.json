@@ -1,6 +1,6 @@
 {
   "id": "wefaap",
-  "display_name": "Fall Asleep Weekends (am/pm)",
+  "display_name": "Fall asleep weekends",
   "description": "",
   "type": "choices",
   "domain": "ampm",

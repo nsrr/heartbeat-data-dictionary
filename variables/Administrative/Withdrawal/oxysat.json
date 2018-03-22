@@ -1,6 +1,6 @@
 {
   "id": "oxysat",
-  "display_name": "Withdrawal Reason: Nocturnal oxygen saturation low",
+  "display_name": "Withdrawal reason: Nocturnal oxygen saturation low",
   "description": "",
   "type": "choices",
   "domain": "check01",

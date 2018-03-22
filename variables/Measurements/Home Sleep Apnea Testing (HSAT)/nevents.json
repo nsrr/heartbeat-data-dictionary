@@ -1,6 +1,6 @@
 {
   "id": "nevents",
-  "display_name": "Apnea/Hypopnea: Total Supine",
+  "display_name": "Apnea/hypopnea: Total supine",
   "description": "",
   "type": "numeric",
   "units":"",

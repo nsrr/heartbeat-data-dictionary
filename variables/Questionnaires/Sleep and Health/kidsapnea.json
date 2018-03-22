@@ -1,6 +1,6 @@
 {
   "id": "kidsapnea",
-  "display_name": "Family: Sleep Apnea (children)",
+  "display_name": "Family: Sleep apnea (children)",
   "description": "",
   "type": "choices",
   "domain": "noyes",

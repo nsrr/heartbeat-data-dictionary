@@ -1,6 +1,6 @@
 {
   "id": "syswakemin",
-  "display_name": "Minimum Systolic Pressure (wake)",
+  "display_name": "Minimum systolic blood pressure (SBP) (wake)",
   "description": "",
   "type": "numeric",
   "units": "millimeters of mercury (mmHg)"

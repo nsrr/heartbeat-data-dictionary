@@ -1,6 +1,6 @@
 {
   "id": "pmi",
-  "display_name": "Apnea/Hypopnea: Mixed %",
+  "display_name": "Apnea/hypopnea: Mixed %",
   "description": "",
   "type": "numeric",
   "units": "percent (%)",

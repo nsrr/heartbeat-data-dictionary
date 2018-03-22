@@ -1,6 +1,6 @@
 {
   "id": "dxcanclung",
-  "display_name": "Diagnosed: Cancer, if yes: Lung",
+  "display_name": "Diagnosed: Cancer, if yes: lung",
   "description": "",
   "type": "choices",
   "domain": "noyes",

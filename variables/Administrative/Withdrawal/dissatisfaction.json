@@ -1,6 +1,6 @@
 {
   "id": "dissatisfaction",
-  "display_name": "Withdrawal Reason: Dissatisfaction with treatment",
+  "display_name": "Withdrawal reason: Dissatisfaction with treatment",
   "description": "",
   "type": "choices",
   "domain": "check01",

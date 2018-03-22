@@ -1,6 +1,6 @@
 {
   "id": "ppallsd",
-  "display_name": "Standard Deviation of Pulse Pressure (all readings)",
+  "display_name": "Standard deviation of pulse pressure (all readings)",
   "description": "",
   "type": "numeric",
   "units": "millimeters of mercury (mmHg)"

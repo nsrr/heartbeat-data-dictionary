@@ -1,7 +1,7 @@
 {
   "id": "exclcent",
-  "display_name": "Exclusion Central",
-  "description": "Central sleep apnea index >5",
+  "display_name": "Exclusion central",
+  "description": "Central sleep apnea index > 5",
   "type": "choices",
   "domain": "check01",
   "labels": [

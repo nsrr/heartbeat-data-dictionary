@@ -1,6 +1,6 @@
 {
   "id": "ppwakemax",
-  "display_name": "Maximum Pulse Pressure (wake)",
+  "display_name": "Maximum pulse pressure (wake)",
   "description": "",
   "type": "numeric",
   "units": "millimeters of mercury (mmHg)"

@@ -1,6 +1,6 @@
 {
   "id": "nmin",
-  "display_name": "Apnea/Hypopnea: Mixed Non-Supine",
+  "display_name": "Apnea/hypopnea: Mixed non-supine",
   "description": "",
   "type": "numeric",
   "units": "events",

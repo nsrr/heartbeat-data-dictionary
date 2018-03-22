@@ -1,6 +1,6 @@
 {
   "id": "diasbp2",
-  "display_name": "Second Diastolic Blood Pressure (BP) Measurement",
+  "display_name": "Second diastolic blood pressure (BP) measurement",
   "description": "",
   "type": "numeric",
   "units": "millimeters of mercury (mmHg)",

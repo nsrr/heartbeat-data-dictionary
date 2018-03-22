@@ -1,6 +1,6 @@
 {
   "id": "dxepilepsy",
-  "display_name": "Diagnosed: Epilepsy (Seizure Disorder)",
+  "display_name": "Diagnosed: Epilepsy (seizure disorder)",
   "description": "",
   "type": "choices",
   "domain": "noyes",

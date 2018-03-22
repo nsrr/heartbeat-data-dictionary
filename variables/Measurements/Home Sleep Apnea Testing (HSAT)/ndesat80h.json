@@ -1,6 +1,6 @@
 {
   "id": "ndesat80h",
-  "display_name": "Desaturation Low Point: oximetry desaturations per hour less than 80%",
+  "display_name": "Desaturation low point: Oximetry desaturations per hour less than 80%",
   "description": "",
   "type": "numeric",
   "units": "desaturations per hour",

@@ -1,6 +1,6 @@
 {
   "id": "maxbps",
-  "display_name": "Pulse: Supine Maximum",
+  "display_name": "Pulse: Supine maximum",
   "description": "",
   "type": "numeric",
   "units": "beats per minute (bpm)",

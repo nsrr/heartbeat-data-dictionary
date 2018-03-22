@@ -1,6 +1,6 @@
 {
   "id": "mapnondip",
-  "display_name": "Less than 10% Mean Arterial Pressure (MAP) dipping from wake to sleep",
+  "display_name": "Less than 10% mean arterial pressure (MAP) dipping from wake to sleep",
   "description": "",
   "type": "choices",
   "domain": "noyes01",

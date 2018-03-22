@@ -1,6 +1,6 @@
 {
   "id": "rolpmean",
-  "display_name": "Mean score of answered questions in the Role-Physical subscale",
+  "display_name": "Mean score of answered questions in the role-physical subscale",
   "description": "",
   "type": "numeric",
   "unit":""

@@ -1,6 +1,6 @@
 {
   "id": "hyp90s",
-  "display_name": "Apnea-Desaturation Relation: Greater than 90% Hypopnea",
+  "display_name": "Apnea-desaturation relation: Greater than 90% hypopnea",
   "description": "",
   "type": "numeric",
   "units":"",

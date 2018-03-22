@@ -1,6 +1,6 @@
 {
   "id": "map2wakemin",
-  "display_name": "Minimum Mean Arterial Pressure (MAP) (wake)",
+  "display_name": "Minimum mean arterial pressure (MAP) (wake)",
   "description": "",
   "type": "numeric",
   "units": "millimeters of mercury (mmHg)"

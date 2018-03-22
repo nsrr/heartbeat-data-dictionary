@@ -1,6 +1,6 @@
 {
   "id": "qrsrandl",
-  "display_name": "QRS Conduction Block: Right and left bundle branch blocks",
+  "display_name": "QRS conduction block: Right and left bundle branch blocks",
   "description": "QRS complex wider than .12 seconds",
   "type": "choices",
   "domain": "check01",

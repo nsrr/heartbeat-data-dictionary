@@ -1,6 +1,6 @@
 {
   "id": "sysallmax",
-  "display_name": "Maximum Systolic Pressure (all readings)",
+  "display_name": "Maximum systolic blood pressure (SBP) (all readings)",
   "description": "",
   "type": "numeric",
   "units": "millimeters of mercury (mmHg)"

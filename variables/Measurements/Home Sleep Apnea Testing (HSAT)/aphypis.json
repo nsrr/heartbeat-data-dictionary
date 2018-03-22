@@ -1,6 +1,6 @@
 {
   "id": "aphypis",
-  "display_name": "Supine Apnea-Hypopnea Index (AHI)",
+  "display_name": "Supine apnea-hypopnea index (AHI)",
   "description": "",
   "type": "numeric",
   "units":"",

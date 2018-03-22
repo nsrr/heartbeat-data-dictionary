@@ -1,6 +1,6 @@
 {
   "id": "ischlat",
-  "display_name": "Ischemia Pattern: Lateral wall",
+  "display_name": "Ischemia pattern: Lateral wall",
   "description": "",
   "type": "choices",
   "domain": "check01",

@@ -1,9 +1,9 @@
 {
   "id": "wefamn",
-  "display_name": "Fall Asleep Weekends (minute)",
+  "display_name": "Fall asleep weekends",
   "description": "",
   "type": "numeric",
-  "unit":"",
+  "unit":"minutes (min)",
   "labels": [
     "bedtime"
   ],

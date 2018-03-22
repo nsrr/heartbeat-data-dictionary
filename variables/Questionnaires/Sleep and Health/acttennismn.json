@@ -1,6 +1,6 @@
 {
   "id": "acttennismn",
-  "display_name": "Tennis, squash, racquetball (minutes)",
+  "display_name": "Tennis, squash, racquetball",
   "description": "",
   "type": "numeric",
   "units": "minutes (min)",

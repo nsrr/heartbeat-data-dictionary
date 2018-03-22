@@ -1,6 +1,6 @@
 {
   "id": "diawakemean",
-  "display_name": "Average Diastolic Pressure (wake)",
+  "display_name": "Average diastolic blood pressure (DBP) (wake)",
   "description": "",
   "type": "numeric",
   "units": "millimeters of mercury (mmHg)"

@@ -1,6 +1,6 @@
 {
   "id": "ppwakemean",
-  "display_name": "Average Pulse Pressure (wake)",
+  "display_name": "Average pulse pressure (wake)",
   "description": "",
   "type": "numeric",
   "units": "millimeters of mercury (mmHg)"

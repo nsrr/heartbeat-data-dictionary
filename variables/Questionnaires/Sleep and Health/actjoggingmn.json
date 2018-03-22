@@ -1,6 +1,6 @@
 {
   "id": "actjoggingmn",
-  "display_name": "Jogging (minutes)",
+  "display_name": "Jogging",
   "description": "",
   "type": "numeric",
   "units": "minutes (min)",

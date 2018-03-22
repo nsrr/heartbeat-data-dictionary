@@ -1,6 +1,6 @@
 {
   "id": "ndesatc10h",
-  "display_name": "Desaturation Fall: 5-9% Cumulative oximetry desaturations per hour",
+  "display_name": "Desaturation fall: 5 - 9% cumulative oximetry desaturations per hour",
   "description": "",
   "type": "numeric",
   "units": "desaturations per hour",

@@ -1,6 +1,6 @@
 {
   "id": "withother",
-  "display_name": "Withdrawal Reason: Other reason",
+  "display_name": "Withdrawal reason: Other reason",
   "description": "",
   "type": "choices",
   "domain": "check01",

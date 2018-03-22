@@ -1,6 +1,6 @@
 {
   "id": "embq_stoptime",
-  "display_name": "Stop Time",
+  "display_name": "Stop time",
   "description": "",
   "type": "time",
   "labels": [

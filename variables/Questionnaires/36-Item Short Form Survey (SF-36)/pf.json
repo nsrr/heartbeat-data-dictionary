@@ -1,6 +1,6 @@
 {
   "id": "pf",
-  "display_name": "Physical Functioning Scale (transformed 0-100)",
+  "display_name": "Physical functioning scale (transformed 0 - 100)",
   "description": "",
   "type": "numeric",
   "unit":""

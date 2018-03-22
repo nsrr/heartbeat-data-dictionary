@@ -1,6 +1,6 @@
 {
   "id": "totaldays",
-  "display_name": "Positive Airway Pressure Compliance: Total days in the compliance period",
+  "display_name": "Positive airway pressure compliance: Total days in the compliance period",
   "description": "",
   "type": "numeric",
   "units": "days"

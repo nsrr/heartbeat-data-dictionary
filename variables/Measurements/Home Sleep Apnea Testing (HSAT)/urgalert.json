@@ -1,6 +1,6 @@
 {
   "id": "urgalert",
-  "display_name": "Urgent Alert",
+  "display_name": "Urgent alert",
   "description": "",
   "type": "choices",
   "domain": "yesno",

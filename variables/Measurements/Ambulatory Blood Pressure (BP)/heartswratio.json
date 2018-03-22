@@ -1,6 +1,6 @@
 {
   "id": "heartswratio",
-  "display_name": "Ratio of heart rate between sleep and wake",
+  "display_name": "Ratio of heart rate (HR) between sleep and wake",
   "description": "",
   "type": "numeric",
   "units":""

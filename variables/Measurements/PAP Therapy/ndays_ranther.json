@@ -1,6 +1,6 @@
 {
   "id": "ndays_ranther",
-  "display_name": "Positive Airway Pressure Compliance: Number of days from the randomization date to the beginning of therapy",
+  "display_name": "Positive airway pressure compliance: Number of days from the randomization date to the beginning of therapy",
   "description": "",
   "type": "numeric",
   "units": "days"

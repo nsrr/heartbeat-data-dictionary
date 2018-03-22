@@ -1,6 +1,6 @@
 {
   "id": "maxevent",
-  "display_name": "Apnea/Hypopnea: Total Longest duration",
+  "display_name": "Apnea/hypopnea: Total longest duration",
   "description": "",
   "type": "numeric",
   "units": "seconds (s)",

@@ -1,9 +1,9 @@
 {
   "id": "wewuhr",
-  "display_name": "Wake Up Weekends (hour)",
+  "display_name": "Wake up weekends",
   "description": "",
   "type": "numeric",
-  "unit":"",
+  "unit":"hours (hr)",
   "forms": [
     "heartbeat_baseline_health_questionnaire_form",
     "heartbeat_final_health_questionnaire_form"

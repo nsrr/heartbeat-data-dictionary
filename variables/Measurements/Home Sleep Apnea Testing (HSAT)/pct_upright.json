@@ -1,6 +1,6 @@
 {
   "id": "pct_upright",
-  "display_name": "Upright Time",
+  "display_name": "Upright time",
   "description": "",
   "type": "numeric",
   "units": "percent (%)",

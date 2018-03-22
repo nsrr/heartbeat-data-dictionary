@@ -1,6 +1,6 @@
 {
   "id": "papnea",
-  "display_name": "Apnea/Hypopnea:Apnea %",
+  "display_name": "Apnea/hypopnea: Apnea %",
   "description": "",
   "type": "numeric",
   "units": "percent (%)",

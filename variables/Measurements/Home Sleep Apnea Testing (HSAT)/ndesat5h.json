@@ -1,6 +1,6 @@
 {
   "id": "ndesat5h",
-  "display_name": "Desaturation Fall: less than 5% oximetry desaturations per hour",
+  "display_name": "Desaturation fall: less than 5% oximetry desaturations per hour",
   "description": "",
   "type": "numeric",
   "units": "desaturations per hour",

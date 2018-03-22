@@ -1,6 +1,6 @@
 {
   "id": "diawakesd",
-  "display_name": "Standard Deviation of Diastolic Pressure (wake)",
+  "display_name": "Standard deviation of diastolic blood pressure (DBP) (wake)",
   "description": "",
   "type": "numeric",
   "units": "millimeters of mercury (mmHg)"

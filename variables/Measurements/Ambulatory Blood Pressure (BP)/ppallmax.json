@@ -1,6 +1,6 @@
 {
   "id": "ppallmax",
-  "display_name": "Maximum Mean Pulse Pressure (all readings)",
+  "display_name": "Maximum mean pulse pressure (all readings)",
   "description": "",
   "type": "numeric",
   "units": "millimeters of mercury (mmHg)"

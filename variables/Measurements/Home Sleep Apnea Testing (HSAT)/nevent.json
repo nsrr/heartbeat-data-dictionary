@@ -1,6 +1,6 @@
 {
   "id": "nevent",
-  "display_name": "Apnea/Hypopnea: Total Number",
+  "display_name": "Apnea/hypopnea: Total number",
   "description": "",
   "type": "numeric",
   "units": "events",

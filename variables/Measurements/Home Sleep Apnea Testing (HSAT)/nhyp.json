@@ -1,6 +1,6 @@
 {
   "id": "nhyp",
-  "display_name": "Apnea/Hypopnea: Hypopnea Number",
+  "display_name": "Apnea/hypopnea: Hypopnea number",
   "description": "",
   "type": "numeric",
   "units": "events",

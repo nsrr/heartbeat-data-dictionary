@@ -1,6 +1,6 @@
 {
   "id": "actrunningdays",
-  "display_name": "Running (days per week)",
+  "display_name": "Running",
   "description": "",
   "type": "numeric",
   "units": "days per week",

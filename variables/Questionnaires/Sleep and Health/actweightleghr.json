@@ -1,6 +1,6 @@
 {
   "id": "actweightleghr",
-  "display_name": "Weight training-legs (hours)",
+  "display_name": "Weight training-legs",
   "description": "",
   "type": "numeric",
   "units": "hours (hr)",

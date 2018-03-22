@@ -1,6 +1,6 @@
 {
   "id": "duroa",
-  "display_name": "Apnea/Hypopnea: Obstructive Mean duration",
+  "display_name": "Apnea/hypopnea: Obstructive mean duration",
   "description": "",
   "type": "numeric",
   "units": "seconds (s)",

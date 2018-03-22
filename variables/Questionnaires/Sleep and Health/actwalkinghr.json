@@ -1,6 +1,6 @@
 {
   "id": "actwalkinghr",
-  "display_name": "Walking for exercise (hours)",
+  "display_name": "Walking for exercise",
   "description": "",
   "type": "numeric",
   "units": "hours (hr)",

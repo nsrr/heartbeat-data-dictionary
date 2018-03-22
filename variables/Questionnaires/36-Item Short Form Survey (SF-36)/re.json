@@ -1,6 +1,6 @@
 {
   "id": "re",
-  "display_name": "Role Emotional Scale (transformed 0-100)",
+  "display_name": "Role emotional scale (transformed 0 - 100)",
   "description": "",
   "type": "numeric",
   "unit":""

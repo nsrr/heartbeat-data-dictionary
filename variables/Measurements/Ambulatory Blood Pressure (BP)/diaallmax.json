@@ -1,6 +1,6 @@
 {
   "id": "diaallmax",
-  "display_name": "Maximum Diastolic Pressure (all readings)",
+  "display_name": "Maximum diastolic blood pressure (DBP) (all readings)",
   "description": "",
   "type": "numeric",
   "units": "millimeters of mercury (mmHg)"

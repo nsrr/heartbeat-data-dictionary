@@ -1,6 +1,6 @@
 {
   "id": "oa60s",
-  "display_name": "Apnea-Desaturation Relation: 61-70% Obstructive",
+  "display_name": "Apnea-desaturation relation: 61 - 70% obstructive",
   "description": "",
   "type": "numeric",
   "units": "obstructive apnea events",

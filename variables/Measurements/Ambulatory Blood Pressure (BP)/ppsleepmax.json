@@ -1,6 +1,6 @@
 {
   "id": "ppsleepmax",
-  "display_name": "Maximum Pulse Pressure (asleep)",
+  "display_name": "Maximum pulse pressure (asleep)",
   "description": "",
   "type": "numeric",
   "units": "millimeters of mercury (mmHg)"

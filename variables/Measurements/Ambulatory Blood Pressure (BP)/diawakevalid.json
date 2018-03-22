@@ -1,6 +1,6 @@
 {
   "id": "diawakevalid",
-  "display_name": "Mean of diastolic readings with valid wake",
+  "display_name": "Mean of diastolic blood pressure (DBP) readings with valid wake",
   "description": "",
   "type": "numeric",
   "units": "millimeters of mercury (mmHg)"

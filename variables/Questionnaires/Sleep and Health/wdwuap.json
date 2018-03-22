@@ -1,6 +1,6 @@
 {
   "id": "wdwuap",
-  "display_name": "Wake Up Weekdays (am/pm)",
+  "display_name": "Wake up weekdays",
   "description": "",
   "type": "choices",
   "domain": "ampm",

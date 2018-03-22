@@ -1,6 +1,6 @@
 {
   "id": "pca",
-  "display_name": "Apnea/Hypopnea: Central %",
+  "display_name": "Apnea/hypopnea: Central %",
   "description": "",
   "type": "numeric",
   "units": "percent (%)",

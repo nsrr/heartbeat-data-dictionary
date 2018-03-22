@@ -1,6 +1,6 @@
 {
   "id": "dxliver",
-  "display_name": "Diagnosed: Liver Disease",
+  "display_name": "Diagnosed: Liver disease",
   "description": "",
   "type": "choices",
   "domain": "noyes",

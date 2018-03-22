@@ -1,6 +1,6 @@
 {
   "id": "des70s",
-  "display_name": "SpO2 Range/Position: 70-79% Supine",
+  "display_name": "SpO2 range/position: 70 - 79% supine",
   "description": "",
   "type": "numeric",
   "units": "minutes (min)",

@@ -1,6 +1,6 @@
 {
   "id": "hasther",
-  "display_name": "Positive Airway Pressure Compliance: Has any therapy data?",
+  "display_name": "Positive airway pressure compliance: Has any therapy data?",
   "description": "",
   "type": "choices",
   "domain": "yesno"

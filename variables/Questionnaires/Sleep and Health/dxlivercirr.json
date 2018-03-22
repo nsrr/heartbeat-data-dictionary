@@ -1,6 +1,6 @@
 {
   "id": "dxlivercirr",
-  "display_name": "Diagnosed: Liver Disease, If yes: Cirrhosis",
+  "display_name": "Diagnosed: Liver disease, If yes: cirrhosis",
   "description": "",
   "type": "choices",
   "domain": "noyes",

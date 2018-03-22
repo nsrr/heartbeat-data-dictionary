@@ -1,6 +1,6 @@
 {
   "id": "qrsother",
-  "display_name": "QRS Conduction Block: Other",
+  "display_name": "QRS conduction block: Other",
   "description": "",
   "type": "choices",
   "domain": "check01",

@@ -1,6 +1,6 @@
 {
   "id": "maxmi",
-  "display_name": "Apnea/Hypopnea: Mixed Longest duration",
+  "display_name": "Apnea/hypopnea: Mixed longest duration",
   "description": "",
   "type": "numeric",
   "units": "seconds (s)",

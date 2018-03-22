@@ -1,6 +1,6 @@
 {
   "id": "hyplt50",
-  "display_name": "Apnea-Desaturation Relation: Less than or equal to 50% hypopneas",
+  "display_name": "Apnea-desaturation relation: Less than or equal to 50% hypopneas",
   "description": "",
   "type": "numeric",
   "units":"",

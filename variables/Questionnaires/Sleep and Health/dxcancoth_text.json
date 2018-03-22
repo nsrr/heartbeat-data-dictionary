@@ -1,6 +1,6 @@
 {
   "id": "dxcancoth_text",
-  "display_name": "Diagnosed: Cancer, if yes: Other",
+  "display_name": "Diagnosed: Cancer, if yes: other",
   "description": "",
   "type": "string",
   "forms": [

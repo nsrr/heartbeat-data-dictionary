@@ -1,6 +1,6 @@
 {
   "id": "diasleepsd",
-  "display_name": "Standard Deviation of Diastolic Pressure (asleep)",
+  "display_name": "Standard deviation of diastolic blood pressure (DBP) (asleep)",
   "description": "",
   "type": "numeric",
   "units": "millimeters of mercury (mmHg)"

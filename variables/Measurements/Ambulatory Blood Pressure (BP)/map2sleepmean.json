@@ -1,6 +1,6 @@
 {
   "id": "map2sleepmean",
-  "display_name": "Average Mean Arterial Pressure (MAP) (asleep)",
+  "display_name": "Average mean arterial pressure (MAP) (asleep)",
   "description": "",
   "type": "numeric",
   "units": "millimeters of mercury (mmHg)"

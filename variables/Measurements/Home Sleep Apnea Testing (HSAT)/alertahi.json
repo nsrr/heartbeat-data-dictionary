@@ -1,6 +1,6 @@
 {
   "id": "alertahi",
-  "display_name": "Alert Apnea-Hypopnea Index (AHI) > 50",
+  "display_name": "Alert apnea-hypopnea index (AHI) > 50",
   "description": "",
   "type": "choices",
   "domain": "check01",

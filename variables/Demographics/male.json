@@ -5,7 +5,7 @@
   "type": "choices",
   "domain": "sex",
   "labels": [
-    "gender"
+    "sex"
   ],
   "commonly_used": true
 }

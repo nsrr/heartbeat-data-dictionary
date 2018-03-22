@@ -1,6 +1,6 @@
 {
   "id": "therresahi",
-  "display_name": "Positive Airway Pressure Compliance: Residual Apnea-Hypopnea Index (AHI) on therapy",
+  "display_name": "Positive airway pressure compliance: Residual apnea-hypopnea index (AHI) on therapy",
   "description": "",
   "type": "numeric",
   "units": ""

@@ -1,6 +1,6 @@
 {
   "id": "phyp",
-  "display_name": "Apnea/Hypopnea: Hypopnea %",
+  "display_name": "Apnea/hypopnea: Hypopnea %",
   "description": "",
   "type": "numeric",
   "units": "percent (%)",

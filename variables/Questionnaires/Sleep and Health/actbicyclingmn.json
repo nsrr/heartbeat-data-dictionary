@@ -1,6 +1,6 @@
 {
   "id": "actbicyclingmn",
-  "display_name": "Bicycling (minutes)",
+  "display_name": "Bicycling",
   "description": "",
   "type": "numeric",
   "units": "minutes (min)",

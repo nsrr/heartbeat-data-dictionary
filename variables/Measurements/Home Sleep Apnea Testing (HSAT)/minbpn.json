@@ -1,6 +1,6 @@
 {
   "id": "minbpn",
-  "display_name": "Pulse: Non-Supine Minimum",
+  "display_name": "Pulse: Non-supine minimum",
   "description": "",
   "type": "numeric",
   "units": "beats per minute (bpm)",

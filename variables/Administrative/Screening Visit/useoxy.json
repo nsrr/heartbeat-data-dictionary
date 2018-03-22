@@ -1,6 +1,6 @@
 {
   "id": "useoxy",
-  "display_name": "Do you use oxygen, Continous Positive Airway Pressure (CPAP), or BiLevel Positive Airway Pressure (BiPAP)",
+  "display_name": "Do you use oxygen, continous positive airway pressure (CPAP), or biLevel positive airway pressure (BiPAP)",
   "description": "",
   "type": "choices",
   "domain": "noyes",

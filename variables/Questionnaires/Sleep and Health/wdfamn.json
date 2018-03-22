@@ -1,9 +1,9 @@
 {
   "id": "wdfamn",
-  "display_name": "Fall Asleep Weekdays (minute)",
+  "display_name": "Fall asleep weekdays",
   "description": "",
   "type": "numeric",
-  "unit":"",
+  "unit":"minutes (min)",
   "labels": [
     "bedtime"
   ],

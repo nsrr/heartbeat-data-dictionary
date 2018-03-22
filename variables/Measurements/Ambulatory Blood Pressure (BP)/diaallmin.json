@@ -1,6 +1,6 @@
 {
   "id": "diaallmin",
-  "display_name": "Minimum Diastolic Pressure (all readings)",
+  "display_name": "Minimum diastolic blood pressure (DBP) (all readings)",
   "description": "",
   "type": "numeric",
   "units": "millimeters of mercury (mmHg)"

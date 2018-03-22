@@ -1,6 +1,6 @@
 {
   "id": "dxsclerosis",
-  "display_name": "Diagnosed: Multiple Sclerosis (MS)",
+  "display_name": "Diagnosed: Multiple sclerosis (MS)",
   "description": "",
   "type": "choices",
   "domain": "noyes",

@@ -1,6 +1,6 @@
 {
   "id": "aphyp",
-  "display_name": "Total number of Apneas and Hypopneas",
+  "display_name": "Total number of apneas and hypopneas",
   "description": "",
   "type": "numeric",
   "units":"",

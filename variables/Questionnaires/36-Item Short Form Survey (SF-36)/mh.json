@@ -1,6 +1,6 @@
 {
   "id": "mh",
-  "display_name": "Mental Health Scale (transformed 0-100)",
+  "display_name": "Mental health scale (transformed 0-100)",
   "description": "",
   "type": "numeric",
   "unit":""

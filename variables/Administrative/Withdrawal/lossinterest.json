@@ -1,6 +1,6 @@
 {
   "id": "lossinterest",
-  "display_name": "Withdrawal Reason: Loss of interest in the study",
+  "display_name": "Withdrawal reason: Loss of interest in the study",
   "description": "",
   "type": "choices",
   "domain": "check01",

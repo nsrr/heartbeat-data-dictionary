@@ -1,6 +1,6 @@
 {
   "id": "dxstroke",
-  "display_name": "Diagnosed: Stroke ((CVA) Cerebrovascular accident)",
+  "display_name": "Diagnosed: Stroke ((CVA) cerebrovascular accident)",
   "description": "",
   "type": "choices",
   "domain": "noyes",

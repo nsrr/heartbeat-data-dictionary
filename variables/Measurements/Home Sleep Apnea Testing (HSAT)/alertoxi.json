@@ -1,7 +1,7 @@
 {
   "id": "alertoxi",
-  "display_name": "Alert Oximetry",
-  "description": "O2 saturation <85% for >10% of total sleep time.",
+  "display_name": "Alert oximetry",
+  "description": "O2 saturation < 85% for > 10% of total sleep time.",
   "type": "choices",
   "domain": "check01",
   "labels": [

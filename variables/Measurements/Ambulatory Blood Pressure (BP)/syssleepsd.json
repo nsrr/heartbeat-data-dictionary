@@ -1,6 +1,6 @@
 {
   "id": "syssleepsd",
-  "display_name": "Standard Deviation of Systolic Pressure (asleep)",
+  "display_name": "Standard deviation of systolic blood pressure (SBP) (asleep)",
   "description": "",
   "type": "numeric",
   "units": "millimeters of mercury (mmHg)"

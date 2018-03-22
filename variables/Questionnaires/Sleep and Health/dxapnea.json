@@ -1,6 +1,6 @@
 {
   "id": "dxapnea",
-  "display_name": "Diagnosed: Sleep Apnea",
+  "display_name": "Diagnosed: Sleep apnea",
   "description": "",
   "type": "choices",
   "domain": "noyes",

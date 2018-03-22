@@ -1,6 +1,6 @@
 {
   "id": "nhyps",
-  "display_name": "Apnea/Hypopnea: Hypopnea Supine",
+  "display_name": "Apnea/hypopnea: Hypopnea supine",
   "description": "",
   "type": "numeric",
   "units": "events",

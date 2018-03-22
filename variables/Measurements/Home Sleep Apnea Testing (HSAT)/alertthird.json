@@ -1,6 +1,6 @@
 {
   "id": "alertthird",
-  "display_name": "Alert Third Degree Atrioventricular (AV) block",
+  "display_name": "Alert third degree atrioventricular (AV) block",
   "description": "",
   "type": "choices",
   "domain": "check01",

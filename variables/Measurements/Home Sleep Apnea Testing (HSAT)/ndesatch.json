@@ -1,6 +1,6 @@
 {
   "id": "ndesatch",
-  "display_name": "Desaturation Fall: Total Cumulative Oximetery Desaturations per hour",
+  "display_name": "Desaturation fall: Total cumulative oximetery desaturations per hour",
   "description": "",
   "type": "numeric",
   "units":"",

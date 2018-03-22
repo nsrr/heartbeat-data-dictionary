@@ -1,6 +1,6 @@
 {
   "id": "avgbps",
-  "display_name": "Mean Pulse Rate in Supine",
+  "display_name": "Mean pulse rate in supine",
   "description": "",
   "type": "numeric",
   "units": "beats per minute (bpm)",

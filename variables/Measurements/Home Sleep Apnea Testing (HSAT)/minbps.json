@@ -1,6 +1,6 @@
 {
   "id": "minbps",
-  "display_name": "Pulse: Supine Minimum",
+  "display_name": "Pulse: Supine minimum",
   "description": "",
   "type": "numeric",
   "units": "beats per minute (bpm)",

@@ -1,6 +1,6 @@
 {
   "id": "pct_nsupine",
-  "display_name": "Non-Supine Time",
+  "display_name": "Non-supine time",
   "description": "",
   "type": "numeric",
   "units": "percent (%)",

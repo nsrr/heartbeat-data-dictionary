@@ -1,6 +1,6 @@
 {
   "id": "actweightlegdays",
-  "display_name": "Weight training-legs (days per week)",
+  "display_name": "Weight training-legs",
   "description": "",
   "type": "numeric",
   "units": "days per week",

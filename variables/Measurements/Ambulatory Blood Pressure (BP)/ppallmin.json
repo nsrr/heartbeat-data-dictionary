@@ -1,6 +1,6 @@
 {
   "id": "ppallmin",
-  "display_name": "Minimum Mean Pulse Pressure (all readings)",
+  "display_name": "Minimum mean pulse pressure (all readings)",
   "description": "",
   "type": "numeric",
   "units": "millimeters of mercury (mmHg)"

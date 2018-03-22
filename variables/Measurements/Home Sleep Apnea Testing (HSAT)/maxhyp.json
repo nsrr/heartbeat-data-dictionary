@@ -1,6 +1,6 @@
 {
   "id": "maxhyp",
-  "display_name": "Apnea/Hypopnea: Hypopnea Longest duration",
+  "display_name": "Apnea/hypopnea: Hypopnea longest duration",
   "description": "",
   "type": "numeric",
   "units": "seconds (s)",

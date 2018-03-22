@@ -1,6 +1,6 @@
 {
   "id": "poa",
-  "display_name": "Apnea/Hypopnea: Obstructive %",
+  "display_name": "Apnea/hypopnea: Obstructive %",
   "description": "",
   "type": "numeric",
   "units": "percent (%)",

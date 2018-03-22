@@ -1,6 +1,6 @@
 {
   "id": "malt50",
-  "display_name": "Apnea-Desaturation Relation: Greater than  50% Mixed Apnea",
+  "display_name": "Apnea-desaturation relation: Greater than  50% mixed apnea",
   "description": "",
   "type": "numeric",
   "units":"",

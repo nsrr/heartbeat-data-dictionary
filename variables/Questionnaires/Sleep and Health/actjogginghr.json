@@ -1,6 +1,6 @@
 {
   "id": "actjogginghr",
-  "display_name": "Jogging (hours)",
+  "display_name": "Jogging",
   "description": "",
   "type": "numeric",
   "units": "hours (hr)",

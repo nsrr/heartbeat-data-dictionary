@@ -1,6 +1,6 @@
 {
   "id": "ndesat",
-  "display_name": "Oxygen Desaturation Events",
+  "display_name": "Oxygen desaturation events",
   "description": "",
   "type": "numeric",
   "units": "events",

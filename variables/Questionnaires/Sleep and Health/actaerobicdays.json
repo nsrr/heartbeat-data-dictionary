@@ -1,6 +1,6 @@
 {
   "id": "actaerobicdays",
-  "display_name": "Other aerobic exercise (days per week)",
+  "display_name": "Other aerobic exercise",
   "description": "",
   "type": "numeric",
   "units": "days per week",

@@ -1,6 +1,6 @@
 {
   "id": "napneaa",
-  "display_name": "Apnea/Hypopnea: Apnea Apnea or Hypopnea per hour",
+  "display_name": "Apnea/hypopnea: Apnea or hypopnea per hour",
   "description": "",
   "type": "numeric",
   "labels": [

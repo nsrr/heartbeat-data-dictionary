@@ -1,6 +1,6 @@
 {
   "id": "diaswratio",
-  "display_name": "Ratio of diastolic between sleep and wake",
+  "display_name": "Ratio of diastolic blood pressure (DBP) between sleep and wake",
   "description": "",
   "type": "numeric",
   "units": ""

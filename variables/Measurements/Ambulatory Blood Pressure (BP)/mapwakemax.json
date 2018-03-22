@@ -1,6 +1,6 @@
 {
   "id": "mapwakemax",
-  "display_name": "Maximum Mean Arterial Pressure (MAP) (wake)",
+  "display_name": "Maximum mean arterial pressure (MAP) (wake)",
   "description": "",
   "type": "numeric",
   "units": "millimeters of mercury (mmHg)"

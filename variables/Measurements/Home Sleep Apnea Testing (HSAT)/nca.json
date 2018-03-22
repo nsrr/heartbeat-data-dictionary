@@ -1,6 +1,6 @@
 {
   "id": "nca",
-  "display_name": "Apnea/Hypopnea: Central Number",
+  "display_name": "Apnea/hypopnea: Central number",
   "description": "",
   "type": "numeric",
   "units":"",

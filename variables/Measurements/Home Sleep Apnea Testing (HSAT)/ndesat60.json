@@ -1,6 +1,6 @@
 {
   "id": "ndesat60",
-  "display_name": "Desaturation Low Point: Number Less than 60%",
+  "display_name": "Desaturation low point: Number Less than 60%",
   "description": "",
   "type": "numeric",
   "units":"",

@@ -1,6 +1,6 @@
 {
   "id": "theravgusage",
-  "display_name": "Positive Airway Pressure Compliance: Average usage on therapy days",
+  "display_name": "Positive airway pressure compliance: Average usage on therapy days",
   "description": "",
   "type": "numeric",
   "units": "minutes (min)"

@@ -1,6 +1,6 @@
 {
   "id": "waistmean",
-  "display_name": "Waist Circumference Mean (2 Measurements)",
+  "display_name": "Waist circumference mean (2 measurements)",
   "description": "",
   "type": "numeric",
   "units": "centimeters (cm)",

@@ -1,6 +1,6 @@
 {
   "id": "apnea90s",
-  "display_name": "Apnea-Desaturation Relation: Greater than 90% Apnea",
+  "display_name": "Apnea-desaturation relation: Greater than 90% apnea",
   "description": "",
   "type": "numeric",
   "units": "events",

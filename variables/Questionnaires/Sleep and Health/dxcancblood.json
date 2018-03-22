@@ -1,6 +1,6 @@
 {
   "id": "dxcancblood",
-  "display_name": "Diagnosed: Cancer, if yes: Blood (leukemia, lymphoma, other)",
+  "display_name": "Diagnosed: Cancer, if yes: blood (leukemia, lymphoma, other)",
   "description": "",
   "type": "choices",
   "domain": "noyes",

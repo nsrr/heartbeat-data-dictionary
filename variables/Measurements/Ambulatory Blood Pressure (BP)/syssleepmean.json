@@ -1,6 +1,6 @@
 {
   "id": "syssleepmean",
-  "display_name": "Average Systolic Pressure (asleep)",
+  "display_name": "Average systolic blood pressure (SBP) (asleep)",
   "description": "",
   "type": "numeric",
   "units": "millimeters of mercury (mmHg)"

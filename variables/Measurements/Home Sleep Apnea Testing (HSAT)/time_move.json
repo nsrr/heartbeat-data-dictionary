@@ -1,6 +1,6 @@
 {
   "id": "time_move",
-  "display_name": "Movement Time",
+  "display_name": "Movement time",
   "description": "",
   "type": "numeric",
   "units": "minutes (min)",

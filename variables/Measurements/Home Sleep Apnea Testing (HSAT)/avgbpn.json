@@ -1,6 +1,6 @@
 {
   "id": "avgbpn",
-  "display_name": "Mean Pulse Rate in Non-Supine",
+  "display_name": "Mean pulse rate in non-supine",
   "description": "",
   "type": "numeric",
   "units": "beats per minute (bpm)",

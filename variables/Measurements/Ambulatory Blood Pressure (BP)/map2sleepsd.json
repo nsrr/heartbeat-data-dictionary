@@ -1,6 +1,6 @@
 {
   "id": "map2sleepsd",
-  "display_name": "Standard Deviation of Mean Arterial Pressure (MAP) (asleep)",
+  "display_name": "Standard deviation of mean arterial pressure (MAP) (asleep)",
   "description": "",
   "type": "numeric",
   "units": "millimeters of mercury (mmHg)"

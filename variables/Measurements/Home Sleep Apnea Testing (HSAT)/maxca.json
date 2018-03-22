@@ -1,6 +1,6 @@
 {
   "id": "maxca",
-  "display_name": "Apnea/Hypopnea: Central Longest duration",
+  "display_name": "Apnea/hypopnea: Central longest duration",
   "description": "",
   "type": "numeric",
   "units": "seconds (s)",

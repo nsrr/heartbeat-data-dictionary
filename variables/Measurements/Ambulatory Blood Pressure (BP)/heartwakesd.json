@@ -1,6 +1,6 @@
 {
   "id": "heartwakesd",
-  "display_name": "Standard Deviation of Heart Rate (wake)",
+  "display_name": "Standard deviation of heart rate (HR) (wake)",
   "description": "",
   "type": "numeric",
   "units": "beats per minute (bpm)"

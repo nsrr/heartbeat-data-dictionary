@@ -1,6 +1,6 @@
 {
   "id": "syswakevalid",
-  "display_name": "Mean of systolic readings with valid wake",
+  "display_name": "Mean of systolic blood pressure (SBP) readings with valid wake",
   "description": "",
   "type": "numeric",
   "units": "millimeters of mercury (mmHg)"

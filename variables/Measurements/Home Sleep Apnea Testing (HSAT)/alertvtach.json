@@ -1,7 +1,7 @@
 {
   "id": "alertvtach",
-  "display_name": "Alert Ventricular Tachycardia",
-  "description": "Non-sustained Ventricular Tachycardia (3 beats duration at rate > 120)",
+  "display_name": "Alert ventricular tachycardia",
+  "description": "Non-sustained ventricular tachycardia (3 beats duration at rate > 120)",
   "type": "choices",
   "domain": "check01",
   "labels": [

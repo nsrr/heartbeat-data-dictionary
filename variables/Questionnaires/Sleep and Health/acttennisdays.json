@@ -1,6 +1,6 @@
 {
   "id": "acttennisdays",
-  "display_name": "Tennis, squash, racquetball (days per week)",
+  "display_name": "Tennis, squash, racquetball",
   "description": "",
   "type": "numeric",
   "units": "days per week",

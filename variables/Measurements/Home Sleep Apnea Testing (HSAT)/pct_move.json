@@ -1,6 +1,6 @@
 {
   "id": "pct_move",
-  "display_name": "Movement Time",
+  "display_name": "Movement time",
   "description": "",
   "type": "numeric",
   "units": "percent (%)",

@@ -1,6 +1,6 @@
 {
   "id": "des80uc",
-  "display_name": "SpO2 Range/Position: 80-89% Cumulative Upright",
+  "display_name": "SpO2 range/position: 80 - 89% cumulative upright",
   "description": "",
   "type": "numeric",
   "units": "minutes (min)",

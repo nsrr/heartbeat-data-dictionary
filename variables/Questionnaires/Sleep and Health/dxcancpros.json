@@ -1,6 +1,6 @@
 {
   "id": "dxcancpros",
-  "display_name": "Diagnosed: Cancer, if yes: Prostate",
+  "display_name": "Diagnosed: Cancer, if yes: prostate",
   "description": "",
   "type": "choices",
   "domain": "noyes",

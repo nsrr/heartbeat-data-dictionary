@@ -1,6 +1,6 @@
 {
   "id": "sysallmean",
-  "display_name": "Average Systolic Pressure (all readings)",
+  "display_name": "Average systolic blood pressure (SBP) (all readings)",
   "description": "",
   "type": "numeric",
   "units": "millimeters of mercury (mmHg)",

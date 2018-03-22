@@ -1,6 +1,6 @@
 {
   "id": "dxliveroth",
-  "display_name": "Diagnosed: Liver Disease, If yes: Other",
+  "display_name": "Diagnosed: Liver disease, If yes: other",
   "description": "",
   "type": "choices",
   "domain": "noyes",

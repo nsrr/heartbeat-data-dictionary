@@ -1,6 +1,6 @@
 {
   "id": "printerval",
-  "display_name": "PR Interval",
+  "display_name": "PR interval",
   "description": "Duration from the beginning of the P-wave to the beginning of the QRS complex",
   "type": "numeric",
   "units": "milliseconds (ms)",

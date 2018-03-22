@@ -1,6 +1,6 @@
 {
   "id": "durca",
-  "display_name": "Apnea/Hypopnea: Central Mean duration",
+  "display_name": "Apnea/hypopnea: Central mean duration",
   "description": "",
   "type": "numeric",
   "units": "seconds (s)",

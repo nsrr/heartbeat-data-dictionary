@@ -1,6 +1,6 @@
 {
   "id": "durapnea",
-  "display_name": "Apnea/Hypopnea: Apnea Mean duration",
+  "display_name": "Apnea/hypopnea: Apnea mean duration",
   "description": "",
   "type": "numeric",
   "units": "seconds (s)",

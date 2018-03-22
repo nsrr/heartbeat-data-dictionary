@@ -1,6 +1,6 @@
 {
   "id": "exclahi15",
-  "display_name": "Exclusion Apnea-Hypopnea Index (AHI) < 15",
+  "display_name": "Exclusion apnea-hypopnea index (AHI) < 15",
   "description": "",
   "type": "choices",
   "domain": "check01",

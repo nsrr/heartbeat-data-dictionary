@@ -1,6 +1,6 @@
 {
   "id": "ndesatcgt20h",
-  "display_name": "Desaturation Fall: greater than 20% Cumulative oximetry desaturations per hour",
+  "display_name": "Desaturation fall: Greater than 20% cumulative oximetry desaturations per hour",
   "description": "",
   "type": "numeric",
   "units": "desaturations per hour",

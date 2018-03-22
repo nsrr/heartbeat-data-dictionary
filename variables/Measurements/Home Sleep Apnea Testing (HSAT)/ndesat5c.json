@@ -1,6 +1,6 @@
 {
   "id": "ndesat5c",
-  "display_name": "Desaturation Fall: Less than 5% Cumulative Number",
+  "display_name": "Desaturation fall: Less than 5% cumulative number",
   "description": "",
   "type": "numeric",
   "units":"",

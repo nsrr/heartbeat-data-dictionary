@@ -1,6 +1,6 @@
 {
   "id": "rolpnum",
-  "display_name": "Number of questions answered from the Role-Physical subscale",
+  "display_name": "Number of questions answered from the role-physical subscale",
   "description": "",
   "type": "numeric",
   "unit":""

@@ -1,6 +1,6 @@
 {
   "id": "satlt90m",
-  "display_name": "SpO2: Saturation Less than 90%",
+  "display_name": "SpO2: Saturation less than 90%",
   "description": "",
   "type": "numeric",
   "units": "minutes (min)",

@@ -1,6 +1,6 @@
 {
   "id": "mhmean",
-  "display_name": "Mean score of answered questions in the Mental Health subscale",
+  "display_name": "Mean score of answered questions in the mental health subscale",
   "description": "",
   "type": "numeric",
   "unit":""

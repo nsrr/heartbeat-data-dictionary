@@ -1,6 +1,6 @@
 {
   "id": "minday",
-  "display_name": "Oxygen Log: Minutes per day",
+  "display_name": "Oxygen log: Minutes per day",
   "description": "",
   "type": "integer",
   "units": "minutes per day",

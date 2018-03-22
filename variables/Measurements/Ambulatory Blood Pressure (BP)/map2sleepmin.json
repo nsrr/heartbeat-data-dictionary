@@ -1,6 +1,6 @@
 {
   "id": "map2sleepmin",
-  "display_name": "Minimum Mean Arterial Pressure (MAP) (asleep)",
+  "display_name": "Minimum mean arterial pressure (MAP) (asleep)",
   "description": "",
   "type": "numeric",
   "units": "millimeters of mercury (mmHg)"

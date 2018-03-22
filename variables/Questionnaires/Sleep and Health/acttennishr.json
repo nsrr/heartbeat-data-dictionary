@@ -1,6 +1,6 @@
 {
   "id": "acttennishr",
-  "display_name": "Tennis, squash, racquetball (hours)",
+  "display_name": "Tennis, squash, racquetball",
   "description": "",
   "type": "numeric",
   "units": "hours (hr)",

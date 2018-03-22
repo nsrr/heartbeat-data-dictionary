@@ -1,6 +1,6 @@
 {
   "id": "ghnum",
-  "display_name": "Number of questions answered in the General Health subscale",
+  "display_name": "Number of questions answered in the general health subscale",
   "description": "",
   "type": "numeric",
   "unit":""

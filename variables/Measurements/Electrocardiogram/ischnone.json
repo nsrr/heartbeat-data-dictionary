@@ -1,6 +1,6 @@
 {
   "id": "ischnone",
-  "display_name": "Ischemia Pattern: None",
+  "display_name": "Ischemia pattern: None",
   "description": "",
   "type": "choices",
   "domain": "check01",

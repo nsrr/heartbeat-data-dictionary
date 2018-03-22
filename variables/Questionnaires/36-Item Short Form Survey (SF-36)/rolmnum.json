@@ -1,6 +1,6 @@
 {
   "id": "rolmnum",
-  "display_name": "Number of questions answered in the Role-Emotional subscale",
+  "display_name": "Number of questions answered in the role-emotional subscale",
   "description": "",
   "type": "numeric",
   "unit":""

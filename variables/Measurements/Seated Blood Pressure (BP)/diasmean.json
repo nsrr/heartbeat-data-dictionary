@@ -1,6 +1,6 @@
 {
   "id": "diasmean",
-  "display_name": "Diastolic Blood Pressure (BP) Mean (3 Measurements)",
+  "display_name": "Diastolic blood pressure (DBP) mean (3 measurements)",
   "description": "",
   "type": "numeric",
   "units": "millimeters of mercury (mmHg)",

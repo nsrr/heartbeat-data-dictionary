@@ -1,6 +1,6 @@
 {
   "id": "mapwakemean",
-  "display_name": "Average Mean Arterial Pressure (MAP) (wake)",
+  "display_name": "Average mean arterial pressure (MAP) (wake)",
   "description": "",
   "type": "numeric",
   "units": "millimeters of mercury (mmHg)"

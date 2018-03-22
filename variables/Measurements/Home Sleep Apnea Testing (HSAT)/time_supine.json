@@ -1,6 +1,6 @@
 {
   "id": "time_supine",
-  "display_name": "Supine Time",
+  "display_name": "Supine time",
   "description": "",
   "type": "numeric",
   "units": "minutes (min)",

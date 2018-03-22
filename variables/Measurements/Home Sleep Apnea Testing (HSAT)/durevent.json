@@ -1,6 +1,6 @@
 {
   "id": "durevent",
-  "display_name": "Apnea/Hypopnea: Total Mean duration",
+  "display_name": "Apnea/hypopnea: Total mean duration",
   "description": "",
   "type": "numeric",
   "units": "seconds (s)",

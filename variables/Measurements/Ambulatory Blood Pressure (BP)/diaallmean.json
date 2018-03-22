@@ -1,6 +1,6 @@
 {
   "id": "diaallmean",
-  "display_name": "Average Diastolic Pressure (all readings)",
+  "display_name": "Average diastolic blood pressure (DBP) (all readings)",
   "description": "",
   "type": "numeric",
   "units": "millimeters of mercury (mmHg)",

@@ -1,6 +1,6 @@
 {
   "id": "relocation",
-  "display_name": "Withdrawal Reason: Relocation",
+  "display_name": "Withdrawal reason: Relocation",
   "description": "",
   "type": "choices",
   "domain": "check01",

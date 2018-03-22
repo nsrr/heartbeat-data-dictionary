@@ -1,6 +1,6 @@
 {
   "id": "maxoa",
-  "display_name": "Apnea/Hypopnea: Obstructive Longest duration",
+  "display_name": "Apnea/hypopnea: Obstructive longest duration",
   "description": "",
   "type": "numeric",
   "units": "seconds (s)",

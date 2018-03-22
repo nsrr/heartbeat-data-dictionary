@@ -1,6 +1,6 @@
 {
   "id": "sleepmin",
-  "display_name": "Total Study Time Asleep",
+  "display_name": "Total study time asleep",
   "description": "",
   "type": "integer",
   "units": "minutes (min)"

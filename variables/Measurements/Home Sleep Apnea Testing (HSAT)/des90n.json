@@ -1,6 +1,6 @@
 {
   "id": "des90n",
-  "display_name": "SpO2 Range/Position: 90-94% Non-Supine",
+  "display_name": "SpO2 range/position: 90 - 94% non-supine",
   "description": "",
   "type": "numeric",
   "units": "minutes (min)",

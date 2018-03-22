@@ -1,6 +1,6 @@
 {
   "id": "sysmean",
-  "display_name": "Systolic Blood Pressure (BP) Mean (3 Measurements)",
+  "display_name": "Systolic blood pressure (SBP) mean (3 measurements)",
   "description": "",
   "type": "numeric",
   "units": "millimeters of mercury (mmHg)",

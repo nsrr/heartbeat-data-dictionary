@@ -1,6 +1,6 @@
 {
   "id": "ppsleepmin",
-  "display_name": "Minimum Pulse Pressure (asleep)",
+  "display_name": "Minimum pulse pressure (asleep)",
   "description": "",
   "type": "numeric",
   "units": "millimeters of mercury (mmHg)"

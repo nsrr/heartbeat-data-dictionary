@@ -1,6 +1,6 @@
 {
   "id": "totaluse",
-  "display_name": "Oxygen Log: Total hours of use",
+  "display_name": "Oxygen log: Total hours of use",
   "description": "",
   "type": "integer",
   "units": "hours (hr)"

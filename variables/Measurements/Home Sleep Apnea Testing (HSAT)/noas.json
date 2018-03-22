@@ -1,6 +1,6 @@
 {
   "id": "noas",
-  "display_name": "Apnea/Hypopnea: Obstructive Supine",
+  "display_name": "Apnea/hypopnea: Obstructive supine",
   "description": "",
   "type": "numeric",
   "units": "events",

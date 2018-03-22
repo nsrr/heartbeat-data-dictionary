@@ -1,6 +1,6 @@
 {
   "id": "actotherdays",
-  "display_name": "Other exercise (days per week)",
+  "display_name": "Other exercise",
   "description": "",
   "type": "numeric",
   "units": "days per week",

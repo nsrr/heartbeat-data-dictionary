@@ -1,6 +1,6 @@
 {
   "id": "embq_endtime",
-  "display_name": "End Time",
+  "display_name": "End time",
   "description": "",
   "type": "time",
   "labels": [

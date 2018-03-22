@@ -1,6 +1,6 @@
 {
   "id": "exclusion06",
-  "display_name": "Current or past oxygen or Continuous Positive Airway Pressure (CPAP) use",
+  "display_name": "Current or past oxygen or continuous positive airway pressure (CPAP) use",
   "description": "",
   "type": "choices",
   "domain": "noyes",

@@ -1,6 +1,6 @@
 {
   "id": "dxcancbreast",
-  "display_name": "Diagnosed: Cancer, if yes: Breast",
+  "display_name": "Diagnosed: Cancer, if yes: breast",
   "description": "",
   "type": "choices",
   "domain": "noyes",

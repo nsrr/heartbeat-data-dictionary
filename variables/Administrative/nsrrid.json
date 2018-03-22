@@ -1,6 +1,6 @@
 {
   "id": "nsrrid",
-  "display_name": "NSRR Subject Identifier",
+  "display_name": "NSRR subject identifier",
   "description": "This obfuscated subject ID was created by the National Sleep Research Resource (NSRR) team to more easily match with file downloads.",
   "type": "identifier",
   "commonly_used": true

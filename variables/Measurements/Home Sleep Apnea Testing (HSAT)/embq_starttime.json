@@ -1,6 +1,6 @@
 {
   "id": "embq_starttime",
-  "display_name": "Start Time",
+  "display_name": "Start time",
   "description": "",
   "type": "time",
   "labels": [

@@ -1,6 +1,6 @@
 {
   "id": "actotherhr",
-  "display_name": "Other exercise (hours)",
+  "display_name": "Other exercise",
   "description": "",
   "type": "numeric",
   "units": "hours (hr)",

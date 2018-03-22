@@ -1,6 +1,6 @@
 {
   "id": "gh",
-  "display_name": "General Health Scale (transformed 0-100)",
+  "display_name": "General health scale (transformed 0-100)",
   "description": "",
   "type": "numeric",
   "unit":""

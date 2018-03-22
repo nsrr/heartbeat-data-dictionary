@@ -1,6 +1,6 @@
 {
   "id": "actothermn",
-  "display_name": "Other exercise (minutes)",
+  "display_name": "Other exercise",
   "description": "",
   "type": "numeric",
   "units": "minutes (min)",

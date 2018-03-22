@@ -1,6 +1,6 @@
 {
   "id": "dxliverhepa",
-  "display_name": "Diagnosed: Liver Disease, If yes: Hepatitis",
+  "display_name": "Diagnosed: Liver disease, If yes: hepatitis",
   "description": "",
   "type": "choices",
   "domain": "noyes",

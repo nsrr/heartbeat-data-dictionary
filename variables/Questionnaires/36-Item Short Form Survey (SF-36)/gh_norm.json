@@ -1,6 +1,6 @@
 {
   "id": "gh_norm",
-  "display_name": "General Health Perception Norm Score",
+  "display_name": "General health perception norm score",
   "description": "",
   "type": "numeric",
   "unit":""

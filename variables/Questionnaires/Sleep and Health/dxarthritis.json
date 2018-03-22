@@ -1,6 +1,6 @@
 {
   "id": "dxarthritis",
-  "display_name": "Diagnosed: Rheumatoid Arthritis, Lupus, or other Collagen Vascular Disease",
+  "display_name": "Diagnosed: Rheumatoid arthritis, lupus, or other collagen vascular disease",
   "description": "",
   "type": "choices",
   "domain": "noyes",

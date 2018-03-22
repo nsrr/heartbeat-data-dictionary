@@ -1,6 +1,6 @@
 {
   "id": "ndesat20c",
-  "display_name": "Desaturation Fall: 10-20% Cumulative Number",
+  "display_name": "Desaturation fall: 10 - 20% cumulative number",
   "description": "",
   "type": "numeric",
   "units":"",

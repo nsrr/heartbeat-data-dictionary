@@ -1,6 +1,6 @@
 {
   "id": "actswimmingdays",
-  "display_name": "Swimming (days per week)",
+  "display_name": "Swimming",
   "description": "",
   "type": "numeric",
   "units": "days per week",

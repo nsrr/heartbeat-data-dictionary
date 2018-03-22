@@ -1,6 +1,6 @@
 {
   "id": "dxrestlesslegs",
-  "display_name": "Diagnosed: Restless Legs or Periodic Leg Movements",
+  "display_name": "Diagnosed: Restless legs or periodic leg movements",
   "description": "",
   "type": "choices",
   "domain": "noyes",

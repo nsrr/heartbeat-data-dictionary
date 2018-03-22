@@ -1,6 +1,6 @@
 {
   "id": "ghmean",
-  "display_name": "Mean score of the General Health subscale",
+  "display_name": "Mean score of the general health subscale",
   "description": "",
   "type": "numeric",
   "unit":""

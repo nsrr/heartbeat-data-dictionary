@@ -1,6 +1,6 @@
 {
   "id": "neventa",
-  "display_name": "Apnea/Hypopnea: Total Apnea or Hypopnea per hour",
+  "display_name": "Apnea/hypopnea: Total apnea or hypopnea per hour",
   "description": "",
   "type": "numeric",
   "units": "events per hour",

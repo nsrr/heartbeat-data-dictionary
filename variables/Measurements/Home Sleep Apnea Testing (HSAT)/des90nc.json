@@ -1,6 +1,6 @@
 {
   "id": "des90nc",
-  "display_name": "SpO2 Range/Position: 90-94% Cumulative Non-Supine",
+  "display_name": "SpO2 range/position: 90 - 94% cumulative non-supine",
   "description": "",
   "type": "numeric",
   "units": "minutes (min)",

@@ -1,6 +1,6 @@
 {
   "id": "noan",
-  "display_name": "Apnea/Hypopnea: Obstructive Non-Supine",
+  "display_name": "Apnea/hypopnea: Obstructive non-supine",
   "description": "",
   "type": "numeric",
   "units": "events",

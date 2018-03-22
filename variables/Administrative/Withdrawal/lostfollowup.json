@@ -1,6 +1,6 @@
 {
   "id": "lostfollowup",
-  "display_name": "Withdrawal Reason: Lost to follow-up",
+  "display_name": "Withdrawal reason: Lost to follow-up",
   "description": "",
   "type": "choices",
   "domain": "check01",

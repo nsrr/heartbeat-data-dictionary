@@ -1,6 +1,6 @@
 {
   "id": "theravleak",
-  "display_name": "Positive Airway Pressure Compliance: Average leak during therapy period",
+  "display_name": "Positive airway pressure compliance: Average leak during therapy period",
   "description": "",
   "type": "numeric",
   "units": ""

@@ -1,6 +1,6 @@
 {
   "id": "ndesat10",
-  "display_name": "Desaturation Fall: 5-9% Number",
+  "display_name": "Desaturation fall: 5 - 9% number",
   "description": "",
   "type": "numeric",
   "units":"",

@@ -1,6 +1,6 @@
 {
   "id": "napnea",
-  "display_name": "Apnea/Hypopnea: Apnea Number",
+  "display_name": "Apnea/hypopnea: Apnea number",
   "description": "",
   "type": "numeric",
   "units":"",

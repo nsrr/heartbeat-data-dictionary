@@ -1,6 +1,6 @@
 {
   "id": "actothvigdays",
-  "display_name": "Other vigorous activities (days per week)",
+  "display_name": "Other vigorous activities",
   "description": "",
   "type": "numeric",
   "units": "days per week",

@@ -1,6 +1,6 @@
 {
   "id": "satlt80m",
-  "display_name": "SpO2: Saturation Less than 80%",
+  "display_name": "SpO2: Saturation less than 80%",
   "description": "",
   "type": "numeric",
   "units": "minutes (min)",

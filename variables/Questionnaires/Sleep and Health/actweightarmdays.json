@@ -1,6 +1,6 @@
 {
   "id": "actweightarmdays",
-  "display_name": "Weight training-arms (days per week)",
+  "display_name": "Weight training-arms",
   "description": "",
   "type": "numeric",
   "units": "days per week",

@@ -1,6 +1,6 @@
 {
   "id": "syssleepvalid",
-  "display_name": "Mean of systolic readings with valid sleep",
+  "display_name": "Mean of systolic blood pressure (SBP) readings with valid sleep",
   "description": "",
   "type": "numeric",
   "units": "millimeters of mercury (mmHg)"

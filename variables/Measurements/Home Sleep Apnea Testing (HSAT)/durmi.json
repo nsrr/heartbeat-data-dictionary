@@ -1,6 +1,6 @@
 {
   "id": "durmi",
-  "display_name": "Apnea/Hypopnea: Mixed Mean duration",
+  "display_name": "Apnea/hypopnea: Mixed mean duration",
   "description": "",
   "type": "numeric",
   "units": "seconds (s)",

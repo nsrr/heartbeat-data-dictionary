@@ -1,6 +1,6 @@
 {
   "id": "actswimminghr",
-  "display_name": "Swimming (hours)",
+  "display_name": "Swimming",
   "description": "",
   "type": "numeric",
   "units": "hours (hr)",

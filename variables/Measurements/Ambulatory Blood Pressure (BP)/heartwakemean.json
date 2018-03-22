@@ -1,6 +1,6 @@
 {
   "id": "heartwakemean",
-  "display_name": "Average Heart Rate (wake)",
+  "display_name": "Average heart rate (HR) (wake)",
   "description": "",
   "type": "numeric",
   "units": "beats per minute (bpm)"

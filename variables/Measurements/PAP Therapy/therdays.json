@@ -1,6 +1,6 @@
 {
   "id": "therdays",
-  "display_name": "Positive Airway Pressure Compliance: Number of days on therapy",
+  "display_name": "Positive airway pressure compliance: Number of days on therapy",
   "description": "",
   "type": "numeric",
   "units": "days"

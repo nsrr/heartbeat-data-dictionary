@@ -1,6 +1,6 @@
 {
   "id": "actbicyclinghr",
-  "display_name": "Bicycling (hours)",
+  "display_name": "Bicycling",
   "description": "",
   "type": "numeric",
   "units": "hours (hr)",

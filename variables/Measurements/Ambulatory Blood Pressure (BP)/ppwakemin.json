@@ -1,6 +1,6 @@
 {
   "id": "ppwakemin",
-  "display_name": "Minimum Pulse Pressure (wake)",
+  "display_name": "Minimum pulse pressure (wake)",
   "description": "",
   "type": "numeric",
   "units": "millimeters of mercury (mmHg)"

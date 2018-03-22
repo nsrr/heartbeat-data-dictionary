@@ -1,6 +1,6 @@
 {
   "id": "vitnum",
-  "display_name": "Number of questions answered in the Vitality subscale",
+  "display_name": "Number of questions answered in the vitality subscale",
   "description": "",
   "type": "numeric",
   "unit":""

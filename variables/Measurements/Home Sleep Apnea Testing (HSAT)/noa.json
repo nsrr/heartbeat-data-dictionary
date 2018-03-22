@@ -1,6 +1,6 @@
 {
   "id": "noa",
-  "display_name": "Apnea/Hypopnea: Obstructive Number",
+  "display_name": "Apnea/hypopnea: Obstructive number",
   "description": "",
   "type": "numeric",
   "units": "events",

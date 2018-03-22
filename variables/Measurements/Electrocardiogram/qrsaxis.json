@@ -1,6 +1,6 @@
 {
   "id": "qrsaxis",
-  "display_name": "QRS Axis",
+  "display_name": "QRS axis",
   "description": "Average direction of electrical activity during the QRS complex",
   "type": "numeric",
   "units": "degrees",

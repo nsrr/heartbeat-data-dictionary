@@ -1,6 +1,6 @@
 {
   "id": "actaerobichr",
-  "display_name": "Other aerobic exercise (hours)",
+  "display_name": "Other aerobic exercise",
   "description": "",
   "type": "numeric",
   "units": "hours (hr)",

@@ -1,9 +1,9 @@
 {
   "id": "wdfahr",
-  "display_name": "Fall Asleep Weekdays (hour)",
+  "display_name": "Fall asleep weekdays",
   "description": "",
   "type": "numeric",
-  "units": "",
+  "units": "hours (hr)",
   "labels": [
     "bedtime"
   ],

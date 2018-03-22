@@ -1,6 +1,6 @@
 {
   "id": "thergooddays",
-  "display_name": "Positive Airway Pressure Compliance: Number of days on therapy with more than 4 hours of use",
+  "display_name": "Positive airway pressure compliance: Number of days on therapy with more than 4 hours of use",
   "description": "",
   "type": "numeric",
   "units": "days",

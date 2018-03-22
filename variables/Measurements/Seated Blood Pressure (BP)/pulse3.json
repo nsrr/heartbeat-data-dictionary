@@ -1,6 +1,6 @@
 {
   "id": "pulse3",
-  "display_name": "Third Pulse Measurement",
+  "display_name": "Third pulse measurement",
   "description": "",
   "type": "numeric",
   "units": "beats per minute (bpm)",

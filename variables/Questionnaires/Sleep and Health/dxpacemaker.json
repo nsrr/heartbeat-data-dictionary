@@ -1,6 +1,6 @@
 {
   "id": "dxpacemaker",
-  "display_name": "Diagnosed: Implant of Pacemaker or Defibrillator",
+  "display_name": "Diagnosed: Implant of pacemaker or defibrillator",
   "description": "",
   "type": "choices",
   "domain": "noyes",

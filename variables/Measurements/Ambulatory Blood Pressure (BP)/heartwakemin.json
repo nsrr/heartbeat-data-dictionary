@@ -1,6 +1,6 @@
 {
   "id": "heartwakemin",
-  "display_name": "Minimum Mean Heart Rate (wake)",
+  "display_name": "Minimum mean heart rate (HR) (wake)",
   "description": "",
   "type": "numeric",
   "units": "beats per minute (bpm)"

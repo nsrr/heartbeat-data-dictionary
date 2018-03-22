@@ -1,6 +1,6 @@
 {
   "id": "actaerobicmn",
-  "display_name": "Other aerobic exercise (minutes)",
+  "display_name": "Other aerobic exercise",
   "description": "",
   "type": "numeric",
   "units": "minutes (min)",

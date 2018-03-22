@@ -1,6 +1,6 @@
 {
   "id": "aphypi",
-  "display_name": "Overall Apnea-Hypopnea Index (AHI) from Embletta Sleep Report",
+  "display_name": "Overall apnea-hypopnea index (AHI) from embletta sleep report",
   "description": "",
   "type": "numeric",
   "units":"",

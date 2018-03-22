@@ -1,6 +1,6 @@
 {
   "id": "deslt50n",
-  "display_name": "SpO2 Range/Position: Less than 50% Non-Supine",
+  "display_name": "SpO2 range/position: Less than 50% non-supine",
   "description": "",
   "type": "numeric",
   "units": "minutes (min)",

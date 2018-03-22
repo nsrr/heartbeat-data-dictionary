@@ -1,6 +1,6 @@
 {
   "id": "outreading",
-  "display_name": "Oxygen Log: Out reading",
+  "display_name": "Oxygen log: Out reading",
   "description": "",
   "type": "integer",
   "units": "hours (hr)"

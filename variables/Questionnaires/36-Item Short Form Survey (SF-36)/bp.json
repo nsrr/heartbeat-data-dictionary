@@ -1,6 +1,6 @@
 {
   "id": "bp",
-  "display_name": "Bodily Pain Scale (transformed 0-100)",
+  "display_name": "Bodily pain scale (transformed 0-100)",
   "description": "",
   "type": "numeric",
   "unit":""

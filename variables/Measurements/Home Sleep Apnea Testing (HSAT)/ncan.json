@@ -1,6 +1,6 @@
 {
   "id": "ncan",
-  "display_name": "Apnea/Hypopnea: Central Non-Supine",
+  "display_name": "Apnea/hypopnea: Central non-supine",
   "description": "",
   "type": "numeric",
   "units":"",

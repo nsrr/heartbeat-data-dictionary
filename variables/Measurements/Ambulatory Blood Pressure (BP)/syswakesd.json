@@ -1,6 +1,6 @@
 {
   "id": "syswakesd",
-  "display_name": "Standard Deviation of Systolic Pressure (wake)",
+  "display_name": "Standard deviation of systolic blood pressure (SBP) (wake)",
   "description": "",
   "type": "numeric",
   "units": "millimeters of mercury (mmHg)"

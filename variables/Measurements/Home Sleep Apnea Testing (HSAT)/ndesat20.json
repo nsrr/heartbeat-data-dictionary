@@ -1,6 +1,6 @@
 {
   "id": "ndesat20",
-  "display_name": "Desaturation Fall: 10-20% Number",
+  "display_name": "Desaturation fall: 10 - 20% number",
   "description": "",
   "type": "numeric",
   "units":"",

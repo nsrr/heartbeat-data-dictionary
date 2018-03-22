@@ -1,6 +1,6 @@
 {
   "id": "wewuap",
-  "display_name": "Wake Up Weekends (am/pm)",
+  "display_name": "Wake up weekends",
   "description": "",
   "type": "choices",
   "domain": "ampm",

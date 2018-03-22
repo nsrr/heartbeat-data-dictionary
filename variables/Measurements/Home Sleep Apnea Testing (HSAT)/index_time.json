@@ -1,6 +1,6 @@
 {
   "id": "index_time",
-  "display_name": "Index Time",
+  "display_name": "Index time",
   "description": "",
   "type": "numeric",
   "units": "minutes (min)",

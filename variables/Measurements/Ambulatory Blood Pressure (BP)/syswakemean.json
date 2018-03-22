@@ -1,6 +1,6 @@
 {
   "id": "syswakemean",
-  "display_name": "Average Systolic Pressure (wake)",
+  "display_name": "Average systolic blood pressure (SBP) (wake)",
   "description": "",
   "type": "numeric",
   "units": "millimeters of mercury (mmHg)"

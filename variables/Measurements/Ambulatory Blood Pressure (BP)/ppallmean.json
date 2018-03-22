@@ -1,6 +1,6 @@
 {
   "id": "ppallmean",
-  "display_name": "Average Pulse Pressure (all readings)",
+  "display_name": "Average pulse pressure (all readings)",
   "description": "",
   "type": "numeric",
   "units": "millimeters of mercury (mmHg)"

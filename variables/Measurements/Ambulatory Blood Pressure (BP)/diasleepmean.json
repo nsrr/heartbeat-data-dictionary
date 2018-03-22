@@ -1,6 +1,6 @@
 {
   "id": "diasleepmean",
-  "display_name": "Average Diastolic Pressure (asleep)",
+  "display_name": "Average diastolic blood pressure (DBP) (asleep)",
   "description": "",
   "type": "numeric",
   "units": "millimeters of mercury (mmHg)"

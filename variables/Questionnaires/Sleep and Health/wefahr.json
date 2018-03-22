@@ -1,9 +1,9 @@
 {
   "id": "wefahr",
-  "display_name": "Fall Asleep Weekends (hour)",
+  "display_name": "Fall asleep weekends",
   "description": "",
   "type": "numeric",
-  "unit":"",
+  "unit":"hours (hr)",
   "labels": [
     "bedtime"
   ],

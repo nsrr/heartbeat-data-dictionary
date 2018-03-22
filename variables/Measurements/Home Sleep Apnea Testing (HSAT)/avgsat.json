@@ -1,6 +1,6 @@
 {
   "id": "avgsat",
-  "display_name": "SpO2: Average Oxygen Saturation",
+  "display_name": "SpO2: Average oxygen saturation",
   "description": "",
   "type": "numeric",
   "units": "percent (%)",

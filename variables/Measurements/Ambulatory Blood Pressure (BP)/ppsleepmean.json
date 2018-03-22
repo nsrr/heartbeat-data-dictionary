@@ -1,6 +1,6 @@
 {
   "id": "ppsleepmean",
-  "display_name": "Average Pulse Pressure (asleep)",
+  "display_name": "Average pulse pressure (asleep)",
   "description": "",
   "type": "numeric",
   "units": "millimeters of mercury (mmHg)"

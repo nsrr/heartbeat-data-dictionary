@@ -1,6 +1,6 @@
 {
   "id": "vt",
-  "display_name": "Vitality Scale (transformed 0-100)",
+  "display_name": "Vitality scale (transformed 0 - 100)",
   "description": "",
   "type": "numeric",
   "unit":""

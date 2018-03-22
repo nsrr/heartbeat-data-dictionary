@@ -1,6 +1,6 @@
 {
   "id": "minbp",
-  "display_name": "Pulse: Total Minimum",
+  "display_name": "Pulse: Total minimum",
   "description": "",
   "type": "numeric",
   "units": "beats per minute (bpm)",

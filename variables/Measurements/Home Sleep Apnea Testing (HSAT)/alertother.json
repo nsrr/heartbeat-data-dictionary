@@ -1,6 +1,6 @@
 {
   "id": "alertother",
-  "display_name": "Alert Other",
+  "display_name": "Alert other",
   "description": "",
   "type": "choices",
   "domain": "check01",

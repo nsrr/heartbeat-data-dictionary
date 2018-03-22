@@ -1,6 +1,6 @@
 {
   "id": "thorqual",
-  "display_name": "Thoracic Quality",
+  "display_name": "Thoracic quality",
   "description": "",
   "type": "choices",
   "domain": "qualdata",

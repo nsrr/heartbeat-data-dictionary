@@ -1,6 +1,6 @@
 {
   "id": "titravleak",
-  "display_name": "Positive Airway Pressure Compliance: Average leak during titration",
+  "display_name": "Positive airway pressure compliance: Average leak during titration",
   "description": "",
   "type": "numeric",
   "units": ""

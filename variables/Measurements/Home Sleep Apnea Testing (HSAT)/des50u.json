@@ -1,6 +1,6 @@
 {
   "id": "des50u",
-  "display_name": "SpO2 Range/Position: 50-59% Upright",
+  "display_name": "SpO2 range/position: 50 - 59% upright",
   "description": "",
   "type": "numeric",
   "units": "minutes (min)",

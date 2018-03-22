@@ -1,6 +1,6 @@
 {
   "id": "dxhighbp",
-  "display_name": "Diagnosed: High Blood Pressure (BP) or hypertension (HTN)",
+  "display_name": "Diagnosed: High blood pressure (BP) or hypertension (HTN)",
   "description": "",
   "type": "choices",
   "domain": "noyes",

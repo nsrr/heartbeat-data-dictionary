@@ -1,6 +1,6 @@
 {
   "id": "mapallsd",
-  "display_name": "Standard Deviation of Mean Arterial Pressure (MAP) (all readings)",
+  "display_name": "Standard deviation of mean arterial pressure (MAP) (all readings)",
   "description": "",
   "type": "numeric",
   "units": "millimeters of mercury (mmHg)"

@@ -1,6 +1,6 @@
 {
   "id": "map2allmean",
-  "display_name": "Average Mean Arterial Pressure (MAP) (all readings)",
+  "display_name": "Average mean arterial pressure (MAP) (all readings)",
   "description": "",
   "type": "numeric",
   "units": "millimeters of mercury (mmHg)"
