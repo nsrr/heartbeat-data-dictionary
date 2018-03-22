@@ -3,7 +3,7 @@
   "display_name": "Weight training-legs",
   "description": "",
   "type": "numeric",
-  "units": "minutes",
+  "units": "minutes (min)",
   "labels": [
     "exercise",
     "physical activity",

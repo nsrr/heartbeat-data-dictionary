@@ -3,7 +3,7 @@
   "display_name": "Total other exercise per week",
   "description": "",
   "type": "numeric",
-  "units": "minutes",
+  "units": "minutes (min)",
   "calculation": "( ( actotherhr * 60 ) + actothermn ) * actotherdays",
   "labels": [
     "physical activity",

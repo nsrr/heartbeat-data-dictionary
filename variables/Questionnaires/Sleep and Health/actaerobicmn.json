@@ -3,7 +3,7 @@
   "display_name": "Other aerobic exercise (minutes)",
   "description": "",
   "type": "numeric",
-  "units": "minutes",
+  "units": "minutes (min)",
   "labels": [
     "physical activity",
     "physical functioning"

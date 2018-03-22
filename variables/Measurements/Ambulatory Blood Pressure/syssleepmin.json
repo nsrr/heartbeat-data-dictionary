@@ -3,5 +3,5 @@
   "display_name": "Minimum Systolic Pressure (asleep)",
   "description": "",
   "type": "numeric",
-  "units": "millimeters of mercury"
+  "units": "millimeters of mercury (mmHg)"
 }

@@ -3,7 +3,7 @@
   "display_name": "Total jogging per week",
   "description": "",
   "type": "numeric",
-  "units": "minutes",
+  "units": "minutes (min)",
   "calculation": "( ( actjogginghr * 60 ) + actjoggingmn ) * actjoggingdays",
   "labels": [
     "exercise",

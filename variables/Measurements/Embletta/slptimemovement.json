@@ -3,7 +3,7 @@
   "display_name": "Position: Movement",
   "description": "",
   "type": "numeric",
-  "units": "minutes",
+  "units": "minutes (min)",
   "labels": [
     "portable sleep monitor"
   ]

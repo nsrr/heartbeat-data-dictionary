@@ -2,5 +2,6 @@
   "id": "therlk90",
   "display_name": "Positive Airway Pressure Compliance: 90% leak during therapy period",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": ""
 }

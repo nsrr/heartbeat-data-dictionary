@@ -3,7 +3,7 @@
   "display_name": "Duration of P-wave",
   "description": "Duration of atrial depolarization",
   "type": "numeric",
-  "units": "milliseconds",
+  "units": "milliseconds (ms)",
   "labels": [
     "ecg",
     "ekg"

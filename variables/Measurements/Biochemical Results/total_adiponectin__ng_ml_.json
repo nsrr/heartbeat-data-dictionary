@@ -3,5 +3,5 @@
   "display_name": "Total adiponectin levels",
   "description": "",
   "type": "numeric",
-  "units": "nanograms per milliliter"
+  "units": "nanograms per milliliter (ng/mL)"
 }

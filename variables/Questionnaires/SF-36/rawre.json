@@ -2,5 +2,6 @@
   "id": "rawre",
   "display_name": "Raw score of  the Role-Emotional subscale",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "unit":""
 }

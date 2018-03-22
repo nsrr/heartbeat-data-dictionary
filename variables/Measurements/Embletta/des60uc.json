@@ -3,7 +3,7 @@
   "display_name": "SpO2 Range/Position: 60-69% Cumulative Upright",
   "description": "",
   "type": "numeric",
-  "units": "minutes",
+  "units": "minutes (min)",
   "labels": [
     "portable sleep monitor",
     "sao2",

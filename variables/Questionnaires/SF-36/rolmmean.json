@@ -2,5 +2,6 @@
   "id": "rolmmean",
   "display_name": "Mean score of answered questions in the Role-Emotional subscale",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "unit":""
 }

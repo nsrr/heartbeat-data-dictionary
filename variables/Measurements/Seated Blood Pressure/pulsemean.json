@@ -3,7 +3,7 @@
   "display_name": "Pulse Mean (3 Measurements)",
   "description": "",
   "type": "numeric",
-  "units": "beats per minute",
+  "units": "beats per minute (bpm)",
   "calculation": "( pulse1 + pulse2 + pulse3 ) / 3",
   "commonly_used": true
 }

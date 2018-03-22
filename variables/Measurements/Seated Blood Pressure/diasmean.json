@@ -3,7 +3,7 @@
   "display_name": "Diastolic Blood Pressure (BP) Mean (3 Measurements)",
   "description": "",
   "type": "numeric",
-  "units": "millimeters of mercury",
+  "units": "millimeters of mercury (mmHg)",
   "calculation": "( diasbp1 + diasbp2 + diasbp3 ) / 3",
   "commonly_used": true
 }

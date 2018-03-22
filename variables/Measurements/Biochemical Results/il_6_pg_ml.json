@@ -3,5 +3,5 @@
   "display_name": "Interleukin-6 levels",
   "description": "",
   "type": "numeric",
-  "units": "picograms per milliliter"
+  "units": "picograms per milliliter (pg/mL)"
 }

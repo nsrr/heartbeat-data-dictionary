@@ -2,5 +2,6 @@
   "id": "vt_z",
   "display_name": "Vitality Z-Score",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "unit":""
 }

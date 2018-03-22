@@ -3,7 +3,7 @@
   "display_name": "X-Flow channel: Hours of usable signal",
   "description": "",
   "type": "numeric",
-  "units": "hours",
+  "units": "hours (hr)",
   "labels": [
     "portable sleep monitor"
   ],

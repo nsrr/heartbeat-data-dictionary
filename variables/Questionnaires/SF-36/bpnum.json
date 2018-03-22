@@ -2,5 +2,6 @@
   "id": "bpnum",
   "display_name": "Number of questions answered in the Bodily Pain subscale",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "unit":""
 }

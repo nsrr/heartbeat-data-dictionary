@@ -3,5 +3,5 @@
   "display_name": "Total Study Time Asleep",
   "description": "",
   "type": "integer",
-  "units": "minutes"
+  "units": "minutes (min)"
 }

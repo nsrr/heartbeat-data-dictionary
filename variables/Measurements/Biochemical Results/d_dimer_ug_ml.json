@@ -3,5 +3,5 @@
   "display_name": "D-Dimer levels",
   "description": "",
   "type": "numeric",
-  "units": "micrograms per milliliter"
+  "units": "micrograms per milliliter (ug/mL)"
 }

@@ -3,7 +3,7 @@
   "display_name": "Total bicycling per week",
   "description": "",
   "type": "numeric",
-  "units": "minutes",
+  "units": "minutes (min)",
   "calculation": "( ( actbicyclinghr * 60 ) + actbicyclingmn ) * actbicyclingdays",
   "labels": [
     "exercise",

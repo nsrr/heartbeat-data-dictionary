@@ -2,5 +2,6 @@
   "id": "mh_z",
   "display_name": "Mental Health Z-Score",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "unit":""
 }

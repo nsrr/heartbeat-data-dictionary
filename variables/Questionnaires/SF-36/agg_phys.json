@@ -2,5 +2,6 @@
   "id": "agg_phys",
   "display_name": "Aggregate Physical Norm Score",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "unit":""
 }

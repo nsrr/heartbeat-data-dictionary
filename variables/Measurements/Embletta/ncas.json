@@ -3,6 +3,7 @@
   "display_name": "Apnea/Hypopnea: Central Supine",
   "description": "",
   "type": "numeric",
+  "units":"",
   "labels": [
     "portable sleep monitor",
     "back"

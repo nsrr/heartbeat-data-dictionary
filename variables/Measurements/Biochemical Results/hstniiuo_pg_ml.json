@@ -3,5 +3,5 @@
   "display_name": "Troponin levels (investigational use only)",
   "description": "High sensitivity troponin levels (investigational use only)",
   "type": "numeric",
-  "units": "picograms per milliliter"
+  "units": "picograms per milliliter (pg/mL)"
 }

@@ -3,6 +3,7 @@
   "display_name": "Apnea-Desaturation Relation: 71-80% Hypopnea",
   "description": "",
   "type": "numeric",
+  "units":"",
   "labels": [
     "portable sleep monitor",
     "sao2",

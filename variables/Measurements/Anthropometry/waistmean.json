@@ -3,7 +3,7 @@
   "display_name": "Waist Circumference Mean (2 Measurements)",
   "description": "",
   "type": "numeric",
-  "units": "centimeters",
+  "units": "centimeters (cm)",
   "calculation": "( waistcm1 + waistcm2 ) / 2",
   "commonly_used": true
 }

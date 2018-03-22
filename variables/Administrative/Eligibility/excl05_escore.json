@@ -3,6 +3,7 @@
   "display_name": "Epworth Sleepiness Scale (ESS) score at screening",
   "description": "",
   "type": "numeric",
+  "unit":"",
   "forms": [
     "heartbeat_eligibility_form"
   ]

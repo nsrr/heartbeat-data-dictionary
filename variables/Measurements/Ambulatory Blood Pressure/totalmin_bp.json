@@ -3,5 +3,5 @@
   "display_name": "Total 24 hour blood pressure study time",
   "description": "",
   "type": "integer",
-  "units": "minutes"
+  "units": "minutes (min)"
 }

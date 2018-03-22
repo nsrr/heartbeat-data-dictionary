@@ -3,7 +3,7 @@
   "display_name": "Weight training-arms (hours)",
   "description": "",
   "type": "numeric",
-  "units": "hours",
+  "units": "hours (hr)",
   "labels": [
     "exercise",
     "physical activity",

@@ -3,7 +3,7 @@
   "display_name": "Pulse: Non-Supine Maximum",
   "description": "",
   "type": "numeric",
-  "units": "beats per minute",
+  "units": "beats per minute (bpm)",
   "labels": [
     "portable sleep monitor",
     "bpm",

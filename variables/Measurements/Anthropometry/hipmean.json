@@ -3,7 +3,7 @@
   "display_name": "Hip Circumference Mean (2 Measurements)",
   "description": "",
   "type": "numeric",
-  "units": "centimeters",
+  "units": "centimeters (cm)",
   "calculation": "( hipcm1 + hipcm2 ) / 2",
   "commonly_used": true
 }

@@ -14,16 +14,16 @@ class DictionaryTest < Minitest::Test
   # Example 1: Create custom tests to show that `integer` and `numeric`
   # variables have a valid unit type.
   VALID_UNITS = [
-    '', 'beats per minute', 'centimeters', 'cigarettes', 'days',
+    '', 'beats per minute (bpm)', 'centimeters (cm)', 'cigarettes', 'days',
     'days from index date', 'days per week', 'degrees',
-    'desaturations per hour', 'events', 'events per hour', 'feet', 'hours',
-    'inches', 'kilograms', 'medications', 'micro-units per milliliter',
-    'micrograms per milliliter', 'milligrams per deciliter',
-    'millimeters of mercury', 'milliseconds', 'minutes', 'minutes per day',
-    'missing items', 'nanograms per milliliter', 'naps', 'ovaries', 'percent',
-    'periods', 'picograms per milliliter', 'pounds', 'readings', 'seconds',
-    'units per liter', 'years', 'obstructive apnea events',
-    'kilograms per meter squared', 'central apneas', 'obstructive apneas',
+    'desaturations per hour', 'events', 'events per hour', 'feet (ft)', 'hours (hr)',
+    'inches (in)', 'kilograms (kg)', 'medications', 'micro-units per milliliter (mcU/mL)',
+    'micrograms per milliliter (ug/mL)', 'milligrams per deciliter (mg/dL)',
+    'millimeters of mercury (mmHg)', 'milliseconds (ms)', 'minutes (min)', 'minutes per day',
+    'missing items', 'nanograms per milliliter (ng/mL)', 'naps', 'ovaries', 'percent (%)',
+    'periods', 'picograms per milliliter (pg/mL)', 'pounds (lb)', 'readings', 'seconds (s)',
+    'units per liter', 'years (yr)', 'obstructive apnea events',
+    'kilograms per meter squared (kg/m2)', 'central apneas', 'obstructive apneas',
     nil ]
 
   @variables.select { |v| %w(numeric integer).include?(v.type) }.each do |variable|

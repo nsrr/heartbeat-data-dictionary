@@ -3,7 +3,7 @@
   "display_name": "Total arm exercise per week",
   "description": "",
   "type": "numeric",
-  "units": "minutes",
+  "units": "minutes (min)",
   "calculation": "( ( actweightarmhr * 60 ) + actweightarmmn ) * actweightarmdays",
   "labels": [
     "physical activity",

@@ -3,7 +3,7 @@
   "display_name": "Total swimming per week",
   "description": "",
   "type": "numeric",
-  "units": "minutes",
+  "units": "minutes (min)",
   "calculation": "( ( actswimminghr * 60 ) + actswimmingmn ) * actswimmingdays",
   "labels": [
     "exercise",

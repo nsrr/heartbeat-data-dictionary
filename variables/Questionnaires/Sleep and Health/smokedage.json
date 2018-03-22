@@ -3,7 +3,7 @@
   "display_name": "Age started smoking",
   "description": "",
   "type": "numeric",
-  "units": "years",
+  "units": "years (yr)",
   "forms": [
     "heartbeat_baseline_health_questionnaire_form"
   ]

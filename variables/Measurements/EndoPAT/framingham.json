@@ -3,6 +3,7 @@
   "display_name": "Log OCC/Base:Con/Base 90-120s",
   "description": "Framingham Calculation",
   "type": "numeric",
+  "units":"",
   "labels": [
     "endothelial function using peripheral arterial tonometry"
   ]

@@ -3,6 +3,7 @@
   "display_name": "Desaturation Fall: 5-9% Cumulative Number",
   "description": "",
   "type": "numeric",
+  "units": "",
   "labels": [
     "portable sleep monitor",
     "sao2",

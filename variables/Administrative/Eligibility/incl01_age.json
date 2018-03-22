@@ -3,7 +3,7 @@
   "display_name": "Age of participant at screening",
   "description": "",
   "type": "numeric",
-  "units": "years",
+  "units": "years (yr)",
   "forms": [
     "heartbeat_eligibility_form"
   ]

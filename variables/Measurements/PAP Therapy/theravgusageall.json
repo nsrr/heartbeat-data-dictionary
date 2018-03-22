@@ -3,5 +3,5 @@
   "display_name": "Positive Airway Pressure Compliance: Average usage on all therapy days of therapy period",
   "description": "",
   "type": "numeric",
-  "units": "minutes"
+  "units": "minutes (min)"
 }

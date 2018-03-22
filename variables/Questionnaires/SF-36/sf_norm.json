@@ -2,5 +2,6 @@
   "id": "sf_norm",
   "display_name": "Social Functioning Norm Score",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "unit":""
 }

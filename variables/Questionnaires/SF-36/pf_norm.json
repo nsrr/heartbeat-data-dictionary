@@ -2,5 +2,6 @@
   "id": "pf_norm",
   "display_name": "Physical Functioning Norm Score",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "unit":""
 }

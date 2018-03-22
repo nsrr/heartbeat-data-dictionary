@@ -2,5 +2,6 @@
   "id": "rawsf",
   "display_name": "Raw score of the Social Functioning subscale",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "unit":""
 }

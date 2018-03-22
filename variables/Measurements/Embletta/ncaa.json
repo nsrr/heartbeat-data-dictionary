@@ -3,6 +3,7 @@
   "display_name": "Apnea/Hypopnea: Central Apnea or Hypopnea per hour",
   "description": "",
   "type": "numeric",
+  "units":"",
   "labels": [
     "portable sleep monitor",
     "index"

@@ -2,5 +2,6 @@
   "id": "titrmxleak",
   "display_name": "Positive Airway Pressure Compliance: Maximum leak during titration period",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": ""
 }

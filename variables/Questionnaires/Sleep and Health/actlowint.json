@@ -3,7 +3,7 @@
   "display_name": "Total low intensity exercises per week",
   "description": "",
   "type": "numeric",
-  "units": "minutes",
+  "units": "minutes (min)",
   "calculation": "( ( actlowinthr * 60 ) + actlowintmn ) * actlowintdays",
   "labels": [
     "physical activity",

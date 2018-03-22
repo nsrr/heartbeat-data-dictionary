@@ -3,5 +3,5 @@
   "display_name": "Positive Airway Pressure Compliance: Compliance on therapy",
   "description": "",
   "type": "numeric",
-  "units": "percent"
+  "units": "percent (%)"
 }

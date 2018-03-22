@@ -3,6 +3,7 @@
   "display_name": "Desaturation Fall: Total Cumulative Oximetery Desaturations per hour",
   "description": "",
   "type": "numeric",
+  "units":"",
   "labels": [
     "portable sleep monitor",
     "index",

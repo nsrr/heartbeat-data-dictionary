@@ -2,5 +2,6 @@
   "id": "rp_norm",
   "display_name": "Role-Physical Norm Score",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "unit":""
 }

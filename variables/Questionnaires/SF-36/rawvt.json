@@ -2,5 +2,6 @@
   "id": "rawvt",
   "display_name": "Raw score of  the Vitality subscale",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "unit":""
 }

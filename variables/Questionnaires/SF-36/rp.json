@@ -2,5 +2,6 @@
   "id": "rp",
   "display_name": "Role Physical Scale (transformed 0-100)",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "unit":""
 }

@@ -3,5 +3,5 @@
   "display_name": "Insulin levels",
   "description": "",
   "type": "numeric",
-  "units": "micro-units per milliliter"
+  "units": "micro-units per milliliter (mcU/mL)"
 }

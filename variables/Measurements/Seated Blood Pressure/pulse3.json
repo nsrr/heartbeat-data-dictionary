@@ -3,7 +3,7 @@
   "display_name": "Third Pulse Measurement",
   "description": "",
   "type": "numeric",
-  "units": "beats per minute",
+  "units": "beats per minute (bpm)",
   "forms": [
     "heartbeat_physical_measurements_form"
   ]

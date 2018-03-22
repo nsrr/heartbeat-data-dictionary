@@ -2,5 +2,6 @@
   "id": "sf",
   "display_name": "Social Functioning Scale (transformed 0-100)",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "unit":""
 }

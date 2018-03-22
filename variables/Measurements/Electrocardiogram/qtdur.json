@@ -3,7 +3,7 @@
   "display_name": "Duration of the Q-T interval",
   "description": "",
   "type": "numeric",
-  "units": "milliseconds",
+  "units": "milliseconds (ms)",
   "labels": [
     "ecg",
     "ekg"

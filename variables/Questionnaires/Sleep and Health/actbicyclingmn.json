@@ -3,7 +3,7 @@
   "display_name": "Bicycling (minutes)",
   "description": "",
   "type": "numeric",
-  "units": "minutes",
+  "units": "minutes (min)",
   "labels": [
     "exercise",
     "physical activity",

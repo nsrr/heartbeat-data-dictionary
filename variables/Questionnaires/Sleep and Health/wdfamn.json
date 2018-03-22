@@ -3,6 +3,7 @@
   "display_name": "Fall Asleep Weekdays (minute)",
   "description": "",
   "type": "numeric",
+  "unit":"",
   "labels": [
     "bedtime"
   ],

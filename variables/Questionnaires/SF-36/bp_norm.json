@@ -2,5 +2,6 @@
   "id": "bp_norm",
   "display_name": "Bodily Pain Norm Score",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "unit":""
 }

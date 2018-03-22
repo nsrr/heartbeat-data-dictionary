@@ -2,5 +2,6 @@
   "id": "mhnum",
   "display_name": "Number of questions answered in the Mental Health subscale",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "unit":""
 }

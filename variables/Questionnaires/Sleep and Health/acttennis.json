@@ -3,7 +3,7 @@
   "display_name": "Total tennis per week",
   "description": "",
   "type": "numeric",
-  "units": "minutes",
+  "units": "minutes (min)",
   "calculation": "( ( acttennishr * 60 ) + acttennismn ) * acttennisdays",
   "labels": [
     "exercise",

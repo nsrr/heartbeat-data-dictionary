@@ -2,5 +2,6 @@
   "id": "vt_norm",
   "display_name": "Vitality Norm Score",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "unit":""
 }

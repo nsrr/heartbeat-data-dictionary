@@ -3,7 +3,7 @@
   "display_name": "Systolic Blood Pressure (BP) Mean (3 Measurements)",
   "description": "",
   "type": "numeric",
-  "units": "millimeters of mercury",
+  "units": "millimeters of mercury (mmHg)",
   "calculation": "( sysbp1 + sysbp2 + sysbp3 ) / 3",
   "commonly_used": true
 }

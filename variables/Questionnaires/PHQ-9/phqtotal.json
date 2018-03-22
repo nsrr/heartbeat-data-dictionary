@@ -3,6 +3,7 @@
   "display_name": "Patient Health Questionnaire-9 (PHQ-9): Total score",
   "description": "The sum of items 1 through 9",
   "type": "numeric",
+  "units": "",
   "labels": [
     "depression"
   ],

@@ -3,7 +3,7 @@
   "display_name": "Total other aerobic exercise per week",
   "description": "",
   "type": "numeric",
-  "units": "minutes",
+  "units": "minutes (min)",
   "calculation": "( ( actaerobichr * 60 ) + actaerobicmn ) * actaerobicdays",
   "labels": [
     "physical activity",

@@ -3,7 +3,7 @@
   "display_name": "Total running per week",
   "description": "",
   "type": "numeric",
-  "units": "minutes",
+  "units": "minutes (min)",
   "calculation": "( ( actrunninghr * 60 ) + actrunningmn ) * actrunningdays",
   "labels": [
     "exercise",

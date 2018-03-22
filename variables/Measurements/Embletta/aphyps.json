@@ -3,6 +3,7 @@
   "display_name": "Supine Total Number of Apneas and Hypopneas",
   "description": "",
   "type": "numeric",
+  "units":"",
   "labels": [
     "back",
     "portable sleep monitor"

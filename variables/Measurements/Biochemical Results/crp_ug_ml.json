@@ -3,5 +3,5 @@
   "display_name": "C-reactive protein levels",
   "description": "",
   "type": "numeric",
-  "units": "micrograms per milliliter"
+  "units": "micrograms per milliliter (ug/mL)"
 }

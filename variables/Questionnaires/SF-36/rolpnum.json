@@ -2,5 +2,6 @@
   "id": "rolpnum",
   "display_name": "Number of questions answered from the Role-Physical subscale",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "unit":""
 }

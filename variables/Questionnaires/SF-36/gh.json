@@ -2,5 +2,6 @@
   "id": "gh",
   "display_name": "General Health Scale (transformed 0-100)",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "unit":""
 }

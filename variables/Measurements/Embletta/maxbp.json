@@ -3,7 +3,7 @@
   "display_name": "Pulse: Total Maximum",
   "description": "",
   "type": "numeric",
-  "units": "beats per minute",
+  "units": "beats per minute (bpm)",
   "labels": [
     "portable sleep monitor"
   ]

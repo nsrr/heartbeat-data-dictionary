@@ -2,5 +2,6 @@
   "id": "pfmean",
   "display_name": "Mean score of answered questions in the physical functioning subscale",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "unit":""
 }

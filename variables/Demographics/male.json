@@ -4,5 +4,8 @@
   "description": "",
   "type": "choices",
   "domain": "sex",
+  "labels": [
+    "gender"
+  ],
   "commonly_used": true
 }

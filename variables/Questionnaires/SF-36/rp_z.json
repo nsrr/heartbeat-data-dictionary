@@ -2,5 +2,6 @@
   "id": "rp_z",
   "display_name": "Role-Physical Z-Score",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "unit":""
 }

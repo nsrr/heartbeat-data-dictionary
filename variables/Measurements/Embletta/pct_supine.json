@@ -3,7 +3,7 @@
   "display_name": "Supine Time",
   "description": "",
   "type": "numeric",
-  "units": "percent",
+  "units": "percent (%)",
   "labels": [
     "portable sleep monitor",
     "back"

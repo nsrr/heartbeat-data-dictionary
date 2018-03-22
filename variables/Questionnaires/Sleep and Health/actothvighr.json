@@ -3,7 +3,7 @@
   "display_name": "Other vigorous activities (hours)",
   "description": "",
   "type": "numeric",
-  "units": "hours",
+  "units": "hours (hr)",
   "labels": [
     "physical activity",
     "physical functioning"

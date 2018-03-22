@@ -2,5 +2,6 @@
   "id": "titrlk90",
   "display_name": "Positive Airway Pressure Compliance: 90% leak on titration",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": ""
 }

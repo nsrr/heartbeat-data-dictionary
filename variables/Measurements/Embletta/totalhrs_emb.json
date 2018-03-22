@@ -3,7 +3,7 @@
   "display_name": "Total hours",
   "description": "",
   "type": "numeric",
-  "units": "hours",
+  "units": "hours (hr)",
   "labels": [
     "portable sleep monitor"
   ],

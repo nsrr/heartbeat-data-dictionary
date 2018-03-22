@@ -3,5 +3,5 @@
   "display_name": "Maximum Mean Arterial Pressure (MAP) (wake)",
   "description": "",
   "type": "numeric",
-  "units": "millimeters of mercury"
+  "units": "millimeters of mercury (mmHg)"
 }

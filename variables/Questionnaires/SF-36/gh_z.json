@@ -2,5 +2,6 @@
   "id": "gh_z",
   "display_name": "General Health Perception Z-Score",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "unit":""
 }

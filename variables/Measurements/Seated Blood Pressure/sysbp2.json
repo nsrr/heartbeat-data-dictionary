@@ -3,7 +3,7 @@
   "display_name": "Second Systolic Blood Pressure (BP) Measurement",
   "description": "",
   "type": "numeric",
-  "units": "millimeters of mercury",
+  "units": "millimeters of mercury (mmHg)",
   "forms": [
     "heartbeat_physical_measurements_form"
   ]

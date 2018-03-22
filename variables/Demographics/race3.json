@@ -5,7 +5,7 @@
   "type": "choices",
   "domain": "racehb",
   "labels": [
-    "race"
+    "ethnicity"
   ],
   "commonly_used": true
 }

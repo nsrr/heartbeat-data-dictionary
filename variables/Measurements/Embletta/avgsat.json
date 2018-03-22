@@ -3,7 +3,7 @@
   "display_name": "SpO2: Average Oxygen Saturation",
   "description": "",
   "type": "numeric",
-  "units": "percent",
+  "units": "percent (%)",
   "labels": [
     "portable sleep monitor",
     "sao2"

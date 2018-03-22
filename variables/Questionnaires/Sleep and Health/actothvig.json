@@ -3,7 +3,7 @@
   "display_name": "Total other vigorous exercises per week",
   "description": "",
   "type": "numeric",
-  "units": "minutes",
+  "units": "minutes (min)",
   "calculation": "( ( actothvighr * 60 ) + actothvigmn ) * actothvigdays",
   "labels": [
     "physical activity",
