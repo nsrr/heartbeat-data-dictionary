@@ -1,6 +1,10 @@
 ## 0.4.1
 
 - Update variable calculations
+- Update variable labels
+- Add abbreviations to folder names
+- Remove unnecessary capitalizations from display names
+- Add abbreviations to units
 
 ## 0.4.0 (June 22, 2017)
 
