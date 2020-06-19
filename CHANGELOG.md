@@ -1,6 +1,8 @@
 ## 0.5.0
 
-- Display name cleanup
+- Cleanup display names
+- **Gem Changes**
+  - Update to Spout 1.0.0
 
 ## 0.4.0 (June 22, 2017)
 
