@@ -1,0 +1,13 @@
+{
+  "id": "smokedmonthstop",
+  "display_name": "Cigarette smoking, age stopped",
+  "description": "",
+  "type": "numeric",
+  "units": "years",
+  "labels": [
+    "yrs"
+  ],
+  "forms": [
+    "heartbeat_baseline_health_questionnaire_form"
+  ]
+}

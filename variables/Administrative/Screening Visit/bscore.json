@@ -1,7 +1,12 @@
 {
   "id": "bscore",
-  "display_name": "Hand-calculated Berlin Score",
-  "description": "Hand-calculated Berlin score from the Berlin Questionnaire",
+  "display_name": "Berlin Questionnaire: Total score",
+  "description": "Hand-calculated Berlin score from the Berlin Questionnaire.  Berlin Questionnaire is divided into three categories. Category 1 evaluates sleep and snoring behavior. Category 2 determines the presence of daytime sleepiness. Category 3 assesses the participant's history of hypertension and obesity. The summary score is the number of positive categories.  [Netzer et al, 1999 (PubMed ID: 10507956)] (https://pubmed.ncbi.nlm.nih.gov/10507956/)<br><br>[Search for all Berlin Questionnaire variables within this dataset](https://sleepdata.org/datasets/heartbeat/variables?search=bqosa)",
   "type": "choices",
-  "domain": "berlin"
+  "domain": "berlin",
+  "labels": [
+    "sdb",
+    "bqosa",
+    "bqosa_total"
+  ]
 }

@@ -1,0 +1,10 @@
+{
+  "id": "allergies",
+  "display_name": "Ever had allergies to dust",
+  "description": "Have you ever had allergies to dust, molds, grass or pollen?",
+  "type": "choices",
+  "domain": "noyes",
+  "forms": [
+    "heartbeat_baseline_health_questionnaire_form"
+  ]
+}

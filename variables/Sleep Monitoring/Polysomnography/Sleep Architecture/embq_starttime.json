@@ -1,0 +1,12 @@
+{
+  "id": "embq_starttime",
+  "display_name": "Clock time when the recording (study) begins from type III home sleep apnea test",
+  "description": "",
+  "type": "time",
+  "labels": [
+    "begtimrd_f1t3"
+  ],
+  "forms": [
+    "heartbeat_embletta_qs_form"
+  ]
+}

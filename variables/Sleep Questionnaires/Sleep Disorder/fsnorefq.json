@@ -1,0 +1,13 @@
+{
+  "id": "fsnorefq",
+  "display_name": "Frequency of snoring in last month",
+  "description": "",
+  "type": "choices",
+  "domain": "hhqnightsperweeksnore",
+  "labels": [
+    "sdb"
+  ],
+  "forms": [
+    "heartbeat_final_health_questionnaire_form"
+  ]
+}

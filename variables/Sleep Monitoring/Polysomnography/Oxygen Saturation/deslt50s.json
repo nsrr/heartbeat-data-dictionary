@@ -1,0 +1,11 @@
+{
+  "id": "deslt50s",
+  "display_name": "Total duration of oxygen saturations with < 50% saturation in supine position from type III home sleep apnea test",
+  "description": "",
+  "type": "numeric",
+  "units": "minutes",
+  "labels": [
+    "deslt50sc",
+    "ttldursa_pb_salt50_f1t3"
+  ]
+}

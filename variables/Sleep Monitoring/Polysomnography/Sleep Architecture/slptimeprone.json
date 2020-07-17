@@ -1,0 +1,10 @@
+{
+  "id": "slptimeprone",
+  "display_name": "Total duration of sleep in prone position from type III home sleep apnea test",
+  "description": "",
+  "type": "numeric",
+  "units": "minutes",
+  "labels": [
+    "ttldursp_pp_f1t3"
+  ]
+}

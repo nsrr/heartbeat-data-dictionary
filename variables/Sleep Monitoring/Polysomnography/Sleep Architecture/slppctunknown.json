@@ -1,0 +1,10 @@
+{
+  "id": "slppctunknown",
+  "display_name": "Percent of total estimated sleep duration in unknown position from type III home sleep apnea test",
+  "description": "",
+  "type": "numeric",
+  "units": "percent",
+  "labels": [
+    "pctdursp_pn_f1t3"
+  ]
+}

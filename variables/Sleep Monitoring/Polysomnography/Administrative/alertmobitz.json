@@ -1,0 +1,10 @@
+{
+  "id": "alertmobitz",
+  "display_name": "Alert Mobitz",
+  "description": "Ventricular pre-excitation Mobitz Type II Atrioventricular (AV) block",
+  "type": "choices",
+  "domain": "check01",
+  "forms": [
+    "heartbeat_embletta_qs_form"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "id": "slptimes",
+  "display_name": "Total duration of sleep in supine position from type III home sleep apnea test",
+  "description": "",
+  "type": "numeric",
+  "units": "minutes",
+  "labels": [
+    "time_supine",
+    "ttldursp_pb_f1t3"
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "id": "perdilator_n",
+  "display_name": "Number of peripheral dilators?",
+  "description": "",
+  "type": "numeric",
+  "units": "medications"
+}

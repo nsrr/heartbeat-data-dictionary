@@ -1,7 +1,10 @@
 {
   "id": "smoke",
-  "display_name": "Do you smoke in the bedroom?",
-  "description": "",
+  "display_name": "Smoking, in the bedroom",
+  "description": "Do you smoke in the bedroom?",
   "type": "choices",
-  "domain": "noyes"
+  "domain": "noyes",
+  "labels": [
+    "sleep_hygiene"
+  ]
 }

@@ -1,0 +1,10 @@
+{
+  "id": "alcoholweek",
+  "display_name": "Alcohol consumption, days in a week, last year",
+  "description": "",
+  "type": "choices",
+  "domain": "days",
+  "forms": [
+    "heartbeat_baseline_health_questionnaire_form"
+  ]
+}

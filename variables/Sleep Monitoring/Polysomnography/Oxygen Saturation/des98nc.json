@@ -1,0 +1,10 @@
+{
+  "id": "des98nc",
+  "display_name": "Total duration of oxygen saturations in non-supine position from type III home sleep apnea test",
+  "description": "",
+  "type": "numeric",
+  "units": "minutes",
+  "labels": [
+    "ttldursa_po_f1t3"
+  ]
+}

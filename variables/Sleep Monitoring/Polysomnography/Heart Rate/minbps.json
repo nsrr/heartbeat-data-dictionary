@@ -1,0 +1,10 @@
+{
+  "id": "minbps",
+  "display_name": "Minimum heart rate during sleep in supine position from type III home sleep apnea test",
+  "description": "",
+  "type": "numeric",
+  "units": "beats per minute",
+  "labels": [
+    "minlvlhr_pb_f1t3"
+  ]
+}

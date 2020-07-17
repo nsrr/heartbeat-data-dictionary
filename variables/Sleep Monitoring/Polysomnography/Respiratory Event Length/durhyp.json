@@ -1,0 +1,10 @@
+{
+  "id": "durhyp",
+  "display_name": "Average duration of hypopneas from type III home sleep apnea test",
+  "description": "",
+  "type": "numeric",
+  "units": "seconds",
+  "labels": [
+    "avgdurhp_f1t3"
+  ]
+}

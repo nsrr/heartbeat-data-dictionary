@@ -1,0 +1,7 @@
+{
+  "id": "thercompge70",
+  "display_name": "Positive Airway Pressure Compliance: Compliance greater than 70%?",
+  "description": "",
+  "type": "choices",
+  "domain": "yesno"
+}

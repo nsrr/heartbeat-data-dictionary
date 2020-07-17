@@ -1,0 +1,7 @@
+{
+  "id": "diuretic_n",
+  "display_name": "Number of diuretics?",
+  "description": "",
+  "type": "numeric",
+  "units": "medications"
+}

@@ -6,8 +6,7 @@
   "domain": "check01",
   "labels": [
     "heart disease",
-    "obese",
-    ">"
+    "obese"
   ],
   "forms": [
     "heartbeat_eligibility_form"

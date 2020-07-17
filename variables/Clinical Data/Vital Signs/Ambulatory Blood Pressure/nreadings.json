@@ -1,0 +1,10 @@
+{
+  "id": "nreadings",
+  "display_name": "Number of Readings",
+  "description": "",
+  "type": "numeric",
+  "units": "readings",
+  "labels": [
+    "bp"
+  ]
+}

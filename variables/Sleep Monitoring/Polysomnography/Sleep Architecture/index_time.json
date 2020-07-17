@@ -1,0 +1,10 @@
+{
+  "id": "index_time",
+  "display_name": "Total estimated sleep duration from type III home sleep apnea test",
+  "description": "",
+  "type": "numeric",
+  "units": "minutes",
+  "labels": [
+    "ttldurrd_f1t3"
+  ]
+}

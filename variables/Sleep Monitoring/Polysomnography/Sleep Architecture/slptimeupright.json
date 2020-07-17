@@ -1,0 +1,11 @@
+{
+  "id": "slptimeupright",
+  "display_name": "Total duration of sleep in upright position from type III home sleep apnea test",
+  "description": "",
+  "type": "numeric",
+  "units": "minutes",
+  "labels": [
+    "time_upright",
+    "ttldursp_pu_f1t3"
+  ]
+}

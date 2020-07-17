@@ -1,0 +1,14 @@
+{
+  "id": "snorted",
+  "display_name": "Snorted or gasped in the last month",
+  "description": "In the last month, were there times when you snorted or gasped during your sleep? ",
+  "type": "choices",
+  "domain": "noyes",
+  "labels": [
+    "sdb"
+  ],
+  "forms": [
+    "heartbeat_baseline_health_questionnaire_form",
+    "heartbeat_final_health_questionnaire_form"
+  ]
+}

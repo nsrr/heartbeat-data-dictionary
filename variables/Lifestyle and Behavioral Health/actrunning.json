@@ -1,0 +1,12 @@
+{
+  "id": "actrunning",
+  "display_name": "Exercise, running, total length per week",
+  "description": "",
+  "type": "numeric",
+  "units": "minutes",
+  "labels": [
+    "exercise",
+    "physical activity",
+    "physical functioning"
+  ]
+}

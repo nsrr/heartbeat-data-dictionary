@@ -1,0 +1,15 @@
+{
+  "id": "moverelieve",
+  "display_name": "Need to move to relieve pain",
+  "description": "Do you sometimes feel the need to move to relieve the discomfort, for example by walking, or to relieve the discomfort by rubbing your legs?",
+  "type": "choices",
+  "domain": "hhqalways",
+  "labels": [
+    "RLS_PLMS",
+    "willis-ekbom disease"
+  ],
+  "forms": [
+    "heartbeat_baseline_health_questionnaire_form",
+    "heartbeat_final_health_questionnaire_form"
+  ]
+}

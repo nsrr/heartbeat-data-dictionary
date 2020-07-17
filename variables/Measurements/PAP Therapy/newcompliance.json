@@ -1,8 +1,0 @@
-{
-  "id": "newcompliance",
-  "display_name": "Positive Airway Pressure Compliance: New compliance value",
-  "description": "",
-  "type": "numeric",
-  "units": "percent",
-  "calculation": "( theravgusage * therdays ) / ndays_titrend"
-}

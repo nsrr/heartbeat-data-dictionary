@@ -1,0 +1,7 @@
+{
+  "id": "totalrows",
+  "display_name": "Positive Airway Pressure Compliance: Total rows",
+  "description": "Total number of days with Positive Airway Pressure usage",
+  "type": "numeric",
+  "units": "days"
+}

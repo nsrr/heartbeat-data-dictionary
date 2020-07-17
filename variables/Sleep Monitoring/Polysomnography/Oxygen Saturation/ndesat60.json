@@ -1,0 +1,9 @@
+{
+  "id": "ndesat60",
+  "display_name": "Number of oxygen desaturations of which the nadir < 60% from type III home sleep apnea test",
+  "description": "",
+  "type": "numeric",
+  "labels": [
+    "ttlnumds_ndlt60_f1t3"
+  ]
+}

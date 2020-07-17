@@ -1,0 +1,10 @@
+{
+  "id": "ndesat60h",
+  "display_name": "Number of oxygen desaturations with < 60% oxygen saturation per hour of sleep from type III home sleep apnea test",
+  "description": "",
+  "type": "numeric",
+  "units": "desaturations per hour",
+  "labels": [
+    "phrnumds_salt60_f1t3"
+  ]
+}

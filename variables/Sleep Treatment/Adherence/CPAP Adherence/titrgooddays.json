@@ -1,0 +1,7 @@
+{
+  "id": "titrgooddays",
+  "display_name": "Positive Airway Pressure Compliance: Number of days on titration with more than 4 hours of use",
+  "description": "",
+  "type": "numeric",
+  "units": "days"
+}

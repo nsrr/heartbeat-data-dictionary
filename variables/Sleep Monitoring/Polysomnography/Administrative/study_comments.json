@@ -1,0 +1,9 @@
+{
+  "id": "study_comments",
+  "display_name": "Study Comments",
+  "description": "",
+  "type": "string",
+  "forms": [
+    "heartbeat_embletta_qs_form"
+  ]
+}

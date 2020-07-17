@@ -1,0 +1,10 @@
+{
+  "id": "slptimeunknown",
+  "display_name": "Total duration of sleep in unknown position from type III home sleep apnea test",
+  "description": "",
+  "type": "numeric",
+  "units": "minutes",
+  "labels": [
+    "ttldursp_pn_f1t3"
+  ]
+}

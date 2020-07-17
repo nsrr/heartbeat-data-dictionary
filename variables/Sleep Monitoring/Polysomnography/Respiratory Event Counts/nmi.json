@@ -1,0 +1,10 @@
+{
+  "id": "nmi",
+  "display_name": "Total number of mixed apneas with no oxygen desaturation threshold used and with or without arousal from type III home sleep apnea test",
+  "description": "",
+  "type": "numeric",
+  "units": "events",
+  "labels": [
+    "ttlnumma_ma0u_f1t3"
+  ]
+}

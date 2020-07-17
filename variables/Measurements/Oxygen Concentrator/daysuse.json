@@ -1,7 +1,0 @@
-{
-  "id": "daysuse",
-  "display_name": "Oxygen Log: Number of days used",
-  "description": "",
-  "type": "numeric",
-  "units": "days"
-}

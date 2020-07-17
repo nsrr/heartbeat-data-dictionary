@@ -1,0 +1,10 @@
+{
+  "id": "maxevent",
+  "display_name": "Maximum duration of apneas and hypopneas: apneas with no oxygen desaturation threshold used and with or without arousal+ hypopneas with > 50% flow reduction and >= 3% oxygen desaturation and with or without arousal from type III home sleep apnea test",
+  "description": "",
+  "type": "numeric",
+  "units": "seconds",
+  "labels": [
+    "maxdurah_ap0uhp5x3u_f1t3"
+  ]
+}

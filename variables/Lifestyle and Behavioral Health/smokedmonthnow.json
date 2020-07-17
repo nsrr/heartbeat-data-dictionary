@@ -1,0 +1,10 @@
+{
+  "id": "smokedmonthnow",
+  "display_name": "Cigarette smoking, number of cigarettes per day, current",
+  "description": "",
+  "type": "numeric",
+  "units": "cigarettes",
+  "forms": [
+    "heartbeat_baseline_health_questionnaire_form"
+  ]
+}

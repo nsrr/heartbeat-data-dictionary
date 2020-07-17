@@ -1,0 +1,10 @@
+{
+  "id": "pct_move",
+  "display_name": "Percent of total estimated sleep duration in movement from type III home sleep apnea test",
+  "description": "",
+  "type": "numeric",
+  "units": "percent",
+  "labels": [
+    "pctdursp_pm_f1t3"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "id": "desati",
+  "display_name": "Number of oxygen desaturations per hour of sleep from type III home sleep apnea test",
+  "description": "",
+  "type": "numeric",
+  "units": "events per hour",
+  "labels": [
+    "phrnumds_f1t3"
+  ]
+}

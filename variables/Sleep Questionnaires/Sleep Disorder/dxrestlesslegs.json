@@ -1,0 +1,14 @@
+{
+  "id": "dxrestlesslegs",
+  "display_name": "Restless Legs or Periodic Leg Movements: Self-reported year of diagnosis by a physician",
+  "description": "",
+  "type": "choices",
+  "domain": "noyes",
+  "labels": [
+    "RLS_PLMS",
+    "willis-ekbom disease"
+  ],
+  "forms": [
+    "heartbeat_baseline_health_questionnaire_form"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "id": "durapnea",
+  "display_name": "Average duration of apneas from type III home sleep apnea test",
+  "description": "",
+  "type": "numeric",
+  "units": "seconds",
+  "labels": [
+    "avgdurap_f1t3"
+  ]
+}

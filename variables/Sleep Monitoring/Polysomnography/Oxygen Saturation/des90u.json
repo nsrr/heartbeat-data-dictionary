@@ -1,0 +1,10 @@
+{
+  "id": "des90u",
+  "display_name": "Total duration of oxygen saturations with 90 - 94% saturation in upright position from type III home sleep apnea test",
+  "description": "",
+  "type": "numeric",
+  "units": "minutes",
+  "labels": [
+    "ttldursa_pu_sage90le94_f1t3"
+  ]
+}

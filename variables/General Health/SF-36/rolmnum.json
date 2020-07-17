@@ -1,0 +1,9 @@
+{
+  "id": "rolmnum",
+  "display_name": "Medical Outcomes Study SF-36: Number of questions answered in the Role-Emotional subscale",
+  "description": "",
+  "type": "numeric",
+  "labels": [
+    "mossf36"
+  ]
+}

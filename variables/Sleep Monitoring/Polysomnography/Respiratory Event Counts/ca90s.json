@@ -1,0 +1,10 @@
+{
+  "id": "ca90s",
+  "display_name": "Total number of central apneas associated with a desaturation of which the nadir is > 90% oxygen saturation from type III home sleep apnea test",
+  "description": "",
+  "type": "numeric",
+  "units": "events",
+  "labels": [
+    "ttlnumca_nd9x_f1t3"
+  ]
+}

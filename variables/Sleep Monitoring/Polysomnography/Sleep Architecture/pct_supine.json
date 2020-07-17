@@ -1,0 +1,10 @@
+{
+  "id": "pct_supine",
+  "display_name": "Percent of total estimated sleep duration in supine position from type III home sleep apnea test",
+  "description": "",
+  "type": "numeric",
+  "units": "percent",
+  "labels": [
+    "pctdursp_pb_f1t3"
+  ]
+}

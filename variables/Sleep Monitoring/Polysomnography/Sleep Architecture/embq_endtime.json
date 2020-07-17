@@ -1,0 +1,9 @@
+{
+  "id": "embq_endtime",
+  "display_name": "Clock time when the recording (study) ends from type III home sleep apnea test",
+  "description": "",
+  "type": "time",
+  "labels": [
+    "endtimrd_f1t3"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "id": "trig",
+  "display_name": "Triglyceride",
+  "description": "",
+  "type": "numeric",
+  "units": "milligrams per deciliter",
+  "labels": [
+    "mg/dl"
+  ]
+}

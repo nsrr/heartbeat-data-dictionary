@@ -1,0 +1,10 @@
+{
+  "id": "smoked",
+  "display_name": "Cigarette smoking, ever",
+  "description": "",
+  "type": "choices",
+  "domain": "noyes",
+  "forms": [
+    "heartbeat_baseline_health_questionnaire_form"
+  ]
+}

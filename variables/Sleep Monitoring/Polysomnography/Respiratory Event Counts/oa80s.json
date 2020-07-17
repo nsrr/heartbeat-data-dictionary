@@ -1,0 +1,10 @@
+{
+  "id": "oa80s",
+  "display_name": "Total number of obstructive apneas associated with a desaturation of which the nadir is 81 - 90% oxygen saturation from type III home sleep apnea test",
+  "description": "",
+  "type": "numeric",
+  "units": "obstructive apnea events",
+  "labels": [
+    "ttlnumoa_nd8x9x_f1t3"
+  ]
+}

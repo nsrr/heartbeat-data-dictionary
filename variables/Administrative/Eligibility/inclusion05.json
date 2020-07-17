@@ -5,7 +5,8 @@
   "type": "choices",
   "domain": "noyes",
   "labels": [
-    "questionnaire"
+    "sdb",
+    "bqosa"
   ],
   "forms": [
     "heartbeat_eligibility_form"

@@ -1,0 +1,10 @@
+{
+  "id": "durca",
+  "display_name": "Average duration of central apneas from type III home sleep apnea test",
+  "description": "",
+  "type": "numeric",
+  "units": "seconds",
+  "labels": [
+    "avgdurca_f1t3"
+  ]
+}

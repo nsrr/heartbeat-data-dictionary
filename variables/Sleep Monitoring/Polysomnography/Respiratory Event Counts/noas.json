@@ -1,0 +1,10 @@
+{
+  "id": "noas",
+  "display_name": "Total number of obstructive apneas with no oxygen desaturation threshold used and with or without arousal during sleep in supine position from type III home sleep apnea test",
+  "description": "",
+  "type": "numeric",
+  "units": "events",
+  "labels": [
+    "ttlnumoa_pb_oa0u_f1t3"
+  ]
+}

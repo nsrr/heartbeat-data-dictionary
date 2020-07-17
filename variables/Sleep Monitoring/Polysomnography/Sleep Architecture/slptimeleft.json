@@ -1,0 +1,10 @@
+{
+  "id": "slptimeleft",
+  "display_name": "Total duration of sleep in left position from type III home sleep apnea test",
+  "description": "",
+  "type": "numeric",
+  "units": "minutes",
+  "labels": [
+    "ttldursp_pl_f1t3"
+  ]
+}

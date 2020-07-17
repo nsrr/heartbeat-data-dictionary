@@ -1,0 +1,10 @@
+{
+  "id": "alerthr",
+  "display_name": "Alert Heart Rate",
+  "description": "Heart rate >= 150 or <=30 (no A-Fib/Flutter) for 2 consecutive minutes",
+  "type": "choices",
+  "domain": "check01",
+  "forms": [
+    "heartbeat_embletta_qs_form"
+  ]
+}

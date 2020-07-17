@@ -1,0 +1,7 @@
+{
+  "id": "alphablocker_n",
+  "display_name": "Number of alpha blocker?",
+  "description": "",
+  "type": "numeric",
+  "units": "medications"
+}

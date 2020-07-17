@@ -1,0 +1,9 @@
+{
+  "id": "event50s",
+  "display_name": "Total number of apneas and hypopneas associated with a desaturation of which the nadir is 51 - 60% oxygen saturation from type III home sleep apnea test",
+  "description": "",
+  "type": "numeric",
+  "labels": [
+    "ttlnumah_nd5x6x_f1t3"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "id": "exclsat",
+  "display_name": "Exclusion Saturation",
+  "description": "Nocturnal oxygen saturation <85% for >10% of the record",
+  "type": "choices",
+  "domain": "check01",
+  "forms": [
+    "heartbeat_embletta_qs_form"
+  ]
+}

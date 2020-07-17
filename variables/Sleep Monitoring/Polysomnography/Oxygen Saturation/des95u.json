@@ -1,0 +1,10 @@
+{
+  "id": "des95u",
+  "display_name": "Total duration of oxygen saturations with 95 - 97% saturation in upright position from type III home sleep apnea test",
+  "description": "",
+  "type": "numeric",
+  "units": "minutes",
+  "labels": [
+    "ttldursa_pu_sage95le97_f1t3"
+  ]
+}

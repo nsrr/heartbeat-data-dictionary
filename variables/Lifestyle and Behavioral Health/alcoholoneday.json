@@ -1,0 +1,10 @@
+{
+  "id": "alcoholoneday",
+  "display_name": "Alcohol consumption, largest number of drinks in a day, last year",
+  "description": "",
+  "type": "choices",
+  "domain": "daysinyear",
+  "forms": [
+    "heartbeat_baseline_health_questionnaire_form"
+  ]
+}

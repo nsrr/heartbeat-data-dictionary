@@ -1,0 +1,13 @@
+{
+  "id": "map2allsd",
+  "display_name": "Standard Deviation of Mean Arterial Pressure (MAP) (all readings)",
+  "description": "",
+  "type": "numeric",
+  "units": "millimeters of mercury",
+  "labels": [
+    "mmhg",
+    "sleep",
+    "wake",
+    "bp"
+  ]
+}

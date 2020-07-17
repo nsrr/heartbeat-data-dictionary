@@ -1,0 +1,9 @@
+{
+  "id": "alertother_text",
+  "display_name": "Alert Other Text",
+  "description": "",
+  "type": "string",
+  "forms": [
+    "heartbeat_embletta_qs_form"
+  ]
+}

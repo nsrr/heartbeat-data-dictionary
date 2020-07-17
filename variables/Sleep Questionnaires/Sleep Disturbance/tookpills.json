@@ -1,0 +1,16 @@
+{
+  "id": "tookpills",
+  "display_name": "NHANES: In the past 4 weeks, how often take pills to help you sleep",
+  "description": "Item from the National Health and Nutrition Examination Survey (NHANES). [NHANES Questions on Sleep Documentation](https://wwwn.cdc.gov/Nchs/Nhanes/2005-2006/SLQ_D.htm)<br><br>[Search for all NHANES variables within this dataset](https://sleepdata.org/datasets/heartbeat/variables?search=nhanes)",
+  "type": "choices",
+  "domain": "hhqalways",
+  "labels": [
+    "insomnia",
+    "nhanes",
+    "nhanes_17meds"
+  ],
+  "forms": [
+    "heartbeat_baseline_health_questionnaire_form",
+    "heartbeat_final_health_questionnaire_form"
+  ]
+}

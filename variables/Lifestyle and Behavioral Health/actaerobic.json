@@ -1,0 +1,11 @@
+{
+  "id": "actaerobic",
+  "display_name": "Exercise, other aerobic, total length per week",
+  "description": "",
+  "type": "numeric",
+  "units": "minutes",
+  "labels": [
+    "physical activity",
+    "physical functioning"
+  ]
+}

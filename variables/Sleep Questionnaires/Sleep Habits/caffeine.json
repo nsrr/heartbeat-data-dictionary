@@ -1,0 +1,13 @@
+{
+  "id": "caffeine",
+  "display_name": "Caffeine consumption, number of cups per day",
+  "description": "In the last month, how often did you drink beverages containing caffeine (cola, coffee, tea, etc.)?",
+  "type": "choices",
+  "domain": "caffeineintakeamount",
+  "labels": [
+    "sleep_hygiene"
+  ],
+  "forms": [
+    "heartbeat_baseline_health_questionnaire_form"
+  ]
+}

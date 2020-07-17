@@ -1,0 +1,7 @@
+{
+  "id": "abbott_hstnl_flag_qns",
+  "display_name": "Troponin-I, high-sensitivity (Abbott): undetectable level",
+  "description": "",
+  "type": "choices",
+  "domain": "yesno"
+}

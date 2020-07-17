@@ -1,0 +1,10 @@
+{
+  "id": "apnea90s",
+  "display_name": "Total number of apneas associated with a desaturation of which the nadir is > 90% oxygen saturation from type III home sleep apnea test",
+  "description": "",
+  "type": "numeric",
+  "units": "events",
+  "labels": [
+    "ttlnumap_ndgt90_f1t3"
+  ]
+}

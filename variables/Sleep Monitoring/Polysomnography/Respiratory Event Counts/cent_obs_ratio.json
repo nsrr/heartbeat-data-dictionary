@@ -1,0 +1,9 @@
+{
+  "id": "cent_obs_ratio",
+  "display_name": "ECG channel: Hours of usable signal from type III home sleep apnea test",
+  "description": "",
+  "type": "numeric",
+  "labels": [
+    "ratnumap_ca0u_oa0u_f1t3"
+  ]
+}

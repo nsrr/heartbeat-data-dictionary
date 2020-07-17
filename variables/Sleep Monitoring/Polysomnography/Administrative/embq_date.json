@@ -1,0 +1,10 @@
+{
+  "id": "embq_date",
+  "display_name": "Date embletta performed",
+  "description": "",
+  "type": "numeric",
+  "units": "days from index date",
+  "forms": [
+    "heartbeat_embletta_qs_form"
+  ]
+}

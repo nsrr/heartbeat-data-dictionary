@@ -1,7 +1,12 @@
 {
   "id": "oftensnore",
-  "display_name": "How often do you snore",
-  "description": "Question from the Berlin Questionnaire",
+  "display_name": "Berlin Questionnaire: How often do you snore? ",
+  "description": "Item from the Berlin Questionnaire. [Netzer et al, 1999 (PubMed ID: 10507956)] (https://pubmed.ncbi.nlm.nih.gov/10507956/)<br><br>[Search for all Berlin Questionnaire variables within this dataset](https://sleepdata.org/datasets/heartbeat/variables?search=bqosa)",
   "type": "choices",
-  "domain": "howoften"
+  "domain": "howoften",
+  "labels": [
+    "sdb",
+    "bqosa",
+    "bqosa_04freq"
+  ]
 }

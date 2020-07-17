@@ -1,0 +1,13 @@
+{
+  "id": "bsnore",
+  "display_name": "Ever snored",
+  "description": "Have you ever snored (now or at any time in the past)?",
+  "type": "choices",
+  "domain": "noyes",
+  "labels": [
+    "sdb"
+  ],
+  "forms": [
+    "heartbeat_baseline_health_questionnaire_form"
+  ]
+}

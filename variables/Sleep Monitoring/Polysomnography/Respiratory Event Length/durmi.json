@@ -1,0 +1,10 @@
+{
+  "id": "durmi",
+  "display_name": "Average duration of mixed apneas from type III home sleep apnea test",
+  "description": "",
+  "type": "numeric",
+  "units": "seconds",
+  "labels": [
+    "avgdurma_f1t3"
+  ]
+}

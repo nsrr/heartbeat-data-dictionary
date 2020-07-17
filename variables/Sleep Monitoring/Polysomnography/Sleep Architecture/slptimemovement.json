@@ -1,0 +1,11 @@
+{
+  "id": "slptimemovement",
+  "display_name": "Total duration of sleep in movement from type III home sleep apnea test",
+  "description": "",
+  "type": "numeric",
+  "units": "minutes",
+  "labels": [
+    "time_move",
+    "ttldursp_pm_f1t3"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "id": "papnea",
+  "display_name": "Percentage of apneas among all apnea and hypopnea events from type III home sleep apnea test",
+  "description": "",
+  "type": "numeric",
+  "units": "percent",
+  "labels": [
+    "ratnumah_ap0u_ap0uhp5x3u_f1t3"
+  ]
+}

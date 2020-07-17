@@ -1,0 +1,10 @@
+{
+  "id": "ndesatgt20",
+  "display_name": "Total number of oxygen desaturations with > 20% desaturation during sleep from type III home sleep apnea test",
+  "description": "",
+  "type": "numeric",
+  "labels": [
+    "ndesatgt20c",
+    "ttlnumds_dsgt20_f1t3"
+  ]
+}

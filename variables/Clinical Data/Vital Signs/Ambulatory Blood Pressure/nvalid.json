@@ -1,0 +1,10 @@
+{
+  "id": "nvalid",
+  "display_name": "Number of Valid Readings",
+  "description": "",
+  "type": "numeric",
+  "units": "readings",
+  "labels": [
+    "bp"
+  ]
+}

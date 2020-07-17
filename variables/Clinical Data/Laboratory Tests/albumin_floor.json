@@ -1,0 +1,7 @@
+{
+  "id": "albumin_floor",
+  "display_name": "Albumin: undetectable level",
+  "description": "",
+  "type": "choices",
+  "domain": "yesno"
+}

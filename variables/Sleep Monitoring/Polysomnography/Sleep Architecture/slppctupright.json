@@ -1,0 +1,10 @@
+{
+  "id": "slppctupright",
+  "display_name": "Percent of total estimated sleep duration in upright position from type III home sleep apnea test",
+  "description": "",
+  "type": "numeric",
+  "units": "percent",
+  "labels": [
+    "pctdursp_pu_f1t3"
+  ]
+}

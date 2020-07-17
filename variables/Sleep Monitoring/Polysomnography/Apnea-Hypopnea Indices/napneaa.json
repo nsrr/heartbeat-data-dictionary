@@ -1,0 +1,10 @@
+{
+  "id": "napneaa",
+  "display_name": "Apnea Index: Apneas with no oxygen desaturation threshold used and with or without arousal / hours of sleep from type III home sleep apnea test",
+  "description": "Calculated - Summary metric of sleep disordered breathing events. ",
+  "type": "numeric",
+  "units": "events per hour",
+  "labels": [
+    "ai_ap0u_f1t3"
+  ]
+}

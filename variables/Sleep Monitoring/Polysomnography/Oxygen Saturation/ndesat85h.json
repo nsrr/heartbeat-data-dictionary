@@ -1,0 +1,10 @@
+{
+  "id": "ndesat85h",
+  "display_name": "Number of oxygen desaturations with < 85% sesaturation per hour of sleep from type III home sleep apnea test",
+  "description": "",
+  "type": "numeric",
+  "units": "desaturations per hour",
+  "labels": [
+    "phrnumds_salt85_f1t3"
+  ]
+}

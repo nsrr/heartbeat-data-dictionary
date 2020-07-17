@@ -1,0 +1,10 @@
+{
+  "id": "alertother",
+  "display_name": "Alert Other",
+  "description": "",
+  "type": "choices",
+  "domain": "check01",
+  "forms": [
+    "heartbeat_embletta_qs_form"
+  ]
+}

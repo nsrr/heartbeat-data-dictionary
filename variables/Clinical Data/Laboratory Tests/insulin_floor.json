@@ -1,0 +1,7 @@
+{
+  "id": "insulin_floor",
+  "display_name": "Insulin test: undetectable level",
+  "description": "",
+  "type": "choices",
+  "domain": "yesno"
+}

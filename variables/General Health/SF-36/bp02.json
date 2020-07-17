@@ -1,0 +1,14 @@
+{
+  "id": "bp02",
+  "display_name": "Medical Outcomes Study SF-36: During the past 4 weeks, how much did pain interfere with your normal (including both work outside the home and housework)?",
+  "description": "",
+  "type": "choices",
+  "domain": "sf36extremely",
+  "labels": [
+    "mossf36",
+    "mossf36_22painwork"
+  ],
+  "forms": [
+    "heartbeat_sf_36_form"
+  ]
+}

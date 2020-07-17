@@ -1,0 +1,7 @@
+{
+  "id": "daysuse",
+  "display_name": "X-Flow channel: Proportion of valid signal time",
+  "description": "",
+  "type": "numeric",
+  "units": "days"
+}

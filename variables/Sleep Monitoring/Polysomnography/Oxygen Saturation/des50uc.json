@@ -1,0 +1,10 @@
+{
+  "id": "des50uc",
+  "display_name": "Total duration of oxygen saturations with <= 59% saturation in upright position from type III home sleep apnea test",
+  "description": "",
+  "type": "numeric",
+  "units": "minutes",
+  "labels": [
+    "ttldursa_pu_sale59_f1t3"
+  ]
+}

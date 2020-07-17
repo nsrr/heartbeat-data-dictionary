@@ -1,9 +1,0 @@
-{
-  "id": "bmi",
-  "display_name": "Body mass index (BMI)",
-  "description": "",
-  "type": "numeric",
-  "units": "kilograms per meter squared",
-  "calculation": "weightkg / ( heightcm * heightcm )",
-  "commonly_used": true
-}

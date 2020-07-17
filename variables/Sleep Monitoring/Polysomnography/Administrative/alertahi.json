@@ -1,0 +1,10 @@
+{
+  "id": "alertahi",
+  "display_name": "Alert Apnea-Hypopnea Index (AHI) > 50",
+  "description": "",
+  "type": "choices",
+  "domain": "check01",
+  "forms": [
+    "heartbeat_embletta_qs_form"
+  ]
+}

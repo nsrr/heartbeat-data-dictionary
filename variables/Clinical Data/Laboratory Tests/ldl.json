@@ -1,0 +1,11 @@
+{
+  "id": "ldl",
+  "display_name": "LDL cholesterol",
+  "description": "",
+  "type": "numeric",
+  "units": "milligrams per deciliter",
+  "labels": [
+    "mg/dl",
+    "cholestrol"
+  ]
+}

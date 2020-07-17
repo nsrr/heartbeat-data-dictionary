@@ -1,0 +1,12 @@
+{
+  "id": "actswimming",
+  "display_name": "Exercise, swimming, total length per week",
+  "description": "",
+  "type": "numeric",
+  "units": "minutes",
+  "labels": [
+    "exercise",
+    "physical activity",
+    "physical functioning"
+  ]
+}

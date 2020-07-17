@@ -1,0 +1,10 @@
+{
+  "id": "studypass",
+  "display_name": "Study pass",
+  "description": "",
+  "type": "choices",
+  "domain": "studypass",
+  "forms": [
+    "heartbeat_embletta_qs_form"
+  ]
+}

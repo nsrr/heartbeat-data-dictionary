@@ -1,0 +1,9 @@
+{
+  "id": "ma90s",
+  "display_name": "Total number of mixed apneas associated with a desaturation of which the nadir > 90% oxygen saturation from type III home sleep apnea test",
+  "description": "",
+  "type": "numeric",
+  "labels": [
+    "ttlnumma_nd9x_f1t3"
+  ]
+}

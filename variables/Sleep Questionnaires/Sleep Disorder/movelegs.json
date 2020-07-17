@@ -1,0 +1,15 @@
+{
+  "id": "movelegs",
+  "display_name": "Desire to move legs in the last month",
+  "description": "In the last month, did you ever experience a desire to move your legs because of discomfort or disagreeable sensations in your legs?",
+  "type": "choices",
+  "domain": "hhqalways",
+  "labels": [
+    "RLS_PLMS",
+    "willis-ekbom disease"
+  ],
+  "forms": [
+    "heartbeat_baseline_health_questionnaire_form",
+    "heartbeat_final_health_questionnaire_form"
+  ]
+}

@@ -1,7 +1,0 @@
-{
-  "id": "ntprobnp_floor",
-  "display_name": "N-terminal pro B-type natriuretic peptide test: undetectably low levels",
-  "description": "",
-  "type": "choices",
-  "domain": "yesno"
-}

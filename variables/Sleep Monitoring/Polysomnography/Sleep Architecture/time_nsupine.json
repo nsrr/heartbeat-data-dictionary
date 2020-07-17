@@ -1,0 +1,10 @@
+{
+  "id": "time_nsupine",
+  "display_name": "Total duration of sleep in non-supine position from type III home sleep apnea test",
+  "description": "",
+  "type": "numeric",
+  "units": "minutes",
+  "labels": [
+    "ttldursp_po_f1t3"
+  ]
+}

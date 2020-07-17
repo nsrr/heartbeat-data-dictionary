@@ -1,0 +1,10 @@
+{
+  "id": "maxbps",
+  "display_name": "Maximum heart rate during sleep in supine position from type III home sleep apnea test",
+  "description": "",
+  "type": "numeric",
+  "units": "beats per minute",
+  "labels": [
+    "maxlvlhr_pb_f1t3"
+  ]
+}

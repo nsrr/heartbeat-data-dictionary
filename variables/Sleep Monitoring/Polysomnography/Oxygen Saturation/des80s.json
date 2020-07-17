@@ -1,0 +1,10 @@
+{
+  "id": "des80s",
+  "display_name": "Total duration of oxygen saturations with 80 - 89% saturation in supine position from type III home sleep apnea test",
+  "description": "",
+  "type": "numeric",
+  "units": "minutes",
+  "labels": [
+    "ttldursa_pb_sage80le89_f1t3"
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "id": "d_dimer_ug_ml",
+  "display_name": "D-dimer",
+  "description": "",
+  "type": "numeric",
+  "units": "micrograms per milliliter"
+}

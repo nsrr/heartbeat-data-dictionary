@@ -1,7 +1,12 @@
 {
   "id": "nodoften",
-  "display_name": "If yes, how often does this occur",
-  "description": "Question from the Berlin Questionnaire",
+  "display_name": "Berlin Questionnaire: Have you ever nodded off or fallen asleep while driving a vehicle? If yes, how often does it occur",
+  "description": "Item from the Berlin Questionnaire. [Netzer et al, 1999 (PubMed ID: 10507956)] (https://pubmed.ncbi.nlm.nih.gov/10507956/)<br><br>[Search for all Berlin Questionnaire variables within this dataset](https://sleepdata.org/datasets/heartbeat/variables?search=bqosa)",
   "type": "choices",
-  "domain": "howoften"
+  "domain": "howoften",
+  "labels": [
+    "sdb",
+    "bqosa",
+    "bqosa_10nodfreq"
+  ]
 }

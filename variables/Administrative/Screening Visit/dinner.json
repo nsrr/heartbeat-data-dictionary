@@ -1,10 +1,10 @@
 {
   "id": "dinner",
   "display_name": "Chance of dozing while at the dinner table",
-  "description": "Question from the Epworth Sleepiness Scale (ESS)",
+  "description": "Additional item added to the Epworth Sleepiness Scale ",
   "type": "choices",
   "domain": "ess",
   "labels": [
-    "questionnaire"
+    "subjective_sleepiness"
   ]
 }

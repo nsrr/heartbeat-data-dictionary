@@ -1,0 +1,7 @@
+{
+  "id": "hstniiuo_pg_ml_ceiling",
+  "display_name": "Troponin-I, high-sensitivity: above maximum level",
+  "description": "",
+  "type": "choices",
+  "domain": "yesno"
+}

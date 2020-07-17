@@ -1,0 +1,10 @@
+{
+  "id": "avgbps",
+  "display_name": "Average heart rate during sleep in supine position from type III home sleep apnea test",
+  "description": "",
+  "type": "numeric",
+  "units": "beats per minute",
+  "labels": [
+    "avglvlhr_pb_f1t3"
+  ]
+}

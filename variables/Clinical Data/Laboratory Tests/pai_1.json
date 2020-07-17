@@ -1,0 +1,10 @@
+{
+  "id": "pai_1",
+  "display_name": "Plasminogen activator inhibitor-1",
+  "description": "",
+  "type": "numeric",
+  "units": "nanograms per milliliter",
+  "labels": [
+    "ng/ml"
+  ]
+}

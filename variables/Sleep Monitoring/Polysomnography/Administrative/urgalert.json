@@ -1,0 +1,10 @@
+{
+  "id": "urgalert",
+  "display_name": "Urgent Alert",
+  "description": "",
+  "type": "choices",
+  "domain": "yesno",
+  "forms": [
+    "heartbeat_embletta_qs_form"
+  ]
+}

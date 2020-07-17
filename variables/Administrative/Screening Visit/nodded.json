@@ -1,7 +1,12 @@
 {
   "id": "nodded",
-  "display_name": "Have you ever nodded off or fallen asleep while driving a vehicle?",
-  "description": "Question from the Berlin Questionnaire",
+  "display_name": "Berlin Questionnaire: Have you ever nodded off or fallen asleep while driving a vehicle?",
+  "description": "Item from the Berlin Questionnaire. [Netzer et al, 1999 (PubMed ID: 10507956)] (https://pubmed.ncbi.nlm.nih.gov/10507956/)<br><br>[Search for all Berlin Questionnaire variables within this dataset](https://sleepdata.org/datasets/heartbeat/variables?search=bqosa)",
   "type": "choices",
-  "domain": "noyes"
+  "domain": "noyes",
+  "labels": [
+    "sdb",
+    "bqosa",
+    "bqosa_09nodoff"
+  ]
 }

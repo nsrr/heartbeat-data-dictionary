@@ -1,0 +1,10 @@
+{
+  "id": "ndesat10h",
+  "display_name": "Total number of oxygen desaturations with 5 - 9% desaturation per hour of sleep from type III home sleep apnea test",
+  "description": "",
+  "type": "numeric",
+  "units": "desaturations per hour",
+  "labels": [
+    "phrnumds_dsge5le9_f1t3"
+  ]
+}

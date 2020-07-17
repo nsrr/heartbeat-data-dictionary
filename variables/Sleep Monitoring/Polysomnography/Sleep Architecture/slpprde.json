@@ -1,0 +1,10 @@
+{
+  "id": "slpprde",
+  "display_name": "Total estimate sleep duration with body position measured from type III home sleep apnea test",
+  "description": "",
+  "type": "numeric",
+  "units": "minutes",
+  "labels": [
+    "_f1t3"
+  ]
+}

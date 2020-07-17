@@ -1,0 +1,13 @@
+{
+  "id": "bsnorefq",
+  "display_name": "Frequency of snoring",
+  "description": "How often do you snore now",
+  "type": "choices",
+  "domain": "hhqnightsperweeksnore",
+  "labels": [
+    "sdb"
+  ],
+  "forms": [
+    "heartbeat_baseline_health_questionnaire_form"
+  ]
+}

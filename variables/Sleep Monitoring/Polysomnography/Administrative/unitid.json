@@ -1,0 +1,9 @@
+{
+  "id": "unitid",
+  "display_name": "Unit ID",
+  "description": "",
+  "type": "string",
+  "forms": [
+    "heartbeat_embletta_qs_form"
+  ]
+}

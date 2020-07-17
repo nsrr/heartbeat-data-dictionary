@@ -1,0 +1,15 @@
+{
+  "id": "actlowintmn",
+  "display_name": "Exercise, low intensity, minutes",
+  "description": "",
+  "type": "numeric",
+  "units": "minutes",
+  "labels": [
+    "physical activity",
+    "physical functioning"
+  ],
+  "forms": [
+    "heartbeat_baseline_health_questionnaire_form",
+    "heartbeat_final_health_questionnaire_form"
+  ]
+}

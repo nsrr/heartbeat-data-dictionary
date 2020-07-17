@@ -1,0 +1,13 @@
+{
+  "id": "dxinsomnia",
+  "display_name": "Insomnia: Self-reported year of diagnosis by a physician",
+  "description": "",
+  "type": "choices",
+  "domain": "noyes",
+  "labels": [
+    "insomnia"
+  ],
+  "forms": [
+    "heartbeat_baseline_health_questionnaire_form"
+  ]
+}

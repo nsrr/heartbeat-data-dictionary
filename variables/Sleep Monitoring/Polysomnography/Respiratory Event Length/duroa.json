@@ -1,0 +1,10 @@
+{
+  "id": "duroa",
+  "display_name": "Average duration of obstructive apneas from type III home sleep apnea test",
+  "description": "",
+  "type": "numeric",
+  "units": "seconds",
+  "labels": [
+    "avgduroa_f1t3"
+  ]
+}

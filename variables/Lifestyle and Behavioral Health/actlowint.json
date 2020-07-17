@@ -1,0 +1,11 @@
+{
+  "id": "actlowint",
+  "display_name": "Exercise, low intensity, total length per week",
+  "description": "",
+  "type": "numeric",
+  "units": "minutes",
+  "labels": [
+    "physical activity",
+    "physical functioning"
+  ]
+}

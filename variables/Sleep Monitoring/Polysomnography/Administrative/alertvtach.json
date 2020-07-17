@@ -1,0 +1,10 @@
+{
+  "id": "alertvtach",
+  "display_name": "Alert Ventricular Tachycardia",
+  "description": "Non-sustained Ventricular Tachycardia (3 beats duration at rate > 120)",
+  "type": "choices",
+  "domain": "check01",
+  "forms": [
+    "heartbeat_embletta_qs_form"
+  ]
+}

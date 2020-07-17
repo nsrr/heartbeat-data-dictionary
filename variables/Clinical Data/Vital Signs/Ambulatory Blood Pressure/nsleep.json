@@ -1,0 +1,10 @@
+{
+  "id": "nsleep",
+  "display_name": "Number of Sleep Readings",
+  "description": "",
+  "type": "numeric",
+  "units": "readings",
+  "labels": [
+    "bp"
+  ]
+}

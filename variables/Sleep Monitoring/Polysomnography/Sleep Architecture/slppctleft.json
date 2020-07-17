@@ -1,0 +1,10 @@
+{
+  "id": "slppctleft",
+  "display_name": "Percent of total estimated sleep duration in left position from type III home sleep apnea test",
+  "description": "",
+  "type": "numeric",
+  "units": "percent",
+  "labels": [
+    "pctdursp_pl_f1t3"
+  ]
+}

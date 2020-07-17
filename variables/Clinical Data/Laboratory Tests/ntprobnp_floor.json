@@ -1,0 +1,7 @@
+{
+  "id": "ntprobnp_floor",
+  "display_name": "N-terminal pro B-type natriuretic peptide: undetectable level",
+  "description": "",
+  "type": "choices",
+  "domain": "yesno"
+}

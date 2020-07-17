@@ -1,6 +1,6 @@
 {
   "id": "calc_age",
-  "display_name": "Age",
+  "display_name": "Age of the participant",
   "description": "",
   "type": "numeric",
   "units": "years",

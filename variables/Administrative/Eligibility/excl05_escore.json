@@ -4,7 +4,7 @@
   "description": "",
   "type": "numeric",
   "labels": [
-    "questionnaire"
+    "subjective_sleepiness"
   ],
   "forms": [
     "heartbeat_eligibility_form"

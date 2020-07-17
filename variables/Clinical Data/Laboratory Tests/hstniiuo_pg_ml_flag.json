@@ -1,0 +1,7 @@
+{
+  "id": "hstniiuo_pg_ml_flag",
+  "display_name": "Troponin-I, high-sensitivity: undetectable level",
+  "description": "",
+  "type": "choices",
+  "domain": "yesno"
+}

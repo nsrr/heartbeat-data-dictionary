@@ -1,0 +1,10 @@
+{
+  "id": "calt50",
+  "display_name": "Total number of central apneas associated with a desaturation of which the nadir is equal to or less than 50% oxygen saturation from type III home sleep apnea test",
+  "description": "",
+  "type": "numeric",
+  "units": "events",
+  "labels": [
+    "ttlnumca_nd5x_f1t3"
+  ]
+}

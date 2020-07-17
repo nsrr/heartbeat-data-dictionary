@@ -1,7 +1,0 @@
-{
-  "id": "hstniiuo_pg_ml_ceiling",
-  "display_name": "High sensitivity Troponin-I test: above maximum levels",
-  "description": "",
-  "type": "choices",
-  "domain": "yesno"
-}

@@ -1,0 +1,13 @@
+{
+  "id": "alcoholbed",
+  "display_name": "Alcohol consumption, two hours before bedtime",
+  "description": "When you drink alcohol, do you usually drink during the two hours before bedtime?",
+  "type": "choices",
+  "domain": "noyes",
+  "labels": [
+    "sleep_hygiene"
+  ],
+  "forms": [
+    "heartbeat_baseline_health_questionnaire_form"
+  ]
+}
