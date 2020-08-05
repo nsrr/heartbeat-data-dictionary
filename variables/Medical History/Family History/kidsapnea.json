@@ -1,12 +1,9 @@
 {
   "id": "kidsapnea",
-  "display_name": "Family: Sleep Apnea (children)",
+  "display_name": "Sleep Apnea: Self-reported family history in children",
   "description": "",
   "type": "choices",
   "domain": "noyes",
-  "labels": [
-    "osa"
-  ],
   "forms": [
     "heartbeat_baseline_health_questionnaire_form"
   ]

@@ -1,6 +1,6 @@
 {
   "id": "dxhighchol",
-  "display_name": "Diagnosed: High Blood Cholesterol",
+  "display_name": "Hypercholesterolemia: Self-reported diagnosis by a physician",
   "description": "",
   "type": "choices",
   "domain": "noyes",

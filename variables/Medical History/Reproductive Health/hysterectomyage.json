@@ -1,6 +1,6 @@
 {
   "id": "hysterectomyage",
-  "display_name": "Age of hysterectomy",
+  "display_name": "Hysterectomy: Self-reported age when performed",
   "description": "",
   "type": "numeric",
   "units": "years",

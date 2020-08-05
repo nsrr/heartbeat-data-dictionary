@@ -1,6 +1,6 @@
 {
   "id": "betablocker",
-  "display_name": "Any beta blocker usage?",
+  "display_name": "Beta-Blocker: Use verified by inspection",
   "description": "",
   "type": "choices",
   "domain": "check01"

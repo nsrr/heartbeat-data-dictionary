@@ -1,11 +1,7 @@
 {
   "id": "syssleepmax",
-  "display_name": "Maximum Systolic Pressure (asleep)",
+  "display_name": "Maximum systolic pressure while asleep",
   "description": "",
   "type": "numeric",
-  "units": "millimeters of mercury",
-  "labels": [
-    "mmhg",
-    "bp"
-  ]
+  "units": "millimeters of mercury"
 }

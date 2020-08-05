@@ -8,5 +8,8 @@
     "epworth",
     "subjective_sleepiness",
     "ess_2watchingtv"
+  ],
+  "forms": [
+    "heartbeat_screening_form"
   ]
 }

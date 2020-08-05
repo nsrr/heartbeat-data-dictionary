@@ -1,6 +1,6 @@
 {
   "id": "alphablocker",
-  "display_name": "Any alpha blocker usage?",
+  "display_name": "Alpha-Blocker: Use verified by inspection",
   "description": "",
   "type": "choices",
   "domain": "check01"

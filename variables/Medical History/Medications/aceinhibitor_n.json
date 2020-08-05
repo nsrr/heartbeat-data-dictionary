@@ -1,6 +1,6 @@
 {
   "id": "aceinhibitor_n",
-  "display_name": "Number of ace inhibitors?",
+  "display_name": "ACE Inhibitor: Number taken verified by inspection",
   "description": "",
   "type": "numeric",
   "units": "medications"

@@ -8,5 +8,8 @@
     "sdb",
     "bqosa",
     "bqosa_11highbp"
+  ],
+  "forms": [
+    "heartbeat_screening_form"
   ]
 }

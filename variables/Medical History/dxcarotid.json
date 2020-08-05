@@ -1,6 +1,6 @@
 {
   "id": "dxcarotid",
-  "display_name": "Diagnosed: Carotid Surgery (Endarterectomy)",
+  "display_name": "Carotid Endarterectomy: Self-reported",
   "description": "",
   "type": "choices",
   "domain": "noyes",

@@ -1,6 +1,6 @@
 {
   "id": "aldosteroneblocker_n",
-  "display_name": "Number of aldosterone blocker?",
+  "display_name": "Aldosterone Blocker: Number taken verified by inspection",
   "description": "",
   "type": "numeric",
   "units": "medications"

@@ -1,6 +1,6 @@
 {
   "id": "dxcanclung",
-  "display_name": "Diagnosed: Cancer, if yes: Lung",
+  "display_name": "Cancer, Lung: Self-reported diagnosis by a physician",
   "description": "",
   "type": "choices",
   "domain": "noyes",

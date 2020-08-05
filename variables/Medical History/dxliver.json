@@ -1,6 +1,6 @@
 {
   "id": "dxliver",
-  "display_name": "Diagnosed: Liver Disease",
+  "display_name": "Liver Disease: Self-reported diagnosis by a physician",
   "description": "",
   "type": "choices",
   "domain": "noyes",

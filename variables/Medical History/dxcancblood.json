@@ -1,6 +1,6 @@
 {
   "id": "dxcancblood",
-  "display_name": "Diagnosed: Cancer, if yes: Blood (leukemia, lymphoma, other)",
+  "display_name": "Cancer, Hematologic: Self-reported diagnosis by a physician",
   "description": "",
   "type": "choices",
   "domain": "noyes",

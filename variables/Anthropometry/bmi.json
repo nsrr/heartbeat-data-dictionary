@@ -1,6 +1,6 @@
 {
   "id": "bmi",
-  "display_name": "Body mass index (BMI)",
+  "display_name": "Body mass index ",
   "description": "",
   "type": "numeric",
   "units": "kilograms per meter squared",

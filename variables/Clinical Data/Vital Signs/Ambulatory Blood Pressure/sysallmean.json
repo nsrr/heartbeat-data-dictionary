@@ -1,14 +1,8 @@
 {
   "id": "sysallmean",
-  "display_name": "Average Systolic Pressure (all readings)",
+  "display_name": "Average systolic pressure",
   "description": "",
   "type": "numeric",
   "units": "millimeters of mercury",
-  "labels": [
-    "mmhg",
-    "sleep",
-    "wake",
-    "bp"
-  ],
   "commonly_used": true
 }

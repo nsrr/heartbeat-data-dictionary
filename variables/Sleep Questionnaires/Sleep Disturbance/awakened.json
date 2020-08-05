@@ -1,9 +1,13 @@
 {
   "id": "awakened",
-  "display_name": "Awakened in the last month by coughing or wheezing",
-  "description": "",
+  "display_name": "Awakened in the last month by trouble breathing",
+  "description": "In the last month, have you been awakened at night by trouble breathing?",
   "type": "choices",
-  "domain": "hhqalways",
+  "domain": "noyes",
+  "labels": [
+    "sleep_disturbance",
+    "sob"
+  ],
   "forms": [
     "heartbeat_baseline_health_questionnaire_form",
     "heartbeat_final_health_questionnaire_form"

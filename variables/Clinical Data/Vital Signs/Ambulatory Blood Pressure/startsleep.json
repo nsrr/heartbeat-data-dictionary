@@ -2,8 +2,5 @@
   "id": "startsleep",
   "display_name": "Beginning of sleep time",
   "description": "",
-  "type": "time",
-  "labels": [
-    "bp"
-  ]
+  "type": "time"
 }

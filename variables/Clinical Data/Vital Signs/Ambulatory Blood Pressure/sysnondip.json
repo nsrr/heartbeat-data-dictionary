@@ -3,9 +3,5 @@
   "display_name": "Less than 10% systolic dipping from wake to sleep",
   "description": "",
   "type": "choices",
-  "domain": "noyes01",
-  "labels": [
-    "bp",
-    "nondipper"
-  ]
+  "domain": "noyes01"
 }

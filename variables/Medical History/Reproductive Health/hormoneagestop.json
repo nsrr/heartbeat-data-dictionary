@@ -1,6 +1,6 @@
 {
   "id": "hormoneagestop",
-  "display_name": "Age stopped taking hormones",
+  "display_name": "Hormone replacement therapy, not currently using, age stopped",
   "description": "",
   "type": "numeric",
   "units": "years",

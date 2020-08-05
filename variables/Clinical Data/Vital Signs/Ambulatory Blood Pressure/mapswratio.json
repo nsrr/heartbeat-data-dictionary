@@ -1,9 +1,6 @@
 {
   "id": "mapswratio",
-  "display_name": "Ratio of Mean Arterial Pressure (MAP) between sleep and wake",
-  "description": "",
-  "type": "numeric",
-  "labels": [
-    "bp"
-  ]
+  "display_name": "Ratio of mean arterial pressure between sleep and wake",
+  "description": "Mean pressure was directly exported from the device.",
+  "type": "numeric"
 }

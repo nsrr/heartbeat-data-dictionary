@@ -1,12 +1,9 @@
 {
   "id": "pulse2",
-  "display_name": "Second Pulse Measurement",
+  "display_name": "Second pulse measurement",
   "description": "",
   "type": "numeric",
   "units": "beats per minute",
-  "labels": [
-    "bpm"
-  ],
   "forms": [
     "heartbeat_physical_measurements_form"
   ]

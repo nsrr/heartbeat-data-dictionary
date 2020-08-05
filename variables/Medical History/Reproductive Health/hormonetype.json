@@ -1,6 +1,6 @@
 {
   "id": "hormonetype",
-  "display_name": "Hormone therapy type",
+  "display_name": "Hormone replacement therapy, type",
   "description": "",
   "type": "choices",
   "domain": "htherapy",

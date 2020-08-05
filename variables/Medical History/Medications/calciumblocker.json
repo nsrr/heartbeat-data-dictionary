@@ -1,6 +1,6 @@
 {
   "id": "calciumblocker",
-  "display_name": "Any calcium blocker usage?",
+  "display_name": "Calcium Channel Blocker: Use verified by inspection",
   "description": "",
   "type": "choices",
   "domain": "check01"

@@ -1,6 +1,6 @@
 {
   "id": "dxasthma",
-  "display_name": "Diagnosed: Asthma",
+  "display_name": "Asthma: Self-reported diagnosis by a physician",
   "description": "",
   "type": "choices",
   "domain": "noyes",

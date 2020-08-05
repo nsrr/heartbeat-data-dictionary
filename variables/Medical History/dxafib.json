@@ -1,6 +1,6 @@
 {
   "id": "dxafib",
-  "display_name": "Diagnosed: Atrial Fibrillation",
+  "display_name": "Atrial Fibrillation: Self-reported diagnosis by a physician",
   "description": "",
   "type": "choices",
   "domain": "noyes",

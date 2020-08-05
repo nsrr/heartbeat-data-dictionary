@@ -1,6 +1,6 @@
 {
   "id": "dxcancbreast",
-  "display_name": "Diagnosed: Cancer, if yes: Breast",
+  "display_name": "Cancer, Breast: Self-reported diagnosis by a physician",
   "description": "",
   "type": "choices",
   "domain": "noyes",

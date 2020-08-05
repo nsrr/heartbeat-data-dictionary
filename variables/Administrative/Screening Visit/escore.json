@@ -6,5 +6,8 @@
   "labels": [
     "epworth",
     "subjective_sleepiness"
+  ],
+  "forms": [
+    "heartbeat_screening_form"
   ]
 }

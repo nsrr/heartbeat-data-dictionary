@@ -1,14 +1,7 @@
 {
   "id": "heartallsd",
-  "display_name": "Standard Deviation of Heart Rate (all readings)",
+  "display_name": "Standard deviation of heart rate",
   "description": "",
   "type": "numeric",
-  "units": "beats per minute",
-  "labels": [
-    "hr",
-    "bpm",
-    "sleep",
-    "wake",
-    "bp"
-  ]
+  "units": "beats per minute"
 }

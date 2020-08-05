@@ -1,11 +1,8 @@
 {
   "id": "hipmean",
-  "display_name": "Hip Circumference Mean (2 Measurements)",
+  "display_name": "Hip circumference mean (2 measurements)",
   "description": "",
   "type": "numeric",
   "units": "centimeters",
-  "labels": [
-    "cm"
-  ],
   "commonly_used": true
 }

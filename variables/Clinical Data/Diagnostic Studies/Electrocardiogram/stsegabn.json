@@ -1,12 +1,7 @@
 {
   "id": "stsegabn",
-  "display_name": "ST Segment Abnormality",
+  "display_name": "ST segment abnormality",
   "description": "",
   "type": "choices",
-  "domain": "stsegab",
-  "labels": [
-    "ecg",
-    "ekg",
-    "depression"
-  ]
+  "domain": "stsegab"
 }

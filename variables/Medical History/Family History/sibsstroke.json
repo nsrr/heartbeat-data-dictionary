@@ -1,13 +1,9 @@
 {
   "id": "sibsstroke",
-  "display_name": "Family: Stroke (siblings)",
+  "display_name": "Cerebrovascular Accident (CVA): Self-reported family history in siblings",
   "description": "",
   "type": "choices",
   "domain": "noyes",
-  "labels": [
-    "brother",
-    "sister"
-  ],
   "forms": [
     "heartbeat_baseline_health_questionnaire_form"
   ]

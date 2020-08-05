@@ -1,11 +1,7 @@
 {
   "id": "syswakemax",
-  "display_name": "Maximum Systolic Pressure (wake)",
+  "display_name": "Maximum systolic pressure while awake",
   "description": "",
   "type": "numeric",
-  "units": "millimeters of mercury",
-  "labels": [
-    "mmhg",
-    "bp"
-  ]
+  "units": "millimeters of mercury"
 }

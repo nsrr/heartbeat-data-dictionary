@@ -1,6 +1,6 @@
 {
   "id": "betablocker_n",
-  "display_name": "Number of beta blockers?",
+  "display_name": "Beta-Blocker: Number taken verified by inspection",
   "description": "",
   "type": "numeric",
   "units": "medications"

@@ -1,6 +1,6 @@
 {
   "id": "perdilator",
-  "display_name": "Any peripheral dilator usage?",
+  "display_name": "Peripheral Dilator: Use verified by inspection",
   "description": "",
   "type": "choices",
   "domain": "check01"

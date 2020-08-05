@@ -3,9 +3,5 @@
   "display_name": "Hypertrophy",
   "description": "",
   "type": "choices",
-  "domain": "hypertro",
-  "labels": [
-    "ecg",
-    "ekg"
-  ]
+  "domain": "hypertro"
 }

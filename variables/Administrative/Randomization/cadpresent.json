@@ -3,8 +3,5 @@
   "display_name": "Presence of established coronary artery disease (CAD)",
   "description": "",
   "type": "choices",
-  "domain": "noyes",
-  "labels": [
-    "heart disease"
-  ]
+  "domain": "noyes"
 }

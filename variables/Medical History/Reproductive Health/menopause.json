@@ -1,6 +1,6 @@
 {
   "id": "menopause",
-  "display_name": "Gone through menopause",
+  "display_name": "Post-menopausal",
   "description": "",
   "type": "choices",
   "domain": "noyes",

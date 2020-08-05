@@ -1,6 +1,6 @@
 {
   "id": "perdilator_n",
-  "display_name": "Number of peripheral dilators?",
+  "display_name": "Peripheral Dilator: Number taken verified by inspection",
   "description": "",
   "type": "numeric",
   "units": "medications"

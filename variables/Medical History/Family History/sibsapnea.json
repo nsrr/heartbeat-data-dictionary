@@ -1,14 +1,9 @@
 {
   "id": "sibsapnea",
-  "display_name": "Family: Sleep Apnea (siblings)",
+  "display_name": "Sleep Apnea: Self-reported family history in siblings",
   "description": "",
   "type": "choices",
   "domain": "noyes",
-  "labels": [
-    "osa",
-    "brother",
-    "sister"
-  ],
   "forms": [
     "heartbeat_baseline_health_questionnaire_form"
   ]

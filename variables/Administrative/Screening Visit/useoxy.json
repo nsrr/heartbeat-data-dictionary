@@ -6,5 +6,8 @@
   "domain": "noyes",
   "labels": [
     "sdb"
+  ],
+  "forms": [
+    "heartbeat_screening_form"
   ]
 }

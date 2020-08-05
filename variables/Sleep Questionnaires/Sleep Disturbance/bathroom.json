@@ -5,8 +5,7 @@
   "type": "choices",
   "domain": "hhqalways",
   "labels": [
-    "restroom",
-    "urinate"
+    "sleep_disturbance"
   ],
   "forms": [
     "heartbeat_baseline_health_questionnaire_form",

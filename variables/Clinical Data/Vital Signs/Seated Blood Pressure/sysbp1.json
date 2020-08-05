@@ -1,12 +1,9 @@
 {
   "id": "sysbp1",
-  "display_name": "First Systolic Blood Pressure (BP) Measurement",
+  "display_name": "First systolic blood pressure measurement",
   "description": "",
   "type": "numeric",
   "units": "millimeters of mercury",
-  "labels": [
-    "mmhg"
-  ],
   "forms": [
     "heartbeat_physical_measurements_form"
   ]

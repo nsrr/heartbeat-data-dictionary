@@ -1,10 +1,11 @@
 {
   "id": "chestpain",
-  "display_name": "Oximeter channel: Hours of usable signal",
+  "display_name": "Awakened in the last month by chest pain or tightness",
   "description": "",
   "type": "choices",
   "domain": "hhqalways",
   "labels": [
+    "sleep_disturbance",
     "angina"
   ],
   "forms": [

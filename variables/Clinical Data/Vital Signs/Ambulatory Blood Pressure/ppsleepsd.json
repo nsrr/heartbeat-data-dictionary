@@ -1,11 +1,7 @@
 {
   "id": "ppsleepsd",
-  "display_name": "Standard Deviation of Pulse Pressure (asleep)",
+  "display_name": "Standard deviation of pulse pressure while asleep",
   "description": "",
   "type": "numeric",
-  "units": "millimeters of mercury",
-  "labels": [
-    "mmhg",
-    "bp"
-  ]
+  "units": "millimeters of mercury"
 }

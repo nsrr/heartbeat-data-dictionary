@@ -2,9 +2,5 @@
   "id": "heartswratio",
   "display_name": "Ratio of heart rate between sleep and wake",
   "description": "",
-  "type": "numeric",
-  "labels": [
-    "hr",
-    "bp"
-  ]
+  "type": "numeric"
 }

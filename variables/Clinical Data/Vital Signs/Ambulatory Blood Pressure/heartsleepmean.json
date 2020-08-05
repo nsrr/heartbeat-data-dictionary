@@ -1,12 +1,7 @@
 {
   "id": "heartsleepmean",
-  "display_name": "Average Heart Rate (asleep)",
+  "display_name": "Average heart rate while asleep",
   "description": "",
   "type": "numeric",
-  "units": "beats per minute",
-  "labels": [
-    "hr",
-    "bpm",
-    "bp"
-  ]
+  "units": "beats per minute"
 }

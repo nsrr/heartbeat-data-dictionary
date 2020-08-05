@@ -1,10 +1,6 @@
 {
   "id": "vrhr",
-  "display_name": "Ventricular rate to heart rate",
+  "display_name": "Ventricular rate / heart rate",
   "description": "Ratio of the ventricular rate to the heart rate",
-  "type": "numeric",
-  "labels": [
-    "ecg",
-    "ekg"
-  ]
+  "type": "numeric"
 }

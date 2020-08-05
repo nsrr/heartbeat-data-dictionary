@@ -1,6 +1,6 @@
 {
   "id": "statin",
-  "display_name": "Any statin usage?",
+  "display_name": "Statin: Use verified by inspection",
   "description": "",
   "type": "choices",
   "domain": "check01"

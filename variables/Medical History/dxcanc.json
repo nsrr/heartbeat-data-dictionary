@@ -1,6 +1,6 @@
 {
   "id": "dxcanc",
-  "display_name": "Diagnosed: Cancer",
+  "display_name": "Cancer: Self-reported diagnosis by a physician",
   "description": "",
   "type": "choices",
   "domain": "noyes",

@@ -1,6 +1,6 @@
 {
   "id": "dxrheumatic",
-  "display_name": "Diagnosed: Rheumatic heart disease or heart valve problems",
+  "display_name": "Valvular Heart Disease: Self-reported diagnosis by a physician",
   "description": "",
   "type": "choices",
   "domain": "noyes",

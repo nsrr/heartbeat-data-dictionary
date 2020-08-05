@@ -4,9 +4,6 @@
   "description": "",
   "type": "choices",
   "domain": "source",
-  "labels": [
-    "mail"
-  ],
   "forms": [
     "heartbeat_eligibility_form"
   ]

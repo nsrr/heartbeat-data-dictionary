@@ -1,6 +1,6 @@
 {
   "id": "alphablocker_n",
-  "display_name": "Number of alpha blocker?",
+  "display_name": "Alpha-Blocker: Number taken verified by inspection",
   "description": "",
   "type": "numeric",
   "units": "medications"

@@ -4,9 +4,6 @@
   "description": "",
   "type": "choices",
   "domain": "check01",
-  "labels": [
-    "moved"
-  ],
   "forms": [
     "heartbeat_withdrawal_form"
   ]

@@ -1,11 +1,7 @@
 {
   "id": "mapsleepvalid",
-  "display_name": "Mean Arterial Pressure (MAP) reading with valid sleep",
-  "description": "",
+  "display_name": "Mean arterial pressure reading with valid sleep",
+  "description": "Mean pressure was directly exported from the device.",
   "type": "numeric",
-  "units": "millimeters of mercury",
-  "labels": [
-    "mmhg",
-    "bp"
-  ]
+  "units": "millimeters of mercury"
 }

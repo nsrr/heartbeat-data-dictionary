@@ -1,6 +1,6 @@
 {
   "id": "otherah",
-  "display_name": "Any other anti-hypertensive usage?",
+  "display_name": "Antihypertensive, Other: Use verified by inspection",
   "description": "",
   "type": "choices",
   "domain": "check01",

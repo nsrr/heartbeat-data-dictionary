@@ -1,9 +1,6 @@
 {
   "id": "mapratiovalid",
-  "display_name": "Ratio of mean Mean Arterial Pressure (MAP) from sleep to wake with valid sleep and wake",
+  "display_name": "Ratio of mean mean arterial pressure from sleep to wake with valid sleep and wake",
   "description": "",
-  "type": "numeric",
-  "labels": [
-    "bp"
-  ]
+  "type": "numeric"
 }

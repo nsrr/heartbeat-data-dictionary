@@ -1,14 +1,7 @@
 {
   "id": "oldinfarct",
-  "display_name": "Old Infarct",
+  "display_name": "Old infarct",
   "description": "",
   "type": "choices",
-  "domain": "oldinfarct",
-  "labels": [
-    "ecg",
-    "ekg",
-    "mi",
-    "myocardial infarction",
-    "heart attack"
-  ]
+  "domain": "oldinfarct"
 }

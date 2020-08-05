@@ -1,12 +1,7 @@
 {
   "id": "pdur",
-  "display_name": "Duration of P-wave",
+  "display_name": "P wave duration",
   "description": "Duration of atrial depolarization",
   "type": "numeric",
-  "units": "milliseconds",
-  "labels": [
-    "ecg",
-    "ekg",
-    "ms"
-  ]
+  "units": "milliseconds"
 }

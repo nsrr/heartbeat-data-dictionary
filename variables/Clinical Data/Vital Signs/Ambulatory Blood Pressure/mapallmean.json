@@ -1,13 +1,7 @@
 {
   "id": "mapallmean",
-  "display_name": "Average Mean Arterial Pressure (MAP) (all readings)",
-  "description": "",
+  "display_name": "Average mean arterial pressure",
+  "description": "Mean pressure was directly exported from the device.",
   "type": "numeric",
-  "units": "millimeters of mercury",
-  "labels": [
-    "mmhg",
-    "sleep",
-    "wake",
-    "bp"
-  ]
+  "units": "millimeters of mercury"
 }

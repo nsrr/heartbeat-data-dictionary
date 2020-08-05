@@ -1,6 +1,6 @@
 {
   "id": "calciumblocker_n",
-  "display_name": "Number of calcium blocker?",
+  "display_name": "Calcium Channel Blocker: Number taken verified by inspection",
   "description": "",
   "type": "numeric",
   "units": "medications"

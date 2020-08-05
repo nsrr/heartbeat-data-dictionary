@@ -1,6 +1,6 @@
 {
   "id": "dxtia",
-  "display_name": "Diagnosed: TIA (Transient Ischemic Attack)",
+  "display_name": "Transient Ischemic Attack (TIA): Self-reported diagnosis by a physician",
   "description": "",
   "type": "choices",
   "domain": "noyes",

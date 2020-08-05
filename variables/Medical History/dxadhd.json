@@ -1,6 +1,6 @@
 {
   "id": "dxadhd",
-  "display_name": "Diagnosed: Attention Deficit/Attention Deficit Hyperactivity Disorder (ADD/ADHD)",
+  "display_name": "Attention Deficit Disorder/Attention Deficit Hyperactivity Disorder (ADD/ADHD): Self-reported diagnosis by a physician",
   "description": "",
   "type": "choices",
   "domain": "noyes",

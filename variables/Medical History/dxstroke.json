@@ -1,6 +1,6 @@
 {
   "id": "dxstroke",
-  "display_name": "Diagnosed: Stroke ((CVA) Cerebrovascular accident)",
+  "display_name": "Cerebrovascular Accident (CVA): Self-reported diagnosis by a physician",
   "description": "",
   "type": "choices",
   "domain": "noyes",

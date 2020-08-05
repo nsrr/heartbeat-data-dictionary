@@ -4,6 +4,9 @@
   "description": "If yes, was this confirmed with a skin test",
   "type": "choices",
   "domain": "noyes",
+  "labels": [
+    "allergy_symptoms"
+  ],
   "forms": [
     "heartbeat_baseline_health_questionnaire_form"
   ]

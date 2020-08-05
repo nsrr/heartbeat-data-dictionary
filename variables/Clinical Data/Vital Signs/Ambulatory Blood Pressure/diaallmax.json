@@ -1,14 +1,7 @@
 {
   "id": "diaallmax",
-  "display_name": "Maximum Diastolic Pressure (all readings)",
+  "display_name": "Maximum diastolic pressure",
   "description": "",
   "type": "numeric",
-  "units": "millimeters of mercury",
-  "labels": [
-    "mmhg",
-    "highest",
-    "wake",
-    "sleep",
-    "bp"
-  ]
+  "units": "millimeters of mercury"
 }

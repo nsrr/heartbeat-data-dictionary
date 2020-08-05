@@ -7,5 +7,8 @@
   "labels": [
     "sdb",
     "bqosa"
+  ],
+  "forms": [
+    "heartbeat_screening_form"
   ]
 }

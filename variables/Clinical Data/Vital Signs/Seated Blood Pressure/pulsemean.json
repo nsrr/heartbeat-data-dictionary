@@ -1,11 +1,8 @@
 {
   "id": "pulsemean",
-  "display_name": "Pulse Mean (3 Measurements)",
+  "display_name": "Pulse mean (3 measurements)",
   "description": "",
   "type": "numeric",
   "units": "beats per minute",
-  "labels": [
-    "bpm"
-  ],
   "commonly_used": true
 }

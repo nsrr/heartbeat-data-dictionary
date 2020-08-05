@@ -1,6 +1,6 @@
 {
   "id": "dxheartattack",
-  "display_name": "Diagnosed: Heart attack",
+  "display_name": "Myocardial Infarction (MI): Self-reported diagnosis by a physician",
   "description": "",
   "type": "choices",
   "domain": "noyes",

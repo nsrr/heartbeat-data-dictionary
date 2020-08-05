@@ -1,6 +1,6 @@
 {
   "id": "diabetes",
-  "display_name": "Any diabetes medication usage?",
+  "display_name": "Diabetes Medication: Use verified by inspection",
   "description": "",
   "type": "choices",
   "domain": "check01",

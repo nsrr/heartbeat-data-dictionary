@@ -1,6 +1,6 @@
 {
   "id": "dxsclerosis",
-  "display_name": "Diagnosed: Multiple Sclerosis (MS)",
+  "display_name": "Multiple Sclerosis: Self-reported diagnosis by a physician",
   "description": "",
   "type": "choices",
   "domain": "noyes",

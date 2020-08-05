@@ -5,6 +5,7 @@
   "type": "choices",
   "domain": "noyes",
   "labels": [
+    "cardiovascular_symptoms",
     "angina"
   ],
   "forms": [

@@ -1,12 +1,7 @@
 {
   "id": "rrdur",
-  "display_name": "RR duration",
+  "display_name": "RR interval",
   "description": "Time between the onset of one QRS complex and the next QRS complex",
   "type": "numeric",
-  "units": "milliseconds",
-  "labels": [
-    "ecg",
-    "ekg",
-    "ms"
-  ]
+  "units": "milliseconds"
 }

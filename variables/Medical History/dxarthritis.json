@@ -1,12 +1,9 @@
 {
   "id": "dxarthritis",
-  "display_name": "Diagnosed: Rheumatoid Arthritis, Lupus, or other Collagen Vascular Disease",
+  "display_name": "Rheumatoid Arthritis, Lupus, or other Collagen Vascular Disease: Self-reported diagnosis by a physician",
   "description": "",
   "type": "choices",
   "domain": "noyes",
-  "labels": [
-    "ra"
-  ],
   "forms": [
     "heartbeat_baseline_health_questionnaire_form"
   ]

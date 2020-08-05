@@ -1,6 +1,6 @@
 {
   "id": "hormoneage",
-  "display_name": "Age started hormone replacement therapy",
+  "display_name": "Hormone replacement therapy, currently using, age started",
   "description": "",
   "type": "numeric",
   "units": "years",

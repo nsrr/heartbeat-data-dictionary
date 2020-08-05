@@ -1,6 +1,6 @@
 {
   "id": "dxcancoth_text",
-  "display_name": "Diagnosed: Cancer, if yes: Other",
+  "display_name": "Cancer, Other, Type: Self-reported diagnosis by a physician",
   "description": "",
   "type": "string",
   "forms": [

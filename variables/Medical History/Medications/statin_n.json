@@ -1,6 +1,6 @@
 {
   "id": "statin_n",
-  "display_name": "Number of statins?",
+  "display_name": "Statin: Number taken verified by inspection",
   "description": "",
   "type": "numeric",
   "units": "medications"

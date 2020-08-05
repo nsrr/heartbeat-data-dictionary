@@ -1,15 +1,7 @@
 {
   "id": "qrsother",
-  "display_name": "QRS Conduction Block: Other",
+  "display_name": "QRS conduction block: other",
   "description": "",
   "type": "choices",
-  "domain": "check01",
-  "labels": [
-    "ecg",
-    "ekg",
-    "ivc",
-    "intraventricular conduction delay",
-    "wide",
-    "bbb"
-  ]
+  "domain": "check01"
 }

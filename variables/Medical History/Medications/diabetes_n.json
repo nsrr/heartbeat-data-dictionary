@@ -1,6 +1,6 @@
 {
   "id": "diabetes_n",
-  "display_name": "Number of diabetes medications?",
+  "display_name": "Diabetes Medication: Number taken verified by inspection",
   "description": "",
   "type": "numeric",
   "units": "medications",

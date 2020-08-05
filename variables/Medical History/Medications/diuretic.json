@@ -1,6 +1,6 @@
 {
   "id": "diuretic",
-  "display_name": "Any diuretic usage?",
+  "display_name": "Diuretic: Use verified by inspection",
   "description": "",
   "type": "choices",
   "domain": "check01"

@@ -1,11 +1,7 @@
 {
   "id": "suggisch",
-  "display_name": "Suggesting Ischemia",
+  "display_name": "Suggesting ischemia",
   "description": "",
   "type": "choices",
-  "domain": "suggisch",
-  "labels": [
-    "ecg",
-    "ekg"
-  ]
+  "domain": "suggisch"
 }

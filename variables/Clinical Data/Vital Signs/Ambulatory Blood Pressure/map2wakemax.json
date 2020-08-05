@@ -1,12 +1,7 @@
 {
   "id": "map2wakemax",
-  "display_name": "Maximum Mean Arterial Pressure (MAP) (wake)",
-  "description": "",
+  "display_name": "Maximum mean arterial pressure while awake",
+  "description": "Mean pressure was calculated at each reading as one third of systolic mean pressure pressure plus two thirds of diastolic mean pressure pressure.",
   "type": "numeric",
-  "units": "millimeters of mercury",
-  "labels": [
-    "mmhg",
-    "highest",
-    "bp"
-  ]
+  "units": "millimeters of mercury"
 }

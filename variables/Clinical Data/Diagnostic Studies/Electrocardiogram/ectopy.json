@@ -3,10 +3,5 @@
   "display_name": "Ectopy",
   "description": "",
   "type": "choices",
-  "domain": "ectopy",
-  "labels": [
-    "ecg",
-    "ekg",
-    "ectopic"
-  ]
+  "domain": "ectopy"
 }

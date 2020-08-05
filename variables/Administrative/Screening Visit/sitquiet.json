@@ -8,5 +8,8 @@
     "epworth",
     "subjective_sleepiness",
     "ess_7afterlunch"
+  ],
+  "forms": [
+    "heartbeat_screening_form"
   ]
 }

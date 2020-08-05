@@ -6,5 +6,8 @@
   "domain": "noyes",
   "labels": [
     "sleep_hygiene"
+  ],
+  "forms": [
+    "heartbeat_screening_form"
   ]
 }

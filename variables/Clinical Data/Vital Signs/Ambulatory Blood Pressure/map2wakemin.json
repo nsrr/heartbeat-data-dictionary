@@ -1,12 +1,7 @@
 {
   "id": "map2wakemin",
-  "display_name": "Minimum Mean Arterial Pressure (MAP) (wake)",
-  "description": "",
+  "display_name": "Minimum mean arterial pressure while awake",
+  "description": "Mean pressure was calculated at each reading as one third of systolic mean pressure pressure plus two thirds of diastolic mean pressure pressure.",
   "type": "numeric",
-  "units": "millimeters of mercury",
-  "labels": [
-    "mmhg",
-    "lowest",
-    "bp"
-  ]
+  "units": "millimeters of mercury"
 }

@@ -1,6 +1,6 @@
 {
   "id": "dxdepression",
-  "display_name": "Diagnosed: Depression",
+  "display_name": "Depression: Self-reported diagnosis by a physician",
   "description": "",
   "type": "choices",
   "domain": "noyes",

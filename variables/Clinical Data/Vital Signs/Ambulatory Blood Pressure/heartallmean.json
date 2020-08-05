@@ -1,15 +1,8 @@
 {
   "id": "heartallmean",
-  "display_name": "Average Heart Rate (all readings)",
+  "display_name": "Average heart rate",
   "description": "",
   "type": "numeric",
   "units": "beats per minute",
-  "labels": [
-    "hr",
-    "bpm",
-    "sleep",
-    "wake",
-    "bp"
-  ],
   "commonly_used": true
 }

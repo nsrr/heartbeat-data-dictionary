@@ -1,12 +1,9 @@
 {
   "id": "pulse1",
-  "display_name": "First Pulse Measurement",
+  "display_name": "First pulse measurement",
   "description": "",
   "type": "numeric",
   "units": "beats per minute",
-  "labels": [
-    "bpm"
-  ],
   "forms": [
     "heartbeat_physical_measurements_form"
   ]

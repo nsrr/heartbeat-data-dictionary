@@ -1,6 +1,6 @@
 {
   "id": "ahihigh",
-  "display_name": "Withdrawal Reason: Apnea-Hypopnea Index (AHI) greater than 50",
+  "display_name": "Withdrawal Reason: Apnea-Hypopnea Index greater than 50",
   "description": "",
   "type": "choices",
   "domain": "check01",

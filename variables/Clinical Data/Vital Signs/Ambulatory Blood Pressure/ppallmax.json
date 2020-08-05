@@ -1,13 +1,7 @@
 {
   "id": "ppallmax",
-  "display_name": "Maximum Mean Pulse Pressure (all readings)",
+  "display_name": "Maximum mean pulse pressure",
   "description": "",
   "type": "numeric",
-  "units": "millimeters of mercury",
-  "labels": [
-    "mmhg",
-    "wake",
-    "sleep",
-    "bp"
-  ]
+  "units": "millimeters of mercury"
 }

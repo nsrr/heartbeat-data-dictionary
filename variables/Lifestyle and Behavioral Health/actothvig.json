@@ -3,9 +3,5 @@
   "display_name": "Exercise, other vigorous, total length per week",
   "description": "",
   "type": "numeric",
-  "units": "minutes",
-  "labels": [
-    "physical activity",
-    "physical functioning"
-  ]
+  "units": "minutes"
 }

@@ -1,6 +1,6 @@
 {
   "id": "dxsinus",
-  "display_name": "Diagnosed: Sinus Problems",
+  "display_name": "Sinus Disorder: Self-reported diagnosis by a physician",
   "description": "",
   "type": "choices",
   "domain": "noyes",

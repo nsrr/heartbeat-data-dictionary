@@ -1,12 +1,9 @@
 {
   "id": "dxdiabmedtype",
-  "display_name": "Diagnosed: Diabetes, medication type",
+  "display_name": "Diabetes: Self-reported treatment, medication type",
   "description": "",
   "type": "choices",
   "domain": "insulinmed",
-  "labels": [
-    "dm"
-  ],
   "forms": [
     "heartbeat_baseline_health_questionnaire_form"
   ]

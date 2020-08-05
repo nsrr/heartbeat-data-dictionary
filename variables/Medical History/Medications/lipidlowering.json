@@ -1,6 +1,6 @@
 {
   "id": "lipidlowering",
-  "display_name": "Any lipid lowering medications usage?",
+  "display_name": "Lipid Lowering Medication: Use verified by inspection",
   "description": "",
   "type": "choices",
   "domain": "check01"

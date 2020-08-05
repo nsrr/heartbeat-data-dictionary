@@ -1,6 +1,6 @@
 {
   "id": "dxhighbp",
-  "display_name": "Diagnosed: High Blood Pressure (BP) or hypertension (HTN)",
+  "display_name": "Hypertension: Self-reported diagnosis by a physician",
   "description": "",
   "type": "choices",
   "domain": "noyes",

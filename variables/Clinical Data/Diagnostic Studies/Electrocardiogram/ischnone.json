@@ -1,11 +1,7 @@
 {
   "id": "ischnone",
-  "display_name": "Ischemia Pattern: None",
+  "display_name": "Ischemia: none",
   "description": "",
   "type": "choices",
-  "domain": "check01",
-  "labels": [
-    "ecg",
-    "ekg"
-  ]
+  "domain": "check01"
 }

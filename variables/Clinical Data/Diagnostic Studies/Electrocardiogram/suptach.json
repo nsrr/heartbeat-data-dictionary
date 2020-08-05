@@ -3,23 +3,5 @@
   "display_name": "Supraventricular tachycardia",
   "description": "",
   "type": "choices",
-  "domain": "check01",
-  "labels": [
-    "ecg",
-    "ekg",
-    "svt",
-    "atrioventricular nodal reentrant ",
-    "avnrt",
-    "atrioventricular reciprocating",
-    "avrt",
-    "wolff-parkinson-white syndrome",
-    "atrial",
-    "paroxysmal",
-    "psvt",
-    "paroxysmal atrial",
-    "pat",
-    "atrial fibrillation",
-    "atrial flutter",
-    "wpw"
-  ]
+  "domain": "check01"
 }

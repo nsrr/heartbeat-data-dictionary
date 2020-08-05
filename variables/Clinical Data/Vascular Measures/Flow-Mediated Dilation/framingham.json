@@ -1,9 +1,6 @@
 {
   "id": "framingham",
-  "display_name": "Log OCC/Base:Con/Base 90-120s",
+  "display_name": "Reactive hyperemia index: Framingham",
   "description": "Framingham Calculation",
-  "type": "numeric",
-  "labels": [
-    "endothelial function using peripheral arterial tonometry"
-  ]
+  "type": "numeric"
 }

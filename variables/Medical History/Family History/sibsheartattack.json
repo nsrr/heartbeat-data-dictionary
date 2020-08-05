@@ -1,15 +1,9 @@
 {
   "id": "sibsheartattack",
-  "display_name": "Family: Heart Attack (siblings)",
+  "display_name": "Myocardial Infarction (MI): Self-reported family history in siblings",
   "description": "",
   "type": "choices",
   "domain": "noyes",
-  "labels": [
-    "mi",
-    "myocardial infection",
-    "brother",
-    "sister"
-  ],
   "forms": [
     "heartbeat_baseline_health_questionnaire_form"
   ]

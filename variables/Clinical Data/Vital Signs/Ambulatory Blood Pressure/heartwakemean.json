@@ -1,12 +1,7 @@
 {
   "id": "heartwakemean",
-  "display_name": "Average Heart Rate (wake)",
+  "display_name": "Average heart rate while awake",
   "description": "",
   "type": "numeric",
-  "units": "beats per minute",
-  "labels": [
-    "hr",
-    "bpm",
-    "bp"
-  ]
+  "units": "beats per minute"
 }

@@ -1,6 +1,6 @@
 {
   "id": "dxbloodclots",
-  "display_name": "Diagnosed: Blood clots in the lung or in the leg veins",
+  "display_name": "Pulmonary Embolism or Deep Venous Thrombosis: Self-reported diagnosis by a physician",
   "description": "",
   "type": "choices",
   "domain": "noyes",

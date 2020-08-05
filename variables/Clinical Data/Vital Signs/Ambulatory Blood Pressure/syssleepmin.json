@@ -1,11 +1,7 @@
 {
   "id": "syssleepmin",
-  "display_name": "Minimum Systolic Pressure (asleep)",
+  "display_name": "Minimum systolic pressure while asleep",
   "description": "",
   "type": "numeric",
-  "units": "millimeters of mercury",
-  "labels": [
-    "mmhg",
-    "bp"
-  ]
+  "units": "millimeters of mercury"
 }

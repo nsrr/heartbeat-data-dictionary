@@ -1,6 +1,6 @@
 {
   "id": "hormone",
-  "display_name": "Currently using hormone replacement therapy",
+  "display_name": "Hormone replacement therapy, currently using",
   "description": "",
   "type": "choices",
   "domain": "noyes",

@@ -1,13 +1,9 @@
 {
   "id": "period",
-  "display_name": "Had menstrual period in past 12 months",
+  "display_name": "Menstrual period in the past 12 months",
   "description": "",
   "type": "choices",
   "domain": "noyes",
-  "labels": [
-    "yr",
-    "year"
-  ],
   "forms": [
     "heartbeat_baseline_health_questionnaire_form"
   ]

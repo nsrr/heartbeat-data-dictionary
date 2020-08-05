@@ -1,14 +1,7 @@
 {
   "id": "heartallmin",
-  "display_name": "Minimum Mean Heart Rate (all readings)",
+  "display_name": "Minimum mean heart rate",
   "description": "",
   "type": "numeric",
-  "units": "beats per minute",
-  "labels": [
-    "hr",
-    "bpm",
-    "wake",
-    "sleep",
-    "bp"
-  ]
+  "units": "beats per minute"
 }

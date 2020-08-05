@@ -3,11 +3,5 @@
   "display_name": "Atrial flutter",
   "description": "",
   "type": "choices",
-  "domain": "check01",
-  "labels": [
-    "ecg",
-    "aflutter",
-    "a-flutter",
-    "ekg"
-  ]
+  "domain": "check01"
 }

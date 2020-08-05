@@ -1,6 +1,6 @@
 {
   "id": "dxanxiety",
-  "display_name": "Diagnosed: Anxiety Disorder",
+  "display_name": "Anxiety Disorder: Self-reported diagnosis by a physician",
   "description": "",
   "type": "choices",
   "domain": "noyes",

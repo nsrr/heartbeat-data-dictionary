@@ -1,6 +1,6 @@
 {
   "id": "clusterid",
-  "display_name": "Recoded Site Identifier",
+  "display_name": "Recoded site identifier",
   "description": "The original site identifier was removed from the dataset because it was considered identifiable.",
   "type": "choices",
   "domain": "clusterid",

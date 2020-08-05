@@ -1,6 +1,6 @@
 {
   "id": "dxmigraine",
-  "display_name": "Diagnosed: Migraine Headaches",
+  "display_name": "Migraine Headaches: Self-reported diagnosis by a physician",
   "description": "",
   "type": "choices",
   "domain": "noyes",

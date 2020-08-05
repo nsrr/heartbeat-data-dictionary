@@ -1,6 +1,6 @@
 {
   "id": "nitrate_n",
-  "display_name": "Number of nitrates?",
+  "display_name": "Nitrate: Number taken verified by inspection",
   "description": "",
   "type": "numeric",
   "units": "medications"

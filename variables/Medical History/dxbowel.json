@@ -1,6 +1,6 @@
 {
   "id": "dxbowel",
-  "display_name": "Diagnosed: Inflammatory Bowel Disease (Ulcerative Colitis or Crohns Disease)",
+  "display_name": "Inflammatory Bowel Disease  (Ulcerative Colitis or Crohns Disease): Self-reported diagnosis by a physician",
   "description": "",
   "type": "choices",
   "domain": "noyes",

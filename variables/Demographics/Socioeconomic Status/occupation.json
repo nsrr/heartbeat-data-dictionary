@@ -3,10 +3,6 @@
   "display_name": "Most recent occupation",
   "description": "",
   "type": "string",
-  "labels": [
-    "job",
-    "career"
-  ],
   "forms": [
     "heartbeat_baseline_health_questionnaire_form"
   ]

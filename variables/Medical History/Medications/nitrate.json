@@ -1,6 +1,6 @@
 {
   "id": "nitrate",
-  "display_name": "Any nitrate usage?",
+  "display_name": "Nitrate: Use verified by inspection",
   "description": "",
   "type": "choices",
   "domain": "check01"

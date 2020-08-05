@@ -1,12 +1,9 @@
 {
   "id": "dxdiabage",
-  "display_name": "Diagnosed: Diabetes, age first treated",
+  "display_name": "Diabetes: Self-reported age first treated",
   "description": "",
   "type": "numeric",
   "units": "years",
-  "labels": [
-    "dm"
-  ],
   "forms": [
     "heartbeat_baseline_health_questionnaire_form"
   ]

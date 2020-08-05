@@ -1,6 +1,6 @@
 {
   "id": "ovariesage",
-  "display_name": "Age ovaries were removed",
+  "display_name": "Oophorectomy: Self-reported age when performed",
   "description": "",
   "type": "numeric",
   "units": "years",

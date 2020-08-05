@@ -3,10 +3,5 @@
   "display_name": "Normal sinus rhythm",
   "description": "",
   "type": "choices",
-  "domain": "check01",
-  "labels": [
-    "nsr",
-    "ecg",
-    "ekg"
-  ]
+  "domain": "check01"
 }

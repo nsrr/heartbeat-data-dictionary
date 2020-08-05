@@ -3,9 +3,5 @@
   "display_name": "Exercise, weight training-arms, total length per week",
   "description": "",
   "type": "numeric",
-  "units": "minutes",
-  "labels": [
-    "physical activity",
-    "physical functioning"
-  ]
+  "units": "minutes"
 }

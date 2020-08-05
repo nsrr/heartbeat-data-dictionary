@@ -1,6 +1,6 @@
 {
   "id": "dxliveroth",
-  "display_name": "Diagnosed: Liver Disease, If yes: Other",
+  "display_name": "Liver Disease, Other: Self-reported diagnosis by a physician",
   "description": "",
   "type": "choices",
   "domain": "noyes",

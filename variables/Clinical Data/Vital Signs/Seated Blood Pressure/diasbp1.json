@@ -1,12 +1,9 @@
 {
   "id": "diasbp1",
-  "display_name": "First Diastolic Blood Pressure (BP) Measurement",
+  "display_name": "First diastolic blood pressure measurement",
   "description": "",
   "type": "numeric",
   "units": "millimeters of mercury",
-  "labels": [
-    "mmhg"
-  ],
   "forms": [
     "heartbeat_physical_measurements_form"
   ]

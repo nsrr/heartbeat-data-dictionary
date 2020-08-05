@@ -1,6 +1,6 @@
 {
   "id": "kidsstroke",
-  "display_name": "Family: Stroke (children)",
+  "display_name": "Cerebrovascular Accident (CVA): Self-reported family history in children",
   "description": "",
   "type": "choices",
   "domain": "noyes",

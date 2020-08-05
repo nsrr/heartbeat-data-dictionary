@@ -5,7 +5,8 @@
   "type": "choices",
   "domain": "hhqalways",
   "labels": [
-    "dog barking"
+    "noise",
+    "sleep_disturbance"
   ],
   "forms": [
     "heartbeat_baseline_health_questionnaire_form",

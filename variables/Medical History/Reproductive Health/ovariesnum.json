@@ -1,16 +1,13 @@
 {
   "id": "ovariesnum",
-  "display_name": "Number of ovaries removed",
+  "display_name": "Oophorectomy: Self-reported number of ovaries removed",
   "description": "",
   "type": "numeric",
   "units": "ovaries",
   "labels": [
-    "one",
-    "two",
-    "1",
-    "2",
     "hysterectomy",
-    "oophorectomy"
+    "oophorectomy",
+    "yrs"
   ],
   "forms": [
     "heartbeat_baseline_health_questionnaire_form"

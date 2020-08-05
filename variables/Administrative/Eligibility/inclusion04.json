@@ -4,23 +4,6 @@
   "description": "",
   "type": "choices",
   "domain": "noyes",
-  "labels": [
-    "heart disease",
-    "high hdl cholestrol",
-    "low hdl cholestrol",
-    "high blood pressure",
-    "htn",
-    "hypertension",
-    "family history",
-    "diabetes",
-    "dm",
-    "smoking",
-    "post-menopausal",
-    "over 45 years old",
-    "obesity",
-    "high-density",
-    "low-density"
-  ],
   "forms": [
     "heartbeat_eligibility_form"
   ]

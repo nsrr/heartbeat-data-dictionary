@@ -1,9 +1,6 @@
 {
   "id": "rhi",
-  "display_name": "EndoPat: Reactive Hyperemia Index",
+  "display_name": "Reactive hyperemia index: Endo?PAT2000",
   "description": "",
-  "type": "numeric",
-  "labels": [
-    "endothelial function using peripheral arterial tonometry"
-  ]
+  "type": "numeric"
 }

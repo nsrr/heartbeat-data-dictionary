@@ -1,6 +1,6 @@
 {
   "id": "dxcopd",
-  "display_name": "Diagnosed: Emphysema or chronic obstructive pulmonary disease (COPD)",
+  "display_name": "Emphysema or Chronic Obstructive Pulmonary Disease (COPD): Self-reported diagnosis by a physician",
   "description": "",
   "type": "choices",
   "domain": "noyes",

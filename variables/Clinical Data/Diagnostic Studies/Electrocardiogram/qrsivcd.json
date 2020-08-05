@@ -1,16 +1,7 @@
 {
   "id": "qrsivcd",
-  "display_name": "QRS Conduction Block: Intraventricular Conduction Delay",
+  "display_name": "Intraventricular conduction delay",
   "description": "QRS complex wider than .12 seconds",
   "type": "choices",
-  "domain": "check01",
-  "labels": [
-    "ecg",
-    "ekg",
-    "bundle branch block",
-    "bbb",
-    "left",
-    "right",
-    "wide"
-  ]
+  "domain": "check01"
 }

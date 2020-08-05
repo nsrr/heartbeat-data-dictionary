@@ -1,14 +1,7 @@
 {
   "id": "mapallmin",
-  "display_name": "Minimum Mean Arterial Pressure (MAP) (all readings)",
-  "description": "",
+  "display_name": "Minimum mean arterial pressure",
+  "description": "Mean pressure was directly exported from the device.",
   "type": "numeric",
-  "units": "millimeters of mercury",
-  "labels": [
-    "mmhg",
-    "lowest",
-    "sleep",
-    "wake",
-    "bp"
-  ]
+  "units": "millimeters of mercury"
 }

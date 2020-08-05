@@ -1,12 +1,7 @@
 {
   "id": "qrsnone",
-  "display_name": "QRS Conduction Block: None",
+  "display_name": "QRS conduction block: none",
   "description": "",
   "type": "choices",
-  "domain": "check01",
-  "labels": [
-    "ecg",
-    "ekg",
-    "< .12 seconds"
-  ]
+  "domain": "check01"
 }

@@ -1,6 +1,6 @@
 {
   "id": "hormonetype_text",
-  "display_name": "Hormone therapy type (specify)",
+  "display_name": "Hormone replacement therapy, other, type",
   "description": "",
   "type": "string",
   "labels": [

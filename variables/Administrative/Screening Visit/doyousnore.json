@@ -8,5 +8,8 @@
     "sdb",
     "bqosa",
     "bqosa_02snore"
+  ],
+  "forms": [
+    "heartbeat_screening_form"
   ]
 }

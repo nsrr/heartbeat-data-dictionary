@@ -1,6 +1,6 @@
 {
   "id": "hysterectomy",
-  "display_name": "Had hysterectomy",
+  "display_name": "Hysterectomy: Self-reported",
   "description": "",
   "type": "choices",
   "domain": "yesno123",

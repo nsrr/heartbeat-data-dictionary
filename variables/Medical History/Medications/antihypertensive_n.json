@@ -1,6 +1,6 @@
 {
   "id": "antihypertensive_n",
-  "display_name": "Number of anti-hypertensives?",
+  "display_name": "Antihypertensive: Number taken verified by inspection",
   "description": "",
   "type": "numeric",
   "units": "medications",

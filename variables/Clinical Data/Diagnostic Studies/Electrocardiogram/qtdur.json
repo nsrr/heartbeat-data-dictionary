@@ -1,12 +1,7 @@
 {
   "id": "qtdur",
-  "display_name": "Duration of the Q-T interval",
+  "display_name": "QT interval",
   "description": "",
   "type": "numeric",
-  "units": "milliseconds",
-  "labels": [
-    "ecg",
-    "ekg",
-    "ms"
-  ]
+  "units": "milliseconds"
 }

@@ -1,6 +1,6 @@
 {
   "id": "dxother2",
-  "display_name": "Diagnosed: Other 2",
+  "display_name": "Other Medical Condition 2: Self-reported diagnosis by a physician",
   "description": "",
   "type": "choices",
   "domain": "noyes",

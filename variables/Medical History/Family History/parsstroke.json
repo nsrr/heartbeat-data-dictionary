@@ -1,6 +1,6 @@
 {
   "id": "parsstroke",
-  "display_name": "Family: Stroke (parents)",
+  "display_name": "Cerebrovascular Accident (CVA): Self-reported family history in parents",
   "description": "",
   "type": "choices",
   "domain": "noyes",

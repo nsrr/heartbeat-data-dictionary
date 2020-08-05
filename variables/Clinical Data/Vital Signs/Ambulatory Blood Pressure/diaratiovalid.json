@@ -2,8 +2,5 @@
   "id": "diaratiovalid",
   "display_name": "Ratio of diastolic between sleep and wake with valid sleep and wake",
   "description": "",
-  "type": "numeric",
-  "labels": [
-    "bp"
-  ]
+  "type": "numeric"
 }

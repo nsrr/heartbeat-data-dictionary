@@ -1,9 +1,6 @@
 {
   "id": "sleeptotal",
-  "display_name": "Total Study Time Asleep",
+  "display_name": "Total study duration while the participant is asleep",
   "description": "",
-  "type": "time",
-  "labels": [
-    "bp"
-  ]
+  "type": "time"
 }

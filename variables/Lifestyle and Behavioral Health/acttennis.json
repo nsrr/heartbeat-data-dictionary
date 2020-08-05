@@ -3,10 +3,5 @@
   "display_name": "Exercise, tennis squash racquetball, total length per week",
   "description": "",
   "type": "numeric",
-  "units": "minutes",
-  "labels": [
-    "exercise",
-    "physical activity",
-    "physical functioning"
-  ]
+  "units": "minutes"
 }

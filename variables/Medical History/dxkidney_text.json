@@ -1,6 +1,6 @@
 {
   "id": "dxkidney_text",
-  "display_name": "Diagnosed: Kidney Disease (specify)",
+  "display_name": "Kidney Disease, Type: Self-reported diagnosis by a physician",
   "description": "",
   "type": "string",
   "forms": [

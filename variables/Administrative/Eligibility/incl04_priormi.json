@@ -4,10 +4,6 @@
   "description": "",
   "type": "choices",
   "domain": "check01",
-  "labels": [
-    "heart attack",
-    "heart disease"
-  ],
   "forms": [
     "heartbeat_eligibility_form"
   ]

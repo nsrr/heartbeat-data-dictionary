@@ -1,11 +1,7 @@
 {
   "id": "ppwakesd",
-  "display_name": "Standard Deviation of Pulse Pressure (wake)",
+  "display_name": "Standard deviation of pulse pressure while awake",
   "description": "",
   "type": "numeric",
-  "units": "millimeters of mercury",
-  "labels": [
-    "mmhg",
-    "bp"
-  ]
+  "units": "millimeters of mercury"
 }

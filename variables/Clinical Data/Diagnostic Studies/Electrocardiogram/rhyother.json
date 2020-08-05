@@ -3,9 +3,5 @@
   "display_name": "Other rhythm",
   "description": "",
   "type": "choices",
-  "domain": "check01",
-  "labels": [
-    "ecg",
-    "ekg"
-  ]
+  "domain": "check01"
 }

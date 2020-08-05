@@ -1,12 +1,7 @@
 {
   "id": "qtcdur",
-  "display_name": "QTc duration",
+  "display_name": "QTc interval",
   "description": "Duration of the corrected Q-T interval",
   "type": "numeric",
-  "units": "milliseconds",
-  "labels": [
-    "ecg",
-    "ekg",
-    "ms"
-  ]
+  "units": "milliseconds"
 }

@@ -1,14 +1,7 @@
 {
   "id": "map2allmax",
-  "display_name": "Maximum Mean Arterial Pressure (MAP) (all readings)",
-  "description": "",
+  "display_name": "Maximum mean arterial pressure",
+  "description": "Mean pressure was calculated at each reading as one third of systolic mean pressure pressure plus two thirds of diastolic mean pressure pressure.",
   "type": "numeric",
-  "units": "millimeters of mercury",
-  "labels": [
-    "mmhg",
-    "highest",
-    "sleep",
-    "wake",
-    "bp"
-  ]
+  "units": "millimeters of mercury"
 }

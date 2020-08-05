@@ -1,6 +1,6 @@
 {
   "id": "otherah_n",
-  "display_name": "Number of other anti-hypertensives?",
+  "display_name": "Antihypertensive, Other: Number taken verified by inspection",
   "description": "",
   "type": "numeric",
   "units": "medications",

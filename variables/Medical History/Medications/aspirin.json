@@ -1,6 +1,6 @@
 {
   "id": "aspirin",
-  "display_name": "Ever used aspirin on a regular basis",
+  "display_name": "Aspirin: Self-reported use",
   "description": "",
   "type": "choices",
   "domain": "noyes",

@@ -5,8 +5,7 @@
   "type": "choices",
   "domain": "noyes",
   "labels": [
-    "RLS_PLMS",
-    "willis-ekbom disease"
+    "rls_plms"
   ],
   "forms": [
     "heartbeat_baseline_health_questionnaire_form"

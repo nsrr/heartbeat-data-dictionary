@@ -1,9 +1,6 @@
 {
   "id": "ecgcomments_text",
-  "display_name": "Comments on the ECG",
+  "display_name": "Comments",
   "description": "",
-  "type": "string",
-  "labels": [
-    "ekg"
-  ]
+  "type": "string"
 }

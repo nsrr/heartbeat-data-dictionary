@@ -1,13 +1,7 @@
 {
   "id": "ppallmean",
-  "display_name": "Average Pulse Pressure (all readings)",
+  "display_name": "Average pulse pressure",
   "description": "",
   "type": "numeric",
-  "units": "millimeters of mercury",
-  "labels": [
-    "mmhg",
-    "sleep",
-    "wake",
-    "bp"
-  ]
+  "units": "millimeters of mercury"
 }

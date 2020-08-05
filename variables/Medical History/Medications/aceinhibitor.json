@@ -1,6 +1,6 @@
 {
   "id": "aceinhibitor",
-  "display_name": "Any ace inhibitor usage?",
+  "display_name": "ACE Inhibitor: Use verified by inspection",
   "description": "",
   "type": "choices",
   "domain": "check01"

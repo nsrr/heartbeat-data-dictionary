@@ -1,11 +1,7 @@
 {
   "id": "ischant",
-  "display_name": "Ischemia Pattern: Anterior wall",
+  "display_name": "Ischemia: anterior wall",
   "description": "",
   "type": "choices",
-  "domain": "check01",
-  "labels": [
-    "ecg",
-    "ekg"
-  ]
+  "domain": "check01"
 }

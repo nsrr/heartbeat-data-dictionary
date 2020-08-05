@@ -1,12 +1,9 @@
 {
   "id": "dxdiabinsulin",
-  "display_name": "Diagnosed: Diabetes, was insulin first medicine",
+  "display_name": "Diabetes: Self-reported initial treatment with insulin",
   "description": "",
   "type": "choices",
   "domain": "noyes",
-  "labels": [
-    "dm"
-  ],
   "forms": [
     "heartbeat_baseline_health_questionnaire_form"
   ]

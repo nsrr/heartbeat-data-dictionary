@@ -1,21 +1,9 @@
 {
   "id": "adverseevent",
-  "display_name": "Withdrawal Reason: Adverse Event or Serious Adverse Event",
+  "display_name": "Withdrawal Reason: Adverse event or serious adverse event",
   "description": "",
   "type": "choices",
   "domain": "check01",
-  "labels": [
-    "ae",
-    "sae",
-    "medication device reaction",
-    "drug interaction",
-    "worsening of pre-existing condition",
-    "apparent unrelated illness",
-    "clinical intervention",
-    "abnormal laboratory value",
-    "hospitalization",
-    "surgery "
-  ],
   "forms": [
     "heartbeat_withdrawal_form"
   ]

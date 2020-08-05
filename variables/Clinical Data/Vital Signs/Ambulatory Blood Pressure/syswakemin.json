@@ -1,11 +1,7 @@
 {
   "id": "syswakemin",
-  "display_name": "Minimum Systolic Pressure (wake)",
+  "display_name": "Minimum systolic pressure while awake",
   "description": "",
   "type": "numeric",
-  "units": "millimeters of mercury",
-  "labels": [
-    "mmhg",
-    "bp"
-  ]
+  "units": "millimeters of mercury"
 }

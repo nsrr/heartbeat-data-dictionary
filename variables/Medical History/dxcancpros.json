@@ -1,6 +1,6 @@
 {
   "id": "dxcancpros",
-  "display_name": "Diagnosed: Cancer, if yes: Prostate",
+  "display_name": "Cancer, Prostate: Self-reported diagnosis by a physician",
   "description": "",
   "type": "choices",
   "domain": "noyes",

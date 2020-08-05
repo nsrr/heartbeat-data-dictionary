@@ -1,6 +1,6 @@
 {
   "id": "antihypertensive",
-  "display_name": "Any anti-hypertensive usage?",
+  "display_name": "Antihypertensive: Use verified by inspection",
   "description": "",
   "type": "choices",
   "domain": "check01",

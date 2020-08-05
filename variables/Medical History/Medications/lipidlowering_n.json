@@ -1,6 +1,6 @@
 {
   "id": "lipidlowering_n",
-  "display_name": "Number of lipid lowering medications?",
+  "display_name": "Lipid Lowering Medication: Number taken verified by inspection",
   "description": "",
   "type": "numeric",
   "units": "medications"

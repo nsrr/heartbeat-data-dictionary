@@ -1,11 +1,8 @@
 {
   "id": "neckmean",
-  "display_name": "Neck Circumference Mean (2 Measurements)",
+  "display_name": "Neck circumference mean (2 measurements)",
   "description": "",
   "type": "numeric",
   "units": "centimeters",
-  "labels": [
-    "cm"
-  ],
   "commonly_used": true
 }

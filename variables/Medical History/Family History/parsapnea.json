@@ -1,12 +1,9 @@
 {
   "id": "parsapnea",
-  "display_name": "Family: Sleep Apnea (parents)",
+  "display_name": "Sleep Apnea: Self-reported family history in parents",
   "description": "",
   "type": "choices",
   "domain": "noyes",
-  "labels": [
-    "osa"
-  ],
   "forms": [
     "heartbeat_baseline_health_questionnaire_form"
   ]

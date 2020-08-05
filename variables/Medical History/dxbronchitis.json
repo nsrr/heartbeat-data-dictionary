@@ -1,6 +1,6 @@
 {
   "id": "dxbronchitis",
-  "display_name": "Diagnosed: Chronic Bronchitis",
+  "display_name": "Chronic Bronchitis: Self-reported diagnosis by a physician",
   "description": "",
   "type": "choices",
   "domain": "noyes",

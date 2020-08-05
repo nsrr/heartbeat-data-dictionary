@@ -8,5 +8,8 @@
     "epworth",
     "subjective_sleepiness",
     "ess_8stoppedcar"
+  ],
+  "forms": [
+    "heartbeat_screening_form"
   ]
 }

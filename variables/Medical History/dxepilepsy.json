@@ -1,6 +1,6 @@
 {
   "id": "dxepilepsy",
-  "display_name": "Diagnosed: Epilepsy (Seizure Disorder)",
+  "display_name": "Seizure Disorder: Self-reported diagnosis by a physician",
   "description": "",
   "type": "choices",
   "domain": "noyes",

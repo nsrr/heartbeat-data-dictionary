@@ -1,13 +1,9 @@
 {
   "id": "kidsheartattack",
-  "display_name": "Family: Heart Attack (children)",
+  "display_name": "Myocardial Infarction (MI): Self-reported family history in children",
   "description": "",
   "type": "choices",
   "domain": "noyes",
-  "labels": [
-    "mi",
-    "myocardial infection"
-  ],
   "forms": [
     "heartbeat_baseline_health_questionnaire_form"
   ]

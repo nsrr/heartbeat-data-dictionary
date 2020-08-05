@@ -1,6 +1,6 @@
 {
   "id": "aldosteroneblocker",
-  "display_name": "Any aldosterone blocker usage?",
+  "display_name": "Aldosterone Blocker: Use verified by inspection",
   "description": "",
   "type": "choices",
   "domain": "check01"
