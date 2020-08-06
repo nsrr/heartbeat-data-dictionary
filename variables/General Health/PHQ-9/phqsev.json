@@ -1,7 +1,7 @@
 {
   "id": "phqsev",
   "display_name": "Patient Health Questionnaire 9: Depression severity category",
-  "description": "Summary score for Patient Health Questionnaire 9-item. Each item is scored from 0 to 3, while the total score range from 0 to 27. The PHQ-9 score can be divided into the following categories of increasing severity: minimal (04), mild (59), moderate (1014), moderately severe (1519), and severe (20-27). [Kroenke K et al. 2001 (PubMED ID: 11556941)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1495268/)<br><br> [Search for all PHQ-9 variables within this dataset](https://sleepdata.org/datasets/heartbeat/variables?search=phq9)",
+  "description": "Summary score for Patient Health Questionnaire 9-item. Each item is scored from 0 to 3, while the total score range from 0 to 27. The PHQ-9 score can be divided into the following categories of increasing severity: minimal (0-4), mild (5-9), moderate (10-14), moderately severe (15-19), and severe (20-27). [Kroenke K et al. 2001 (PubMED ID: 11556941)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1495268/)<br><br> [Search for all PHQ-9 variables within this dataset](https://sleepdata.org/datasets/heartbeat/variables?search=phq9)",
   "type": "choices",
   "domain": "phqsev",
   "labels": [
