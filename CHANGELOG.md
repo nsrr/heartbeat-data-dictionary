@@ -1,6 +1,7 @@
 ## 0.5.0
 
 - Cleanup display names
+- Add Screening Form and link associated variables
 - **Gem Changes**
   - Update to Spout 1.0.0
 
