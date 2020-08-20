@@ -3,6 +3,10 @@
   "display_name": "Unable to work because (specify)",
   "description": "",
   "type": "string",
+  "labels": [
+    "ses",
+    "socioeconomic"
+  ],
   "forms": [
     "heartbeat_baseline_health_questionnaire_form"
   ]

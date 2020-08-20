@@ -4,6 +4,10 @@
   "description": "",
   "type": "choices",
   "domain": "money",
+  "labels": [
+    "ses",
+    "socioeconomic"
+  ],
   "forms": [
     "heartbeat_baseline_health_questionnaire_form"
   ]

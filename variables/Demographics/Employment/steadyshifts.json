@@ -5,6 +5,8 @@
   "type": "choices",
   "domain": "noyes",
   "labels": [
+    "ses",
+    "socioeconomic",
     "work_schedule"
   ],
   "forms": [
