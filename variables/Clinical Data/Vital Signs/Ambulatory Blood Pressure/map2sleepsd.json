@@ -1,7 +1,7 @@
 {
   "id": "map2sleepsd",
   "display_name": "Standard deviation of mean arterial pressure while asleep",
-  "description": "Mean pressure was calculated at each reading as one third of systolic mean pressure pressure plus two thirds of diastolic mean pressure pressure.",
+  "description": "Mean pressure was calculated at each reading as one third of systolic mean pressure plus two thirds of diastolic mean pressure.",
   "type": "numeric",
   "units": "millimeters of mercury"
 }
