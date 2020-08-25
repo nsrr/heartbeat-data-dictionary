@@ -1,7 +1,7 @@
 {
   "id": "nap5min",
   "display_name": "How many naps in a usual week",
-  "description": "During a usual week, how many times do you nap for 5 minutes or more? (Write in Â0Â if you do not take naps.)",
+  "description": "During a usual week, how many times do you nap for 5 minutes or more? (Write in \"0\" if you do not take naps.)",
   "type": "numeric",
   "units": "naps",
   "labels": [
