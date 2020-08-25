@@ -1,6 +1,6 @@
 {
   "id": "mapwakesd",
-  "display_name": "Standard deviation of mean arterial pressure (MAP) while awake",
+  "display_name": "Standard deviation of mean arterial pressure while awake",
   "description": "Mean pressure was directly exported from the device.",
   "type": "numeric",
   "units": "millimeters of mercury"

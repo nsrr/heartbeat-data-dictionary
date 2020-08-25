@@ -1,6 +1,6 @@
 {
   "id": "tnfa_pg_ml",
-  "display_name": "Tumor necrosis factor-?",
+  "display_name": "Tumor necrosis factor-alpha levels",
   "description": "",
   "type": "numeric",
   "units": "picograms per milliliter"

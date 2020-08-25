@@ -6,7 +6,7 @@
   "domain": "hhqalways",
   "labels": [
     "sleep_disturbance",
-    "sob"
+    "sdb"
   ],
   "forms": [
     "heartbeat_baseline_health_questionnaire_form",
