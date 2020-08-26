@@ -1,6 +1,6 @@
 {
   "id": "cent_obs_ratio",
-  "display_name": "ECG channel: Hours of usable signal from type III home sleep apnea test",
+  "display_name": "Ratio of central apneas to obstructive apneas from eligibility scoring pass from type III home sleep apnea test",
   "description": "",
   "type": "numeric",
   "labels": [
