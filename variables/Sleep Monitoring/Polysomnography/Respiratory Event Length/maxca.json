@@ -1,10 +1,10 @@
 {
   "id": "maxca",
-  "display_name": "Maximum duration of central apneas with no oxygen desaturation threshold used and with or without arousal from type III home sleep apnea test",
+  "display_name": "Maximum duration of central apneas with no oxygen desaturation threshold used from type III home sleep apnea test",
   "description": "",
   "type": "numeric",
   "units": "seconds",
   "labels": [
-    "maxdurca_ca0u_f1t3"
+    "maxdurca_ca0n_f1t3"
   ]
 }

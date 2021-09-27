@@ -1,10 +1,10 @@
 {
   "id": "maxhyp",
-  "display_name": "Maximum duration of hypopneas with > 50% flow reduction and >= 3% oxygen desaturation and with or without arousal from type III home sleep apnea test",
+  "display_name": "Maximum duration of hypopneas with > 50% flow reduction and >= 3% oxygen desaturation from type III home sleep apnea test",
   "description": "",
   "type": "numeric",
   "units": "seconds",
   "labels": [
-    "maxdurhp_hp5x3u_f1t3"
+    "maxdurhp_hp5x3n_f1t3"
   ]
 }

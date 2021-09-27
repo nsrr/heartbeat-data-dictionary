@@ -1,6 +1,6 @@
 {
   "id": "maxapnea",
-  "display_name": "Maximum duration of apneas with no oxygen desaturation threshold used and with or without arousal from type III home sleep apnea test",
+  "display_name": "Maximum duration of apneas with no oxygen desaturation threshold used from type III home sleep apnea test",
   "description": "",
   "type": "numeric",
   "units": "seconds",
