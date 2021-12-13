@@ -50,7 +50,7 @@
     if bwalkhurry = 3 then bwalkhurry = .;
 
     *create new `race3` categorical variable to match BioLINCC method;
-    *1 = white, 2 = black, 3 = other;
+    *1 = white, 2 = black, 3 = other remove this?;
     if race = 5 then race3 = 1;
     else if race = 4 then race3 = 2;
     else if race not in (7,.) then race3 = 3;
@@ -61,7 +61,7 @@
     timepoint = 2;
 
     drop white black hawaii asian amerindian otherrace otherrace_text race_white
-      race_black hhqb_date race;
+      race_black hhqb_date;
   run;
 
   proc freq data= hbeat.heartbeathhqbaseline;
@@ -499,7 +499,7 @@ data hbeat_total_base_harmonized;
 	else if race7 = 5 then nsrr_race = 'native hawaiian or other pacific islander';
     else if race7 = 6 then nsrr_race = 'other';
     else if race7 = 7 then nsrr_race = 'multiple';
-	else race7  = 'not reported';
+	else nsrr_race  = 'not reported';
 
 *ethnicity;
 *use ethnicity;
