@@ -44,7 +44,7 @@
     drop eligcheck eligfinal;
   run;
 
-
+/*
 proc freq data = hbeat.heartbeathhqbaseline;
 table race white black hawaii asian amerindian otherrace otherrace_text race_white
       race_black;
@@ -54,6 +54,7 @@ proc print data = hbeat.heartbeathhqbaseline;
 var race white black hawaii asian amerindian otherrace otherrace_text race_white
       race_black;
 run;
+*/
 
   data heartbeathhqbaseline;
     set hbeat.heartbeathhqbaseline;
@@ -94,14 +95,15 @@ run;
     drop white black hawaii asian amerindian otherrace otherrace_text race_white
       race_black hhqb_date;
   run;
-proc contents data= hbeat.heartbeathhqbaseline;
-run; 
+
+  /*
   proc freq data=  heartbeathhqbaseline;
   table race race7 white race_count;
   run;
+  */
 
   data race;
-    set heartbeathhqbaseline(keep=studyid race3);
+    set heartbeathhqbaseline(keep=studyid race7);
   run;
 
   data heartbeathhqfinal;
@@ -537,7 +539,7 @@ data hbeat_total_base_harmonized;
 *use ethnicity;
 	format nsrr_ethnicity $100.;
     if ethnicity = 1 then nsrr_ethnicity = 'hispanic or latino';
-    else if ethnicity = 0 then nsrr_ethnicity = 'not hispanic or latino';
+    else if ethnicity = 2 then nsrr_ethnicity = 'not hispanic or latino';
 	else if ethnicity = . then nsrr_ethnicity = 'not reported';
 
 *anthropometry
@@ -632,7 +634,7 @@ run;
     run;
   %mend lowcase;
 
-  %lowcase(beat_total_base);
+  %lowcase(hbeat_total_base);
   %lowcase(hbeat_total_followup);
   %lowcase(hbeat_total_base_harmonized);
 
