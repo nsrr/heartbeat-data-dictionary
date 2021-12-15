@@ -8,7 +8,7 @@ charts:
    title: Age
  - chart: male
    title: Gender
- - chart: race3
+ - chart: race7
    title: Race
 webservers:
   - name: production
