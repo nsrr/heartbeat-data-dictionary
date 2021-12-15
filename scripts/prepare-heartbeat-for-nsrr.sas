@@ -44,18 +44,49 @@
     drop eligcheck eligfinal;
   run;
 
+
+proc freq data = hbeat.heartbeathhqbaseline;
+table race white black hawaii asian amerindian otherrace otherrace_text race_white
+      race_black;
+run;
+
+proc print data = hbeat.heartbeathhqbaseline;
+var race white black hawaii asian amerindian otherrace otherrace_text race_white
+      race_black;
+run;
+
   data heartbeathhqbaseline;
     set hbeat.heartbeathhqbaseline;
 
     if bwalkhurry = 3 then bwalkhurry = .;
 
+	 *making new race with 7 categories. There is a race variable with 7 categories, but did not take into account ethncity, also unclear which race corresponded to which number;
+    if ethnicity = 1 and otherrace = 1 then otherrace = 0;
+    race_count = 0;
+    array elig_race(5) white black hawaii asian amerindian;
+    do i = 1 to 5;
+      if elig_race(i) in (0,1) then race_count = race_count + elig_race(i);
+    end;
+    drop i;
+
+    if white = 1 and race_count = 1 then race7 = 1; *White;
+	if amerindian = 1 and race_count = 1 then race7 = 2; *American indian or Alaskan native;
+    if black = 1 and race_count = 1 then race7 = 3; *Black or african american;
+    if asian = 1 and race_count = 1 then race7 = 4; *Asian;
+	if hawaii = 1 and race_count = 1 then race7 =5; *native hawaiian or other pacific islander;
+    if otherrace = 1 and race_count = 0 then race7 = 6; *Other;
+	if race_count > 1 then race7 = 7;  *Multiple;
+    label race7 = "Race";
+
+	/*
+	* Old race 3 category variable code not using anymore after harmonization
     *create new `race3` categorical variable to match BioLINCC method;
     *1 = white, 2 = black, 3 = other remove this?;
     if race = 5 then race3 = 1;
     else if race = 4 then race3 = 2;
     else if race not in (7,.) then race3 = 3;
 	*create new 'race7' categorical variable;
-
+	*/
 
     *set timepoint variable;
     timepoint = 2;
@@ -63,9 +94,10 @@
     drop white black hawaii asian amerindian otherrace otherrace_text race_white
       race_black hhqb_date;
   run;
-
-  proc freq data= hbeat.heartbeathhqbaseline;
-  table race;
+proc contents data= hbeat.heartbeathhqbaseline;
+run; 
+  proc freq data=  heartbeathhqbaseline;
+  table race race7 white race_count;
   run;
 
   data race;
