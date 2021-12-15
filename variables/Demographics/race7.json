@@ -1,0 +1,11 @@
+{
+  "id": "race7",
+  "display_name": "Race of the participant",
+  "description": "",
+  "type": "choices",
+  "domain": "race7",
+  "commonly_used": true,
+  "forms": [
+    "heartbeat_baseline_health_questionnaire_form"
+  ]
+}

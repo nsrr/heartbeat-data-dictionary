@@ -93,7 +93,7 @@ run;
     timepoint = 2;
 
     drop white black hawaii asian amerindian otherrace otherrace_text race_white
-      race_black hhqb_date;
+      race_black race_count race hhqb_date;
   run;
 
   /*
@@ -516,10 +516,10 @@ data hbeat_total_base_harmonized;
 	else if calc_age le 89 then nsrr_age_gt89='no';
 
 *sex;
-*use gendernum;
+*use male;
 	format nsrr_sex $100.;
-    if gendernum = 1 then nsrr_sex='male';
-	else if gendernum = 0 then nsrr_sex='female';
+    if male = 1 then nsrr_sex='male';
+	else if male = 0 then nsrr_sex='female';
 	else nsrr_sex = 'not reported';
 
 *race;
