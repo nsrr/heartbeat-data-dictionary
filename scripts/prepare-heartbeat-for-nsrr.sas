@@ -502,6 +502,7 @@ run;
 *******************************************************************************;
 data hbeat_total_base_harmonized;
 	set hbeat_total_base;
+
 *demographics
 *age;
 *use calc_age; 
@@ -577,7 +578,7 @@ else nsrr_ever_smoker = 'not reported';
 
 	keep 
 		nsrrid
-		visit
+		timepoint
 		nsrr_age
 		nsrr_age_gt89
 		nsrr_sex
