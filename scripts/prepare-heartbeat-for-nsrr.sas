@@ -85,8 +85,7 @@ run;
     *1 = white, 2 = black, 3 = other remove this?;
     if race = 5 then race3 = 1;
     else if race = 4 then race3 = 2;
-    else if race not in (7,.) then race3 = 3;
-	*create new 'race7' categorical variable;
+    else if race not in (7,.) then race3 = 3
 	*/
 
     *set timepoint variable;
@@ -510,7 +509,7 @@ data hbeat_total_base_harmonized;
  	nsrr_age = calc_age;
 
 *age_gt89;
-*use age;
+*use calc_age;
 	format nsrr_age_gt89 $100.; 
 	if calc_age gt 89 then nsrr_age_gt89='yes';
 	else if calc_age le 89 then nsrr_age_gt89='no';
