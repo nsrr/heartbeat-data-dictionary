@@ -5,7 +5,8 @@
   "type": "numeric",
   "units": "naps",
   "labels": [
-    "sleep_hygiene"
+    "sleep_hygiene",
+    "nap"
   ],
   "forms": [
     "heartbeat_baseline_health_questionnaire_form",

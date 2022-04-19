@@ -1,7 +1,7 @@
 {
   "id": "slptimes",
-  "display_name": "Total duration of sleep in supine position from type III home sleep apnea test",
-  "description": "",
+  "display_name": "Total duration of estimated sleep in supine position from type III home sleep apnea test",
+  "description": "Estimated sleep duration, providing an approximation of total sleep duration (i.e. total sleep time) inferred from analysis of non-EEG channels [Zhao et al., 2017 (PMID:27707441)]( https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5181603/)",
   "type": "numeric",
   "units": "minutes",
   "labels": [

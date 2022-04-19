@@ -5,6 +5,7 @@
   "type": "choices",
   "domain": "hhqalways",
   "labels": [
+    "subjective_sleepiness",
     "sleep_satisfaction",
     "nhanes",
     "nhanes_16enough"

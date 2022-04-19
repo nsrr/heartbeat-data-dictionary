@@ -5,7 +5,8 @@
   "type": "choices",
   "domain": "noyes",
   "labels": [
-    "sleep_hygiene"
+    "sleep_hygiene",
+    "smoking"
   ],
   "forms": [
     "heartbeat_screening_form"

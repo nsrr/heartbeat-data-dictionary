@@ -1,7 +1,7 @@
 {
   "id": "ndesat60h",
-  "display_name": "Number of oxygen desaturations with < 60% oxygen saturation per hour of sleep from type III home sleep apnea test",
-  "description": "",
+  "display_name": "Number of oxygen desaturations with < 60% oxygen saturation per hour of estimated sleep from type III home sleep apnea test",
+  "description": "Estimated sleep duration, providing an approximation of total sleep duration (i.e. total sleep time) inferred from analysis of non-EEG channels [Zhao et al., 2017 (PMID:27707441)]( https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5181603/)",
   "type": "numeric",
   "units": "desaturations per hour",
   "labels": [

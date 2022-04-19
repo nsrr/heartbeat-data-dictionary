@@ -5,7 +5,8 @@
   "type": "choices",
   "domain": "noyes",
   "labels": [
-    "sdb"
+    "sdb",
+    "snore"
   ],
   "forms": [
     "heartbeat_final_health_questionnaire_form"

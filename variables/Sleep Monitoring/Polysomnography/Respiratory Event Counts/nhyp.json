@@ -1,7 +1,7 @@
 {
   "id": "nhyp",
   "display_name": "Total number of hypopneas with > 50% flow reduction and >= 3% oxygen desaturation during total estimated sleep duration from type III home sleep apnea test",
-  "description": "",
+  "description": "Estimated sleep duration, providing an approximation of total sleep duration (i.e. total sleep time) inferred from analysis of non-EEG channels [Zhao et al., 2017 (PMID:27707441)]( https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5181603/)",
   "type": "numeric",
   "units": "events",
   "labels": [

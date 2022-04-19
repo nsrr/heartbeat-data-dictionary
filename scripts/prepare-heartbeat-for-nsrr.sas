@@ -506,8 +506,9 @@ data hbeat_total_base_harmonized;
 *demographics
 *age;
 *use calc_age; 
-	format nsrr_age 8.2;
- 	nsrr_age = calc_age;
+	format nsrr_age 8.2; 	
+	if calc_age gt 89 then nsrr_age = 90;
+ 	else if calc_age le 89 then nsrr_age = calc_age;
 
 *age_gt89;
 *use calc_age;
@@ -564,9 +565,9 @@ data hbeat_total_base_harmonized;
 *use smokedmonth;
 format nsrr_current_smoker $100.;
 if smoked = 2 then nsrr_current_smoker = 'no';
-else if smoked = 1 then nsrr_current_smoker = 'yes';
 else if smokedmonth = 1 then nsrr_current_smoker = 'yes';
 else if smokedmonth = 2 then nsrr_current_smoker = 'no';
+else if smoked = 1 then nsrr_current_smoker = 'no';
 else nsrr_current_smoker = 'not reported';
 
 *ever_smoker;
@@ -576,6 +577,17 @@ if smoked = 1 then nsrr_ever_smoker = 'yes';
 else if smoked = 2 then nsrr_ever_smoker = 'no';
 else nsrr_ever_smoker = 'not reported';
 
+*polysomnography;
+*nsrr_ahi_hp3u;
+*use aphypi;
+  format nsrr_ahi_hp3u 8.2;
+  nsrr_ahi_hp3u = aphypi;
+  
+*nsrr_ttldursp_f1;
+*use index_time;
+  format nsrr_ttldursp_f1 8.2;
+  nsrr_ttldursp_f1 = index_time;
+  
 	keep 
 		nsrrid
 		timepoint
@@ -589,6 +601,8 @@ else nsrr_ever_smoker = 'not reported';
 		nsrr_bmi
 		nsrr_current_smoker
 		nsrr_ever_smoker
+		nsrr_ahi_hp3u
+		nsrr_ttldursp_f1
 		;
 run;
 
@@ -602,7 +616,9 @@ proc means data=hbeat_total_base_harmonized;
 VAR 	nsrr_age
 		nsrr_bmi
 		nsrr_bp_systolic
-		nsrr_bp_diastolic;
+		nsrr_bp_diastolic
+		nsrr_ahi_hp3u
+		nsrr_ttldursp_f1;
 run;
 
 /* Checking categorical variables */

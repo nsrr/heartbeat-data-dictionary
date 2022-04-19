@@ -4,6 +4,9 @@
   "description": "",
   "type": "choices",
   "domain": "noyes",
+  "labels": [
+    "smoking"
+  ],
   "forms": [
     "heartbeat_baseline_health_questionnaire_form"
   ]

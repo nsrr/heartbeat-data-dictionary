@@ -6,7 +6,7 @@
   "units": "minutes",
   "labels": [
     "sleep_latency",
-    "avglatsp_im_w7"
+    "avglatsp_im_w7_f3"
   ],
   "forms": [
     "heartbeat_baseline_health_questionnaire_form",

@@ -1,0 +1,10 @@
+{
+  "id": "nsrr_ttldursp_f1",
+  "display_name": "Total Sleep Duration: the interval between sleep onset and sleep offset while the participant is asleep from home sleep apnea test",
+  "description": "Estimated sleep duration, providing an approximation of total sleep duration (i.e. total sleep time) inferred from analysis of non-EEG channels [Zhao et al., 2017 (PMID:27707441)]( https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5181603/)<br><br>Harmonized by the NSRR team. Source: :index_time: at Baseline",
+  "type": "numeric",
+  "units": "minutes",
+  "labels": [
+    "ttldursp_f1t3"
+  ]
+}
