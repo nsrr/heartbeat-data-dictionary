@@ -1,10 +1,11 @@
 {
   "id": "nmin",
-  "display_name": "Total number of mixed apneas with no oxygen desaturation threshold used during estimated sleep in non-supine position from type III home sleep apnea test",
-  "description": "Estimated sleep duration, providing an approximation of total sleep duration (i.e. total sleep time) inferred from analysis of non-EEG channels [Zhao et al., 2017 (PMID:27707441)]( https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5181603/)",
+  "display_name": "Total number of hypopneas with > 50% flow reduction and with < 3% oxygen desaturation during estimated sleep in non-supine position from type III home sleep apnea test",
+  "description": "Estimated sleep duration, providing an approximation of total sleep duration (i.e. total sleep time) inferred from analysis of non-EEG channels [Zhao et al., 2017 (PMID:27707441)]( https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5181603/)<br><br>The definition of hypopnea events is consistent with the following clinical guidelines: American Academy of Sleep Medicine (AASM) Chicago 1999 standard. [Sleep 1999 (PubMed ID:10450601)]( https://www.ncbi.nlm.nih.gov/pubmed/10450601) <br><br> [Search for all AHI variables consistent with the same clinical guidelines within this dataset](https://sleepdata.org/datasets/heartbeat/variables?search=chicago1999)",
   "type": "numeric",
   "units": "events",
   "labels": [
-    "ttlnumma_po_ma0n_f1t3"
+    "ttlnumhp_po_hp5x0n_f1t3",
+    "chicago1999"
   ]
 }

@@ -1,0 +1,15 @@
+{
+  "id": "smoke",
+  "display_name": "Smoking, in the bedroom",
+  "description": "Do you smoke in the bedroom?",
+  "type": "choices",
+  "domain": "noyes",
+  "labels": [
+    "heartbeat_screening_form",
+    "sleep_hygiene",
+    "smoking"
+  ],
+  "forms": [
+    "heartbeat_screening_form"
+  ]
+}

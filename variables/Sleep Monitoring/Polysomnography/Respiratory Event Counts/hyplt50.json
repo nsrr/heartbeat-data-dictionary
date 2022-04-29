@@ -1,9 +1,0 @@
-{
-  "id": "hyplt50",
-  "display_name": "Total number of hypopneas associated with a desaturation of which the nadir is <= 50% oxygen saturation from type III home sleep apnea test",
-  "description": "",
-  "type": "numeric",
-  "labels": [
-    "ttlnumhp_ndle50_f1t3"
-  ]
-}

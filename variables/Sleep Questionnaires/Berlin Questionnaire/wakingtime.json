@@ -1,0 +1,16 @@
+{
+  "id": "wakingtime",
+  "display_name": "Berlin Questionnaire: During your wake time, do you feel tired, fatigued, or not up to par? ",
+  "description": "Item from the Berlin Questionnaire. [Netzer et al, 1999 (PubMed ID: 10507956)] (https://pubmed.ncbi.nlm.nih.gov/10507956/)<br><br>[Search for all Berlin Questionnaire variables within this dataset](https://sleepdata.org/datasets/heartbeat/variables?search=bqosa)",
+  "type": "choices",
+  "domain": "howoften",
+  "labels": [
+    "heartbeat_screening_form",
+    "sdb",
+    "bqosa",
+    "bqosa_08waketired"
+  ],
+  "forms": [
+    "heartbeat_screening_form"
+  ]
+}

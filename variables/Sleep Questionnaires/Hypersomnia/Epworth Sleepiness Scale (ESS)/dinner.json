@@ -1,0 +1,14 @@
+{
+  "id": "dinner",
+  "display_name": "Chance of dozing while at the dinner table",
+  "description": "Additional item added to the Epworth Sleepiness Scale ",
+  "type": "choices",
+  "domain": "ess",
+  "labels": [
+    "heartbeat_screening_form",
+    "subjective_sleepiness"
+  ],
+  "forms": [
+    "heartbeat_screening_form"
+  ]
+}

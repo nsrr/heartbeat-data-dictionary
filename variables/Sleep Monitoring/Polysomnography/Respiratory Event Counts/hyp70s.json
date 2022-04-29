@@ -1,9 +1,0 @@
-{
-  "id": "hyp70s",
-  "display_name": "Total number of hypopneas associated with a desaturation of which the nadir is 71 - 80% oxygen saturation from type III home sleep apnea test",
-  "description": "",
-  "type": "numeric",
-  "labels": [
-    "ttlnumhp_ndge71le80_f1t3"
-  ]
-}

@@ -6,7 +6,7 @@
 - **Gem Changes**
   - Update to Spout 1.0.0
 - The CSV dataset is located here:
-  - `\\rfa01\bwh-sleepepi-heartbeat\nsrr-prep\_releases\0.5.0\`
+  - `\\rfawin\bwh-sleepepi-heartbeat\nsrr-prep\_releases\0.5.0\`
 
 ## 0.4.0 (June 22, 2017)
 

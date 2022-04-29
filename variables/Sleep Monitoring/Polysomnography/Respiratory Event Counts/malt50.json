@@ -1,9 +1,0 @@
-{
-  "id": "malt50",
-  "display_name": "Total number of mixed apneas associated with a desaturation of which the nadir <= 50% oxygen saturation from type III home sleep apnea test",
-  "description": "",
-  "type": "numeric",
-  "labels": [
-    "ttlnumma_ndle50_f1t3"
-  ]
-}

@@ -1,9 +1,10 @@
 {
   "id": "ma90s",
-  "display_name": "Total number of mixed apneas associated with a desaturation of which the nadir > 90% oxygen saturation from type III home sleep apnea test",
-  "description": "",
+  "display_name": "Total number of hypopneas with > 50% flow reduction and with < 3% oxygen desaturation and associated with a desaturation of which the nadir > 90% oxygen saturation from type III home sleep apnea test",
+  "description": "Calculated - Summary metric of sleep disordered breathing events.<br><br>The definition of hypopnea events is consistent with the following clinical guidelines: American Academy of Sleep Medicine (AASM) Chicago 1999 standard. [Sleep 1999 (PubMed ID:10450601)]( https://www.ncbi.nlm.nih.gov/pubmed/10450601) <br><br> [Search for all AHI variables consistent with the same clinical guidelines within this dataset](https://sleepdata.org/datasets/heartbeat/variables?search=chicago1999)",
   "type": "numeric",
   "labels": [
-    "ttlnumma_ndgt90_f1t3"
+    "ttlnumhp_hp5x03n_ndgt90_f1t3",
+    "chicago1999"
   ]
 }
