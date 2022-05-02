@@ -154,7 +154,84 @@ run;
     rename endtime = embq_endtime;
     rename starttime = embq_starttime;
 
-    drop folder inembletta inembqs enddttime startdttime ahi1 ahi2;
+    drop folder inembletta inembqs enddttime startdttime ahi1 ahi2
+	napneaa /*incorrectly labelled. should be other hypopneas only (originally mixed apneas)*/
+	  nmia /*incorrectly labelled. should be other hypopneas only (originally mixed apneas)*/
+	  noaa /*obstructive apneas were not corretly scored. should be dropped*/
+	  des50n /*unreliable oxygen saturation measures*/
+	  des50nc /*unreliable oxygen saturation measures*/
+	  des50s /*unreliable oxygen saturation measures*/
+	  des50sc /*unreliable oxygen saturation measures*/
+	  des50u /*unreliable oxygen saturation measures*/
+	  des50uc /*unreliable oxygen saturation measures*/
+	  des60n /*unreliable oxygen saturation measures*/
+	  des60nc /*unreliable oxygen saturation measures*/
+	  des60s /*unreliable oxygen saturation measures*/
+	  des60sc /*unreliable oxygen saturation measures*/
+	  des60u /*unreliable oxygen saturation measures*/
+	  des60uc /*unreliable oxygen saturation measures*/
+	  des70n /*unreliable oxygen saturation measures*/
+	  des70nc /*unreliable oxygen saturation measures*/
+      des70s /*unreliable oxygen saturation measures*/
+	  des70sc /*unreliable oxygen saturation measures*/
+	  des70u /*unreliable oxygen saturation measures*/
+	  des70uc /*unreliable oxygen saturation measures*/
+	  des80n /*unreliable oxygen saturation measures*/
+	  des80nc /*unreliable oxygen saturation measures*/
+	  des80s /*unreliable oxygen saturation measures*/
+	  des80sc /*unreliable oxygen saturation measures*/
+	  des80u /*unreliable oxygen saturation measures*/
+	  des80uc /*unreliable oxygen saturation measures*/
+	  deslt50n /*unreliable oxygen saturation measures*/
+	  deslt50s /*unreliable oxygen saturation measures*/
+	  deslt50u /*unreliable oxygen saturation measures*/
+	  ndesat60 /*unreliable oxygen saturation measures*/
+	  ndesat60h /*unreliable oxygen saturation measures*/
+	  ndesat70 /*unreliable oxygen saturation measures*/
+	  ndesat70h /*unreliable oxygen saturation measures*/
+	  ndesat80 /*unreliable oxygen saturation measures*/
+	  ndesat80h /*unreliable oxygen saturation measures*/
+	  apnea50s /*unreliable oxygen saturation measures*/
+	  apnea60s /*unreliable oxygen saturation measures*/
+	  apnea70s /*unreliable oxygen saturation measures*/
+	  apnea80s /*unreliable oxygen saturation measures*/
+	  apnealt50 /*unreliable oxygen saturation measures*/
+	  ca50s /*unreliable oxygen saturation measures*/
+	  ca60s /*unreliable oxygen saturation measures*/
+	  ca70s /*unreliable oxygen saturation measures*/
+	  ca80s /*unreliable oxygen saturation measures*/
+	  calt50 /*unreliable oxygen saturation measures*/
+	  event50s /*unreliable oxygen saturation measures*/
+	  event60s /*unreliable oxygen saturation measures*/
+	  event70s /*unreliable oxygen saturation measures*/
+	  event80s /*unreliable oxygen saturation measures*/
+	  eventlt50 /*unreliable oxygen saturation measures*/
+	  hyp50s /*unreliable oxygen saturation measures*/
+	  hyp60s /*unreliable oxygen saturation measures*/
+	  hyp70s /*unreliable oxygen saturation measures*/
+	  hyp80s /*unreliable oxygen saturation measures*/
+	  hyplt50 /*unreliable oxygen saturation measures*/
+	  ma50s /*unreliable oxygen saturation measures*/
+	  ma60s /*unreliable oxygen saturation measures*/
+	  ma70s /*unreliable oxygen saturation measures*/
+	  ma80s /*unreliable oxygen saturation measures*/
+	  malt50 /*unreliable oxygen saturation measures*/
+	  napnea /*incorrectly labelled. should be other hypopneas only (originally mixed apneas)*/
+	  napnean /*incorrectly labelled. should be other hypopneas only (originally mixed apneas)*/
+	  napneas /*incorrectly labelled. should be other hypopneas only (originally mixed apneas)*/
+	  noa /*obstructive apneas were not corretly scored. should be dropped*/
+	  noan /*obstructive apneas were not corretly scored. should be dropped*/
+	  noas /*obstructive apneas were not corretly scored. should be dropped*/
+	  oa50s /*unreliable oxygen saturation measures*/
+	  oa60s /*unreliable oxygen saturation measures*/
+	  oa70s /*unreliable oxygen saturation measures*/
+	  oa80s /*unreliable oxygen saturation measures*/
+	  poa /*obstructive apneas were not corretly scored. should be dropped*/
+	  durapnea /*incorrectly labelled. should be other hypopneas only (originally mixed apneas)*/
+	  duroa /*obstructive apneas were not corretly scored. should be dropped*/
+	  maxapnea /*incorrectly labelled. should be other hypopneas only (originally mixed apneas)*/
+	  papnea /*incorrectly labelled. should be other hypopneas only (originally mixed apneas)*/
+	  maxoa;  /*obstructive apneas were not corretly scored. should be dropped*/
   run;
 
   data hbeat_sf36;
@@ -410,7 +487,7 @@ run;
     embq_date = (embq_date - random_date);
 
     drop i visit staffid bp_z gh_z mh_z pf_z re_z rp_z sf_z vt_z mcs pcs agg_ment
-      agg_phys paxis qrsaxis taxis age rctsourceoth_text withother_text;
+      agg_phys paxis  qrsaxis taxis age rctsourceoth_text withother_text;
   run;
 
   data hbeat_total_base;
@@ -494,83 +571,7 @@ run;
       deslt50nc deslt50sc deslt50uc ndesat5c ndesatc5h ndesatgt20c ndesath
       nevent neventa neventn nevents time_move time_supine time_upright 
       totalhrs_emb totalmin_emb n_cent_apneas n_obs_apneas usualpressure
-      mean_sat
-	  napneaa /*incorrectly labelled. should be other hypopneas only (originally mixed apneas)*/
-	  nmia /*incorrectly labelled. should be other hypopneas only (originally mixed apneas)*/
-	  noaa /*obstructive apneas were not corretly scored. should be dropped*/
-	  des50n /*unreliable oxygen saturation measures*/
-	  des50nc /*unreliable oxygen saturation measures*/
-	  des50s /*unreliable oxygen saturation measures*/
-	  des50sc /*unreliable oxygen saturation measures*/
-	  des50u /*unreliable oxygen saturation measures*/
-	  des50uc /*unreliable oxygen saturation measures*/
-	  des60n /*unreliable oxygen saturation measures*/
-	  des60nc /*unreliable oxygen saturation measures*/
-	  des60s /*unreliable oxygen saturation measures*/
-	  des60sc /*unreliable oxygen saturation measures*/
-	  des60u /*unreliable oxygen saturation measures*/
-	  des60uc /*unreliable oxygen saturation measures*/
-	  des70n /*unreliable oxygen saturation measures*/
-	  des70nc /*unreliable oxygen saturation measures*/
-      des70s /*unreliable oxygen saturation measures*/
-	  des70sc /*unreliable oxygen saturation measures*/
-	  des70u /*unreliable oxygen saturation measures*/
-	  des70uc /*unreliable oxygen saturation measures*/
-	  des80n /*unreliable oxygen saturation measures*/
-	  des80nc /*unreliable oxygen saturation measures*/
-	  des80s /*unreliable oxygen saturation measures*/
-	  des80sc /*unreliable oxygen saturation measures*/
-	  des80u /*unreliable oxygen saturation measures*/
-	  des80uc /*unreliable oxygen saturation measures*/
-	  deslt50n /*unreliable oxygen saturation measures*/
-	  deslt50s /*unreliable oxygen saturation measures*/
-	  deslt50u /*unreliable oxygen saturation measures*/
-	  ndesat60 /*unreliable oxygen saturation measures*/
-	  ndesat60h /*unreliable oxygen saturation measures*/
-	  ndesat70 /*unreliable oxygen saturation measures*/
-	  ndesat70h /*unreliable oxygen saturation measures*/
-	  ndesat80 /*unreliable oxygen saturation measures*/
-	  ndesat80h /*unreliable oxygen saturation measures*/
-	  apnea50s /*unreliable oxygen saturation measures*/
-	  apnea60s /*unreliable oxygen saturation measures*/
-	  apnea70s /*unreliable oxygen saturation measures*/
-	  apnea80s /*unreliable oxygen saturation measures*/
-	  apnealt50 /*unreliable oxygen saturation measures*/
-	  ca50s /*unreliable oxygen saturation measures*/
-	  ca60s /*unreliable oxygen saturation measures*/
-	  ca70s /*unreliable oxygen saturation measures*/
-	  ca80s /*unreliable oxygen saturation measures*/
-	  calt50 /*unreliable oxygen saturation measures*/
-	  event50s /*unreliable oxygen saturation measures*/
-	  event60s /*unreliable oxygen saturation measures*/
-	  event70s /*unreliable oxygen saturation measures*/
-	  event80s /*unreliable oxygen saturation measures*/
-	  eventlt50 /*unreliable oxygen saturation measures*/
-	  hyp50s /*unreliable oxygen saturation measures*/
-	  hyp60s /*unreliable oxygen saturation measures*/
-	  hyp70s /*unreliable oxygen saturation measures*/
-	  hyp80s /*unreliable oxygen saturation measures*/
-	  hyplt50 /*unreliable oxygen saturation measures*/
-	  ma50s /*unreliable oxygen saturation measures*/
-	  ma60s /*unreliable oxygen saturation measures*/
-	  ma70s /*unreliable oxygen saturation measures*/
-	  ma80s /*unreliable oxygen saturation measures*/
-	  malt50 /*unreliable oxygen saturation measures*/
-	  napnea /*incorrectly labelled. should be other hypopneas only (originally mixed apneas)*/
-	  napnean /*incorrectly labelled. should be other hypopneas only (originally mixed apneas)*/
-	  napneas /*incorrectly labelled. should be other hypopneas only (originally mixed apneas)*/
-	  noa /*obstructive apneas were not corretly scored. should be dropped*/
-	  noan /*obstructive apneas were not corretly scored. should be dropped*/
-	  noas /*obstructive apneas were not corretly scored. should be dropped*/
-	  oa50s /*unreliable oxygen saturation measures*/
-	  oa60s /*unreliable oxygen saturation measures*/
-	  oa70s /*unreliable oxygen saturation measures*/
-	  oa80s /*unreliable oxygen saturation measures*/
-	  poa /*obstructive apneas were not corretly scored. should be dropped*/
-	  durapnea /*incorrectly labelled. should be other hypopneas only (originally mixed apneas)*/
-	  duroa /*obstructive apneas were not corretly scored. should be dropped*/
-	  maxapnea /*incorrectly labelled. should be other hypopneas only (originally mixed apneas)*/
-	  maxoa;  /*obstructive apneas were not corretly scored. should be dropped*/
+      mean_sat;	  
   run;
 
 *******************************************************************************;

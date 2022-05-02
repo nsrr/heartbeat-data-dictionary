@@ -1,5 +1,5 @@
 {
-  "id": "nsrr_ahi_ap3u",
+  "id": "nsrr_ahi_hp3u",
   "display_name": "Apnea-Hypopnea Index : (Apneas and hypopneas with >= 3% oxygen desaturation) / hour of sleep ",
   "description": "Harmonized by the NSRR team.<br><br>Data collected with no EEGs. Refer to the source for detailed definition for respiratory events: :aphypi: at Baseline",
   "type": "numeric",

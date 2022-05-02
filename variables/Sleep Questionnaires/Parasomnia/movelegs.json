@@ -3,7 +3,7 @@
   "display_name": "Desire to move legs in the last month",
   "description": "In the last month, did you ever experience a desire to move your legs because of discomfort or disagreeable sensations in your legs?",
   "type": "choices",
-  "domain": "hhqalways",
+  "domain": "noyes",
   "labels": [
     "rls_plms"
   ],
