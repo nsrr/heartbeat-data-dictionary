@@ -1,9 +1,0 @@
-{
-  "id": "cent_obs_ratio",
-  "display_name": "Ratio of central apneas to obstructive apneas from eligibility scoring pass from type III home sleep apnea test",
-  "description": "",
-  "type": "numeric",
-  "labels": [
-    "ratnumap_ca0n_oa0n_f1t3"
-  ]
-}

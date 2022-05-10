@@ -136,8 +136,10 @@ run;
 
     rename nca = n_cent_apneas
       noa = n_obs_apneas;
+	  
+	  ahi_screening = aphypi;
 
-    keep studyid embq_date cent_obs_ratio nca noa;
+    keep studyid embq_date cent_obs_ratio nca noa ahi_screening;
   run;
 
   data embletta;
@@ -231,7 +233,27 @@ run;
 	  duroa /*obstructive apneas were not corretly scored. should be dropped*/
 	  maxapnea /*incorrectly labelled. should be other hypopneas only (originally mixed apneas)*/
 	  papnea /*incorrectly labelled. should be other hypopneas only (originally mixed apneas)*/
+	  nhypa /* hypopneas scoring based on pass 2/3 too confusing to share with the users */
+	  apnea90s /* apneas scoring based on pass 2/3 too confusing to share with the users */
+	  cent_obs_ratio /* obstructive apneas were not corretly scored. should be dropped */
+	  hyp90s /* hypopneas scoring based on pass 2/3 too confusing to share with the users */
+	  ma90s /*incorrectly labelled. should be other hypopneas only (originally mixed apneas)*/
+	  nhyp /* hypopneas scoring based on pass 2/3 too confusing to share with the users */
+	  nhypn /* hypopneas scoring based on pass 2/3 too confusing to share with the users */
+	  nhyps /* hypopneas scoring based on pass 2/3 too confusing to share with the users */
+	  nmi /* hypopneas scoring based on pass 2/3 too confusing to share with the users */
+	  nmin /* hypopneas scoring based on pass 2/3 too confusing to share with the users */
+	  nmis /* hypopneas scoring based on pass 2/3 too confusing to share with the users */
+	  oa90s /*obstructive apneas were not corretly scored. should be dropped*/
+	  oalt50 /*obstructive apneas were not corretly scored. should be dropped*/
+	  phyp /* hypopneas scoring based on pass 2/3 too confusing to share with the users */
+	  pmi /* hypopneas scoring based on pass 2/3 too confusing to share with the users */
+	  durhyp /* hypopneas scoring based on pass 2/3 too confusing to share with the users */
+	  durmi /* hypopneas scoring based on pass 2/3 too confusing to share with the users */
+	  maxhyp /* hypopneas scoring based on pass 2/3 too confusing to share with the users */
+	  maxmi /* hypopneas scoring based on pass 2/3 too confusing to share with the users */
 	  maxoa;  /*obstructive apneas were not corretly scored. should be dropped*/
+	  
   run;
 
   data hbeat_sf36;
@@ -656,9 +678,9 @@ else nsrr_ever_smoker = 'not reported';
 
 *polysomnography;
 *nsrr_ahi_hp3u;
-*use aphypi;
+*use ahi_screening;
   format nsrr_ahi_hp3u 8.2;
-  nsrr_ahi_hp3u = aphypi;
+  nsrr_ahi_hp3u = ahi_screening;
   
 *nsrr_ttldursp_f1;
 *use index_time;
