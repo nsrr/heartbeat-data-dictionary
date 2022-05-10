@@ -1,6 +1,7 @@
 ## 0.5.0
 
-- Add initial set of harmonized variables (nsrr_*)
+- Removed many HSAT variables that were difficult to define and represent with the modified scoring rules used in HeartBEAT
+- Add the initial set of harmonized variables (nsrr_*)
 - Update many variable labels
 - Add Screening Form and link associated variables
 - **Gem Changes**
