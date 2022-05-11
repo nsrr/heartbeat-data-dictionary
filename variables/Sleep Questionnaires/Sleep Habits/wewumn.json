@@ -1,7 +1,7 @@
 {
   "id": "wewumn",
   "display_name": "Self-reported end time of the in-bed period on weekends from survey questionnaires (minute)",
-  "description": "Conventionally this variable would be called wake time.",
+  "description": "Conventionally this variable would be called wake up time.",
   "type": "numeric",
   "labels": [
     "sleep_timing",

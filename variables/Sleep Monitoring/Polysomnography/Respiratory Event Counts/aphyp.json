@@ -1,7 +1,7 @@
 {
   "id": "aphyp",
   "display_name": "Total Number of Respiratory Events: All respiratory events with at least 50% flow reduction and without any oxygen desat threshold used during estimated sleep from type III home sleep apnea test",
-  "description": "Estimated sleep duration, providing an approximation of total sleep duration (i.e. total sleep time) inferred from analysis of non-EEG channels [Zhao et al., 2017 (PMID:27707441)]( https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5181603/)<br><br>Details about how the respiratory events were scored can be found in the study manual. ",
+  "description": "Estimated sleep duration, providing an approximation of total sleep duration (i.e. total sleep time) inferred from analysis of non-EEG channels [Zhao et al., 2017 (PMID:27707441)]( https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5181603/)<br><br>Details about how the respiratory events were scored can be found in the Embletta scoring manual. ",
   "type": "numeric",
   "labels": [
     "nevent"

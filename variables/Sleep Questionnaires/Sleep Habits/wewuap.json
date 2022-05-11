@@ -1,7 +1,7 @@
 {
   "id": "wewuap",
   "display_name": "Self-reported end time of the in-bed period on weekends from survey questionnaires (AM/PM)",
-  "description": "Conventionally this variable would be called wake time.",
+  "description": "Conventionally this variable would be called wake up time.",
   "type": "choices",
   "domain": "ampm",
   "labels": [
