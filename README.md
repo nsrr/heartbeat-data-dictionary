@@ -1,7 +1,7 @@
 HeartBEAT Data Dictionary
 =========================
 
-[![Build Status](https://travis-ci.org/sleepepi/heartbeat-data-dictionary.svg?branch=master)](https://travis-ci.org/sleepepi/heartbeat-data-dictionary)
+[![Build Status](https://travis-ci.com/nsrr/heartbeat-data-dictionary.svg?branch=master)](https://travis-ci.com/nsrr/heartbeat-data-dictionary)
 
 ### Exports
 
@@ -18,7 +18,7 @@ dictionary.
 ### Testing
 
 The HeartBEAT data dictionary is tested using the
-[Spout Gem](https://github.com/sleepepi/spout).
+[Spout Gem](https://github.com/nsrr/spout).
 
 Data dictionary tests can be run by typing:
 
@@ -43,5 +43,5 @@ approach for changing version numbers uses a variation on
 [Semantic Versioning](http://semver.org).
 
 A full list of changes for each version can be viewed in the
-[CHANGELOG](https://github.com/sleepepi/heartbeat-data-dictionary/blob/master/CHANGELOG.md).
+[CHANGELOG](https://github.com/nsrr/heartbeat-data-dictionary/blob/master/CHANGELOG.md).
 

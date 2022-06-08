@@ -1,0 +1,7 @@
+{
+  "id": "usualpressure",
+  "display_name": "Positive Airway Pressure Compliance: Average CPAP pressure setting on days with therapy use",
+  "description": "",
+  "type": "integer",
+  "units": "cmH2O"
+}

@@ -61,7 +61,7 @@ run;
 
     if bwalkhurry = 3 then bwalkhurry = .;
 
-	 *making new race with 7 categories. There is a race variable with 7 categories, but did not take into account ethncity, also unclear which race corresponded to which number;
+   *making new race with 7 categories. There is a race variable with 7 categories, but did not take into account ethncity, also unclear which race corresponded to which number;
     if ethnicity = 1 and otherrace = 1 then otherrace = 0;
     race_count = 0;
     array elig_race(5) white black hawaii asian amerindian;
@@ -71,22 +71,22 @@ run;
     drop i;
 
     if white = 1 and race_count = 1 then race7 = 1; *White;
-	if amerindian = 1 and race_count = 1 then race7 = 2; *American indian or Alaskan native;
+  if amerindian = 1 and race_count = 1 then race7 = 2; *American indian or Alaskan native;
     if black = 1 and race_count = 1 then race7 = 3; *Black or african american;
     if asian = 1 and race_count = 1 then race7 = 4; *Asian;
-	if hawaii = 1 and race_count = 1 then race7 =5; *native hawaiian or other pacific islander;
+  if hawaii = 1 and race_count = 1 then race7 =5; *native hawaiian or other pacific islander;
     if otherrace = 1 and race_count = 0 then race7 = 6; *Other;
-	if race_count > 1 then race7 = 7;  *Multiple;
+  if race_count > 1 then race7 = 7;  *Multiple;
     label race7 = "Race";
 
-	/*
-	* Old race 3 category variable code not using anymore after harmonization
+  /*
+  * Old race 3 category variable code not using anymore after harmonization
     *create new `race3` categorical variable to match BioLINCC method;
     *1 = white, 2 = black, 3 = other remove this?;
     if race = 5 then race3 = 1;
     else if race = 4 then race3 = 2;
     else if race not in (7,.) then race3 = 3
-	*/
+  */
 
     *set timepoint variable;
     timepoint = 2;
@@ -136,8 +136,8 @@ run;
 
     rename nca = n_cent_apneas
       noa = n_obs_apneas;
-	  
-	  ahi_screening = aphypi;
+    
+    ahi_screening = aphypi;
 
     keep studyid embq_date cent_obs_ratio nca noa ahi_screening;
   run;
@@ -157,103 +157,103 @@ run;
     rename starttime = embq_starttime;
 
     drop folder inembletta inembqs enddttime startdttime ahi1 ahi2
-	napneaa /*incorrectly labelled. should be other hypopneas only (originally mixed apneas)*/
-	  nmia /*incorrectly labelled. should be other hypopneas only (originally mixed apneas)*/
-	  noaa /*obstructive apneas were not corretly scored. should be dropped*/
-	  des50n /*unreliable oxygen saturation measures*/
-	  des50nc /*unreliable oxygen saturation measures*/
-	  des50s /*unreliable oxygen saturation measures*/
-	  des50sc /*unreliable oxygen saturation measures*/
-	  des50u /*unreliable oxygen saturation measures*/
-	  des50uc /*unreliable oxygen saturation measures*/
-	  des60n /*unreliable oxygen saturation measures*/
-	  des60nc /*unreliable oxygen saturation measures*/
-	  des60s /*unreliable oxygen saturation measures*/
-	  des60sc /*unreliable oxygen saturation measures*/
-	  des60u /*unreliable oxygen saturation measures*/
-	  des60uc /*unreliable oxygen saturation measures*/
-	  des70n /*unreliable oxygen saturation measures*/
-	  des70nc /*unreliable oxygen saturation measures*/
+  napneaa /*incorrectly labelled. should be other hypopneas only (originally mixed apneas)*/
+    nmia /*incorrectly labelled. should be other hypopneas only (originally mixed apneas)*/
+    noaa /*obstructive apneas were not corretly scored. should be dropped*/
+    des50n /*unreliable oxygen saturation measures*/
+    des50nc /*unreliable oxygen saturation measures*/
+    des50s /*unreliable oxygen saturation measures*/
+    des50sc /*unreliable oxygen saturation measures*/
+    des50u /*unreliable oxygen saturation measures*/
+    des50uc /*unreliable oxygen saturation measures*/
+    des60n /*unreliable oxygen saturation measures*/
+    des60nc /*unreliable oxygen saturation measures*/
+    des60s /*unreliable oxygen saturation measures*/
+    des60sc /*unreliable oxygen saturation measures*/
+    des60u /*unreliable oxygen saturation measures*/
+    des60uc /*unreliable oxygen saturation measures*/
+    des70n /*unreliable oxygen saturation measures*/
+    des70nc /*unreliable oxygen saturation measures*/
       des70s /*unreliable oxygen saturation measures*/
-	  des70sc /*unreliable oxygen saturation measures*/
-	  des70u /*unreliable oxygen saturation measures*/
-	  des70uc /*unreliable oxygen saturation measures*/
-	  des80n /*unreliable oxygen saturation measures*/
-	  des80nc /*unreliable oxygen saturation measures*/
-	  des80s /*unreliable oxygen saturation measures*/
-	  des80sc /*unreliable oxygen saturation measures*/
-	  des80u /*unreliable oxygen saturation measures*/
-	  des80uc /*unreliable oxygen saturation measures*/
-	  deslt50n /*unreliable oxygen saturation measures*/
-	  deslt50s /*unreliable oxygen saturation measures*/
-	  deslt50u /*unreliable oxygen saturation measures*/
-	  ndesat60 /*unreliable oxygen saturation measures*/
-	  ndesat60h /*unreliable oxygen saturation measures*/
-	  ndesat70 /*unreliable oxygen saturation measures*/
-	  ndesat70h /*unreliable oxygen saturation measures*/
-	  ndesat80 /*unreliable oxygen saturation measures*/
-	  ndesat80h /*unreliable oxygen saturation measures*/
-	  apnea50s /*unreliable oxygen saturation measures*/
-	  apnea60s /*unreliable oxygen saturation measures*/
-	  apnea70s /*unreliable oxygen saturation measures*/
-	  apnea80s /*unreliable oxygen saturation measures*/
-	  apnealt50 /*unreliable oxygen saturation measures*/
-	  ca50s /*unreliable oxygen saturation measures*/
-	  ca60s /*unreliable oxygen saturation measures*/
-	  ca70s /*unreliable oxygen saturation measures*/
-	  ca80s /*unreliable oxygen saturation measures*/
-	  calt50 /*unreliable oxygen saturation measures*/
-	  event50s /*unreliable oxygen saturation measures*/
-	  event60s /*unreliable oxygen saturation measures*/
-	  event70s /*unreliable oxygen saturation measures*/
-	  event80s /*unreliable oxygen saturation measures*/
-	  eventlt50 /*unreliable oxygen saturation measures*/
-	  hyp50s /*unreliable oxygen saturation measures*/
-	  hyp60s /*unreliable oxygen saturation measures*/
-	  hyp70s /*unreliable oxygen saturation measures*/
-	  hyp80s /*unreliable oxygen saturation measures*/
-	  hyplt50 /*unreliable oxygen saturation measures*/
-	  ma50s /*unreliable oxygen saturation measures*/
-	  ma60s /*unreliable oxygen saturation measures*/
-	  ma70s /*unreliable oxygen saturation measures*/
-	  ma80s /*unreliable oxygen saturation measures*/
-	  malt50 /*unreliable oxygen saturation measures*/
-	  napnea /*incorrectly labelled. should be other hypopneas only (originally mixed apneas)*/
-	  napnean /*incorrectly labelled. should be other hypopneas only (originally mixed apneas)*/
-	  napneas /*incorrectly labelled. should be other hypopneas only (originally mixed apneas)*/
-	  noa /*obstructive apneas were not corretly scored. should be dropped*/
-	  noan /*obstructive apneas were not corretly scored. should be dropped*/
-	  noas /*obstructive apneas were not corretly scored. should be dropped*/
-	  oa50s /*unreliable oxygen saturation measures*/
-	  oa60s /*unreliable oxygen saturation measures*/
-	  oa70s /*unreliable oxygen saturation measures*/
-	  oa80s /*unreliable oxygen saturation measures*/
-	  poa /*obstructive apneas were not corretly scored. should be dropped*/
-	  durapnea /*incorrectly labelled. should be other hypopneas only (originally mixed apneas)*/
-	  duroa /*obstructive apneas were not corretly scored. should be dropped*/
-	  maxapnea /*incorrectly labelled. should be other hypopneas only (originally mixed apneas)*/
-	  papnea /*incorrectly labelled. should be other hypopneas only (originally mixed apneas)*/
-	  nhypa /* hypopneas scoring based on pass 2/3 too confusing to share with the users */
-	  apnea90s /* apneas scoring based on pass 2/3 too confusing to share with the users */
-	  cent_obs_ratio /* obstructive apneas were not corretly scored. should be dropped */
-	  hyp90s /* hypopneas scoring based on pass 2/3 too confusing to share with the users */
-	  ma90s /*incorrectly labelled. should be other hypopneas only (originally mixed apneas)*/
-	  nhyp /* hypopneas scoring based on pass 2/3 too confusing to share with the users */
-	  nhypn /* hypopneas scoring based on pass 2/3 too confusing to share with the users */
-	  nhyps /* hypopneas scoring based on pass 2/3 too confusing to share with the users */
-	  nmi /* hypopneas scoring based on pass 2/3 too confusing to share with the users */
-	  nmin /* hypopneas scoring based on pass 2/3 too confusing to share with the users */
-	  nmis /* hypopneas scoring based on pass 2/3 too confusing to share with the users */
-	  oa90s /*obstructive apneas were not corretly scored. should be dropped*/
-	  oalt50 /*obstructive apneas were not corretly scored. should be dropped*/
-	  phyp /* hypopneas scoring based on pass 2/3 too confusing to share with the users */
-	  pmi /* hypopneas scoring based on pass 2/3 too confusing to share with the users */
-	  durhyp /* hypopneas scoring based on pass 2/3 too confusing to share with the users */
-	  durmi /* hypopneas scoring based on pass 2/3 too confusing to share with the users */
-	  maxhyp /* hypopneas scoring based on pass 2/3 too confusing to share with the users */
-	  maxmi /* hypopneas scoring based on pass 2/3 too confusing to share with the users */
-	  maxoa;  /*obstructive apneas were not corretly scored. should be dropped*/
-	  
+    des70sc /*unreliable oxygen saturation measures*/
+    des70u /*unreliable oxygen saturation measures*/
+    des70uc /*unreliable oxygen saturation measures*/
+    des80n /*unreliable oxygen saturation measures*/
+    des80nc /*unreliable oxygen saturation measures*/
+    des80s /*unreliable oxygen saturation measures*/
+    des80sc /*unreliable oxygen saturation measures*/
+    des80u /*unreliable oxygen saturation measures*/
+    des80uc /*unreliable oxygen saturation measures*/
+    deslt50n /*unreliable oxygen saturation measures*/
+    deslt50s /*unreliable oxygen saturation measures*/
+    deslt50u /*unreliable oxygen saturation measures*/
+    ndesat60 /*unreliable oxygen saturation measures*/
+    ndesat60h /*unreliable oxygen saturation measures*/
+    ndesat70 /*unreliable oxygen saturation measures*/
+    ndesat70h /*unreliable oxygen saturation measures*/
+    ndesat80 /*unreliable oxygen saturation measures*/
+    ndesat80h /*unreliable oxygen saturation measures*/
+    apnea50s /*unreliable oxygen saturation measures*/
+    apnea60s /*unreliable oxygen saturation measures*/
+    apnea70s /*unreliable oxygen saturation measures*/
+    apnea80s /*unreliable oxygen saturation measures*/
+    apnealt50 /*unreliable oxygen saturation measures*/
+    ca50s /*unreliable oxygen saturation measures*/
+    ca60s /*unreliable oxygen saturation measures*/
+    ca70s /*unreliable oxygen saturation measures*/
+    ca80s /*unreliable oxygen saturation measures*/
+    calt50 /*unreliable oxygen saturation measures*/
+    event50s /*unreliable oxygen saturation measures*/
+    event60s /*unreliable oxygen saturation measures*/
+    event70s /*unreliable oxygen saturation measures*/
+    event80s /*unreliable oxygen saturation measures*/
+    eventlt50 /*unreliable oxygen saturation measures*/
+    hyp50s /*unreliable oxygen saturation measures*/
+    hyp60s /*unreliable oxygen saturation measures*/
+    hyp70s /*unreliable oxygen saturation measures*/
+    hyp80s /*unreliable oxygen saturation measures*/
+    hyplt50 /*unreliable oxygen saturation measures*/
+    ma50s /*unreliable oxygen saturation measures*/
+    ma60s /*unreliable oxygen saturation measures*/
+    ma70s /*unreliable oxygen saturation measures*/
+    ma80s /*unreliable oxygen saturation measures*/
+    malt50 /*unreliable oxygen saturation measures*/
+    napnea /*incorrectly labelled. should be other hypopneas only (originally mixed apneas)*/
+    napnean /*incorrectly labelled. should be other hypopneas only (originally mixed apneas)*/
+    napneas /*incorrectly labelled. should be other hypopneas only (originally mixed apneas)*/
+    noa /*obstructive apneas were not corretly scored. should be dropped*/
+    noan /*obstructive apneas were not corretly scored. should be dropped*/
+    noas /*obstructive apneas were not corretly scored. should be dropped*/
+    oa50s /*unreliable oxygen saturation measures*/
+    oa60s /*unreliable oxygen saturation measures*/
+    oa70s /*unreliable oxygen saturation measures*/
+    oa80s /*unreliable oxygen saturation measures*/
+    poa /*obstructive apneas were not corretly scored. should be dropped*/
+    durapnea /*incorrectly labelled. should be other hypopneas only (originally mixed apneas)*/
+    duroa /*obstructive apneas were not corretly scored. should be dropped*/
+    maxapnea /*incorrectly labelled. should be other hypopneas only (originally mixed apneas)*/
+    papnea /*incorrectly labelled. should be other hypopneas only (originally mixed apneas)*/
+    nhypa /* hypopneas scoring based on pass 2/3 too confusing to share with the users */
+    apnea90s /* apneas scoring based on pass 2/3 too confusing to share with the users */
+    cent_obs_ratio /* obstructive apneas were not corretly scored. should be dropped */
+    hyp90s /* hypopneas scoring based on pass 2/3 too confusing to share with the users */
+    ma90s /*incorrectly labelled. should be other hypopneas only (originally mixed apneas)*/
+    nhyp /* hypopneas scoring based on pass 2/3 too confusing to share with the users */
+    nhypn /* hypopneas scoring based on pass 2/3 too confusing to share with the users */
+    nhyps /* hypopneas scoring based on pass 2/3 too confusing to share with the users */
+    nmi /* hypopneas scoring based on pass 2/3 too confusing to share with the users */
+    nmin /* hypopneas scoring based on pass 2/3 too confusing to share with the users */
+    nmis /* hypopneas scoring based on pass 2/3 too confusing to share with the users */
+    oa90s /*obstructive apneas were not corretly scored. should be dropped*/
+    oalt50 /*obstructive apneas were not corretly scored. should be dropped*/
+    phyp /* hypopneas scoring based on pass 2/3 too confusing to share with the users */
+    pmi /* hypopneas scoring based on pass 2/3 too confusing to share with the users */
+    durhyp /* hypopneas scoring based on pass 2/3 too confusing to share with the users */
+    durmi /* hypopneas scoring based on pass 2/3 too confusing to share with the users */
+    maxhyp /* hypopneas scoring based on pass 2/3 too confusing to share with the users */
+    maxmi /* hypopneas scoring based on pass 2/3 too confusing to share with the users */
+    maxoa;  /*obstructive apneas were not corretly scored. should be dropped*/
+    
   run;
 
   data hbeat_sf36;
@@ -535,7 +535,7 @@ run;
       nopartoth nopartoth_text partstatus passive toobusy transport siteid
       deslt50nc deslt50sc deslt50uc ndesat5c ndesatc5h ndesatgt20c ndesath
       nevent neventa neventn nevents time_move time_supine time_upright 
-      totalhrs_emb totalmin_emb n_cent_apneas n_obs_apneas usualpressure
+      totalhrs_emb totalmin_emb n_cent_apneas n_obs_apneas 
       mean_sat;
   run;
 
@@ -592,72 +592,72 @@ run;
       mintherdate startdate random_date siteid
       deslt50nc deslt50sc deslt50uc ndesat5c ndesatc5h ndesatgt20c ndesath
       nevent neventa neventn nevents time_move time_supine time_upright 
-      totalhrs_emb totalmin_emb n_cent_apneas n_obs_apneas usualpressure
-      mean_sat;	  
+      totalhrs_emb totalmin_emb n_cent_apneas n_obs_apneas 
+      mean_sat;   
   run;
 
 *******************************************************************************;
 * create harmonized datasets ;
 *******************************************************************************;
 data hbeat_total_base_harmonized;
-	set hbeat_total_base;
+  set hbeat_total_base;
 
 *demographics
 *age;
 *use calc_age; 
-	format nsrr_age 8.2; 	
-	if calc_age gt 89 then nsrr_age = 90;
- 	else if calc_age le 89 then nsrr_age = calc_age;
+  format nsrr_age 8.2;  
+  if calc_age gt 89 then nsrr_age = 90;
+  else if calc_age le 89 then nsrr_age = calc_age;
 
 *age_gt89;
 *use calc_age;
-	format nsrr_age_gt89 $100.; 
-	if calc_age gt 89 then nsrr_age_gt89='yes';
-	else if calc_age le 89 then nsrr_age_gt89='no';
+  format nsrr_age_gt89 $100.; 
+  if calc_age gt 89 then nsrr_age_gt89='yes';
+  else if calc_age le 89 then nsrr_age_gt89='no';
 
 *sex;
 *use male;
-	format nsrr_sex $100.;
+  format nsrr_sex $100.;
     if male = 1 then nsrr_sex='male';
-	else if male = 0 then nsrr_sex='female';
-	else nsrr_sex = 'not reported';
+  else if male = 0 then nsrr_sex='female';
+  else nsrr_sex = 'not reported';
 
 *race;
 *race7 created above for hbeat baseline from race variables;
-	*race3: 1-->"white" 2-->"black or african american" 3-->"other" others --> "not reported";
+  *race3: 1-->"white" 2-->"black or african american" 3-->"other" others --> "not reported";
     format nsrr_race $100.;
-	if race7 = 1 then nsrr_race = 'white';
+  if race7 = 1 then nsrr_race = 'white';
     else if race7 = 2 then nsrr_race = 'american indian or alaska native';
-	else if race7 = 3 then nsrr_race = 'black or african american';
-	else if race7 = 4 then nsrr_race = 'asian';
-	else if race7 = 5 then nsrr_race = 'native hawaiian or other pacific islander';
+  else if race7 = 3 then nsrr_race = 'black or african american';
+  else if race7 = 4 then nsrr_race = 'asian';
+  else if race7 = 5 then nsrr_race = 'native hawaiian or other pacific islander';
     else if race7 = 6 then nsrr_race = 'other';
     else if race7 = 7 then nsrr_race = 'multiple';
-	else nsrr_race  = 'not reported';
+  else nsrr_race  = 'not reported';
 
 *ethnicity;
 *use ethnicity;
-	format nsrr_ethnicity $100.;
+  format nsrr_ethnicity $100.;
     if ethnicity = 1 then nsrr_ethnicity = 'hispanic or latino';
     else if ethnicity = 2 then nsrr_ethnicity = 'not hispanic or latino';
-	else if ethnicity = . then nsrr_ethnicity = 'not reported';
+  else if ethnicity = . then nsrr_ethnicity = 'not reported';
 
 *anthropometry
 *bmi;
 *use bmi;
-	format nsrr_bmi 10.9;
- 	nsrr_bmi = bmi;
+  format nsrr_bmi 10.9;
+  nsrr_bmi = bmi;
 
 *clinical data/vital signs
 *bp_systolic;
 *use sysmean;
-	format nsrr_bp_systolic 8.2;
-	nsrr_bp_systolic = sysmean;
+  format nsrr_bp_systolic 8.2;
+  nsrr_bp_systolic = sysmean;
 
 *bp_diastolic;
 *use diasmean;
-	format nsrr_bp_diastolic 8.2;
- 	nsrr_bp_diastolic = diasmean;
+  format nsrr_bp_diastolic 8.2;
+  nsrr_bp_diastolic = diasmean;
 
 *lifestyle and behavioral health
 *current_smoker;
@@ -687,22 +687,22 @@ else nsrr_ever_smoker = 'not reported';
   format nsrr_ttldursp_f1 8.2;
   nsrr_ttldursp_f1 = index_time;
   
-	keep 
-		nsrrid
-		timepoint
-		nsrr_age
-		nsrr_age_gt89
-		nsrr_sex
-		nsrr_race
-		nsrr_ethnicity
-		nsrr_bp_systolic
-		nsrr_bp_diastolic
-		nsrr_bmi
-		nsrr_current_smoker
-		nsrr_ever_smoker
-		nsrr_ahi_hp3u
-		nsrr_ttldursp_f1
-		;
+  keep 
+    nsrrid
+    timepoint
+    nsrr_age
+    nsrr_age_gt89
+    nsrr_sex
+    nsrr_race
+    nsrr_ethnicity
+    nsrr_bp_systolic
+    nsrr_bp_diastolic
+    nsrr_bmi
+    nsrr_current_smoker
+    nsrr_ever_smoker
+    nsrr_ahi_hp3u
+    nsrr_ttldursp_f1
+    ;
 run;
 
 *******************************************************************************;
@@ -712,23 +712,23 @@ run;
 /* Checking for extreme values for continuous variables */
 
 proc means data=hbeat_total_base_harmonized;
-VAR 	nsrr_age
-		nsrr_bmi
-		nsrr_bp_systolic
-		nsrr_bp_diastolic
-		nsrr_ahi_hp3u
-		nsrr_ttldursp_f1;
+VAR   nsrr_age
+    nsrr_bmi
+    nsrr_bp_systolic
+    nsrr_bp_diastolic
+    nsrr_ahi_hp3u
+    nsrr_ttldursp_f1;
 run;
 
 /* Checking categorical variables */
 
 proc freq data=hbeat_total_base_harmonized;
-table 	nsrr_age_gt89
-		nsrr_sex
-		nsrr_race
-		nsrr_ethnicity
-		nsrr_current_smoker
-		nsrr_ever_smoker;
+table   nsrr_age_gt89
+    nsrr_sex
+    nsrr_race
+    nsrr_ethnicity
+    nsrr_current_smoker
+    nsrr_ever_smoker;
 run;
 
 *******************************************************************************;
@@ -780,7 +780,7 @@ run;
   run;
 
     proc export data=hbeat_total_base_harmonized
-    outfile="\\rfawin\bwh-sleepepi-heartbeat\nsrr-prep\_releases\&release\heartbeat-baseline-harmonized-&release..csv"
+    outfile="\\rfawin\bwh-sleepepi-heartbeat\nsrr-prep\_releases\&release\heartbeat-baseline-harmonized-dataset-&release..csv"
     dbms=csv
     replace;
   run;

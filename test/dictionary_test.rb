@@ -39,8 +39,8 @@ class DictionaryTest < Minitest::Test
     'missing items', 'nanograms per milliliter', 'naps', 'ovaries', 'percent',
     'periods', 'picograms per milliliter', 'pounds', 'readings', 'seconds',
     'units per liter', 'years', 'obstructive apnea events',
-    'kilograms per meter squared', 'central apneas', 'obstructive apneas', 'kilograms per square meter',
-    nil ]
+    'kilograms per meter squared', 'central apneas', 'obstructive apneas',
+    'kilograms per square meter','cmH2O',nil ]
 
   @variables.select { |v| %w(numeric integer).include?(v.type) }.each do |variable|
     define_method("test_units: #{variable.path}") do
