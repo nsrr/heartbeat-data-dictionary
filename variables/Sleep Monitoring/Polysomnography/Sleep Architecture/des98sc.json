@@ -1,6 +1,6 @@
 {
   "id": "des98sc",
-  "display_name": "Total estimated sleep duration in supine position from type III home sleep apnea test",
+  "display_name": "Total estimated sleep duration in supine position with valid oxygen saturation from type III home sleep apnea test",
   "description": "",
   "type": "numeric",
   "units": "minutes",
