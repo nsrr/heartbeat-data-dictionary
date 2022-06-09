@@ -1,0 +1,10 @@
+{
+  "id": "des95n",
+  "display_name": "Total estimated sleep duration in non-supine position with 95 - 97% oxygen saturation from type III home sleep apnea test",
+  "description": "",
+  "type": "numeric",
+  "units": "minutes",
+  "labels": [
+    "ttldursa_po_sage95le97_f1t3"
+  ]
+}

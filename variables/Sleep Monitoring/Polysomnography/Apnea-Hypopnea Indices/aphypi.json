@@ -1,6 +1,6 @@
 {
   "id": "aphypi",
-  "display_name": "Respiratory Event Index: (All respiratory events with at least 50% flow reduction and without any oxygen desat threshold used) / hours of estimated sleep from type III home sleep apnea test",
+  "display_name": "Respiratory Event Index: (All respiratory events with at least 50% flow reduction and without any oxygen desaturation threshold used) / hours of estimated sleep from type III home sleep apnea test",
   "description": "Estimated sleep duration, providing an approximation of total sleep duration (i.e. total sleep time) inferred from analysis of non-EEG channels [Zhao et al., 2017 (PMID:27707441)]( https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5181603/) <br><br>Details about how the respiratory events were scored can be found in the Embletta scoring manual. <br><br>Please refer to :ahi_screening: from the baseline screening visit for a more standardized version of AHI in this study.",
   "type": "numeric",
   "units": "events per hour"

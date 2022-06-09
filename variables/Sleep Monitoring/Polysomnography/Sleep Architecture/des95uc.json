@@ -1,0 +1,10 @@
+{
+  "id": "des95uc",
+  "display_name": "Total estimated sleep duration in upright position with <= 97% oxygen saturation from type III home sleep apnea test",
+  "description": "",
+  "type": "numeric",
+  "units": "minutes",
+  "labels": [
+    "ttldursa_pu_sale97_f1t3"
+  ]
+}

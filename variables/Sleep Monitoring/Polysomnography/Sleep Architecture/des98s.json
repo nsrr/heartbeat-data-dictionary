@@ -1,0 +1,10 @@
+{
+  "id": "des98s",
+  "display_name": "Total estimated sleep duration in supine position with 98 - 100% oxygen saturation from type III home sleep apnea test",
+  "description": "",
+  "type": "numeric",
+  "units": "minutes",
+  "labels": [
+    "ttldursa_pb_sage98_f1t3"
+  ]
+}
