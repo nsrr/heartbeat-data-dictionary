@@ -1,0 +1,15 @@
+{
+  "id": "notenough",
+  "display_name": "In the past 4 weeks, how often not get enough sleep",
+  "description": "Original text: Please indicate how often you experienced the following over the last month: Did not get enough sleep",
+  "type": "choices",
+  "domain": "hhqalways",
+  "labels": [
+    "subjective_sleepiness",
+    "sleep_satisfaction"
+  ],
+  "forms": [
+    "heartbeat_baseline_health_questionnaire_form",
+    "heartbeat_final_health_questionnaire_form"
+  ]
+}

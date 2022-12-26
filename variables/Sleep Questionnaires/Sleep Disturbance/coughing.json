@@ -1,7 +1,7 @@
 {
   "id": "coughing",
   "display_name": "Awakened in last month, coughing or wheezing",
-  "description": "",
+  "description": "How often, on average in the last month, have you been awakened with the following: Coughing or wheezing",
   "type": "choices",
   "domain": "hhqalways",
   "labels": [

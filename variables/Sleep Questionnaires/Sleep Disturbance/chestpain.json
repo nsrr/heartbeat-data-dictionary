@@ -1,7 +1,7 @@
 {
   "id": "chestpain",
   "display_name": "Awakened in the last month by chest pain or tightness",
-  "description": "",
+  "description": "How often, on average in the last month, have you been awakened with the following: Chest pain or tightness",
   "type": "choices",
   "domain": "hhqalways",
   "labels": [

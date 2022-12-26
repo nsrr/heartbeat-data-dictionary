@@ -1,12 +1,12 @@
 {
   "id": "ahi_screening",
-  "display_name": "Apnea-Hypopnea Index: (Apneas with no oxygen desaturation threshold used + hypopneas with > 50% flow reduction and >= 3% oxygen desaturation) / hours of estimated sleep from type III home sleep apnea test",
+  "display_name": "Respiratory Event Index: (Apneas with no oxygen desaturation threshold used + hypopneas with > 50% flow reduction and >= 3% oxygen desaturation) / hours of estimated sleep from type III home sleep apnea test",
   "description": "Calculated - Summary metric of sleep disordered breathing events from the baseline screening visit.<br><br>Estimated sleep duration, providing an approximation of total sleep duration (i.e. total sleep time) inferred from analysis of non-EEG channels [Zhao et al., 2017 (PMID:27707441)]( https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5181603/)<br><br>There is a HeartBEAT specific respiratory event index measure :aphypi:. Details can be found in the Embletta scoring manual.",
   "type": "numeric",
   "units": "events per hour",
   "labels": [
     "neventa",
-    "ahi_ap0nhp5x3n_f1t3"
+    "rei_ap0nhp5x3n_f1t3"
   ],
   "commonly_used": true
 }

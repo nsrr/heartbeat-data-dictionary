@@ -1,7 +1,7 @@
 {
   "id": "legcramps",
   "display_name": "Awakened in the past month by leg cramps",
-  "description": "",
+  "description": "How often, on average in the last month, have you been awakened with the following: Leg cramps or leg jerks",
   "type": "choices",
   "domain": "hhqalways",
   "labels": [

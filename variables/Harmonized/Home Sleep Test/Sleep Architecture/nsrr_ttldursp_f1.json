@@ -5,7 +5,8 @@
   "type": "numeric",
   "units": "minutes",
   "labels": [
-    "ttldursp_f1t3"
+    "ttldursp_f1t3",
+    "tst"
   ],
   "commonly_used": true
 }

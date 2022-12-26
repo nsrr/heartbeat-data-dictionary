@@ -1,0 +1,14 @@
+{
+  "id": "wokediff",
+  "display_name": "In the past 4 weeks, how often wake up during night and have trouble getting back to sleep",
+  "description": "Original text: Please indicate how often you experienced the following over the last month: Woke up during the night and had difficulty getting back to sleep",
+  "type": "choices",
+  "domain": "hhqalways",
+  "labels": [
+    "insomnia"
+  ],
+  "forms": [
+    "heartbeat_baseline_health_questionnaire_form",
+    "heartbeat_final_health_questionnaire_form"
+  ]
+}

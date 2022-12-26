@@ -1,7 +1,7 @@
 {
   "id": "bathroom",
   "display_name": "Awakened in last month, need to go to bathroom",
-  "description": "",
+  "description": "How often, on average in the last month, have you been awakened with the following: Need to go to the bathroom",
   "type": "choices",
   "domain": "hhqalways",
   "labels": [

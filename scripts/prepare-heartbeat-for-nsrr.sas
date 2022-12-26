@@ -11,7 +11,7 @@
   %let b=%sysget(SAS_EXECFILENAME);
   %let path= %sysfunc(tranwrd(&a,&b,heartbeat-macros.sas));
   %include "&path";
-  %let release = 0.5.0;
+  %let release = 0.5.1pre;
 
 *******************************************************************************;
 * process data ;
@@ -677,10 +677,10 @@ else if smoked = 2 then nsrr_ever_smoker = 'no';
 else nsrr_ever_smoker = 'not reported';
 
 *polysomnography;
-*nsrr_ahi_hp3u;
+*nsrr_rei_hp3n;
 *use ahi_screening;
-  format nsrr_ahi_hp3u 8.2;
-  nsrr_ahi_hp3u = ahi_screening;
+  format nsrr_rei_hp3n 8.2;
+  nsrr_rei_hp3n = ahi_screening;
   
 *nsrr_ttldursp_f1;
 *use index_time;
@@ -700,7 +700,7 @@ else nsrr_ever_smoker = 'not reported';
     nsrr_bmi
     nsrr_current_smoker
     nsrr_ever_smoker
-    nsrr_ahi_hp3u
+    nsrr_rei_hp3n
     nsrr_ttldursp_f1
     ;
 run;
@@ -716,7 +716,7 @@ VAR   nsrr_age
     nsrr_bmi
     nsrr_bp_systolic
     nsrr_bp_diastolic
-    nsrr_ahi_hp3u
+    nsrr_rei_hp3n
     nsrr_ttldursp_f1;
 run;
 

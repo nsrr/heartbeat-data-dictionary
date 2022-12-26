@@ -1,7 +1,7 @@
 {
   "id": "shortbreath",
   "display_name": "Awakened in the last month by shortness of breath",
-  "description": "",
+  "description": "How often, on average in the last month, have you been awakened with the following: Shortness of breath",
   "type": "choices",
   "domain": "hhqalways",
   "labels": [

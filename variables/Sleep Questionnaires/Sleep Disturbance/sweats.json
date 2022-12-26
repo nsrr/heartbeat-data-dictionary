@@ -1,7 +1,7 @@
 {
   "id": "sweats",
   "display_name": "Awakened in the last month, sweats",
-  "description": "",
+  "description": "How often, on average in the last month, have you been awakened with the following: Sweats or hot flashes",
   "type": "choices",
   "domain": "hhqalways",
   "labels": [

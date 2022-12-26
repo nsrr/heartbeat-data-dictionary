@@ -1,0 +1,14 @@
+{
+  "id": "tookpills",
+  "display_name": "In the past 4 weeks, how often take pills to help you sleep",
+  "description": "Original text: Please indicate how often you experienced the following over the last month: Took sleeping pills or other medications to help you sleep",
+  "type": "choices",
+  "domain": "hhqalways",
+  "labels": [
+    "insomnia_treatment"
+  ],
+  "forms": [
+    "heartbeat_baseline_health_questionnaire_form",
+    "heartbeat_final_health_questionnaire_form"
+  ]
+}

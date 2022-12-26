@@ -1,3 +1,9 @@
+## 0.5.1 
+
+- Change all Apnea-Hypopnea Index (AHI) references to Respiratory Event Index (REI) to better match current sleep terminology
+- The CSV dataset is located here:
+  - `\\rfawin\bwh-sleepepi-heartbeat\nsrr-prep\_releases\0.5.1\`
+
 ## 0.5.0 (June 8, 2022)
 
 - Removed many HSAT variables that were difficult to define and represent with the modified scoring rules used in HeartBEAT

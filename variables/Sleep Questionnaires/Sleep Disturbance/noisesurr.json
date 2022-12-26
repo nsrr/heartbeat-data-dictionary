@@ -1,7 +1,7 @@
 {
   "id": "noisesurr",
   "display_name": "Awakened in the last month by noise in your surroundings",
-  "description": "",
+  "description": "How often, on average in the last month, have you been awakened with the following: Noise in your surroundings",
   "type": "choices",
   "domain": "hhqalways",
   "labels": [
