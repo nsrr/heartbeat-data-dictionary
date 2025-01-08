@@ -3,5 +3,5 @@
   "display_name": "Mean arterial pressure reading with valid sleep",
   "description": "Mean pressure was directly exported from the device.",
   "type": "numeric",
-  "units": "millimeters of mercury"
+  "units": "millimeters of mercury (mmHg)"
 }

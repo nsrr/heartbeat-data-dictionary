@@ -3,6 +3,6 @@
   "display_name": "Diastolic blood pressure mean (3 measurements)",
   "description": "",
   "type": "numeric",
-  "units": "millimeters of mercury",
+  "units": "millimeters of mercury (mmHg)",
   "commonly_used": true
 }

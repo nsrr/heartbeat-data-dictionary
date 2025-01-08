@@ -3,7 +3,7 @@
   "display_name": "Total estimated sleep duration in non-supine position with 90 - 94% oxygen saturation from type III home sleep apnea test",
   "description": "",
   "type": "numeric",
-  "units": "minutes",
+  "units": "minutes (min)",
   "labels": [
     "ttldursa_po_sage90le94_f1t3"
   ]

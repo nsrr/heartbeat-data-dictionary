@@ -3,5 +3,5 @@
   "display_name": "Oxygen Log: In reading",
   "description": "",
   "type": "integer",
-  "units": "hours"
+  "units": "hours (hr)"
 }

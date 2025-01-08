@@ -3,7 +3,7 @@
   "display_name": "Total number of central apneas associated with a desaturation of which the nadir is > 90% oxygen saturation from type III home sleep apnea test",
   "description": "",
   "type": "numeric",
-  "units": "events",
+  "units": "number of events",
   "labels": [
     "ttlnumca_ndgt90_f1t3"
   ]

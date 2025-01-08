@@ -3,7 +3,7 @@
   "display_name": "Cigarette smoking, number of cigarettes per day, current",
   "description": "",
   "type": "numeric",
-  "units": "cigarettes",
+  "units": "number of servings",
   "labels": [
     "smoking"
   ],

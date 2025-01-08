@@ -3,5 +3,5 @@
   "display_name": "Mean of systolic readings with valid wake",
   "description": "",
   "type": "numeric",
-  "units": "millimeters of mercury"
+  "units": "millimeters of mercury (mmHg)"
 }

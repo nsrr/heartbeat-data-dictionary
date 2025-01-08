@@ -3,5 +3,5 @@
   "display_name": "P wave duration",
   "description": "Duration of atrial depolarization",
   "type": "numeric",
-  "units": "milliseconds"
+  "units": "milliseconds (ms)"
 }

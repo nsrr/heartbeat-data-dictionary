@@ -3,7 +3,7 @@
   "display_name": "Oophorectomy: Self-reported number of ovaries removed",
   "description": "",
   "type": "numeric",
-  "units": "ovaries",
+  "units": "counts",
   "labels": [
     "hysterectomy",
     "oophorectomy",

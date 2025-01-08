@@ -3,7 +3,7 @@
   "display_name": "Weight",
   "description": "",
   "type": "numeric",
-  "units": "kilograms",
+  "units": "kilograms (kg)",
   "commonly_used": true,
   "forms": [
     "heartbeat_physical_measurements_form"

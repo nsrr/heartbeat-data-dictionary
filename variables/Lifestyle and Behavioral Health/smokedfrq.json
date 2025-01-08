@@ -3,7 +3,7 @@
   "display_name": "Cigarette smoking, average number per day",
   "description": "",
   "type": "numeric",
-  "units": "cigarettes",
+  "units": "number of servings",
   "labels": [
     "smoking"
   ],

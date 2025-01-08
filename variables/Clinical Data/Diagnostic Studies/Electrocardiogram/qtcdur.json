@@ -3,5 +3,5 @@
   "display_name": "QTc interval",
   "description": "Duration of the corrected Q-T interval",
   "type": "numeric",
-  "units": "milliseconds"
+  "units": "milliseconds (ms)"
 }

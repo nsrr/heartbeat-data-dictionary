@@ -3,5 +3,5 @@
   "display_name": "QT interval",
   "description": "",
   "type": "numeric",
-  "units": "milliseconds"
+  "units": "milliseconds (ms)"
 }

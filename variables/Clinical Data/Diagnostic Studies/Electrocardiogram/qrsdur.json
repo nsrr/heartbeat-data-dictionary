@@ -3,5 +3,5 @@
   "display_name": "QRS complex duration",
   "description": "duration from the end of the PR interval to the end of the S wave",
   "type": "numeric",
-  "units": "milliseconds"
+  "units": "milliseconds (ms)"
 }

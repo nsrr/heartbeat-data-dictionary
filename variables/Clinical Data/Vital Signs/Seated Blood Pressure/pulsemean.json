@@ -3,6 +3,6 @@
   "display_name": "Pulse mean (3 measurements)",
   "description": "",
   "type": "numeric",
-  "units": "beats per minute",
+  "units": "beats per minute (bpm)",
   "commonly_used": true
 }

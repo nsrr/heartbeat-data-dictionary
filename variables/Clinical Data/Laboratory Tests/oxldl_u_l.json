@@ -3,5 +3,5 @@
   "display_name": "LDL cholesterol, oxidized",
   "description": "",
   "type": "numeric",
-  "units": "units per liter"
+  "units": "units per liter (U/L)"
 }

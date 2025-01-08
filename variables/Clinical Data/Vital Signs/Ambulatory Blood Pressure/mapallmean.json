@@ -3,5 +3,5 @@
   "display_name": "Average mean arterial pressure",
   "description": "Mean pressure was directly exported from the device.",
   "type": "numeric",
-  "units": "millimeters of mercury"
+  "units": "millimeters of mercury (mmHg)"
 }

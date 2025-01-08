@@ -3,6 +3,7 @@
   "display_name": "Total number of oxygen desaturations with >= 10% desaturation from type III home sleep apnea test",
   "description": "",
   "type": "numeric",
+  "units": "number of events",
   "labels": [
     "ttlnumds_dsge10_f1t3"
   ]

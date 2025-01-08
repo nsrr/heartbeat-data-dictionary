@@ -3,5 +3,5 @@
   "display_name": "Exercise, jogging, total length per week",
   "description": "",
   "type": "numeric",
-  "units": "minutes"
+  "units": "minutes (min)"
 }

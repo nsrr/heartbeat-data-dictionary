@@ -3,7 +3,7 @@
   "display_name": "Self-reported sleep onset latency from survey questionnaires",
   "description": "How many minutes does it usually take you to fall asleep at bedtime?",
   "type": "numeric",
-  "units": "minutes",
+  "units": "minutes (min)",
   "labels": [
     "sleep_latency",
     "avglatsp_im_w7_f3"

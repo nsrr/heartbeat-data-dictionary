@@ -3,6 +3,6 @@
   "display_name": "Average diastolic pressure",
   "description": "",
   "type": "numeric",
-  "units": "millimeters of mercury",
+  "units": "millimeters of mercury (mmHg)",
   "commonly_used": true
 }

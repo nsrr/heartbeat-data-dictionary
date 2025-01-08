@@ -3,7 +3,7 @@
   "display_name": "Antihypertensive, Other: Number taken verified by inspection",
   "description": "",
   "type": "numeric",
-  "units": "medications",
+  "units": "number of medications",
   "labels": [
     "htn"
   ]

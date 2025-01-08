@@ -3,5 +3,5 @@
   "display_name": "ACE Inhibitor: Number taken verified by inspection",
   "description": "",
   "type": "numeric",
-  "units": "medications"
+  "units": "number of medications"
 }

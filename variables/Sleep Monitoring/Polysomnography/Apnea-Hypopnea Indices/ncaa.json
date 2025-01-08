@@ -3,7 +3,7 @@
   "display_name": "Central Apnea Index from type III home sleep apnea test",
   "description": "Calculated - Summary metric of sleep disordered breathing events.",
   "type": "numeric",
-  "units": "events per hour",
+  "units": "number of events per hour",
   "labels": [
     "cai_ca0n_f1t3"
   ]

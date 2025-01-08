@@ -3,7 +3,7 @@
   "display_name": "Total estimated sleep duration in supine position with <= 97% oxygen saturation from type III home sleep apnea test",
   "description": "",
   "type": "numeric",
-  "units": "minutes",
+  "units": "minutes (min)",
   "labels": [
     "ttldursa_pb_sale97_f1t3"
   ]

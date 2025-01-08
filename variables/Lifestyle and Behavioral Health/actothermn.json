@@ -3,7 +3,7 @@
   "display_name": "Exercise, other, minutes",
   "description": "",
   "type": "numeric",
-  "units": "minutes",
+  "units": "minutes (min)",
   "forms": [
     "heartbeat_baseline_health_questionnaire_form",
     "heartbeat_final_health_questionnaire_form"

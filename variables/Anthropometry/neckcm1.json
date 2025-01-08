@@ -3,7 +3,7 @@
   "display_name": "Neck measurement 1",
   "description": "",
   "type": "numeric",
-  "units": "centimeters",
+  "units": "centimeters (cm)",
   "forms": [
     "heartbeat_physical_measurements_form"
   ]

@@ -3,7 +3,7 @@
   "display_name": "Number of menstrual periods in the past 12 months",
   "description": "",
   "type": "numeric",
-  "units": "periods",
+  "units": "counts",
   "forms": [
     "heartbeat_baseline_health_questionnaire_form"
   ]

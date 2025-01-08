@@ -3,5 +3,5 @@
   "display_name": "Plasminogen activator inhibitor-1",
   "description": "",
   "type": "numeric",
-  "units": "nanograms per milliliter"
+  "units": "nanograms per milliliter (ng/mL)"
 }

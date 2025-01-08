@@ -3,5 +3,5 @@
   "display_name": "Minimum mean arterial pressure while asleep",
   "description": "Mean pressure was directly exported from the device.",
   "type": "numeric",
-  "units": "millimeters of mercury"
+  "units": "millimeters of mercury (mmHg)"
 }
