@@ -3,4 +3,5 @@
   "display_name": "Standard deviation of pulse pressure",
   "description": "",
   "type": "numeric",
-  "units": "millimeters of mercury (mmHg)
+  "units": "millimeters of mercury (mmHg)"
+}

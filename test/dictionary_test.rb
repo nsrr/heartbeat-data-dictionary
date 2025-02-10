@@ -40,7 +40,15 @@ class DictionaryTest < Minitest::Test
     'periods', 'picograms per milliliter', 'pounds', 'readings', 'seconds',
     'units per liter', 'years', 'obstructive apnea events',
     'kilograms per meter squared', 'central apneas', 'obstructive apneas',
-    'kilograms per square meter','cmH2O',nil ]
+    'kilograms per square meter','cmH2O', 'millimeters of mercury (mmHg)',
+    'number of events per hour', 'number of events', 'minutes (min)',
+    'centimeters (cm)', 'beats per minute (bpm)', 'micrograms per milliliter (ug/mL)',
+    'number of medications', 'percent (%)', 'hours (hr)', 'number of servings',
+    'seconds (s)', 'milliseconds (ms)', 'nanograms per milliliter (ng/mL)', 
+    'picograms per milliliter (pg/mL)', 'units per liter (U/L)', 
+    'milligrams per deciliter (mg/dL)', 'micro-international units per milliliter (uIU/mL)', 
+    'kilograms per meter squared (kg/m2)', 'counts', 'kilograms (kg)', 
+    'centimeters of water (cmH2O)', nil ]
 
   @variables.select { |v| %w(numeric integer).include?(v.type) }.each do |variable|
     define_method("test_units: #{variable.path}") do

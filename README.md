@@ -1,7 +1,7 @@
 HeartBEAT Data Dictionary
 =========================
 
-[![Build Status](https://app.travis-ci.com/nsrr/heartbeat-data-dictionary.svg?branch=master)](https://app.travis-ci.com/github/nsrr/heartbeat-data-dictionary)
+[![Build Status](https://app.travis-ci.com/nsrr/heartbeat-data-dictionary.svg?branch=master)](https://app.travis-ci.com/nsrr/heartbeat-data-dictionary)
 
 ### Exports
 
@@ -44,4 +44,3 @@ approach for changing version numbers uses a variation on
 
 A full list of changes for each version can be viewed in the
 [CHANGELOG](https://github.com/nsrr/heartbeat-data-dictionary/blob/master/CHANGELOG.md).
-
