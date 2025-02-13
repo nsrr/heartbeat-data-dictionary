@@ -731,6 +731,33 @@ table   nsrr_age_gt89
     nsrr_ever_smoker;
 run;
 
+
+*******************************************************************************;
+* prepare all readings data ;
+*******************************************************************************;
+  data heartbeat_abpm_in;
+    set hbeat.heartbeat_abpm_readings;
+  run;
+
+  data heartbeat_abpm;
+    length nsrrid 8.;
+    merge
+      heartbeat_abpm_in (in=a)
+      obf.obfid_clusterid (keep=studyid obf_pptid)
+      ;
+    by studyid;
+
+    if a;
+
+    nsrrid = obf_pptid;
+
+    drop obf_pptid studyid;
+  run;
+
+  proc sort data=heartbeat_abpm;
+    by nsrrid timepoint reading_number;
+  run;
+
 *******************************************************************************;
 * make all variable names lowercase ;
 *******************************************************************************;
@@ -752,6 +779,7 @@ run;
   %lowcase(hbeat_total_base);
   %lowcase(hbeat_total_followup);
   %lowcase(hbeat_total_base_harmonized);
+  %lowcase(heartbeat_abpm);
 
 
 
@@ -779,8 +807,14 @@ run;
     replace;
   run;
 
-    proc export data=hbeat_total_base_harmonized
+  proc export data=hbeat_total_base_harmonized
     outfile="\\rfawin\bwh-sleepepi-heartbeat\nsrr-prep\_releases\&release\heartbeat-baseline-harmonized-dataset-&release..csv"
+    dbms=csv
+    replace;
+  run;
+
+  proc export data=heartbeat_abpm
+    outfile="\\rfawin\bwh-sleepepi-heartbeat\nsrr-prep\_releases\&release\heartbeat-abpm-readings-dataset-&release..csv"
     dbms=csv
     replace;
   run;

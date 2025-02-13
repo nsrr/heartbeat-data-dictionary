@@ -1,5 +1,8 @@
 ## 0.6.0
 
+- Harmonize units
+- Add ABPM readings dataset
+
 ## 0.5.0 (June 8, 2022)
 
 - Removed many HSAT variables that were difficult to define and represent with the modified scoring rules used in HeartBEAT
