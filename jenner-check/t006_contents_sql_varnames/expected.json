@@ -1,0 +1,15 @@
+{
+  "_captured_at": "2026-06-13T17:14:00Z",
+  "_captured_run_id": "r_019ec1fb3a8870d09d29e4eaca2a5173",
+  "status": "ok",
+  "exit_code": 0,
+  "log_contains": [
+    "NOTE: Macro variable SF36_VARNAMES = sf36_bp_z sf36_gh_z sf36_mh_z sf36_pf_z",
+    "NOTE: Macro variable SF36_NEWNAMES = bp_z gh_z mh_z pf_z",
+    "NOTE: Macro variable MEDSHQ_VARNAMES_BASE = bbathroom bwalkhurry",
+    "NOTE: PROC SQL statement used.",
+    "NOTE: PROC PRINT completed: 3 observations printed, 2 variables"
+  ],
+  "log_does_not_contain": ["ERROR:", "[JENNER-ERROR"],
+  "diagnostics": {"parse_warnings": [], "runtime_warnings": []}
+}

@@ -1,0 +1,14 @@
+{
+  "_captured_at": "2026-06-13T17:11:00Z",
+  "_captured_run_id": "r_019ec1f7abee7463974723d085443997",
+  "status": "ok",
+  "exit_code": 0,
+  "log_contains": [
+    "NOTE: 2 duplicate observations were deleted.",
+    "NOTE: Wrote dob (3 rows, 2 columns).",
+    "NOTE: Wrote hbeatages (5 rows, 3 columns).",
+    "NOTE: PROC PRINT completed: 5 observations printed, 3 variables"
+  ],
+  "log_does_not_contain": ["ERROR:", "[JENNER-ERROR"],
+  "diagnostics": {"parse_warnings": [], "runtime_warnings": []}
+}

@@ -1,0 +1,8 @@
+{
+  "bundle": "t004_harmonized_qc_checks",
+  "source_file": "scripts/prepare-heartbeat-for-nsrr.sas",
+  "source_blob_sha": "f502095ce8a77c006df787bee8767b3c82ac19ea",
+  "source_commit": "5f4b504bf1ab0cccb2c243187c2dc439ea67ef4e",
+  "tier": "real_data",
+  "notes": "Verbatim 'checking harmonized datasets' QC block (lines 708-732): PROC MEANS over the six continuous nsrr_* variables and PROC FREQ over the six harmonized categorical variables. hbeat_total_base_harmonized replaced with a 6-row mock carrying the same column set the checks reference."
+}

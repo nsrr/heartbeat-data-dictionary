@@ -1,0 +1,36 @@
+Jenner 0.1.0 (Unlicensed - limited to 100 observations)
+Get a license at https://jenneranalytics.com/license
+
+NOTE: Option OBS changed to 100.
+NOTE: DATA hbeat_baseline
+
+NOTE: Processing inline DATALINES (3 lines)
+
+NOTE: Read 3 rows from DATALINES.
+NOTE: Wrote hbeat_baseline (3 rows, 12 columns).
+NOTE: DATA elapsed:
+  wall  0.00 seconds
+  cpu   0.00 seconds
+NOTE: PROC CONTENTS data=hbeat_baseline
+
+NOTE: PROC CONTENTS: OUT=hbeat_base_contents created with 12 variables
+NOTE: PROC CONTENTS: data=hbeat_baseline obs=3 vars=12 (NOPRINT)
+NOTE: PROC SQL 
+
+NOTE: Macro variable SF36_VARNAMES = sf36_bp_z sf36_gh_z sf36_mh_z sf36_pf_z
+NOTE: Macro variable SF36_NEWNAMES = bp_z gh_z mh_z pf_z
+NOTE: Macro variable MEDSHQ_VARNAMES_BASE = bbathroom bwalkhurry
+NOTE: PROC SQL statement used.
+NOTE: sf36_varnames = sf36_bp_z sf36_gh_z sf36_mh_z sf36_pf_z
+NOTE: sf36_newnames = bp_z gh_z mh_z pf_z
+NOTE: medshq_varnames_base = bbathroom bwalkhurry
+NOTE: DATA captured_names
+
+
+NOTE: Wrote captured_names (3 rows, 2 columns).
+NOTE: DATA elapsed:
+  wall  0.00 seconds
+  cpu   0.00 seconds
+NOTE: PROC PRINT data=captured_names
+
+NOTE: PROC PRINT completed: 3 observations printed, 2 variables

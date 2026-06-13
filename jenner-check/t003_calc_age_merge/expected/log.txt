@@ -1,0 +1,40 @@
+Jenner 0.1.0 (Unlicensed - limited to 100 observations)
+Get a license at https://jenneranalytics.com/license
+
+NOTE: Option OBS changed to 100.
+NOTE: DATA heartbeatmeasurements
+
+NOTE: Processing inline DATALINES (5 lines)
+
+NOTE: Read 5 rows from DATALINES.
+NOTE: Wrote heartbeatmeasurements (5 rows, 4 columns).
+NOTE: DATA elapsed:
+  wall  0.00 seconds
+  cpu   0.00 seconds
+NOTE: DATA dob
+
+
+NOTE: Read 5 rows from heartbeatmeasurements.
+NOTE: Wrote dob (5 rows, 2 columns).
+NOTE: DATA elapsed:
+  wall  0.00 seconds
+  cpu   0.00 seconds
+NOTE: PROC SORT data=dob
+
+NOTE: Unlicensed mode - input limited to 100 observations.
+NOTE: 2 duplicate observations were deleted.
+NOTE: Read 5 rows from dob.
+NOTE: Wrote dob (3 rows, 2 columns).
+NOTE: PROC SORT statement used.
+NOTE: DATA hbeatages
+
+NOTE: Stream 1 processed 3 rows, max BY-group size: 1 (O(1) memory verified)
+NOTE: Stream 2 processed 5 rows, max BY-group size: 2 (O(1) memory verified)
+
+NOTE: Wrote hbeatages (5 rows, 3 columns).
+NOTE: DATA elapsed:
+  wall  0.00 seconds
+  cpu   0.00 seconds
+NOTE: PROC PRINT data=hbeatages
+
+NOTE: PROC PRINT completed: 5 observations printed, 3 variables

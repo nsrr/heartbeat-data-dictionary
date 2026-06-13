@@ -1,0 +1,8 @@
+{
+  "bundle": "t001_race7_recode",
+  "source_file": "scripts/prepare-heartbeat-for-nsrr.sas",
+  "source_blob_sha": "f502095ce8a77c006df787bee8767b3c82ac19ea",
+  "source_commit": "5f4b504bf1ab0cccb2c243187c2dc439ea67ef4e",
+  "tier": "real_data",
+  "notes": "Verbatim race7 7-category derivation (lines 59-96): zero otherrace for Hispanic ethnicity, count race flags with an explicit 5-element array, assign single/other/multiple race, label, PROC PRINT + PROC FREQ. hbeat.heartbeathhqbaseline replaced with an 8-row mock holding only the columns this logic reads."
+}

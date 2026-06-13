@@ -1,0 +1,16 @@
+                                          HeartBEAT embletta records, pass > 1                                          
+
+STUDYID  PASS  NCA  NOA  APHYPI  EMBQ_DATE
+  10001     2   12   30    22.4  05FEB2011
+  10001     2    8   25    18.1  14MAR2012
+  10599     2    5   40    31.7  21JUN2011
+  10599     3    6   22    12.9  09NOV2013
+  10003     2    4   18     9.8  17AUG2012
+
+                              HeartBEAT central/obstructive ratio from screening (pass 1)                               
+
+STUDYID  EMBQ_DATE  CENT_OBS_RATIO  N_CENT_APNEAS  N_OBS_APNEAS  AHI_SCREENING
+  10001  05FEB2011            0.40             12            30           22.4
+  10599  21JUN2011            0.12              5            40           31.7
+  10002  03JAN2011            0.27              9            33             25
+

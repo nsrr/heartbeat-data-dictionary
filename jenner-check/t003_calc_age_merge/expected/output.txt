@@ -1,0 +1,9 @@
+                                     HeartBEAT age at each measurement (hbeatages)                                      
+
+STUDYID  TIMEPOINT  CALC_AGE
+  10001          2     53.76
+  10001          7     55.24
+  10002          2     63.37
+  10002          7     64.83
+  10003          2     49.63
+

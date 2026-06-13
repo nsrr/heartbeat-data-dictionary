@@ -1,0 +1,7 @@
+                                  HeartBEAT variable-name lists collected by PROC SQL                                   
+
+           LIST_NAME                                    NAMES
+sf36_varnames         sf36_bp_z sf36_gh_z sf36_mh_z sf36_pf_z
+sf36_newnames         bp_z gh_z mh_z pf_z
+medshq_varnames_base  bbathroom bwalkhurry
+

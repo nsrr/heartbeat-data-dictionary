@@ -1,0 +1,8 @@
+{
+  "bundle": "t003_calc_age_merge",
+  "source_file": "scripts/prepare-heartbeat-for-nsrr.sas",
+  "source_blob_sha": "f502095ce8a77c006df787bee8767b3c82ac19ea",
+  "source_commit": "5f4b504bf1ab0cccb2c243187c2dc439ea67ef4e",
+  "tier": "real_data",
+  "notes": "Verbatim hbeatages step (lines 19-39): dedup dob to one row per studyid (PROC SORT NODUPKEY), MERGE back onto every measurement with in=a + if a, compute calc_age = (meas_date - dob)/365.25. hbeat.heartbeatmeasurements replaced with a 5-row mock (two timepoints per participant) using date9. values."
+}
