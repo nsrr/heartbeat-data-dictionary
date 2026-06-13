@@ -1,0 +1,8 @@
+{
+  "bundle": "t002_nsrr_harmonization",
+  "source_file": "scripts/prepare-heartbeat-for-nsrr.sas",
+  "source_blob_sha": "f502095ce8a77c006df787bee8767b3c82ac19ea",
+  "source_commit": "5f4b504bf1ab0cccb2c243187c2dc439ea67ef4e",
+  "tier": "real_data",
+  "notes": "Verbatim 'create harmonized datasets' block (lines 602-706): maps HeartBEAT source fields to the NSRR nsrr_* harmonized variables (age capped at 90, age_gt89 flag, sex, 7-level race string, ethnicity, BMI, BP, current/ever smoker, AHI, total sleep duration) with cascading if/else and FORMAT statements. hbeat_total_base replaced with a 5-row mock holding only the columns this block reads."
+}

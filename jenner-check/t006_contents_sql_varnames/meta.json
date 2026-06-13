@@ -1,0 +1,8 @@
+{
+  "bundle": "t006_contents_sql_varnames",
+  "source_file": "scripts/prepare-heartbeat-for-nsrr.sas",
+  "source_blob_sha": "f502095ce8a77c006df787bee8767b3c82ac19ea",
+  "source_commit": "5f4b504bf1ab0cccb2c243187c2dc439ea67ef4e",
+  "tier": "real_data",
+  "notes": "Verbatim PROC CONTENTS + PROC SQL name-collection (lines 382-407): capture column metadata, then SELECT NAME / SUBSTR(NAME,6) for sf36_ columns and the baseline MedsHQ 'b...' columns (with substr/not-in exclusions) INTO space-delimited macro variables. hbeat_baseline replaced with a 3-row mock whose column names follow the sf36_/b... conventions the SELECTs filter on."
+}

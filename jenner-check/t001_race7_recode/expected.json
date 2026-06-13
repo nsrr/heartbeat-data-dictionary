@@ -1,0 +1,14 @@
+{
+  "_captured_at": "2026-06-13T17:09:00Z",
+  "_captured_run_id": "r_019ec1f536077ef3908f60bf7d73dffb",
+  "status": "ok",
+  "exit_code": 0,
+  "log_contains": [
+    "NOTE: Read 8 rows from DATALINES.",
+    "NOTE: Wrote heartbeathhqbaseline (8 rows, 12 columns).",
+    "NOTE: PROC PRINT completed: 8 observations printed, 4 variables",
+    "NOTE: PROC FREQ statement used."
+  ],
+  "log_does_not_contain": ["ERROR:", "[JENNER-ERROR"],
+  "diagnostics": {"parse_warnings": [], "runtime_warnings": []}
+}

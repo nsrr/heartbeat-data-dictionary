@@ -1,0 +1,8 @@
+{
+  "bundle": "t005_embletta_pass_ratio",
+  "source_file": "scripts/prepare-heartbeat-for-nsrr.sas",
+  "source_blob_sha": "f502095ce8a77c006df787bee8767b3c82ac19ea",
+  "source_commit": "5f4b504bf1ab0cccb2c243187c2dc439ea67ef4e",
+  "tier": "real_data",
+  "notes": "Verbatim embletta steps (lines 119-143): reclassify two participants' pass-1 study to pass 2, keep pass > 1, and from the original screening pass compute cent_obs_ratio = nca/noa with FORMAT and RENAME to n_cent_apneas/n_obs_apneas, carrying ahi_screening forward. hbeat.heartbeatembletta replaced with a 6-row mock including the two hand-reclassified participants."
+}

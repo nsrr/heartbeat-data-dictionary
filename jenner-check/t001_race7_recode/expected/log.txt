@@ -1,0 +1,27 @@
+Jenner 0.1.0 (Unlicensed - limited to 100 observations)
+Get a license at https://jenneranalytics.com/license
+
+NOTE: Option OBS changed to 100.
+NOTE: DATA heartbeathhqbaseline
+
+NOTE: Processing inline DATALINES (8 lines)
+
+NOTE: Read 8 rows from DATALINES.
+NOTE: Wrote heartbeathhqbaseline (8 rows, 9 columns).
+NOTE: DATA elapsed:
+  wall  0.00 seconds
+  cpu   0.00 seconds
+NOTE: DATA heartbeathhqbaseline
+
+
+NOTE: Read 8 rows from heartbeathhqbaseline.
+NOTE: Wrote heartbeathhqbaseline (8 rows, 12 columns).
+NOTE: DATA elapsed:
+  wall  0.00 seconds
+  cpu   0.00 seconds
+NOTE: PROC PRINT data=heartbeathhqbaseline
+
+NOTE: PROC PRINT completed: 8 observations printed, 4 variables
+NOTE: PROC FREQ
+NOTE: ODS plot written: freq_race7.spec.json
+NOTE: PROC FREQ statement used.
